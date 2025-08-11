@@ -1,0 +1,32 @@
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=87
+M:2/4
+K:Bb
+V:1 treble nm="Singstimme"
+V:2 bass nm="Pianoforte"
+V:3 bass 
+[V:1]"^Lebhaft" D|:[V:2]z1|:[V:3]z1|:
+[V:1]D D D D|[V:2](3(G,/B,/D/)[K:treble] .G (3(G,/B,/D/) (3(G/B/d/)|[V:3].G,,2 .G,,2|
+[V:1]!>!E2 E G|[V:2](3(G,/C/E/) .G[K:bass] (3(E,/G,/C/) (3(E/G/c/)|[V:3].G,,2 .G,,2|
+[V:1]^F F F F|[V:2](3(^F,/A,/C/) .^F[K:treble] (3(d/c/B/)|[V:3].^F,,2 .F,,2|
+[V:1]G D z!mf! D|[V:2](3(A/G/^F/) (3(A/G/F/)!mf! (3(G/A/B/) (3(A/=G/=F/)|[V:3].D,2 .D,,2|
+[V:1]D D D D|[V:2](3(G,/B,/D/[K:treble] .G)[K:bass] (3(G,/B,/D/)[K:treble] .G|[V:3].G,,2 .G,,2|
+[V:1]D/>=E/ ^F/>G/ A!mp! D|[V:2][K:bass] (3(^F,/A,/D/)[K:treble] .D!mf![I:1] (3(F,/A,/D/)|[V:3].[F,,,F,,]2!mp! .[F,,,F,,]2|
+[V:1]!<(! D D D D!<)!|[V:2](3(G,/B,/D/ .G)[K:bass] (3(B,,/F,/B,/)[K:treble] .F|[V:3]z4|
+[V:1]F D z!mf! F|[V:2](3(B,/D/F/ .B)[K:bass]!p! (3(B,,/F,/B,/[I:treble] .F)|[V:3]z2 z F,|
+[V:1]F F F F|[V:2][K:bass] (3(F,/A,/E/)[I:streble] .F!f! (3(F,/C/E/) .F|[V:3].F,, z .F, z|
+[V:1]!>!A2 B F|[V:2][K:bass] (3(F,/B,/F/)[K:treble] .B[K:bass] (3(B,,/F,/B,/[K:treble] .F)|[V:3]z2 z D,|
+[V:1]F F F F|[V:2][K:bass] (3(F,/A,/E/)!f! .F (3(F,/C/E/) .F,|[V:3].F,, z .F,, z|
+[V:1]F2 z!f! F|[V:2](3(F,/B,/D/[K:treble] .F)[dfb] z|[V:3]z2 B,,D,|
+[V:1]F F F F|[V:2]!f! (3(B,/D/F/) .[Bdfb][K:bass]!f! (3(B,,/F,/B,/)[K:treble] .[fbf']|[V:3][D,,D,]3!f! .[F,B,D]|
+[V:1]F F F F|[V:2]!f! (3(A/c/f/) .[ac'f'a'][K:bass] (3(F,/A,/C/) .[fac'f']|[V:3][C,,C,]3 .[A,CF]|
+[V:1]F F F F|[V:2][K:treble]!f! (3(B,/D/F/) .[bd'f'][K:bass] (3(D,/F,/B,/)[I:staff -1] .[fbf']|[V:3][B,,,B,,]3!f! .[F,B,D]|
+[V:1]B3!f! F|[V:2]!f! (3(D/F/B/ .[dfb])[I:staff +1] [F,B,DF]|[V:3].[B,,D,F,B,]3|
+[V:1]F B c e|[V:2][K:treble] (3(B,/D/F/) .[Bfb][K:bass] (3(F,/A,/E/)!f![I:staff -1] .[FAef]|[V:3][F,,F,]3!f! .[F,CE]|
+[V:1]d d d d|[V:2]!f! (3(B/d/f/) .[bd'f'][K:bass]!f! (3(B,/D/F/)[K:treble] .[Bfb]|[V:3]!f! [B,,D,]3 .[B,DF]|
+[V:1]f f f d|[V:2]!f! (3(_c/d/f/) .[bd'f'b'] [dfbd']|[V:3][A,,A,]3 .[B,,F,B,]|
+[V:1]e d z!mf! F|[V:2][cfac'][Bfb] z!mf! (F/>B/|[V:3][A,,F,A,].[F,A,E]!f! (F,,/F,/)|
+[V:1][Q:1/4=86]!<(! B c _d B!<)!|[V:2]!mf! A/>B/A/>B/ _dB)|[V:3][CE][CE] [B,_D][B,D]|
+[V:1][Q:1/4=80]!>(! A B c _A|[V:2]!p! (A/>B/A/>B/ _c_A|[V:3][A,C][A,C]/[G,C]/ [F,C]/>E,/F,/>_C,/|
+[V:1]_G2{_AG} F2!>)!|][V:2]!p! _G/>_A/G/>A/ F_D)|][V:3][B,,_D,][B,,D,]/[B,,D,]/ [_A,,D,F,]/>F,/[A,,D,F,]|]

@@ -1,0 +1,37 @@
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=172
+M:6/4
+K:Bb
+V:1 treble nm="Chant\nVoice"
+V:2 bass nm="Piano"
+V:3 bass 
+V:4 bass 
+V:5 bass 
+[V:1]"^A"!mp!"^legato" ([B,D]F,[B,D]F,[B,D]F, [B,D]F,[A,D]F, x [D,F,]_A,,_D,,|[V:2]z14|[V:3]x14|[V:4]z14|[V:5]x14|
+[V:1]z4|[V:2][A,,C,]F,[I:staff -1] [CFG]2|[V:3]x4|[V:4]z4|[V:5]x4|
+[V:1]z10|[V:2][C,F,A,])!>)!!pp! (A,,C,F,A,F, A,F,A,F,|[V:3]x10|[V:4]z10|[V:5]x10|
+[V:1]z8|[V:2]F3 x5|[V:3]x8|[V:4]z8|[V:5]x8|
+[V:1]z12|[V:2]z12|[V:3]x12|[V:4]z12|[V:5]x12|
+[V:1]z8|[V:2]z8|[V:3]x8|[V:4]z8|[V:5]x8|
+[V:1]z2|[V:2]z2|[V:3]x2|[V:4]z2|[V:5]x2|
+[V:1]z8|[V:2]z8|[V:3]x7[K:trebl][K:treble] x|[V:4]z8|[V:5]x8|
+[V:1]z8|[V:2]x7[K:trebl]|[V:3]x8|[V:4]z8|[V:5]x8|
+[V:1]z8|[V:2]z8|[V:3]x8|[V:4]z8|[V:5]x8|
+[V:1]z4|[V:2]z4|[V:3]x4|[V:4]x7!8vb)!|[V:5]x4|
+[V:1]z1||[V:2]x||[V:3]CcG||[V:4]z1||[V:5]x1||
+[V:1]z6||[V:2]z6||[V:3]x6||[V:4]z6||[V:5]x6||
+[V:1]z6|[V:2]z6|[V:3]x6|[V:4]z6|[V:5]x6|
+[V:1]z1|[V:2]z1|[V:3]x1|[V:4]z1|[V:5]x1|
+[V:1]z7x8[K:treble] xM:none[V:2]z7x8[K:treble] xM:none[V:3]x7x8[K:treble] xM:none[V:4]z7x8[K:treble] xM:none[V:5]x7x8[K:treble] xM:none
+[V:1]z7x8[K:treble] xM:none[V:2]z7x8[K:treble] xM:none[V:3]x7x8[K:treble] xM:none[V:4]z7x8[K:treble] xM:none[V:5]x7x8[K:treble] xM:none
+[V:1]z6|[V:2]z6|[V:3]x6|[V:4]z6|[V:5]x6|
+[V:1]z0x2[K:bass] x4[K:tres]M:4/4[V:2]z0x2[K:bass] x4[K:tres]M:4/4[V:3]x0x2[K:bass] x4[K:tres]M:4/4[V:4]z0x2[K:bass] x4[K:tres]M:4/4[V:5]x0x2[K:bass] x4[K:tres]M:4/4
+[V:1]z0x2[K:bass] x4[K:tres]M:4/4[V:2]z0x2[K:bass] x4[K:tres]M:4/4[V:3]x0x2[K:bass] x4[K:tres]M:4/4[V:4]z0x2[K:bass] x4[K:tres]M:4/4[V:5]x0x2[K:bass] x4[K:tres]M:4/4
+[V:1]z7|[V:2]z7|[V:3]x7|[V:4]z7|[V:5]x7|
+[V:1]x5!8va)![K:treble] Ad'c'gc'!8va)![II:staff +1]Gc[I:staff -1]a!8va)!gc'ba|[V:2]z7|[V:3]x7|[V:4]z7|[V:5]x7|
+[V:1]z4|[V:2]z4|[V:3]x4|[V:4]z4|[V:5]x4|
+[V:1]z0x8[I:staffus]Q:1/4=168[V:2]z0x8[I:staffus]Q:1/4=168[V:3]x0x8[I:staffus]Q:1/4=168[V:4]z0x8[I:staffus]Q:1/4=168[V:5]x0x8[I:staffus]Q:1/4=168
+[V:1]z0x8[I:staffus]Q:1/4=168[V:2]z0x8[I:staffus]Q:1/4=168[V:3]x0x8[I:staffus]Q:1/4=168[V:4]z0x8[I:staffus]Q:1/4=168[V:5]x0x8[I:staffus]Q:1/4=168
+[V:1]z10x7[K:tress]Q:3/8=120[V:2]z10x7[K:tress]Q:3/8=120[V:3]x10x7[K:tress]Q:3/8=120[V:4]z10x7[K:tress]Q:3/8=120[V:5]x10x7[K:tress]Q:3/8=120
+[V:1]z6||2[V:2]z6||2[V:3]C,6-||2[V:4]z6||2[V:5]x6||2

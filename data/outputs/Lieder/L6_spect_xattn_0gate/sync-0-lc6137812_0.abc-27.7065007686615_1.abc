@@ -1,0 +1,33 @@
+%%score ( 1 2 ) { ( 3 6 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=80
+M:12/8
+K:C
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:6 treble 
+V:4 bass 
+V:5 bass 
+[V:1]"^Andantino quasi Allegro" z12|[V:2]x12|[V:3]z [cg][cg] z [c^f][cf] z [cg][cg] z [c=f][cf]|[V:4]EE z AA z EE z DD z|[V:5]x12|[V:6]x12|
+[V:1]z12|[V:2]x12|[V:3]z [cf][cf] z [_Be][Be] z [cd][cd] z [Ad][Ad]|[V:4]GG z CC z FF z FF z|[V:5]x12|[V:6]x12|
+[V:1]z12|[V:2]x12|[V:3]z [_AB][AB] z [AB][AB] z [AB][AB] z [AB][AB]|[V:4]EE z FF z EE z FF z|[V:5]x12|[V:6]x12|
+[V:1]z6 z3 z2 G|[V:2]x12|[V:3]z [_AB][AB] z [AB][AB] z [Gc][Gc] z [GB][GB]|[V:4]EE z FF z EE z DD z|[V:5]x12|[V:6]x12|
+[V:1]c2 c c c c c c d e c A|[V:2]x12|[V:3]z [Gc][Gc] z [Gc][Gc] z [Gc][Gc] z [Ec][EA]|[V:4][K:bass] [E,C] z [E,C] [G,D] z [G,D] [E,C] z [E,C] [A,C] z [A,C]|[V:5][K:bass] x12|[V:6]x12|
+[V:1]c3 B2 A B3- B z G|[V:2]x12|[V:3]z [EA][EA] z [EG][EG] z [FG][FG] z [FG][FG]|[V:4][^C,_B,] z [C,B,] [D,=B,] z [D,B,] [D,B,] z [D,B,] [D,B,] z [D,B,]|[V:5]x12|[V:6]x12|
+[V:1]B2 B B ^A B d c B A G E|[V:2]x12|[V:3]z [^D^F][DF] z [DF][DF] z [DF][DF] z [B,E][B,E]|[V:4][A,,^F,] z [A,,F,] [A,,^F,] z [A,,F,] [G,,G,] z [G,,G,] [G,,G,] z [G,,G,]|[V:5]x12|[V:6]x12|
+[V:1](A2 c) B2 ^D E2 z z2 E|[V:2]x12|[V:3]z [A,CE][A,CE] z [A,B,^D][A,B,D] z [G,B,E][G,B,E] z [G,B,E][G,B,E]|[V:4][A,,^F,] z [A,,F,] [B,,F,] z [B,,F,] [E,,E,] z [E,,E,] [E,,E,] z [E,,E,]|[V:5]x12|[V:6]x12|
+[V:1]e2 e e e d ^c B c B c A|[V:2]x12|[V:3]z [^G,DE][G,DE] z [G,DE][G,DE] z [G,DE][G,DE] z [A,^CE][A,CE]|[V:4][B,,,B,,] z [B,,,B,,] [E,,E,] z [E,,E,] [A,,E,] z [A,,E,] [A,,G,] z [A,,G,]|[V:5]x12|[V:6]x12|
+[V:1]d3- d2 ^c e2 d z2 d|[V:2]x12|[V:3]z [A,D][A,D] z [G,A,^C][G,A,C] z [F,A,D][F,A,D] z [F,A,D][F,A,D]|[V:4][A,,^F,] z [A,,F,] [A,,E,] z [A,,E,] [D,,D,] z [D,,D,] [D,,D,] z [D,,D,]|[V:5]x12|[V:6]x12|
+[V:1]d ^c d f e d =c B A G c e|[V:2]x12|[V:3]z [F,B,D][F,B,D] z [G,B,D][G,B,D] z [G,B,F][G,B,F] z [G,CE][G,CE]|[V:4][G,,,G,,] z [G,,,G,,] [G,,,G,,] z [G,,,G,,] [G,,,G,,] z [G,,,G,,] [C,,C,] z [C,,C,]|[V:5]x12|[V:6]x12|
+[V:1]G3- G2 B/A/ G3- G z G|[V:2]x12|[V:3]z [G,CE][G,CE] z [G,B,F][G,B,F] z [G,CE][G,CE] z [G,B,F][G,B,F]|[V:4][D,,D,] z [D,,D,] [G,,,G,,] z [G,,,G,,] [C,,C,] z [C,,C,] [G,,,G,,] z [G,,,G,,]|[V:5]x12|[V:6]x12|
+[V:1]e2 e e e e f3 e c|[V:2]e2 e e2 e f3 e c c|[V:3]z [G,CE][G,CE] z [G,CE][G,CE] z [^G,DF][G,DF] z [A,CE][A,CE]|[V:4][C,,C,] z [C,,C,] [C,,C,] z [C,,C,] [B,,,B,,] z [B,,,B,,] [A,,,A,,] z [A,,,A,,]|[V:5]x12|[V:6]x12|
+[V:1]d3- dc B d2 c z2 c|[V:2]x12|[V:3]z [A,D][A,D] z [A,C][A,C] z [B,D][B,D] z [CE][CE]|[V:4][F,,,F,,] z [F,,,F,,] [^F,,,^F,,] z [F,,,F,,] [G,,,G,,] z [G,,,G,,] [^G,,,^G,,] z [G,,,G,,]|[V:5]x12|[V:6]x12|
+[V:1]c2 c d c B c3 e2 c|[V:2]x12|[V:3]z [A,CF][A,CF] z [A,C^F][A,CF] z [CEG][CEG] z [CEG][CEG]|[V:4][A,,,A,,] z [A,,,A,,] [A,,,A,,] z [A,,,A,,] [G,,,G,,] z [G,,,G,,] [G,,,G,,] z [G,,,G,,]|[V:5]x12|[V:6]x12|
+[V:1]A3- A2 c/B/ c3- c z G|[V:2]x12|[V:3]z [A,DF][A,DF] z [A,DF][A,DF] z [G,CE][G,CE] z [G,CE][G,CE]|[V:4][F,,,F,,] z [F,,,F,,] [F,,,F,,] z [F,,,F,,] [C,,C,] z [C,,C,] [C,,C,] z [C,,C,]|[V:5]x12|[V:6]x12|
+[V:1]G3 c2 d e3- e d c|[V:2]G3 c2 d e3- e d c|[V:3]z [CD^F][CDF] z [CDF][CDF] z [CEG][CEG] z [CEA][CEA]|[V:4][A,,,A,,] z [A,,,A,,] [A,,,A,,] z [A,,,A,,] [G,,,G,,] z [G,,,G,,] [^F,,,^F,,] z [F,,,F,,]|[V:5]x12|[V:6]x12|
+[V:1]g3- g2 B d3- d c B|[V:2]g3- g2 B d3- d c B|[V:3]z [CFA][CFA] z [CFA][CFA] z [CFA][CFA] z [B,FG][B,FG]|[V:4][G,,,G,,] z [G,,,G,,] [G,,,G,,] z [G,,,G,,] [G,,,G,,] z [G,,,G,,] [G,,,G,,] z [G,,,G,,]|[V:5]x12|[V:6]x12|
+[V:1]c3 z3 z6|[V:2]x12|[V:3]z [cg][cg] z [c^f][cf] z [cg][cg] z [c=f][cf]|[V:4][C,,C,] z[K:treble] EE AA EE z DD z|[V:5]x2[K:treble] x10|[V:6]x12|
+[V:1]z12|[V:2]x12|[V:3]z [cf][cf] z [_Be][Be] z [cd][cd] z [Ad][Ad]|[V:4]GG z CC z FF z FF z|[V:5]x12|[V:6]x12|
+[V:1]z12|[V:2]x12|[V:3]z [_AB][AB] z [AB][AB] z [AB][AB] z [AB][AB]|[V:4]EE z FF z EE z FF z|[V:5]x12|[V:6]x12|
+[V:1]!fermata!z12|][V:2]x12|][V:3]z [_AB][AB] z [AB][AB] !fermata!z [Gc][Gc] !fermata!z [GB][GB]|][V:4]EE z FF z !fermata!EE z !fermata!DD z|][V:5]x12|][V:6]x6 x3 !fermata!G3|]

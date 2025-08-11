@@ -1,0 +1,33 @@
+%%score 1 { 2 | ( 3 4 5 ) }
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+V:4 bass 
+V:5 bass 
+[V:1]"^Allegretto" z2|[V:2]!p! (FG|[V:3]DE|[V:4]x2|[V:5]x2|
+[V:1]z8|[V:2]A2 B,2 A,2 DE|[V:3]FDGD A,DGD|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]F3 B A3) A|[V:3]FA,FD CA,CA,|[V:4]x4 (E,4|[V:5]x8|
+[V:1]z8|[V:2]!<(! d3 e!<)! (gfde!<)!|[V:3][I:staff -1] F3 A, GEFG|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]!mp!!>(! f3 A) A2 (GE)!>)!|[V:3]F[I:staff +1]D[I:staff -1]FA)[I:staff +1] EA,CA,|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]!p! (E3 D D2 E=F|[V:3][I:staff -1] (G3 =F) F4|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]E2) D z (d3 d|[V:3]E2 D z (=F4|[V:4]x8|[V:5]G2 =F x5|
+[V:1]z8|[V:2]d2) z2 z2!mp! d2|[V:3]=F2) x4!p! D2|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]d2 =c2 c2 (d2|[V:3]D2 =C2 (C4|[V:4]x2[I:staff -1] (.[EG]2 .[EG]2"_dim." .[EG]2|[V:5]x8|
+[V:1]z8|[V:2]d3 d d=c_BA|[V:3]_B,3 D D=CB,A,|[V:4][I:staff +1] F,8|[V:5]x8|
+[V:1]z8|[V:2]A2 G2) z2 (G2|[V:3]A,2 B,2) z2 (B,2|[V:4]E,8)|[V:5]x8|
+[V:1]z8|[V:2]G3 F FGA_B|[V:3]B,3 B, B,CDE|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]_B2)) B2 z4|[V:3]=F2) F2 z4|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]!mp! (_B3 A!<(! A2 GA!<)!|[V:3]=C3 _B, B,2 A,G,|[V:4][I:staff +1] E,,8|[V:5][_B,,D,]8|
+[V:1]z8|[V:2]!mp! =c3 _B A2) z2|[V:3]=C3 _B, A,2 z2|[V:4][I:staff -1] [E,G,]8|[V:5][=C,,G,,_B,,E,]8|
+[V:1]z8|[V:2]!p!!<(! (d3 =c _B2 A2|[V:3]D3 =C _B,2 A,2|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]G2 =F2 E2 D2!<)!|[V:3]G,2 =F,2 E,2[K:bass] D,2|[V:4]x6[K:bass] x2|[V:5]x6[K:bass] x2|
+[V:1]z8|[V:2]!f!!>(! d6 c2!>)!|[V:3]z2 (.[D,E,_B,]2 z2 .[C,G,A,]2)|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]!p!!>(! =f3 e d=c_BA!>)!|[V:3]z2 (.[D,=F,A,D]2 z2 .[=C,F,A,=C]2)|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]!p!!<(! A2 G2!<)!!p!!>(! _B3 G!>)!|[V:3]z2 (.[_B,,_E,=F,_B,]2 z2 .[B,,C,E,A,]2)|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]!p!!<(! G2 =F2!<)!!>(! A3 F!>)!|[V:3]z2 (.[A,,D,E,=F,A,]2 z2 .[A,,=C,D,F,A,]2)|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]!p!!<(! =F2 E2!<)!!>(! G3 E)!>)!|[V:3]z2 (.[G,,_B,,D,_E,=F,]2 z2 .[G,,A,,C,E,]2)|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]!pp! [E,G,A,-]4 [D,=F,A,]4-|[V:3]D,8|[V:4]z2 (.[D,,=F,,A,,]2 z2 .[F,,,=C,,D,,F,,]2|[V:5]x8|
+[V:1]z6|][V:2][D,=F,A,]6|][V:3]D,6|][V:4][D,,,=F,,,A,,,D,,]6)|][V:5]x6|]

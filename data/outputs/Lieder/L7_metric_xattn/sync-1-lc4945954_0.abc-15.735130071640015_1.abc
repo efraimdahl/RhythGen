@@ -1,0 +1,31 @@
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=40
+M:4/8
+K:Ab
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+[V:1]"^Massig, con fuoco"!p! E|[V:2]!p! (E|[V:3][G,B,D]|[V:4][E,,E,]|[V:5]x1|
+[V:1]c3/2 c/ B A|[V:2][Ec]>[Ec][DB][CA]|[V:3]x4|[V:4][A,,A,]>[A,,A,][A,,A,][A,,A,]|[V:5]x4|
+[V:1](A G) z!mp! G|[V:2][CA][B,G]) z!mp! ([B,G]|[V:3]x4|[V:4][E,,E,][E,,E,] z (E,|[V:5]x4|
+[V:1]F3/2 A/ G F|[V:2]F>AGF|[V:3][A,D]2 [A,D]2|[V:4]D,2 B,,D,|[V:5]x4|
+[V:1](F E) z!p! c|[V:2]F E2) [EAc]|[V:3][A,D] [A,C]2 x|[V:4]A,,3) A,|[V:5]x4|
+[V:1]d3/2 B/ c d|[V:2]d>Bcd|[V:3]G>GGG|[V:4]B,>E,A,B,|[V:5]x4|
+[V:1](c A2) B|[V:2](c A2) ([EB]|[V:3][EA] [CE]2 x|[V:4](A, C,2) ([G,,G,]|[V:5]x4|
+[V:1](c>=A) (B/F/) (G/E/)|[V:2]c>=AB/F/G/E/)|[V:3]C2 B,B,|[V:4][A,,A,]2) [B,,=D,][E,,E,]|[V:5]F,3 x|
+[V:1](G2 F)!p! B|[V:2]([EG]2 [=DF])!p! [FB]|[V:3]B,3 x|[V:4][B,,F,]3 z|[V:5]x4|
+[V:1]B3/2 G/ A F|[V:2][FB]>GAF|[V:3]=D2 D2|[V:4]A,>B,CB,|[V:5]x4|
+[V:1]!>(! (A2 G) z/ B/!>)!|[V:2]!>(! ([=DA]2 [EG]) z/ [_DGB]/!>)!|[V:3]B,3 x|[V:4](F,2 E,) z|[V:5]x4|
+[V:1](B>G) A F|[V:2]B>GAF|[V:3]=D2 D2|[V:4]A,>B,CB,|[V:5]x4|
+[V:1]!>(! (A2 G)!>)! B|[V:2]!>(! ([=DA]2 [EG])!>)! z|[V:3]B,3 x|[V:4](F,2 E,) z|[V:5]x4|
+[V:1]B3/2 G/ A F|[V:2]B>GAF|[V:3]=D2 D2|[V:4]A,>B,CB,|[V:5]x4|
+[V:1]!>(! (A2 G)!>)! G|[V:2]!>(! ([=DA]2 [EG])!>)! z|[V:3]B,3 x|[V:4](F,2 E,) z|[V:5]x4|
+[V:1]!<(! F3/2 G/ A A!<)!|[V:2]!<(! F>G A[=DA]!<)!|[V:3]=D3 x|[V:4][A,B,]3 [F,B,]|[V:5]x4|
+[V:1]!>(! (c2!>)! B) E|[V:2]!>(! ((([=DA]2!>)! [EG])) E)|[V:3]B,3 x|[V:4](([E,-F,]2 [E,G,])) z|[V:5]x4|
+[V:1]!pp! c3/2 c/ B A|[V:2]!pp! [Ec]>[Ec][DB][CA]|[V:3]x4|[V:4][A,,A,]>[A,,A,][A,,A,][A,,A,]|[V:5]x4|
+[V:1](A G) z!p! B|[V:2]([CA][B,G]) z!p! [DB]|[V:3]x4|[V:4]([E,,E,][E,,E,]) z [G,,G,]|[V:5]x4|
+[V:1]!<(! (c3/2!<)!!mp! B/)!>(! (A/F/) (G/E/)!>)!|[V:2]!<(! (c>!<)!!mp!B!>(! A/F/G/E/)!>)!|[V:3]E2 DD|[V:4]A,2 B,B,|[V:5]A,,C,/D,/ E,E,,|
+[V:1](G2 A):|[V:2]([DG]2 [CA]):|[V:3]E3:|[V:4]A,2 A,,:|[V:5]A,,3:|

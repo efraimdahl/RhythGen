@@ -1,0 +1,30 @@
+%%score ( 1 2 ) { 3 | ( 4 5 ) }
+L:1/8
+M:6/8
+K:Ab
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:4 bass 
+V:5 bass 
+V:5 bass 
+[V:1]!<(! (e3 d2)!>)! c|[V:2]x6|[V:3](DAB CA^A)|[V:4](F,3 A,3|[V:5]D,6|[V:5]D,6|
+[V:1]z6|[V:2]x6|[V:3]([Fc]A[CF]) ([Fc]A[Fc]|[V:4][A,,E,A,] z [E,,B,,E,] z [E,,B,,E,] z z|[V:5]x6|[V:5]x6|
+[V:1]A3 A A A|[V:2]x6|[V:3]([GB]B,)[GB] G,[GB][Bd]|[V:4]z6|[V:5]!>!B,,6-|[V:5]!>!B,,6-|
+[V:1](A2 F2) z F|[V:2]x6|[V:3]z ([CG][Gc]G[Gc]G)|[V:4][E,,E,]6|[V:5]x6|[V:5]x6|
+[V:1]z6[Q:1/4=120]"^.2" z z2 E|[V:2]x6|[V:3]z [B,G][B,G][B,G][B,G][B,G]|[V:4][E,,E,]3 [E,,E,]3|[V:5]z [^B,D][B,D] z [B,D][B,D]|[V:5]z [^B,D][B,D] z [B,D][B,D]|
+[V:1][Q:1/4=100]"^poco en legato e legathing" (B,|[V:2]x1|[V:3]!pp! [B,F][B,F][B,F] [B,F]2 [B,F]|[V:4]z1|[V:5]x1|[V:5]x1|
+[V:1]!fermata!z6|[V:2]x6|[V:3]z6|[V:4]!ped! z (B,,D, F,B,D)!ped-up!|[V:5]x6|[V:5]x6|
+[V:1]!>(! e6-|[V:2]x6|[V:3]z6|[V:4]!arpeggio![G,B,]3 [E,A,]3|[V:5]x6|[V:5]x6|
+[V:1]c B2 B c d|[V:2]x6|[V:3]!>!e6-|[V:4](F,,C,F,G,) (A,F,)|[V:5]x6|[V:5]x6|
+[V:1]z2 z A2 A|[V:2]A2 x x2 A|[V:3]z6|[V:4][F,A,]2 [F,A,] [F,A,]2 [F,A,]!ped-up!|[V:5]z (G,,A,,B,,G,,A,,)|[V:5]z (G,,A,,B,,G,,A,,)|
+[V:1]z6|[V:2]x6|[V:3]z [GB]B, z [Be]E|[V:4][E,,E,]6|[V:5]x6|[V:5]x6|
+[V:1]G3 G3|[V:2]x6|[V:3][CGB][CGB][CGB][CGB][CGB][B,GB]|[V:4]z6|[V:5]E,,6|[V:5]E,,6|
+[V:1]A2 G B2 G|[V:2]x6|[V:3]z (B,E GEB,)|[V:4][C,G,]3 [C,G,]3|[V:5]x6|[V:5]x6|
+[V:1][Q:1/4=95]"^a tempo alsaire." z6|[V:2]x6|[V:3]z6|[V:4][B,,B,] [F,B,]B,, [F,B,]B,,|[V:5]x6|[V:5]x6|
+[V:1]B B B B c B|[V:2]x6|[V:3]!f! [GB]B, [GB]B, [FA]B,|[V:4][G,,,G,,] z z [G,=B,] z z|[V:5]x6|[V:5]x6|
+[V:1]c3/2 c/ c B2 B|[V:2]x6|[V:3]z (G,[^C^E]G,) z (^G,[CE]G,)!>)!|[V:4]A,,,2 z A,,, z A,,|[V:5]x6|[V:5]x6|
+[V:1]z z c{/e} d c B|[V:2]x6|[V:3]z [G,B,C][G,B,C] [F,,F,][C,F,][C,F,]|[V:4]z6|[V:5]x6|[V:5]x6|
+[V:1]!p! A6|[V:2]x6|[V:3][CFc][CFc][CFc] [B,FB][B,FB][B,FB]|[V:4]!ped! C,G,,C,, G,,,G,,G,,,|[V:5]x6|[V:5]x6|
+[V:1][Q:1/4=140] z6|[V:2][M:4/4] z8|][V:3]!>(! [B,DGB]6-|[V:4]z6|][V:5]x6|][V:5]x6|]
+[V:1]z2|][V:2]x2|][V:3]!>![GBdg]2|][V:4]G, z G,, z z|][V:5]x2|][V:5]x2|]

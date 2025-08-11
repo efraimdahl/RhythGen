@@ -1,0 +1,51 @@
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=45
+M:4/4
+K:D
+V:1 treble nm="Voice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+V:4 bass 
+[V:1]"^Lento" A3 F F3 E|[V:2]z2 !arpeggio![F,D] z z2 !arpeggio![F,D] z|[V:3]z8|[V:4]x8|
+[V:1]D3[K:treble]:|[V:2]z3||[V:3]!^!!fermata![D,F,]8)!ped-up!||[V:4]x3||
+[V:1]A3 F B3 F|[V:2]z2 !^![CG][A,F] [CA][Fc] !>![^Ed][FB]|[V:3]D,,A,,F,A,, D,,A,,F,A,,|[V:4]x8|
+[V:1]E3 D D3 B,|[V:2]!^![Ed]3 [Ec] [Ec][DB] !^!.!3!!5![CA]2||[V:3]z8||[V:4]x8||
+[V:1]E3 D D3 B,|[V:2]!^![Ed]3 [Ed] [Fd]A !^![Ec]2 AE|[V:3]A,,ACA,!p!!>(! ^GDE,E!>)!|[V:4]A,,,A,CA, E,,B,^G,E,!ped-up!|
+[V:1]C3 B, B,3 D|[V:2]cAEC[I:staff +1] DB,[I:staff -1]^GE|[V:3]z8|[V:4]x8|
+[V:1]C3 A, A,3 C|[V:2][I:staff +1] E,C[I:staff -1]GC[I:staff +1]E,[I:staff -1] EC[I:staff +1]G,E,C,)|[V:3]A,,,CA,C, E,,CA,C,|[V:4]x8|
+[V:1]D3 B, B,3 G|[V:2][I:staff -1] D[I:staff +1]F,DF,!<(![I:staff +1] E,B,[I:staff -1]D^G!>)!||1[V:3]A,,,A,,A,C, E,,D^G,E,|1[V:4]x8|1
+[V:1]!<(! F3 D D3 F!<)!|[V:2][I:staff +1] E,C[I:staff -1]GC[I:staff +1]E,[I:staff -1] EAEC!<)!A,)|[V:3]E,,CECE, E,CA,E,|[V:4]x8|
+[V:1]=G3 B e3 d|[V:2][I:staff +1] ^G,DEDG, =G,D[I:staff -1]E[I:staff +1] E[I:staff -1]CAC|[V:3]z8|[V:4]x8|
+[V:1]=c3 A A2 e2|[V:2]e=cAE[I:staff +1] A,E,=C,A,E,C,|[V:3]A,,8-|[V:4]A,,,8-|
+[V:1]d3 F (F2 B) A|[V:2][I:staff -1] _AD=FD[I:staf1] _B,[I:staff +1]F,D,_B,,!>)!|[V:3]A,,,4 _B,,,4|[V:4]x8|
+[V:1]d4 z2 d2|[V:2]!<(![I:staff +1] E,D[I:staff -1]=FD[I:staf1]_B,[I:staff +1] =F,D,_B,,=F,,!5(([D,,D,]!>)!|[V:3](([_B,,,-=F,,-_B,,]8))|[V:4]x8|
+[V:1]g6 e2|[V:2][I:staff -1] GE[I:staff +1]_B,G,[I:staff -1] GEB,[I:staff +1] ^A,G,E,_B,,|[V:3]z8|[V:4]_B,,,8-|
+[V:1]=f3 d d2 f2|[V:2]=F,,_B,,D,F,, F,D,_B,D,|[V:3]_B,,,8-|[V:4]x8|
+[V:1]a3 f f2 d2|[V:2]=F,,=C,D,=F,[K:treble] _B,D,_B,D,!<)!|[V:3]_B,,,8|[V:4]x8|
+[V:1]_B3 B d3 d|[V:2][I:staff +1] E,,_B,,C,E, C_BEC|[V:3]E,,8|[V:4]x8|
+[V:1]!<(! a3 f ^d2!<)! B3!<)!|[V:2]d_B=F[I:staff +1]_B,=F,[I:staff -1]DB,!>)!|[V:3]_B,,,4 _B,,4-|[V:4]x9|
+[V:1]=g4- g2 z2|[V:2]^GDEB,[I:sstaff +1] G,E,_B,,|[V:3][_B,,,_B,,]8))|[V:4]x8|
+[V:1]e6 G2|[V:2][I:staff -1] e=cG[I:staff +1] _B,[I:staff -1]E_BG|[V:3]E,,4 E,4|[V:4]x8|
+[V:1]F4 E3) E|[V:2]ECA,A"_crefther"CA,ECA,|[V:3]z8|[V:4]x8|
+[V:1]=F3 _B B3 B|[V:2][I:staff +1] =F,=CDC F,CDCF,D|[V:3]_B,,,8-|[V:4]x8|
+[V:1]g3 e e3 g|[V:2][I:staff -1] GE[I:staff +1]_B,G,[I:staff -1]E _BGEB,|[V:3]B,,,4 _B,,4-)|[V:4]x8|
+[V:1]e4 A2 z2|[V:2]AE[I:staff +1]=CA,[I:staffaff -1] CGEC|[V:3]z8|[V:4]x8|
+[V:1]!<(! f3 d A2!<)! c3 c!<)!|[V:2]!>(! AF[I:aff +1]DA,[I:staaff +1]F, C[I:staff -1]D AFCA,|[V:3]z10|[V:4]x10|
+[V:1]d4 f3 d|[V:2][I:staff +1] FDA,[I:staff -1] A,DFD[I:staf -1]dA!<)!|[V:3][I:staff +1] D[I:staff -1]FA,[I:staff +1]F, D,A,[I:staff -1]F|[V:4]x8|
+[V:1]g3 e c2 c2|[V:2][I:staff -1] FD[I:staff +11]A,F,!ped-up!!p(!D,A,, A,[I:staaff -1]DFD!<)!A,F,!<)!|[V:3]x4 D,,A,,D,A,,)|1[V:4]x8|1
+[V:1]g3 B e2 c2|[V:2]!<(![I:sta -1] GE[I:staff -1]B,[I:staff +1]G,[I:staff -1] x[I:staff +1] G, C,G,[I:staff -1]EC|[V:3]z8|[V:4]x8|
+[V:1]g3 e c2 c2|[V:2][I:staff -1] GE[I:staff +1]B,G,[I:staff -1] GEC^A,!<)!|:[V:3]E,,4 A,,4|][V:4]x8|]
+[V:1]d3 B G2 c2|[V:2][I:staff -1]EC[I:staff +1] G,E,|[V:3]x6 A,,,2|[V:4]x8|
+[V:1]f3 d B2 (d2-|[V:2]!ped![I:staff +1]G,E,!ped- +1]B,,G,[I:stafaff +1]E, G,C^A, G,ECA,|[V:3]C,A,,G,,A,, C,,A,,G,,A,,|[V:4]x8|
+[V:1]dc B G) g2 e2|[V:2]!<(![I:sta +1] B,G,[I:stafaff +1]E,G,[I:staff -1]E[I:staff -1]C[I:staff +1]G, G,[I:staff -sy!|[V:3]x4 G,A,G,E,C,|1[V:4]x8|1
+[V:1][Q1/4=47][Q:1/4=48]|[V:2]z8|[V:3]x4 G,A,G,E,,|[V:4]x8|
+[V:1]z8|[V:2]!<(! EC[I:staff +1]A,F, G,[I:staff +1]E,G,A,!<)!|[V:3]x4 G,A,G,E,|[V:4]x6 G,2|
+[V:1]!<(! g3 e c2 c2|[V:2][I:staff -1] GE[I:staff +1]B,G,[I:staff -1] EG!<)!!f!EC|[V:3]z8|[V:4]x8|
+[V:1]f3 d B2 A2|[V:2][I:staff -1] GE[I:staff +1]B,G,[I:staff -1] GECG,!<)!|[V:3]x4 G,E,C,A,,|[V:4]x8|
+[V:1]!<(! g3 e c2!<)! c2!<)!|[V:2][I:staff -1] FD[I:staff +1]A,F,[I:staff -1] GEA,!<)!|[V:3]!<(![I:staaff +1]A,G,E,G, A,,G,E,A,,|[V:4]x8|
+[V:1]G3 B e2 A2|[V:2][I:staff -1]GE[I:staff +1] B,G,|[V:3]z8|[V:4]x8|
+[V:1]g4!<)! e2!f! c2|[V:2][I:staff -1] GE[I:staff +1]B,G,[I:staff -1] GECA,!<)!||[V:3][I:staff -1]A,G,[K:bass]E,G,[I:staff -1] EA,G,[I:staff +1] A,E,|[V:4]x8|
+[V:1]g4!<)! x2!p!!<(! e2!<)!||[V:2]z8|[V:3]!ped![I:staff +1]A,G,E,G, A,,G,E,A,,|[V:4]x8|
+[V:1]g4 e2|[V:2][I:staff -1] GE[I:staff +1]B,G,[I:staff -1] EA,[I:staff +1] G,A,[I:staff -1] GEA,G,|[V:3]!ped!!<(!E,A,G,E, G,A,G,E,!ped-up!!<)!||[V:4]x6||
+[V:1][Q:staff trill)" g3 e|[V:2][I:staff -1] GE[I:staff +1]B,G,[I:staff -1] x EGCA,!<)!||[V:3][A,,,A,,]6 [A,,,A,,]2||[V:4]x9||

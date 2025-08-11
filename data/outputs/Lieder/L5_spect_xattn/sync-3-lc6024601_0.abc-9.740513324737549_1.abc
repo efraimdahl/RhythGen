@@ -1,0 +1,20 @@
+%%score [ 1 2 3 4 ]
+L:1/8
+Q:1/4=130
+M:9/8
+K:A
+V:1 treble nm="Soprano"
+V:2 treble nm="Alto"
+V:3 treble-8 nm="Tenor"
+V:4 bass nm="Bass"
+[V:1]"^Allegro con moto"!p! c|[V:2]!p! A|[V:3]!p! e|[V:4]!p! A,|
+[V:1]c3- c2 d c2 B|[V:2]A3- A2 F F2 F|[V:3]e3- e2 B A2 d|[V:4]A,3- A,2 D, F,2 B,,|
+[V:1]A3 G3 A2 c|[V:2]F3 ^E3 F2 G|[V:3]c3 c3 c2 ^e|[V:4]C,3 C,3 F,2 C,|
+[V:1]c3- c2 d c2 B|[V:2]A3- A2 B A2 G|[V:3]f3- f2 f f2 f|[V:4]F,3- F,2 F, F,2 F,|
+[V:1](B3 A3) G2 c|[V:2]G3- G3 G2 G|[V:3]^e3- e3 e2 e|[V:4]C,3- C,3 C,2 B,,|
+[V:1]!mf! a3- a2 g f2 ^e|[V:2]!mf! F3- F2 G A2 B|[V:3]!mf! c3- c2 c c2 c|[V:4]!mf! A,,3- A,,2 A,, A,,2 A,,|
+[V:1]f2 c (B3 G3)|[V:2]c2 A (G3 ^E3)|[V:3]c2 f c6|[V:4]A,,2 ^D, (^E,6|
+[V:1]!p! F2 f (e3 d2) c|[V:2]!p! F2 d (c3 B2) A|[V:3]c2 c (c3 f2) c|[V:4]!p! F,2) A, A,3- A,2 A,|
+[V:1](c3- c2 B) (A2 G)|[V:2]A3- (A2 G) A3|[V:3](c3- (c2 e)) (d2 f)|[V:4](A,3- (A,2 C,)) D,3|
+[V:1]G3- G2 A B3|[V:2]G3- G2 G G3|[V:3]e3- e2 e e3|[V:4]E,3- E,2 E, E,3|
+[V:1]!pp! !fermata!c12|][V:2]!pp! !fermata!A3- A2 !fermata!A, !fermata!A3|][V:3]!pp! !fermata!e3- e2 f !fermata!e3|][V:4]!pp! !fermata![A,,A,]3- [A,,A,]2 [A,,A,] !fermata![A,,A,]3|]

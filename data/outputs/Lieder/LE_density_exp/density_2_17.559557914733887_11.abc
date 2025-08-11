@@ -1,0 +1,41 @@
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=114
+M:2/4
+K:D
+V:1 treble nm="Chant\nVoice"
+V:2 treble nm="Piano"
+V:3 bass 
+V:4 bass 
+[V:1]"^Allegro" z4|[V:2]z!f! [Fd] z [Fd]|[V:3][B,,B,] z [B,,B,] z|[V:4]%distance=2[r:0/31]x4|
+[V:1]z4|[V:2]z [Fd] z [Fd]|[V:3][B,,B,] z [B,,B,] z|[V:4]x4|
+[V:1]z4|[V:2]z [Fe] z [Fe]|[V:3][C,C] z [C,C] z|[V:4]x4|
+[V:1]z4|[V:2]z [Fe] z [Fe]|[V:3][C,C] z [C,C] z|[V:4]x4|
+[V:1]z4|[V:2]z [Fd] z [Fd]|[V:3][D,D] z [D,D] z|[V:4]x4|
+[V:1]z4|[V:2]z [Fd] z [Fd]|[V:3][D,D] z [D,D] z|[V:4]x4|
+[V:1]z4|[V:2]z [Fc] z [Fc]|[V:3][^A,,^A,] z [A,,A,] z|[V:4]x4|
+[V:1]z2 z!mf! F|[V:2]z [Fc] z [Fc]|[V:3][^A,,^A,] z [A,,A,] z|[V:4]x4|
+[V:1]d2 d d|[V:2]z [Fd] z [Fd]|[V:3][B,,B,] z [B,,B,] z|[V:4]x4|
+[V:1]c3/2 c/ ^A F|[V:2]z [Fc] z [Fc]|[V:3][^A,,^A,] z [A,,A,] z|[V:4]x4|
+[V:1]B4-|[V:2]z [Fd] z [Fd]|[V:3][B,,B,] z [B,,B,] z|[V:4]x4|
+[V:1]B2 z B|[V:2]z [Fd] z [Fd]|[V:3][B,,B,] z [B,,B,] z|[V:4]x4|
+[V:1]e3 B|[V:2]z [Ge] z [Ge]|[V:3][E,,E,] z [E,,E,] z|[V:4]x4|
+[V:1]G G (FE)|[V:2]z [Ge] z [Ge]|[V:3][E,,E,] z [E,,E,] z|[V:4]x4|
+[V:1]c4-|[V:2]z [^Af] z [Af]|[V:3][F,,F,] z [F,,F,] z|[V:4]x4|
+[V:1]c2 z2|[V:2]z [^Af] z [Af]|[V:3][F,,F,] z [F,,F,] z|[V:4]x4|
+[V:1]e2 d c|[V:2]z [Ge] z [Ge]|[V:3][E,,E,] z [E,,E,] z|[V:4]x4|
+[V:1](dc) (B^A)|[V:2]z [Fe] z [Fe]|[V:3][F,,F,] z [F,,F,] z|[V:4]x4|
+[V:1](Bc) d2-|[V:2]z [Fd] z [Fd]|[V:3][B,,B,] z [B,,B,] z|[V:4]x4|
+[V:1]d2 z2|[V:2]z [Fd] z [Fd]|[V:3][B,,B,] z [B,,B,] z|[V:4]x4|
+[V:1]!f! c2 B ^A|[V:2]!f! z [Fc] z [Fc]|[V:3][^A,,^A,] z [A,,A,] z|[V:4]x4|
+[V:1](B^A) (^GF)|[V:2]z [Fc] z [Fc]|[V:3][^A,,^A,] z [A,,A,] z|[V:4]x4|
+[V:1](^G^A) B2-|[V:2]z [^EB] z [EB]|[V:3][^G,,^G,] z [G,,G,] z|[V:4]x4|
+[V:1]B2 z B|[V:2]z [^EB] z [EB]|[V:3][^G,,^G,] z [G,,G,] z|[V:4]x4|
+[V:1]f3 e|[V:2]!f! z [F^Ae] z [FAe]|[V:3][F,,F,] z [F,,F,] z|[V:4]x4|
+[V:1]d c B ^A|[V:2]z [F^Ae] z [FAe]|[V:3][F,,F,] z [F,,F,] z|[V:4]x4|
+[V:1]B4-|[V:2]z [FBd] z [FBd]|[V:3][B,,B,] z [B,,B,] z|[V:4]x4|
+[V:1]B2 z2|[V:2]z [FBd] z [FBd]|[V:3][B,,B,] z [B,,B,] z|[V:4]x4|
+[V:1]!f! e2 d c|[V:2]!f! z [Gce] z [Gce]|[V:3][E,,E,] z [E,,E,] z|[V:4]x4|
+[V:1]B2 G G|[V:2]z [Gce] z [Gce]|[V:3][E,,E,] z [E,,E,] z|[V:4]x4|
+[V:1]F4-|[V:2]z [F^Acf] z [FAcf]|[V:3][F,,F,] z [F,,F,] z|[V:4]x4|
+[V:1]F2 z2|[V:2]z [F^Acf] z [FAcf]|[V:3][F,,F,] z [F,,F,] z|[V:4]x4|

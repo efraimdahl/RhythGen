@@ -1,0 +1,76 @@
+%%score 1 { ( 2 7 ) | ( 3 4 5 6 ) }
+L:1/8
+Q:1/4=168
+M:3/4
+K:D
+V:1 treble nm="Chant\nVoice"
+V:2 treble nm="Piano"
+V:7 treble 
+V:3 bass 
+V:4 bass 
+V:5 bass 
+V:6 bass 
+[V:1]"^Tempo di Valse" z6|[V:2]z!pp! [Bd][Bd][Bd][Bd][Bd]|[V:3][B,,F,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]z6|[V:2]z [Bd][Bd][Bd][Bd][Bd]|[V:3][A,,A,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]z6|[V:2]z [Bd][Bd][Bd][Bd][Bd]|[V:3][^G,,^G,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]z2 z2 B2|[V:2]z [Bd][Bd][Bd][Bd][Bd]|[V:3][F,,F,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]B4 B2|[V:2]z [Bd][Bd][Bd][Bd][Bd]|[V:3][F,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]c3 B c2|[V:2]z [Bc][Bc][Bc][Bc][Bc]|[V:3][^E,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]d4 d2|[V:2]z [Ad][Ad][Ad][Ad][Ad]|[V:3][F,A,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]d2 c2 B2|[V:2]z [^Gd][Gd][Gd][Gd][Gd]|[V:3][^E,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]f4 e2|[V:2]z [FB][FB][FB][FB][FB]|[V:3][D,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]d3 c d2|[V:2]z [^EB][EB][EB][EB][EB]|[V:3][C,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]f4 e2|[V:2]z [GB][GB][GB][GB][GB]|[V:3][E,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]d2 z2 B2|[V:2]z [FB][FB][FB][FB][FB]|[V:3][D,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]f4 e2|[V:2]z [^GB][GB][GB][GB][GB]|[V:3][C,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]d4 c2|[V:2]z [^GB][GB][GB][GB][GB]|[V:3][^E,C]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]B4 ^A2|[V:2]z [FB][FB][FB][F^A][FA]|[V:3][F,C]4 [F,C]2|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]B4 z2|[V:2]z [FB][FB][FB][FB][FB]|[V:3][B,D]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]z2 z2 B2|[V:2]z [FB][FB][FB][FB][FB]|[V:3][A,D]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1](g6-|[V:2]z [Bd][Bd][Bd][Bd][Bd]|[V:3][G,D]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]g2 f2 e2)|[V:2]z [cg][cg][cg][cg][cg]|[V:3][A,E]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]d6-|[V:2]z [df][df][df][df][df]|[V:3][DF]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]d2 z2 d2|[V:2]z [df][df][df][df][df]|[V:3][=CF]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]d6|[V:2]z [dg][dg][dg][dg][dg]|[V:3][B,D]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]d4 z2|[V:2]z [d^g][dg][dg][dg][dg]|[V:3][^E,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]c6|[V:2]z [cf][cf][cf][cf][cf]|[V:3][F,^A,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]F4 z2|[V:2]z [Fc][Fc][Fc][Fc][Fc]|[V:3][^A,,F,^A,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]z6|[V:2]z [Fd][Fd][Fd][Fd][Fd]|[V:3][B,,F,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]z2 z2 B2|[V:2]z [Fd][Fd][Fd][Fd][Fd]|[V:3][A,,F,A,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]B4 B2|[V:2]z [Fd][Fd][Fd][Fd][Fd]|[V:3][^G,,D,^G,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]c4 c2|[V:2]z [Fd][Fd][Fd][Fd][Fd]|[V:3][^A,,F,^A,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]d4 d2|[V:2]z [Fd][Fd][Fd][Fd][Fd]|[V:3][B,,F,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]d2 c2 B2|[V:2]z [Fd][Fd][Fd][Fd][Fd]|[V:3][A,,F,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]f4 e2|[V:2]z [Bd][Bd][Bd][Bd][Bd]|[V:3][^G,,E,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]d3 c d2|[V:2]z [Bd][Bd][Bd][Bd][Bd]|[V:3][F,,D,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]f4 e2|[V:2]z [Bd][Bd][Bd][Bd][Bd]|[V:3][^G,,D,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]d2 z2 B2|[V:2]z [Bd][Bd][Bd][Bd][Bd]|[V:3][F,,D,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]f4 e2|[V:2]z [Bd][Bd][Bd][Bd][Bd]|[V:3][^G,,E,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]d4 c2|[V:2]z [Bd][Bd][Bd][Bd][Bd]|[V:3][A,,E,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]B4 ^A2|[V:2]z [Fd][Fd][Fd][Fc][Fc]|[V:3][F,C]4 [F,C]2|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]B4 z2|[V:2]z [Fd][Fd][Fd][Fd][Fd]|[V:3][B,D]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]z2 z2 B2|[V:2]z [Fd][Fd][Fd][Fd][Fd]|[V:3][A,D]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1](g6-|[V:2]z [Bd][Bd][Bd][Bd][Bd]|[V:3][G,D]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]g2 f2 e2)|[V:2]z [cg][cg][cg][cg][cg]|[V:3][A,E]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]d6-|[V:2]z [df][df][df][df][df]|[V:3][DF]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]d2 z2 d2|[V:2]z [df][df][df][df][df]|[V:3][=CF]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]d6|[V:2]z [dg][dg][dg][dg][dg]|[V:3][B,D]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]d4 z2|[V:2]z [d^g][dg][dg][dg][dg]|[V:3][^E,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]c6|[V:2]z [cf][cf][cf][cf][cf]|[V:3][F,^A,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]F4 z2|[V:2]z [Fc][Fc][Fc][Fc][Fc]|[V:3][^A,,F,^A,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]z6|[V:2]z [Fd][Fd][Fd][Fd][Fd]|[V:3][B,,F,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]z2 z2 B2|[V:2]z [Fd][Fd][Fd][Fd][Fd]|[V:3][A,,F,A,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]B4 B2|[V:2]z [Fd][Fd][Fd][Fd][Fd]|[V:3][^G,,D,^G,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]c4 c2|[V:2]z [Fd][Fd][Fd][Fd][Fd]|[V:3][^A,,F,^A,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]d4 d2|[V:2]z [Fd][Fd][Fd][Fd][Fd]|[V:3][B,,F,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]d2 c2 B2|[V:2]z [Fd][Fd][Fd][Fd][Fd]|[V:3][A,,F,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]f4 e2|[V:2]z [Bd][Bd][Bd][Bd][Bd]|[V:3][^G,,E,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]d3 c d2|[V:2]z [Bd][Bd][Bd][Bd][Bd]|[V:3][F,,D,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]f4 e2|[V:2]z [Bd][Bd][Bd][Bd][Bd]|[V:3][^G,,D,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]d2 z2 B2|[V:2]z [Bd][Bd][Bd][Bd][Bd]|[V:3][F,,D,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]f4 e2|[V:2]z [Bd][Bd][Bd][Bd][Bd]|[V:3][^G,,E,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]d4 c2|[V:2]z [Bd][Bd][Bd][Bd][Bd]|[V:3][A,,E,B,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]B4 ^A2|[V:2]z [Fd][Fd][Fd][Fc][Fc]|[V:3][F,C]4 [F,C]2|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]B4 z2|[V:2]z [Fd][Fd][Fd][Fd][Fd]|[V:3][B,D]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1][Q:1/4=160] z6|[V:2]z [Fd][Fd][Fd][Fd][Fd]|[V:3][A,D]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1][Q:1/4=156] z6|[V:2]z [Fd][Fd][Fd][Fd][Fd]|[V:3][^G,D]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|

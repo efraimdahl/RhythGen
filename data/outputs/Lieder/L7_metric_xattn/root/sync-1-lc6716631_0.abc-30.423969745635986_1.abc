@@ -1,0 +1,46 @@
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=44
+M:3/4
+K:C
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+[V:1]"^Langsam" z6|[V:2]!p! z .[EAc] z .[FAc] z .[E^Gd]|[V:3]!ped! [A,,A,] z [F,,F,] z [E,,E,] z!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2]z .[EAc] z .[FAd] z .[F^GB]|[V:3]!ped! [A,,A,] z [D,,D,] z [E,,E,] z!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]!mf! A3/2 B/ c3/2 d/ e3/2 ^G/|[V:2]z .[EAc] z .[FAc] z .[E^Gd]|[V:3]!ped! [A,,A,] z [F,,F,] z [E,,E,] z!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]B2 A2 z2|[V:2]z .[EAc] z .[FAd] z .[FAc]|[V:3]!ped! [A,,A,] z [D,,D,] z [D,,D,] z!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]A3/2 B/ c d/ e/ f ^G|[V:2]z .[EAc] z .[FAc] z .[E^Gd]|[V:3]!ped! [A,,A,] z [F,,F,] z [E,,E,] z!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]B2 A2 z2|[V:2]z .[EAc] z .[FAd] z .[FAc]|[V:3]!ped! [A,,A,] z [D,,D,] z [D,,D,] z!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]!p! d d e3 A|[V:2]z!p! [FBd] z [EBe] z [EAe]|[V:3]!ped! ^G,2!ped-up!!ped! B,2!ped-up!!ped! C2!ped-up!|[V:4]^G,,4 A,,2|[V:5]x6|
+[V:1]c c d3 A|[V:2]z [EAc] z [DAd] z [DAd]|[V:3]!ped! F,2!ped-up!!ped! B,2!ped-up!!ped! F,2!ped-up!|[V:4]F,,4 F,,2|[V:5]x6|
+[V:1]B B (3eB c A c|[V:2]z [E^GB] z [EAc] z [EAc]|[V:3]!ped! E,2!ped-up!!ped! A,2!ped-up!!ped! E,2!ped-up!|[V:4]E,,4 E,,2|[V:5]x6|
+[V:1](e2 B2) z2|[V:2]z [E^GB] z [EGB] z [EGB]|[V:3]!ped! E,2!ped-up!!ped! B,2!ped-up!!ped! E,2!ped-up!|[V:4]E,,4 E,,2|[V:5]x6|
+[V:1]"^dolce e legato" B3/2 c/ (3d B G d3/2 G/|[V:2]!pp!"^legato agitato" [DG]2 [DG]2 [DG]2|[V:3][F,G,B,]2 [F,G,B,]2 [F,G,B,]2|[V:4]G,,6|[V:5]x6|
+[V:1]d2 d2 z2|[V:2][DG]2 [DG]2 [DG]2|[V:3][F,G,B,]2 [F,G,B,]2 [F,G,B,]2|[V:4]G,,6|[V:5]x6|
+[V:1]B3/2 c/ (3d B G d3/2 G/|[V:2][DG]2 [DG]2 [DG]2|[V:3][F,G,B,]2 [F,G,B,]2 [F,G,B,]2|[V:4]G,,6|[V:5]x6|
+[V:1]d4 z2|[V:2][DG]2 [DG]2 [DG]2|[V:3][F,G,B,]2 [F,G,B,]2 [F,G,B,]2|[V:4]G,,6|[V:5]x6|
+[V:1]!mf! G c d3/2 e/ f3/2 B/|[V:2]!mf! z [Gce] z [Gdf] z [GBf]|[V:3]!ped! [C,C] z [A,,A,] z [G,,G,] z!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]d2 c2 z2|[V:2]z [Gce] z [GBf] z [Gce]|[V:3]!ped! [C,C] z [G,,G,] z [G,,G,] z!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]!f! e f g3/2 e/ c G|[V:2]!f! z [Gceg] z [Gceg] z [Gceg]|[V:3][C,C]2 [E,E]2 [C,C]2|[V:4]x6|[V:5]x6|
+[V:1](d4 A2)|[V:2]z [Adf] z [Adf] z [Adf]|[V:3][F,,F,]2 [F,A,D]2 [F,A,D]2|[V:4]x6|[V:5]x6|
+[V:1]!f! f d B3/2 G/ F B|[V:2]!f! z [Gdf] z [Gdf] z [Gdf]|[V:3][B,,B,]2 [G,B,D]2 [G,B,D]2|[V:4]x6|[V:5]x6|
+[V:1]c2 G2 z2|[V:2]z [Gce] z [Gce] z [Gce]|[V:3][C,C]2 [G,CE]2 [G,CE]2|[V:4]x6|[V:5]x6|
+[V:1]!p! G A B c d c|[V:2]!p! [FBdf]2 [FBdf]2 [FBdf]2|[V:3][G,B,]2 [G,B,]2 [G,B,]2|[V:4]x6|[V:5]x6|
+[V:1]c B B2 z2|[V:2][FBdf]2 [FBdf]2 [FBdf]2|[V:3][G,B,]2 [G,B,]2 [G,B,]2|[V:4]x6|[V:5]x6|
+[V:1]!p! G A B c d c|[V:2]!p! [FBdf]2 [FBdf]2 [FBdf]2|[V:3][G,B,]2 [G,B,]2 [G,B,]2|[V:4]x6|[V:5]x6|
+[V:1]cB B2 z2|[V:2][FBdf]2 [FBdf]2 [FBdf]2|[V:3][G,B,]2 [G,B,]2 [G,B,]2|[V:4]x6|[V:5]x6|
+[V:1]!mf! G c d3/2 e/ f3/2 B/|[V:2]!mf! z [Gce] z [Gdf] z [GBf]|[V:3]!ped! [C,C] z [A,,A,] z [G,,G,] z!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]d2 c2 z2|[V:2]z [Gce] z [GBf] z [Gce]|[V:3]!ped! [C,C] z [G,,G,] z [G,,G,] z!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]!f! e f g3/2 e/ c G|[V:2]!f! z [Gceg] z [Gceg] z [Gceg]|[V:3][C,C]2 [E,E]2 [C,C]2|[V:4]x6|[V:5]x6|
+[V:1](d4 A2)|[V:2]z [Adf] z [Adf] z [Adf]|[V:3][F,,F,]2 [F,A,D]2 [F,A,D]2|[V:4]x6|[V:5]x6|
+[V:1]!f! f d B3/2 G/ F B|[V:2]!f! z [Gdf] z [Gdf] z [Gdf]|[V:3][B,,B,]2 [G,B,D]2 [G,B,D]2|[V:4]x6|[V:5]x6|
+[V:1]c2 G2 z2|[V:2]z [Gce] z [Gce] z [Gce]|[V:3][C,C]2 [G,CE]2 [G,CE]2|[V:4]x6|[V:5]x6|
+[V:1]!p! G A B c d c|[V:2]!p! [FBdf]2 [FBdf]2 [FBdf]2|[V:3][G,B,]2 [G,B,]2 [G,B,]2|[V:4]x6|[V:5]x6|
+[V:1]c B B2 z2|[V:2][FBdf]2 [FBdf]2 [FBdf]2|[V:3][G,B,]2 [G,B,]2 [G,B,]2|[V:4]x6|[V:5]x6|
+[V:1]!p! G A B c d c|[V:2]!p! [FBdf]2 [FBdf]2 [FBdf]2|[V:3][G,B,]2 [G,B,]2 [G,B,]2|[V:4]x6|[V:5]x6|
+[V:1]cB B2 z2|[V:2][FBdf]2 [FBdf]2 [FBdf]2|[V:3][G,B,]2 [G,B,]2 [G,B,]2|[V:4]x6|[V:5]x6|
+[V:1]!mf! G c d3/2 e/ f/ B3/2|[V:2]!mf! z [Gce] z [Gdf] z [GBf]|[V:3]!ped! [C,C] z [A,,A,] z [G,,G,] z!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]d2 c2 z2|][V:2]z [Gce] z [GBf] z [Gce]|][V:3]!ped! [C,C] z [G,,G,] z [G,,G,] z!ped-up!|][V:4]x6|][V:5]x6|]

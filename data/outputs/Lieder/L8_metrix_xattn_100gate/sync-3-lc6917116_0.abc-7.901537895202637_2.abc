@@ -1,0 +1,31 @@
+%%score 1 { ( 2 4 6 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=85
+M:4/4
+K:D
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:6 treble 
+V:3 bass 
+V:5 bass 
+V:5 bass 
+[V:1](A2!>)! ^G2) z!p!"^[Q:1/4=120] G||[V:2]z8|[V:3]z [B,DA]2 z4|[V:4][M:4/4] [DGd]4 [A,DFA]4|[V:5]x8|[V:5]x8|[V:6]x8|
+[V:1]z1|[V:2]z1|[V:3]z1|[V:4]x1|[V:5][K:Eb] x|[V:5][K:Eb] x|[V:6]x1|
+[V:1]z7|[V:2]z7|[V:3]z [C,A,]2 z [=D,F,]2 z|[V:4]x7|[V:5]B,,,6- B,,-|[V:5]B,,,6- B,,-|[V:6]x7|
+[V:1]z6|[V:2]z6|[V:3]z6|[V:4]x6|[V:5]x6|[V:5]x6|[V:6][K:bass]!<(! C,C,C, C,C,2|
+[V:1]z8|[V:2]z8|[V:3]z8|[V:4]x8|[V:5]x8|[V:5]x8|[V:6][K:Bb] x8|
+[V:1]z0[K:Ab] [A,^B,^^D^^F]>[A,B,]>)(A,[V:2]z0[K:Ab] [A,^B,^^D^^F]>[A,B,]>)(A,[V:3]z0[K:Ab] [A,^B,^^D^^F]>[A,B,]>)(A,[V:4]x0[K:Ab] [A,^B,^^D^^F]>[A,B,]>)(A,[V:5][K:Ab] [A,^B,^^D^^F]>[A,B,]>)(A,[V:5][K:Ab] [A,^B,^^D^^F]>[A,B,]>)(A,[V:6]x0[K:Ab] [A,^B,^^D^^F]>[A,B,]>)(A,
+[V:1]z0|:[V:2]z0|:[V:3]z0|:[V:4]!ped! !arpde" z (_A2|:[V:5]x0|:[V:5]x0|:[V:6][M:4/4] e} !^![Dd]2|
+[V:1]z0D,2 C,B,, z C,-[V:2]z0D,2 C,B,, z C,-[V:3]z0D,2 C,B,, z C,-[V:4]D,2 C,B,, z C,-[V:5][K:G][M:4/6f} c4|[V:5][K:G][M:4/6f} c4|[V:6]x0D,2 C,B,, z C,-
+[V:1]z0|[V:2]z0|[V:3]z0|[V:4]x0|[V:5][M:4/4] 8|[V:5][M:4/4] 8|[V:6]x0|
+[V:1]z8|[V:2]z8|[V:3]z [cfa]z[cac']|[V:4]x8|[V:5][K:Ab] [A,E^^F]3 z z4|[V:5][K:Ab] [A,E^^F]3 z z4|[V:6]x8|
+[V:1]!m! [DFBd]4- [DFBd|[V:2]z0z [F,A,B,D[K:treble] .[GB_egb] z[V:3]z [F,A,B,D[K:treble] .[GB_egb] z[V:4]x0z [F,A,B,D[K:treble] .[GB_egb] z[V:5]x0z [F,A,B,D[K:treble] .[GB_egb] z[V:5]x0z [F,A,B,D[K:treble] .[GB_egb] z[V:6]x0z [F,A,B,D[K:treble] .[GB_egb] z
+[V:1]z8:|[V:2]z8:|[V:3]z8:|[V:4][M:2/4] x2 x6:|[V:5]x8:|[V:5]x8:|[V:6]x8:|
+[V:1]z6:|[V:2]z6:|[V:3]z6:|[V:4][M:2/4] x2 x4:|[V:5]x6:|[V:5]x6:|[V:6]x6:|
+[V:1]z6:|[V:2]z6:|[V:3]z6:|[V:4][M:2/4] x2 !fermata!z4:|[V:5]x6:|[V:5]x6:|[V:6]x6:|
+[V:1]z6:|[V:2]z6:|[V:3]z6:|[V:4]x6:|[V:5]x6:|[V:5]x6:|[V:6]x6:|
+[V:1]z6:|[V:2]z6:|[V:3]z6:|[V:4]x6:|[V:5]x6:|[V:5]x6:|[V:6]x6:|
+[V:1]z8:|[V:2]z8:|[V:3]z8:|[V:4][M:2/4] x8:|[V:5]x8:|[V:5]x8:|[V:6]x8:|
+[V:1]z8:|[V:2]z8:|[V:3]z8:|[V:4]x8:|[V:5]x8:|[V:5]x8:|[V:6][M:2/4] x8:|
+[V:1]z8:|[V:2]z8:|[V:3]z8:|[V:4]x8:|[V:5][M:2/4] x8:|[V:5][M:2/4] x8:|[V:6]x8:|

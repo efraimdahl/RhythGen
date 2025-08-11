@@ -1,0 +1,26 @@
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+Q:1/4=144
+M:4/4
+K:G
+V:1 treble nm="Chant\nVoice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+[V:1]"^Moderato."!p!"^Larghetto" (B,2 D2 G3 A|[V:2]!p!"^cantabile." B,4 E4|[V:3](G,,4 C,4|[V:4]G,8|
+[V:1]F2 E2) z4|[V:2]F2 E2 z4|[V:3]D,2 C,2 B,,2 A,,2|[V:4]A,4 G,2 F,2|
+[V:1](D2 G2 B3 c|[V:2]D4 G4|[V:3]G,,4 E,4|[V:4]G,4 C4|
+[V:1]A2 G2) z2 (G2|[V:2]A2 G2 z4|[V:3]F,2 G,2) z2 (E,2|[V:4]D4 B,2 C2|
+[V:1]A2 B2 A2 G2|[V:2]D4 D4|[V:3]F,2 G,2 F,2 E,2|[V:4]D4 A,4|
+[V:1]F4 E4)|[V:2][CD]4 C4|[V:3]D,4 A,,4)|[V:4]x8|
+[V:1]!<(! (D4!<)! !breath!d4)|[V:2]!<(! [B,D]4!<)! [DG]4|[V:3](G,,4 B,,4)|[V:4]x8|
+[V:1]!>(! (G3 A G2)!>)! z2|[V:2]!>(! [B,G]3 [CA] [B,G]2!>)! z2|[V:3][E,,E,]4 [G,,D,]2 z2|[V:4]x8|
+[V:1](E2 A2 c3 d|[V:2]E4 A4|[V:3](C,4 =F,4|[V:4]C8|
+[V:1]B2 A2) z4|[V:2]B2 A2 z4|[V:3]G,2 =F,2 E,2 D,2|[V:4]D4 C2 B,2|
+[V:1](G2 c2 e3 =f|[V:2]G4 c4|[V:3]C,4 A,4|[V:4]C4 =F4|
+[V:1]d2 c2) z2!<(! (c2|[V:2]d2 c2 z4|[V:3]B,2 C2) z2 (A,2|[V:4]G4 E2 =F2|
+[V:1]d2 e2 d2 c2!<)!|[V:2]G4 G4|[V:3]B,2 C2 B,2 A,2|[V:4]G4 D4|
+[V:1]!>(! B4 A4)!>)!|[V:2]!>(! [=FG]4!>)! F4|[V:3]G,4 D,4)|[V:4]x8|
+[V:1]!<(! (G4!<)! !breath!g4)|[V:2]!<(! [EG]4!<)! [Gc]4|[V:3](C,4 E,4)|[V:4]x8|
+[V:1]!>(! (c3 d c2)!>)! z2|[V:2]!>(! [Ec]3 [Fd] [Ec]2!>)! z2|[V:3][A,,A,]4 [C,G,]2 z2|[V:4]x8|
+[V:1]z8|][V:2]!fermata![Geg]8|][V:3]!fermata![C,G,C]8|][V:4]x8|]

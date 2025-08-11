@@ -1,0 +1,42 @@
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=45
+M:4/4
+K:D
+V:1 treble nm="Voice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+V:4 bass 
+[V:1]"^Andante con moto"!mf!!>(! (DE)|[V:2](FG)|[V:3](D,E,)|[V:4](B,,C,)|
+[V:1](F3!<)! G!>(! B3/2 d/!>)!!<(! f3/2 e/)!>)!||[V:2]!>(! (c3 d!>)! f3 F)||[V:3]!<(! (3=F,D=F) (^G,>A,) (3(C,,A,,E,) (D>=F)!>)!||[V:4]x8||
+[V:1]"^A'vezno et langsato""^1er Bewegt (2"[Q:1/4=55]!p!!<(! F3 A d2!<)! z2|[V:2]z8|[V:3]"_una cord." (D3 D,) (D3 D)|[V:4]x8|
+[V:1][Q:1/4=52]"^Lento"!p!!<(! F3 A!<)! d2 z2|[V:2](f3 F) (g3 G)|[V:3]!mf! (3(d3 Dd) (d3 (3D) (dD (3d)(.D.d)!>)!!>)!||[V:4]x8||
+[V:1]"^B"!pp!!<(! A3 d!<)!!>(! (f2!>)! e>)!<(!B)!<)!|[V:2](f3 F) (g3 G)|[V:3](d3 D) (d3 D)|[V:4]x8|
+[V:1]!p! =c3 c e2 (3:2:2=g2 =f)|[V:2]!mf! (3=g3!>(! G g2 (3a3 AA,) (3a!>)!|[V:3]!<(! (3([=fb=f'][=Ff]3/2[f'b']/ (3z (([e=c'e']e)) (3z [ece]||[V:4]x8||
+[V:1]"^a3"!pp!!<(! =c3 e (3:2:2g2 f (3:2:2z2 _d!<)!|[V:2]!mp!!<(! (3[=ce=c']!p![e'=c''][ce] (3z [c'c''][ce] (3z [c'c''][ce] (3z [c'c''][ce] (3z [c'c''][ce] (3z [c'c''][ce]!<)!|[V:3]([B,,B,]3 B,) (([B,,B,]3 B>)[B,,B,])|[V:4]x8|
+[V:1]!pp!!<(! (=c3 e)!<)!!>(! (_g2!>)! =f3/2) _d/|[V:2]!p!!>(! (3[e'e'']!p![e^g] z!>(! (3[^G^g][c'g'][GB]!>)!!>)!|[V:3]z8|[V:4]x8|
+[V:1]!pp!!>(! =c3 e =f3!>)!!<(! d!<)!|[V:2]!mp!!>(! (3[ee'])[^G,=C] z (3z [ee'][Gc] (3z [ge'][Gc] (3z [be']e|[V:3]([B,,B,]3 [B,,B,]) (([B,,B,]3 [B,,B,]))|[V:4]x8|
+[V:1]!mf!!>(! (=f3 a!>)!) a2 z2|[V:2]!p!!>(! (3[^e^e'][^GB] z (3z!p! [e^g][Be] (3z [gb][GB] (3z!<(! [be'][GB]!<)! (3z [be'][GB]!<)!|[V:3]([B,,B,]3 [B,B])) (([B,=FB]3 [B,B]))|[V:4]x8|
+[V:1]!mf! B3 ^d f2 (3:2:2z2 a|[V:2]!mp!!>(! (3[d=f]=F z (3[df'][FA]!>)!!<(![d'f'] (3z [FA][df]|[V:3]([B,,B,]3 [B,,B,]) (([B,B]3 [B,B]))|[V:4]x8|
+[V:1]"^B1"!pp!!<(! (=f3)!<)!!mp! ^g)!>(! ^f!>)!|[V:2]!mp!!>(! (3[^e^g][^GB] z (3[eg][GB]!<)!!mf! z!>(! (3[eg][Beg] z (3[GB][e'gb]!<)!!>(![GB]|[V:3]!ped! ([B,,B,]3 [B,^G]) (([B,B]3 [B,B]))!>)! (([B,B]|[V:4]x5|
+[V:1]!mf!!<(! c3 e!<)! g4-!<)!|[V:2]!mp!!<(! (3[c^e]^E) z (3[ce][E^G]!<)!!mf!!>(! (3z [eg][GB] (3z [e'^g'][gb]!<)!|[V:3]!ped! ([B,,B,]3!ped-up!!ped! [B,B]) (([B,B]3!ped-up! [B,B])) (([B,B]|[V:4]x8|
+[V:1]g2) f2- f ^d!p!!<(!"^espress." f|[V:2]!>(! (3[^e'^g'][^^g^b][^B^d] (3z [gb][Bd]!>)!!mf! (3z!>(! [^g'b'][^g^b](3^g|[V:3]([B,B]3)) [B,B]))!mf! (([B,B]3 [B,B]))|[V:4]x7|
+[V:1][Q:staff 34"!ff![Q:1/4=149]"^49"!>(! =g3 B[Q:3/8=15] g3 B!>)!|[V:2](3[=f'^g'][^GB] z (3[fg][G^B]3/2"_rit." z[Q:1/4=155] (3[fgbf'] [FB^d]|[V:3]!ped! (3(([^E,,^E,]3[K:treble] [^E^e]))[I:staff +1] ((([B,B]3!ped-up!!ped! [B,B]))|[V:4]x4|
+[V:1][Q:1/4=148]"^B" z8!f! [GBdg]3 [Ff] [=F=f] [EBe]|[V:2]!ff! (3[=f'^g'][^GB] z (3[fg][GB] (3!>![fg][F^G] z (3[Bg][f'g'][fb]!<)! (3z [fg][Bf]||[V:3]!ped! (3([^E,^E]3[K:treble] [E^e])[K:bass] (([B,B]3!<)!!ped-up! [B,B]))|[V:4][^E,,,^E,,]8!ped-up!||
+[V:1]"^B"!pp![Q:1/4=50][Q:1/4=49]"^.3" z8[Q:1/4=40][Q:1/8=36]|[V:2]"^in Tempo"!ff!!<(! (3[=FA][K:bass][=F,A,] z (3[FA][F,A,][I:staff -1][=FA][F,A,]!<(! (3[FA][I:staff +1][F,A,][I:staff -1] (3[FA][I:staff +1][F,A,][I:staff -1] (3[FA][I:staff +1][=F,A,][I:staff -3] (3[FA][I:staff +1][F,A,][I:staff -1] (3[FA][I:staff +1][F,A,][I:staff -1] (3[FA][I:staff +1][F,A,][I:staff -1] (3[FA][I:staff +1][F,A,][I:staff -1] (3[FA][I:staff +1][F,A,][I:staff -1] (3[FA][I:staff +1][F,A,][I:staff -1] (3[FA][I:staff -1][FA][FA]|[V:3][K:bass]!ped! ([^G,,^G,]3 [G,,^G,]))!ped-up!!mp!!<(! (([A,,A,]3!<)!|[V:4][K:bass] [=F,,,=F,,]4[K:treble] x4|
+[V:1]z1246/81|[V:2]!ff!!ped![I:staff -1] (3[GB][G,B,][I:staff +1] (3[GB][G,B,][I:staftaff -1][GB] (3[GB][I:staff +1][G,B,][I:staff -1][GB][G,B,][I:staff -1] (3[GB]"_cresc."[I:staff +1] (3[GB][G,B,][I:staff -1] (3[GB][I:staff +1][G,B,][I:staff -1] (3[GB][I:staff +1][G,B,][I:staff -1] (3[GB][I:staff +1][G,B,][I:staff -1][GB][I:staff +1] (3[GB][G,B,][I:staff -1] (3[GB][I:staff +1][G,B,][I:staff -1] (3[GB][I:staff +1][G,B,][I:staff -1][GB][I:staff +1][G,B,][I:staff -1] (3[GB][I:staff +1][G,B,][I:staff -1] (3[GB][I:staff +1][G,B,][I:staff -1][GB]|[V:3]!ped! (3[G,,,G,,]3 [A,,,A,,])|[V:4]x1246/81|
+[V:1]z23/3|[V:2]!f!!<(! (3[d=f]=F[I:staff +1] z[I:staff -1] (3[FG][I:staff +1][F,G,][I:staff -1][FG][I:staff +1] (3[FG][G,D][I:staff -1][DG] (3[d=f]G[D=F] (3[df]G[I:staff +1][DF][I:staff -1] (3[FG][I:staff +1]G,[I:staff -1] (3[FG][I:staff +1]G,|[V:3]!ped! (3(([E,,E,]3 [=F,,=F]))!<)!!ped-up!!8ed! (([B,F]3[K:treble])))[I:staff +1] (([F,F]3!<)!!<)!|[V:4][K:bass] [D,,D,]4[K:treble] x4|
+[V:1]!p!!<(! F3 A!<)! (d7/2 F/)|[V:2]!ff!!ped![I:staff -1] (3[=FG][I:staff +1]G, (3[FG]G,G,[I:staff -1] (3[FG][I:staff +1][F,G,]|[V:3]!ped! (([=F,,=F,]3!ped-up!)!ped! [^G,,,^G,]3)!<)!!>(!!ped! (([G,F]3!ped-up!!ped! [G,,F,])) z!<)!!<)!|[V:4]x8|
+[V:1]!p! B2 B2 A2 d2|[V:2]!mp!!ped!!<(! (3[G,_B,]_B,, z (3[G,B,]B,,[I:staff -1] [G_Bd]_D(3[GBd]D[I:staff +1] [GBd][I:staff -1][G,B,DG][I:staff +1]G,[I:staff -1] (3[Bd][I:staff +1]G[I:staff -1] (3[GBd][I:staff +1]B,[I:staff -1] (3[Bd=f]=F[I:staff +1]G[I:staff -1] (3[Bd=f]G[I:staff -1]G|[V:3]!ped! (3([E,,E,]3 [=F,,=F,=F]))!ped-up!!ped! (([B,F]3|[V:4]x8|
+[V:1]!f! (g6 =f2)|[V:2]!ff!!ped! (3[ce]E[I:staff +1]C[I:staff -1] (3[ce]G[I:staff +1]C[I:staff -1]E!ped-up!!ped![I:staff -1] (3[B=de]E[Bde](3E[I:staff +1] [Bde]E[I:staff -1] (3[_Bde]E[I:staff +1]E[I:staff -1] (3[_Bd=f]E[I:staff +1]E[I:staff -1] (3[_Bde]E[I:staff +1]E[I:staff -1] [de=f]_B[de]E)!ped-up!|[V:3](3[C,C]3) (([C,C] [C,,C,]3|[V:4]x8|
+[V:1]=g)[Q:1/4=49]!<(! f F F f3 f!<)!!>)!!ped![_g_d'=f']_F!ped-up!!<)!!ped! (3[gd'f']F!ped-up!|[V:2]z22/3|[V:3]!ped! (3((([=F,=F]3))[K:traff -1] [_D=F_d]F)[I:staff +1] (([F,F]3!ped-up!!ped! [_F,F])|[V:4]x22/3|
+[V:1][Q:1/2=53] g3 c c3 C|[V:2]!ped! (3[^ebc']c[ebc'] (3[ebc']c[ebc']!<)!!ped![I:staff +1] (3[ebc']c[I:staff +1]C,!<)!|[V:3](3(([C,,C,]3[K:treble] [D,CG])) ([D,CG]3[K:bass]|[V:4]x2[K:treble] x2[K:bass][K:treble]|
+[V:1]!ppp![Q:1/4=45] C3[Q:1/4=40]!p!!<(![Q:1/4=40][Q:1/4=35]|[V:2][I:staff -1] (3[cgbc']c[cgb]!>(! (3[bc']c[I:staff +1] (3[bc]C[I:staff -1][I:staff -1] [bc'c']c[I:staff +1] (3[bc']c[I:staff +1]C[I:staff -1] (3[Bcb]c[cbc'][I:staff +1] (13[bc']c[I:staff +1]C!ped-up!|[V:3](3([F,CG]3[K:treble] [CA]) ([CA]3[K:bass] (3[F,C])[K:treble] ([CA]3[K:bass]|[V:4]x4/3[K:treble]|
+[V:1][Q:1/4=40]!mf!!<(! !>!D !>!E[Q:1/4=scherzando" F!<)!!<)!|[V:2]!ped![I:staff -1] (3!>!d[I:staff +1][B,E][B,D][I:staff -1] (3[GBe]D[I:staff +1]B,[I:staff -1] (3[GBd]D[I:staff +1]B,[I:staff -1] (3[ceg]G[B,C][I:staff -1][K:bass] (3[C,,C,]G,,[C,,,C,,]|[V:3]z10|[V:4]x10|
+[V:1][Q:1/4=30]!mp!!<(! C[Q:1/4=24]"^a trescendo"F[Q:1/4=18]!<)!|[V:2]!ped![I:staff +1] (3[F,,,F,,]C,,[F,,,,F,,,] (3E,[C,,C,,]F,,!ped-up!|[V:3]z2|[V:4]x2|
+[V:1]!f![Q:1/4=26]!ff!!>(! !>!!fermata!E3 D!<)!!pp!!>(! E2 z2!>)!|][V:2]!>(!!ped! [CG]!>)!!p!B,)!>)!!ppp![I:staff +1] (3(E!<(!B,C(3DEF (3GA!<)!B z2!ped-up!|][V:3][D,D])) z (D,E,F,G,)|][V:4]x8|]
+[V:1][Q:1/4=36] z8[Q:1/4=33]|][V:2]z8|][V:3]z2!ped-up!!pp!!>(! (3(D,EF) D,,2-|][V:4]x2 C6|]
+[V:1]!ppp![Q:1/4=43]!>(! (E3 D) D4!>)!:|[V:2][K:bass] B,4 A,4!>)!|][V:3]x2 x x/4 C/4D/4F/4-[I:staff -1] (G2 F2)!>)! !fermata!D|][V:4]x2 (3x E,G) x2!pp! D,,,2!>)!|]
+[V:1]z8|][V:2]"_dolce" (F2 d4 c2|[V:3]x4 x2 !fermata![F,A,]2|][V:4]x8|]
+[V:1]z8|]][V:2]!fermata!x2- !fermata!D6|][V:3]!fermata!x4 !fermata!F4|]][V:4]x8|]]
+[V:1]z8|[V:2]!>(! x2!ppp! D6-|[V:3]z8|[V:4]x8|

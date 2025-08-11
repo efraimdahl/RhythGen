@@ -1,0 +1,24 @@
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+M:2/4
+K:Bb
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+[V:1]"^Allegro agitato"!f! F|:[V:2]z1|:[V:3]z1|:[V:4]x1|:
+[V:1]B2 F F|[V:2][FB]/D/[FB]/D/ [FA]/C/[FA]/C/|[V:3][B,,B,][B,,B,][F,,F,][F,,F,]|[V:4]x4|
+[V:1]{F} E D z B|[V:2][EG]/C/[EG]/C/ [DF]/B,/[DF]/B,/|[V:3][C,,C,][C,,C,][B,,,B,,][B,,,B,,]|[V:4]x4|
+[V:1]c c B A|[V:2][EG]/C/[EG]/C/ [EG]/C/[EG]/C/|[V:3]E,E,C,C,|[V:4]x4|
+[V:1]B2 z F|[V:2][DF]/B,/[DF]/B,/ [DF]/B,/[DF]/B,/|[V:3][B,,,B,,][B,,,B,,][B,,,B,,][B,,,B,,]|[V:4]x4|
+[V:1]c c B A|[V:2][EG]/C/[EG]/C/ [EG]/C/[EG]/C/|[V:3]E,E,C,C,|[V:4]x4|
+[V:1]{c} B A z B|[V:2][EG]/C/[EG]/C/ [EG]/C/[EG]/C/|[V:3][E,,E,][E,,E,][E,,E,][E,,E,]|[V:4]x4|
+[V:1]c F G A|[V:2][EA]/C/[EA]/C/ [EA]/C/[EA]/C/|[V:3][F,,F,][F,,F,][F,,F,][F,,F,]|[V:4]x4|
+[V:1]B2 z F|[V:2][DB]/B,/[DB]/B,/ [DB]/B,/[DB]/B,/|[V:3][B,,,B,,][B,,,B,,][B,,,B,,][B,,,B,,]|[V:4]x4|
+[V:1]G2 F G|[V:2][EG]/B,/[EG]/B,/ [EG]/B,/[EG]/B,/|[V:3]E,,E,E,E,|[V:4]x4|
+[V:1]B A z B|[V:2][DF]/B,/[DF]/B,/ [DF]/B,/[DF]/B,/|[V:3][B,,,B,,][B,,,B,,][B,,,B,,][B,,,B,,]|[V:4]x4|
+[V:1]c2 B c|[V:2][EA]/C/[EA]/C/ [EA]/C/[EA]/C/|[V:3][F,,F,][F,,F,][F,,F,][F,,F,]|[V:4]x4|
+[V:1]e d z F|[V:2][EA]/C/[EA]/C/ [EA]/C/[EA]/C/|[V:3][F,,F,][F,,F,][F,,F,][F,,F,]|[V:4]x4|
+[V:1](GB) (Ac)|1[V:2][DG]/B,/[DG]/B,/ [EF]/C/[EF]/C/|1[V:3][B,,,B,,][B,,,B,,][F,,,F,,][F,,,F,,]|1[V:4]x4|1
+[V:1]B2 z F:|2[V:2][DF]/B,/[DF]/B,/ [DF]/B,/[DF]/B,/:|2[V:3][B,,,B,,][B,,,B,,][B,,,B,,][B,,,B,,]:|2[V:4]x4:|2
+[V:1]B2 z|][V:2][DF]2 z|][V:3][B,,,B,,]2 z|][V:4]B,2 x|]

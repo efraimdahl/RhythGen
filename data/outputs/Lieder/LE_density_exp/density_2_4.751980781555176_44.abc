@@ -1,0 +1,16 @@
+%%score ( 1 2 ) { ( 3 6 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=100
+M:4/4
+K:Bb
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:6 treble 
+V:4 bass 
+V:5 bass 
+[V:1]"^Adagio con espressione" z2!p! B B c c d d|[V:2]%distance=2[r:0/4]x8|[V:3]!p!"_ad lib: cresc." (!>![FB]F[DB][DB] [Ec][Ec][Fd][Fd]|[V:4]!ped! !>![B,,B,]2!ped-up! z2 z4|[V:5]%distance=2[r:0/4]x8|[V:6]%distance=2[r:0/4]x8|
+[V:1]e2 d2 c2 B2|[V:2]x8|[V:3][Ge][Ge][Fd][Fd] [Ec][Ec][DB][DB])|[V:4]z8|[V:5]x8|[V:6]x8|
+[V:1]A4 G2 z2|[V:2]x8|[V:3]!p! [CDA][CDA][CDA][CDA] [B,DG][B,DG][B,DG][B,DG]|[V:4]!ped! (^F,,4!ped-up! G,,4)|[V:5]x8|[V:6]x8|
+[V:1]"^cresc." (F4 c4)|[V:2]x8|[V:3][DF][DF][DF][DF] [CEF][CEF][CEF][CEF]|[V:4]"^colla voce" [F,,B,,F,]8|[V:5]x8|[V:6]x8|
+[V:1]!f! !fermata!B4 z4:|[V:2]x8:|[V:3]!f! !fermata![B,DF]4 z4:|[V:4]!fermata![B,,,F,,B,,]4 z4:|[V:5]x8:|[V:6]x8:|

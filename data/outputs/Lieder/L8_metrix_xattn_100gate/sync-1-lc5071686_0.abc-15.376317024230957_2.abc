@@ -1,0 +1,31 @@
+%%score 1 { 2 | ( 3 4 5 ) }
+L:1/8
+Q:1/4=60
+M:6/8
+K:B
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+V:4 bass 
+V:5 bass 
+[V:1]"^Marghetto"!p! D|[V:2](G/d/c/d/G) (c/d/c/G/A)|[V:3][C,E,G,]2 [C,E,G,] [C,E,G,]2 [C,E,G,]|[V:4]x6|[V:5]x6|
+[V:1]d3- d2 c|[V:2][CEG]2 [EGc] [EGc]2 [EGc]|[V:3]A,>A,A, A,>G,A,|[V:4]x6|[V:5]x6|
+[V:1]c2 c c2 c|[V:2][CEA]2 [CEA] [CEA]2 [CEA]|[V:3][A,,A,]2 z z2 z|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2]!mf! [EAc] z [EAc] z z|[V:3]z (E,,E,) z (E,,E,)|[V:4]x6|[V:5]C2 x4|
+[V:1]z2!pp! c!<(! c2 B!>)!|[V:2]z6|[V:3][D,,D,] z [A,,,A,,] [A,,,A,,]2 [A,,,A,,]|[V:4]x6|[V:5]x6|
+[V:1]A2 E (FA) B|[V:2]z (CE) (AEc)|[V:3]C,zG, CzG,|[V:4](E,2 C, A,2 A,,)|[V:5]x6|
+[V:1]G3/2 G/ B A G ^^F|[V:2]z (E/D/E) (F>GA)|[V:3][G,,G,] z z [A,,A,] z z|[V:4]x6|[V:5]x6|
+[V:1]!f! A3 F z z|[V:2]([Ac]>[GB])[FA] ([Ac]>[GB]|[V:3][C,G,]3 [C,,C,]3|[V:4]x6|[V:5]A,,3 E,,3|
+[V:1]c2 B A2 c|[V:2](cAF DFB)|[V:3]E, z z A,,, z z|[V:4]x6|[V:5]x6|
+[V:1]A2 z A B A|[V:2]([EA]2 [Ae] [Ae]2 [Ec])|[V:3]z ([F,A,][I:staff -1] [DF][I:staff +1] z z (G,|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2][B,E]2 z [B,E]2 z|[V:3][A,,E,A,] z z [A,,E,A,] z [A,,E,A,]|[V:4]x6|[V:5]x6|
+[V:1]A c f{f} (e^d) e|[V:2]([EAe]2 [EGB]) ([EGc]2 [EGc])|[V:3]z6|[V:4]x2 x E3|[V:5]x6|
+[V:1]d3- d2 z|[V:2][A,FA]2 (d [Af]2 A)|[V:3][C,A,]2 [A,,A,] [A,,A,]2 [A,,A,]|[V:4]x6|[V:5]x6|
+[V:1](F2 E) D2 F|[V:2][A,DFA]2 [DFA] [DEG]2 [DEG]|[V:3][A,,,A,,]2 z [A,,,A,,]2 z|[V:4]x6|[V:5]x6|
+[V:1]B2 A G2 z|[V:2]!p! z (.[CFA].[CFA] z .[CFA]|[V:3]([A,,,A,,]3 [C,,C,]3|[V:4]x6|[V:5]x6|
+[V:1]z2 z z2 c|[V:2]z (.[G,DE].[G,DE]) z (.[G,DE]|[V:3]z6|[V:4]C2 x4|[V:5]x6|
+[V:1]A3/2 B/ c A2 A/ A/|[V:2]([EA]2 c [Ac]3)|[V:3](.F,, z z (F,,>C,.C)|[V:4]F,,2 x4|[V:5]x6|
+[V:1]c3 B z B|[V:2][Bd]2 [GB] [GB]>cd|[V:3]A,,2 [^^C,=B,] [C,^C]2 [C,,C,]|[V:4]x6|[V:5]x6|
+[V:1]A2 A d2 A|[V:2][A,CA] z [C,A,] [D,A,] z z z|[V:3]z6|[V:4]x6|[V:5]x6|
+[V:1][M:3/8] z3|][V:2]!fermata![G,,D,G,]3|][V:3]z3|][V:4]x3|][V:5]x3|]
+[V:1][Q:1/4=100]"^\n \n" (f3/2 e/ d c3|[V:2]!fermata![B,,,F,,D,]6|][V:3]z6|][V:4]x6|][V:5]x3 D3|]

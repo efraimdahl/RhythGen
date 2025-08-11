@@ -1,0 +1,23 @@
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=76
+M:3/4
+K:C
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+V:4 bass 
+[V:1]"^Andantino molto"!p! G|[V:2]!p! [EG]|[V:3]z1|[V:4]x1|
+[V:1]A c (e/d/) (d/c/) c e|[V:2][FA][Ac] ([ce]/[Bd]/)([Bd]/[Ac]/) [Ac][ce]|[V:3][F,,F,][A,,A,][C,C][F,,F,] [E,,E,]2|[V:4]x6|
+[V:1]d A (A/c/) (B/A/) (A/^G/) (G/A/)|[V:2][Bd][DFA] (A/c/)(B/A/) (A/^G/)(G/A/)|[V:3][F,,F,][D,,D,][A,,,A,,][D,,D,] [E,,E,]2|[V:4]x4 DC|
+[V:1](A/^G/) (A/B/) (c/B/) (B/c/) c B|[V:2](A/^G/)(A/B/) (c/B/)(B/c/) (cB)|[V:3][A,,A,][D,,D,][E,,E,][A,,A,][A,,,A,,][E,,E,]|[V:4]C[B,D][A,C][^G,D][A,C]E,|
+[V:1]B A z2 z ^F|[V:2]([DB][CA]) z2 z [C^F]|[V:3][A,,,A,,]2 z A,,/C,/ D,/E,/^F,|[V:4]x6|
+[V:1]G B (d/c/) (c/B/) B d|[V:2][B,G][GB] ([Bd]/[Ac]/)([Ac]/[GB]/) [GB][Bd]|[V:3][G,,G,][G,,G,][B,,B,][E,,E,] [D,,D,]2|[V:4]x6|
+[V:1]c G (G/B/) (A/G/) (G/^F/) (F/G/)|[V:2][Ac][CEG] (G/B/)(A/G/) (G/^F/)(F/G/)|[V:3][E,,E,][C,,C,][G,,,G,,][C,,C,] [D,,D,]2|[V:4]x4 CB,|
+[V:1](G/^F/) (G/A/) (B/A/) (A/B/) B A|[V:2](G/^F/)(G/A/) (B/A/)(A/B/) (BA)|[V:3][G,,G,][C,,C,][D,,D,][G,,G,][G,,,G,,][D,,D,]|[V:4]C[A,C][G,B,][^F,C][G,B,]D,|
+[V:1]A G z2 z2|[V:2]([CA][B,G]) z!f! (g/^f/ a/g/) (d/e/)|[V:3][G,,,G,,]2 z[K:treble] ([GB]/[^FA]/) ([GB]/[DF]/)([CE]/[DF]/)|[V:4]x3[K:treble] x3|
+[V:1]z6|[V:2](d/c/) (B/A/) (^F/G/) (F/G/) (D/E/) (C/D/)|[V:3][K:bass] ([CE]/[B,D]/) ([A,C]/[G,B,]/) ([^F,A,]/[G,B,]/) ([D,F,]/[E,G,]/) ([B,,D,]/[C,E,]/) ([A,,C,]/[B,,D,]/)|[V:4][K:bass] x6|
+[V:1]z2 z2 z!f! e|[V:2](C/G/) (^F/G/) z/ (B/G/A/) (B/G/)!f! ([EG]/[GB]/)|[V:3]([A,,C,]/[C,E,]/) ([B,,D,]/[C,E,]/) [B,,D,]([C,E,]/[A,,^F,]/) ([B,,G,]/[D,F,]/) ([E,,E,]/[G,,G,]/)|[V:4]x6|
+[V:1]d B (c/e/) (d/c/) (c/B/) (A/G/)|[V:2][Bd][^FA] ([Ac]/[ce]/)([Bd]/[Ac]/) ([Ac]/[GB]/) ([^FA]/[EG]/)|[V:3][^F,,^F,][D,,D,] [C,,C,]2 [D,,D,]2|[V:4]D2 x4|
+[V:1](^F/G/) (A/B/) c B (c/B/) (A/G/)|[V:2]([D^F]/[EG]/) ([FA]/[GB]/) ([Ac][GB]) ([Ac]/[GB]/) ([FA]/[EG]/)|[V:3][B,,,B,,][G,,,G,,][D,,D,][B,,,B,,] [G,,G,]2|[V:4]x2 D4|
+[V:1](^F/G/) (A/B/) (c/B/) (B/c/) (c/d/) (d/c/)|][V:2]([D^F]/[EG]/) ([FA]/[GB]/) ([Ac]/[GB]/) ([GB]/[Ac]/) ([Ac]/[Bd]/) ([Bd]/[Ac]/)|][V:3][A,,A,][D,,D,][G,,G,][B,,B,][G,,G,][D,,D,]|][V:4]x6|]

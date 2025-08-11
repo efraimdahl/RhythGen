@@ -1,0 +1,29 @@
+%%score { 1 ( 2 3 ) }
+L:1/8
+Q:1/4=100
+M:2/4
+K:A
+V:1 treble nm="Voice"
+V:2 treble-8 nm="Guitar"
+V:3 treble-8 
+[V:1]"^Nicht zu langsam"!mp! E|[V:2]e|[V:3]x1|
+[V:1]c3/2 c/ c c|[V:2](3cea (3c'ae|[V:3]A,4|
+[V:1]e c A3/2 A/|[V:2](3cea (3c'ae|[V:3]A,4|
+[V:1]c3/2 c/ e3/2 A/|[V:2](3cea (3c'ae|[V:3]A,4|
+[V:1]G2 z E|[V:2](3dgb (3d'bg|[V:3]E4|
+[V:1]d3/2 d/ d d|[V:2](3dgb (3d'bg|[V:3]E4|
+[V:1]f d B B|[V:2](3dgb (3d'bg|[V:3]E4|
+[V:1]e3/2 e/ g3/2 B/|[V:2](3dgb (3d'bg|[V:3]E4|
+[V:1]A2 z c|[V:2](3cea (3c'ae|[V:3]A,4|
+[V:1]c3/2 c/ c B|[V:2](3cea (3c'ae|[V:3]A,4|
+[V:1]^A A B c|[V:2](3cf^a (3c'af|[V:3]F,4|
+[V:1]d3/2 d/ c3/2 ^A/|[V:2](3dfb (3cf^a|[V:3]B,2 F,2|
+[V:1]B2 z B|[V:2](3B^df (3bfd|[V:3]B,4|
+[V:1]B3/2 B/ c ^d|[V:2](3^dfb (3d'bf|[V:3]B,4|
+[V:1]f e c c|[V:2](3cea (3c'ae|[V:3]A,4|
+[V:1]e d c3/2 B/|[V:2](3egd' (3egd'|[V:3]E4|
+[V:1]A2 z2|[V:2][cea]2 z e|[V:3]A,2 x2|
+[V:1]z4|[V:2](3d'ge (3d'ge|[V:3]E2 E2|
+[V:1]z4|[V:2](3c'ae (3c'ae|[V:3]A2 A2|
+[V:1]z4|[V:2](3d'ge (3d'ge|[V:3]E2 E2|
+[V:1]z2 !fermata!z:|[V:2][ca]2 !fermata!z:|[V:3]A2 !fermata!z:|

@@ -1,0 +1,40 @@
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=116
+M:2/4
+K:Eb
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+[V:1]"^Allegretto"!mf! G3/2 A/ B A|[V:2]!mf! [EG]>[FA][GB][FA]|[V:3][E,,E,][E,,E,][E,,E,][E,,E,]|
+[V:1]{A} G F E z|[V:2]{[FA]} [EG][DF] [CE] z|[V:3][E,,E,][B,,,B,,] [E,,E,] z|
+[V:1]B B c B|[V:2][GB][GB] [Ac][GB]|[V:3]!f! E,E,E,E,|
+[V:1]B3/2 c/ B z|[V:2]([GB]>[Ac] [GB]) z|[V:3]E,E,E, z|
+[V:1]A3/2 A/ B B|[V:2]!p! z [FA][GB][GB]|[V:3][A,C][A,C][G,B,][G,B,]|
+[V:1]{A} G F E z|[V:2]{[FA]} [EG][DF] [CE] z|[V:3][F,A,]B, [E,G,] z|
+[V:1]"^poco cresc." B3/2 =A/ B z|[V:2]z"_poco cresc." ([CE=A][DFB]) z|[V:3]z [F,,F,][B,,F,] z|
+[V:1]c3/2 =B/ c z|[V:2]z ([DF=B][EGc]) z|[V:3]z [G,,G,][C,G,] z|
+[V:1]"^piu cresc." d3/2 ^c/ d z|[V:2]"_piu cresc." z ([D^Fd][DGd]) z|[V:3]z [B,,B,][B,,B,] z|
+[V:1]e3/2 d/ e z|[V:2]z"_cresc." ([Fdf][EGe]) z|[V:3]z [=B,,=B,][C,C] z|
+[V:1]"^dim." f3/2 =e/ f z|[V:2]"_dim." z ([F=Af][GA=e]) z|[V:3]z ([C,C][C,C]) z|
+[V:1]f3/2 =e/ f z|[V:2]z ([F=Af][FBf]) z|[V:3]z ([D,D][D,D]) z|
+[V:1]g3/2 f/ g z|[V:2]z ([B_dg][A=da]) z|[V:3]z ([E,E][=E,=E]) z|
+[V:1]g3/2 f/ g z|[V:2]z ([Beb][=Bf=b]) z|[V:3]z ([G,G][G,G]) z|
+[V:1]g3/2 ^f/ g z|[V:2]z"_cresc." ([B=eb][Bfb]) z|[V:3]z ([G,G][G,G]) z|
+[V:1]g3/2 ^f/ g z|[V:2]z ([B=eb][=Bf=b]) z|[V:3]z ([G,G][G,G]) z|
+[V:1]!pp!"^dolcissimo" g2 e c|[V:2]!p! (([Bg]2 [Ae])) z|[V:3][K:bass] [C,C][C,C][C,C] z|
+[V:1]"^dolce." (g2 f) z|[V:2]"_cresc." (([Geg]2 [Fdf])) z|[V:3][A,C][A,C][A,C] z|
+[V:1]e2 c =A|[V:2](([Ece]2 [E=Ac])) z|[V:3][F,A,][F,A,][F,A,] z|
+[V:1]"^poco stringendo"[Q:1/4=108]"^poco rall."{/g} (f2[Q:1/4=104] e) z|[V:2]"_poco strangendo" ([EGBe]2 [EGBe]) z|[V:3][G,B,][G,B,][G,B,] z|
+[V:1]!f![Q:1/4=100]"^T" g3[Q:1/4=95]"^T" f|[V:2]!f! [EGBe]2 [FABd]2|[V:3][B,,B,][B,,B,][B,,B,][B,,B,]|
+[V:1][Q:1/4=116]"^a tempo"[Q:1/4=120]"^Tempo I" e2 z2|[V:2]"_a Tempo" [GBe]/(B/[EG]/B,/) ([EG]/B/[EG]/B,/)|[V:3]!ff! [E,,E,][E,,E,][E,,E,][E,,E,]|
+[V:1]z4|[V:2]([EG]/B/[EG]/B,/) ([EG]/B/[EG]/B,/)|[V:3][E,,E,][E,,E,][E,,E,][E,,E,]|
+[V:1]"^Tranquillo presto" z2 z B|[V:2]!p! ([EG]/B/[EG]/B,/) ([EG]/B/[EG]/B,/)|[V:3][E,,E,][E,,E,][E,,E,][E,,E,]|
+[V:1]g3 f|[V:2]([EG]/B/[EG]/B,/) ([EG]/B/[EG]/B,/)|[V:3][E,,E,][E,,E,][E,,E,][E,,E,]|
+[V:1]f2 e z|[V:2]([EA]/c/[EA]/C/) ([EG]/B/[EG]/B,/)|[V:3][E,,E,][E,,E,][E,,E,][E,,E,]|
+[V:1]e2 (dc)|[V:2]([EG]/B/[EG]/B,/) ([F=A]/c/[FA]/C/)|[V:3][E,,E,][E,,E,][E,,E,][E,,E,]|
+[V:1]B3 B|[V:2]([FA]/B/[FA]/B,/) ([FA]/B/[FA]/B,/)|[V:3][E,,E,][E,,E,][E,,E,][E,,E,]|
+[V:1]g3 f|[V:2]([EG]/B/[EG]/B,/) ([EG]/B/[EG]/B,/)|[V:3][E,,E,][E,,E,][E,,E,][E,,E,]|
+[V:1]f2 e2|[V:2]([EA]/c/[EA]/C/) ([EG]/B/[EG]/B,/)|[V:3][E,,E,][E,,E,][E,,E,][E,,E,]|
+[V:1]e2 d c|[V:2]([EG]/B/[EG]/B,/) ([F=A]/c/[FA]/C/)|[V:3][E,,E,][E,,E,][E,,E,][E,,E,]|
+[V:1]B2 z2|][V:2]([FA]/B/[FA]/B,/) ([FA]/B/[FA]/B,/)|][V:3][E,,E,][E,,E,][E,,E,][E,,E,]|]

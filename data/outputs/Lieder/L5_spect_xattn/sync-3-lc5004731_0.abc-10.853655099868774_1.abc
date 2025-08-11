@@ -1,0 +1,25 @@
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=87
+M:2/4
+K:Bb
+V:1 treble nm="Singstimme"
+V:2 bass nm="Pianoforte"
+V:3 bass 
+[V:1]"^Sartlando" d|[V:2][B,D]|[V:3]z1|
+[V:1]c B A B|[V:2][A,C][G,B,][^F,A,][G,B,]|[V:3]G,,D,G,,D,|
+[V:1]{B} A2 z c|[V:2](G,^F,/=E,/) F, z|[V:3]D,,3 z|
+[V:1]c3/2 c/ d B|[V:2](C/A,/C/A,/) (D/B,/D/B,/)|[V:3]^F,2 G,2|
+[V:1]A2 z B|[V:2](C/B,/C/A,/) D z|[V:3]^F,2 G, z|
+[V:1]c B A G|[V:2](C/G,/B,/G,/ A,/G,/B,/G,/)|[V:3]E,D,^C,D,|
+[V:1]G^F z d|[V:2](G,/D,/^C,/D,/) D,, z|[V:3]D,,3 z|
+[V:1]c3/2 c/ d B|[V:2][K:treble] (C/A,/C/A,/) (D/B,/D/B,/)|[V:3]^F,2 G,2|
+[V:1]A2 z/ B/ c/ d/|[V:2](C/B,/C/A,/) D z|[V:3]^F,2 G, z|
+[V:1]e B B c/_d/|[V:2]!p! z [B,_D][B,D] z|[V:3]_G,3 z|
+[V:1]c F z/ c/ _d/ c/|[V:2]z [_A,C][A,C] z|[V:3]F,3 z|
+[V:1]B2 _A3/2 A/|[V:2]!<(! z/ (B,/_D/B,/)!<)! z/!>(! (_C/_F/!>)!C/)|[V:3]_G,2 _F,2|
+[V:1]_G2 z _g|[V:2]z/ (__B,/[K:treble]_D/B,/)!<(! z/ (D/_G/!<)!D/)|[V:3]__E,2 E,2|
+[V:1]_g2 _d e|[V:2]!mf! z/ (E/_G/E/) z/ (E/G/E/)|[V:3][_C,_C]2 [C,C]2|
+[V:1]_d2 z/ e/ d/ _c/|[V:2]z/ (_D/_G/D/) z/ (D/G/D/)|[V:3][__B,,__B,]4|
+[V:1][Q:1/4=85] __B _A[Q:1/4=80] z _f|[V:2]!mf! z/ (_D/_A/D/) z/ (D/A/D/)|[V:3][F,,F,]4|
+[V:1]!fermata!_g2 !fermata!z|][V:2]!fermata!_G2 !fermata!z|][V:3]!fermata![__E,,__E,]3 !fenuto!!fermata![_D,,_D,]|]

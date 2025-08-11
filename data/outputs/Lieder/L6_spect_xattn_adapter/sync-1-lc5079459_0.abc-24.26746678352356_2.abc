@@ -1,0 +1,35 @@
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=52
+M:4/4
+K:A
+V:1 treble nm="Chant\nVoice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+[V:1]"^Adagio con espressione." z4 z2 z!mp! A|[V:2]!p!"^leggioso" ([Ac]3 [GB]) ([GB]3 [FA])|[V:3]x2 CC x2 CC|[V:4](F,4 ^E,4)|[V:5]x8|
+[V:1]A2 A2 z2 A2|[V:2]([FA]3 [^EG]) ([EG]3 [=E=G])|[V:3]x2 CC x2 CC|[V:4](E,4 D,4)|[V:5]x8|
+[V:1](A G F2) F2 (A>F)|[V:2]([EG]3 [DF]) ([DF]3 [DF])|[V:3]x2 A,A, x2 A,A,|[V:4](D,8|[V:5]x2 F,,F,, x2 F,,F,,|
+[V:1]E4 z2 A2|[V:2]([DF]2 [CE]2) z2 ([Ac]2|[V:3]x2 CC x2 (C2|[V:4]C,2) z2 x2 (E,2|[V:5]A,,2 x2 A,,4-|
+[V:1]A3 G G F F G|[V:2][Ac]3 [GB]) ([GB]3 [GB]|[V:3]C2 CC C2 CC|[V:4]^E,4 =E,4|[V:5]x8|
+[V:1](A3 G) G4|[V:2][FA]3 [^EG]) ([EG]3 [=E=G])|[V:3]C2 CC C2 CC|[V:4]^D,4 E,4)|[V:5]x8|
+[V:1]z2!<(! (GA) (cd) B!<)!!mf! A|[V:2]!p! ([EG]3 [DF]) ([DF]3 [DF])|[V:3]A,3 A, A,2 A,A,|[V:4](D,4 F,,2) (D,2|[V:5]x8|
+[V:1]z2 z!pp! A B2 c A|[V:2][CE]2 ([^B,^D][CE] [DF]2 [CE]) z|[V:3]C2 CC C2 x2|[V:4]E,4 C,4|[V:5]x8|
+[V:1]z4 z2!p! G G|[V:2]!p! ([Ac]3 [G^B]) ([GB]3 [F^A])|[V:3]C2 CC C2 CC|[V:4]^E,4 =E,4)|[V:5]x8|
+[V:1]!<(! G2!<)!!mp!!>(! (cG)!>)! (GF) E!p! G|[V:2]([FA]3 [^EG]) ([EG]3 [=E=G])|[V:3]C2 CC C2 CC|[V:4](^D,4 E,4)|[V:5]x8|
+[V:1]!<(! A2!<)!!mp! (AG)!<)!!>(! (GF) F2|[V:2]([EG]3 [DF]) ([DF]3 [DF])|[V:3]A,2 A,A, A,2 A,A,|[V:4](D,4 D,,2) (D,2|[V:5]x8|
+[V:1]E3 z z2!p! G A|[V:2]([DF]2 [CE]2) z2!p! ([Ac]2|[V:3]x2 CC x2 (C2|[V:4]C,2) z2 x2 (E,2|[V:5]A,,4 A,,4-)|
+[V:1]c4- c!<(! c c ^B!<)!|[V:2][Ac]3 [G^B]) ([GB]3 [FA])|[V:3]C2 CC C2 CC|[V:4]^E,4 =E,4|[V:5]x8|
+[V:1]!mf! ^d2 c B!<(! (B ^A) A2!<)!|[V:2]([^^F^A]3 [^EG]) ([EG]3 [=E^G])|[V:3]C2 CC C2 CC|[V:4]^D,4 E,4)|[V:5]x8|
+[V:1]z2!pp! (G^A) B3/2 c/ ^d3/2 ^e/|[V:2]([FG]3 [FG] [FG]2 [FG]2|[V:3]x8|[V:4]G,3 G, G,2 G,2|[V:5]^B,,8|
+[V:1]^d3 c!>(! ^B2 ^A2!>)!|[V:2][FG]3 [FG] [^EG]2 [F^A]2|[V:3]x8|[V:4][^B,,G,]3 [B,,G,] [B,,G,]2 [B,,^A,]2|[V:5]x8|
+[V:1]!pp! ^d4 c3 B|[V:2][^DB]3 [DB] [DB]2) [DB]2|[V:3]x8|[V:4][B,,F,]3 [B,,F,] [B,,F,]2 [B,,F,]2|[V:5]x8|
+[V:1]G4 z4|[V:2][CG]3 [CG] [CG]2 [CG]2|[V:3]x8|[V:4][B,,^E,]3 [B,,E,] [B,,E,]2 [B,,E,]2|[V:5]x8|
+[V:1]"^colla voce" A4 A2 A2|[V:2]([FA]4 [FA]2 [GB][FA])|[V:3]x2 CC x2 CC|[V:4](C,4 D,4|[V:5](F,,8|
+[V:1](A4 G4)|[V:2]([FA]4 [^EG]4)|[V:3]x8|[V:4]C,8)|[V:5]C,,8)|
+[V:1]"^dolce"!<(! A4 A2!<)!!p! A2|[V:2]!<(! ([Ac]3 [G^B] [GB]2) ([GB]!<)![FA])|[V:3]x8|[V:4](C,2 ^B,,2 C,2 D,2|[V:5]x8|
+[V:1]!<(! A4!<)!!mf! A2 A2|[V:2]!mp!!<(! ([Ac]3 [G^B]) [GB]2 [FA]2|[V:3]([FA]2 [^EG]2) ([EG]2 [=E=G]2)|[V:4]C,8)|[V:5]x8|
+[V:1][Q:1/4=48]!>(! (d2!>)! c) c c2[Q:1/4=36] c c|[V:2]([FAd]3 [E=Gc])!<)!!>(! ([FAc]3!>)! [EGB])|[V:3]x8|[V:4]!ped! [D,A,]3!ped-up! z [D,,A,,]3 z|[V:5]x8|
+[V:1]!pp![Q:1/4=56]"^teno"!<(! (c2!<)! d) c ^B3 B|[V:2]!pp! [DA]2 ([^E^A][^^F^A]) [EG]2 [^^D^^F][EG]|[V:3]x8|[V:4][K:treble] [^^F^A]2 [^F=A]2 [EG]2 [^^D^^F][EG]|[V:5][K:treble] x8|
+[V:1][Q:1/4=48]"^rall. molto"[Q:1/4=52] A8[Q:1/4=48]"^allegretto"|][V:2]"^allarg." ([DF][CE][^B,^D][CE])!pp!"^dolce" ([EG][DF][CE][^B,D])|][V:3]x8|][V:4]([DF][CE][^B,^D][CE]) ([^EG][DF][CE][B,D])|][V:5]x8|]

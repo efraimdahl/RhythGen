@@ -1,0 +1,27 @@
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=100
+M:6/8
+K:G
+V:1 treble nm="Voice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+[V:1]"^Allegretto moderato" z6|[V:2]!mp! [B,G]>[B,G][B,G] [B,G]>[B,G][B,G]|[V:3][G,,D,]>[G,,D,][G,,D,] [G,,D,]>[G,,D,][G,,D,]|
+[V:1]z6|:[V:2][B,G]>[B,G][B,G] [B,G]>[B,G][B,G]|:[V:3][G,,D,]>[G,,D,][G,,D,] [G,,D,]>[G,,D,][G,,D,]|:
+[V:1]D|[V:2][B,G]|[V:3][G,,D,]|
+[V:1]"G" D D D G2 A|[V:2][B,G]>[B,G][B,G] [B,G]>[B,G][B,G]|[V:3][G,,D,]>[G,,D,][G,,D,] [G,,D,]>[G,,D,][G,,D,]|
+[V:1]"G" B2 A G2 D|[V:2]"C" [CF]>[CF][CF]"G" [B,G]>[B,G][B,G]|[V:3][G,,_E,]>[G,,E,][G,,E,] [G,,D,]>[G,,D,][G,,D,]|
+[V:1]"Abm" _E E E"D7" A2 B|[V:2]"Cm" [DG]>[DG][DG] [CF]>[CF][CF]|[V:3][_A,,_E,]>[A,,E,][A,,E,] [A,,D,]>[A,,D,][A,,D,]|
+[V:1]"G" G3 z2 D|[V:2]"G" [B,G]>[B,G][B,G] [B,G]>[B,G][B,G]|[V:3][G,,D,]>[G,,D,][G,,D,] [G,,D,]>[G,,D,][G,,D,]|
+[V:1]D D D G2 A|[V:2][B,G]>[B,G][B,G] [B,G]>[B,G][B,G]|[V:3][G,,D,]>[G,,D,][G,,D,] [G,,D,]>[G,,D,][G,,D,]|
+[V:1]"Cm" B2 A G2 G|[V:2]"Cm" [CF]>[CF][CF]"G" [B,G]>[B,G][B,G]|[V:3][G,,_E,]>[G,,E,][G,,E,] [G,,D,]>[G,,D,][G,,D,]|
+[V:1]"Abm" _E E E"D7" A2 B|[V:2]"Cm" [DG]>[DG][DG] [CF]>[CF][CF]|[V:3][_A,,_E,]>[A,,E,][A,,E,] [A,,D,]>[A,,D,][A,,D,]|
+[V:1]"G" G3 z2 G|[V:2]"G" [B,G]>[B,G][B,G] [DG]>[DG][DG]|[V:3][G,,D,]>[G,,D,][G,,D,] [_B,,=F,]>[B,,F,][B,,F,]|
+[V:1][K:Eb]"Ab" c2 c G2 A|[V:2][K:Eb]"Ab" (3CEA(3c/e/c/ (2:3:2AE|[V:3][K:Eb] [A,,E,]>[A,,E,][A,,E,] (2:3:2z [A,,E,]|
+[V:1]"Eb" (B3 G2) E|[V:2]"Eb" (3B,EG/(3B/G/E/ (2:3:2GEB,|[V:3]z3/2 [G,,E,]3/2 [G,,E,]3/2[G,,E,]3/2|
+[V:1][Q:3/8=90] A2 A"Fb7" E2 F|[V:2]"Bb7" (3A,DF/(3B/F/D/ (3:2:2FDB,|[V:3]z3/2 [A,,D,]3/2 (2:3:2z [A,,D,]|
+[V:1]"Cb"[Q:1/4=110] (G3- !breath!G2)[Q:3/8=80] G|[V:2]"CbI" (3_C__G/__c/(3__g/c/G/ (3[c__f]/c/G/[cf]/G/c/"Eb"[__Gcf]|[V:3]z3/2 [__A,,__C,__G,]3/2 .[__B,,C,G,].[__A,__C__F].[_A,_CF]|
+[V:1][K:Eb][Q:1/4=80] G2 G c d e|[V:2][K:Eb]"Cbi" (3CEG(3CEG(3CEG(3CEG|[V:3][K:Eb]!f! [C,,C,]3/2[G,CE]3/2 [G,CE]3/2[G,CE]3/2|
+[V:1]"Cb/G"[Q:1/4=98] e3- !breath!e2 e|[V:2]"Cb/Bb" (3_CE/_G3/2(3C/E/G/ (3CE3/2G/C|[V:3][__B,,,__B,,]3/2[_G,__B,E]3/2 [G,B,E]3/2[G,B,E]3/2|
+[V:1]"Fb/G"[Q:1/4=88] _c3[Q:1/4=80]"^rit." _d2[Q:1/4=80]"^a tempo" G|[V:2]"Cb/Bb" (3_CE3/2_G/(3C/E/G/"Gb/Bb" (3B,/D/_G/(3D/G/D/(3B,/D/G/|[V:3][__A,,,__A,,]3/2[__A,_C__G]3/2 [__B,,,__B,,]3/2[__B,DG]3/2|
+[V:1][Q:1/4=92]"Cb" !fermata!_c6[Q:3/8=86][Q:3/8=78][Q:3/8=75]|][V:2]"Cb9" (3_C/__E/_G/(3C/E/G/(3C/E/G/ !wedge!.[CEG]3|][V:3][__C,,__C,]3/2[_C,__G,__C__E]3/2 !wedge!.[C,,G,,C,]3|]

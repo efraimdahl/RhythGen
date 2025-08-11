@@ -1,0 +1,42 @@
+%%score 1 { ( 2 5 ) | ( 3 4 6 ) }
+L:1/8
+Q:1/4=72
+M:4/4
+K:A
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:6 bass 
+[V:1]"^Adagio" z8|[V:2]!f! !arpege![EAce]6 e>e|[V:3]z4 z2 [A,CE]>[A,CE]|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]z8|[V:2]e6 e>e|[V:3][A,CE]6 [A,CE]>[A,CE]|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]z8|[V:2]!>(! e6!>)! e>e|[V:3][A,CE]6 [A,CE]>[A,CE]|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]z8|[V:2]e6 e>e|[V:3][A,CE]6 [A,CE]>[A,CE]|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]z8|[V:2]!>(! e6!>)! ee/e/|[V:3][A,CE]6 [A,CE]>[A,CE]|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]z8|[V:2]!>(! e6 e>e|[V:3][A,CE]6 [A,CE]>[A,CE]|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]z8|[V:2]e6 e>e!>)!|[V:3]!p! [A,=CEF]>[A,CEF] [A,CEF]>[A,CEF] [A,CEF]>[A,CEF]|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]z4!p! B2 B3/2 B/|[V:2]!p! ^d6 d>d|[V:3][A,B,^DF]6 [A,B,DF]>[A,B,DF]|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]B6 B3/2 B/|[V:2]z8|[V:3]z8|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]B4 B2 B3/2 B/|[V:2]^d6 d>d|[V:3]z8|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]B6 B3/2 B/|[V:2]^d6 d>d|[V:3]z8|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]!f! B2 B2 e3/2 e/ e3/2 e/|[V:2]z8|[V:3]z8|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]e6 e3/2 e/|[V:2]z8|[V:3]z8|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]e6 e3/2 e/|[V:2]z8|[V:3]z8|[V:4]x8|[V:5]"^rall."[I:staff +1] z8|[V:6]x8|
+[V:1](e4- e^d/c/)[Q:1/4=69] !fermata!e2 z[Q:1/4=70] A|[V:2]z10|[V:3]z10|[V:4]x10|[V:5]x10|[V:6]x10|
+[V:1]=c3 A (d3 c|[V:2]_e3 =c =f3 d|[V:3]z/[K:treble] _E=G/ =c/G/E/=C/ =Fd/A/ F/C/ _A,/=F,/|[V:4]x/[K:treble] x7/2[K:bass][I:staff -1] x/ xx/ x/x/x/x/|[V:5][K:bass] x8|[V:6]x8|
+[V:1]d) d =G2 z2!pp! (=_ed|[V:2]d)=G z2!pp! x2 (_ed|[V:3][K:bass] z _E/D/ =C/E/C/_A,/!pp! z F/D/ _B,/A,/=F,/D,/|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]_e3) A d3 =c|[V:2]_e3) A _d3 =c|[V:3]!mf! z/[K:treble] _E=G/ =c/G/E/=C/ =fd/A/ c/A/ =F/=C/A,/=F,/|[V:4][K:treble] x8|[V:5][K:treble][K:treble] x8|[V:6]x8|
+[V:1]d d!pp! =G2 z2!p![Q:1/4=56]"^a tempo"[Q:1/4=100]"^rit.-"!>(! (_ed|[V:2]dd!>)!!pp!!>(! x x ([Ad]3 [Ad]|[V:3][K:bass] z/ x/ (D,/=G,/[I:staff -1] z/ x/[I:staff +1] x x/[I:staff -1] (D/ =C4|[V:4][K:bass] x3 x/ x/!p! F,4|[V:5]x8|[V:6]x8|
+[V:1]_e3) A[Q:1/4=102] =d3) =c!>)!|[V:2]_e3) A _d3 =c|[V:3][K:bass] z/ _E=G/ =c/G/E/=C/ =fd/A/ =F/C/A,/=F,/|[V:4][K:treble]"^r.H." x8|[V:5][K:bass] x8|[V:6]x8|
+[V:1][Q:1/4=69]!p! d d[Q:1/4=65] =G2!p![Q:1/4=65][Q:1/4=57] =G2[Q:1/4=55]|[V:2]dd=G!p!G[Q:staff -1] (B3 ^A|[V:3][K:bass] x/ z/ (D,/_E,/[I:staff -1] x/ x/[staff +1] x x/) x4|[V:4][K:bass] x4 (=F,2 =G,2)|[V:5][K:treble] x8|[V:6]x8|
+[V:1][Q:1/4=59] (d3 D))[Q:1/4=58][Q:1/4=58][Q:1/4=59][Q:1/4=57][Q:1/4=57] (=F3))[Q:1/4=37][Q:1/4=57][Q:1/4=57] (A2))[Q:1/4=56][Q:1/4=56] A F|[V:2]!>(![I:staff +1] d3 D!>)!!>)![I:staff -1] (A3 =F|[V:3]z8|[V:4]!p! (=F,4)"^rit." =C,4|[V:5]x8|[V:6][K:bass] x8|
+[V:1]!pp! =G4)[Q:1/4=575] (AG|[V:2]=G4)[K:bass] (A3 G|[V:3](_B,,4 A,,4|[V:4]_B,,4"^rit." A,,4-|[V:5]D/=G/_B/d/ =g/d/B/G/ D/G/A/d/!>)![K:bass][A,D]|[V:6](_B,,8|
+[V:1]A3) z!ppp! =c3 z|1[V:2]A3 A,-) A4|1[V:3]A,,4 D,4)|:[V:4](A,,4 D,4|:[V:5][I:staff -1] x/ D/=F/A/[I:staff -1] d/A/F/D/[I:staff +1] z/ D/^F/A/[I:staff -1] =c/A/F/D/)|:[V:6]A,,,4) (D,,4|:
+[V:1]!pp![Q:1/4=47] C3 C C3 C|[V:2]c4-) (c/G/E/C/[I:staff +1] x/[I:staff -1] x/[I:staff -1]x/x/|[V:3]z8|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1][Q:1/4=57] (C4 ^B,3) z|[V:2][K:treble] C4-) (C z z2|[V:3]z/ (C/A,/F,/ E,/C,/) z/ z/ C,4|1[V:4]C,6 B,,2|1[V:5][K:bass] z/ G,/C/[I:staff -1]E/!mp! G/ x/c/ e/g/ c'/ z/ z|1[V:6]x8|1
+[V:1][Q:1/4=49]"^poco ritard." z!p! (D[Q:1/4=55] =G[Q:1/to expression)" G)|[V:2]!p! C|[V:3](C,)|[V:4]x1|[V:5]x1|[V:6]x1|
+[V:1][K:A]S[M:4/4][Q:1/4=112]"^Tempo di molto" E|[V:2][K:A][M:4/4][K:treble] e|[V:3][K:A][M:4/4] [A,CE] [A,CE]|[V:4][K:A][M:4/4][K:treble] x8|[V:5][K:A][M:4/4][K:treble] (c|[V:6][K:A][M:4/4][K:treble]!8va(! x8|
+[V:1]e6 e|1[V:2]e6) e|1[V:3][A,=CE] [A,CE] [A,CE] [A,CE]4 [A,CE]|[V:4][I:staff -1][K:bass] z[I:staff -1] E[I:staaff +1] A,,,[I:staff -1] (3E4 E E|[V:5]x7|[V:6][I:staff -1][K:bass] x8|
+[V:1]e6[K:treble][Q:1/4=110]"^rall." e|[V:2]"_rall."!8va(! x6||1[V:3]"^l.h.""^r."|[V:4]x7|[V:5]x7|[V:6]x7|
+[V:1]=g6|[V:2][K:treble]!8va(! =g'6|[V:3][K:treble] =g6|[V:4][K:treble][I:staff -1] =g6[K:treble]|[V:5][I:staff -1] (3z!8va(! =c=d (3e=g=c' (3e'=c'g (3egc'|[V:6][K:treble+8] z/[I:staff +1] !arpeggio![E,,E,]3/2- [E,,E,]6-|

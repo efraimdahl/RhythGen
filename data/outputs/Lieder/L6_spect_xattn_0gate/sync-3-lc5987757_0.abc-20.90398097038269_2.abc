@@ -1,0 +1,33 @@
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=92
+M:9/8
+K:F
+V:1 treble nm="Gesang\nVoice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+[V:1]"^Andante" z9|[V:2]!p!!<(! A2 A d3!<)!!mp!!>(! c3!>)!|[V:3](C2 D F3-) (F2 E)|[V:4]([F,A,]2 [D,A,]) [G,=B,]3- [C,G,_B,]3|[V:5]x9|
+[V:1]z9|[V:2]!p!!<(! A2 A d3!<)!!mf!!>(! c3!>)!|[V:3](C2 D F3-) (F2 E)|[V:4]([F,A,]2 [D,A,]) [G,=B,]3- [C,G,_B,]3|[V:5]x9|
+[V:1]z9|[V:2]!p!!<(! A2 A!<)!!>(! f2 d A2 F!>)!|[V:3]C3 (D3 C2 =B,)|[V:4](A,3 B,3) (A,2 G,)|[V:5]F,3 B,,3 C,3|
+[V:1]!p! A2 A d3 c2 G|[V:2]!p!!<(! (F3 G3 E3!<)!|[V:3](A,3 B,6|[V:4]C,6- C,3-|[V:5]F,,6- F,,3-|
+[V:1]A3 F2 G A3|[V:2]!p! F3 G3 F2 _E)|[V:3]A,3 B,3 A,2 C)|[V:4]C,6 F,3-|[V:5]F,,6- F,,3|
+[V:1]B2 B f3 d2 B|[V:2]D3 F6-|[V:3](B,3 D6-)|[V:4]F,3 _A,3 F,3|[V:5]B,,3- B,,3 _A,,3|
+[V:1]G3 G3- G z z|[V:2]F3 E2 F E2 G|[V:3]D6 C3|[V:4]G,6- G,3|[V:5]=B,,3 C,3 _B,,3|
+[V:1]!<(! A2 A d3 c2 G!<)!|[V:2]F6!<(! E2 G!<)!|[V:3]C6 ^C3|[V:4]A,6 G,3|[V:5]A,,6 B,,3|
+[V:1]A3 d3- d2 ^d|[V:2]!mf!!<(! (F2 A) (G2!<)!!>(! ^F =F2 ^G)!>)!|[V:3]D6- D3|[V:4]F,2 C =B,3 A,2 B,|[V:5]A,,3 D,6|
+[V:1]!f! e3- e2 c A2 F|[V:2]!f! A6- A2 ^G|[V:3]E6 F2 D|[V:4]C6 D2 =B,|[V:5]C,6 D,3|
+[V:1]E6- E z z|[V:2]A6- A2 z|[V:3]C6- C2 z|[V:4]A,6- A,2 z|[V:5]E,6- E,2 z|
+[V:1]!p! G2 G A3- A2 F|[V:2]!p! E2 E F3- F2 D|[V:3]x9|[V:4]G,2 G, F,6-|[V:5]B,,2 B,, A,,3 _A,,3|
+[V:1]c3- c z z z2 z|[V:2]E3- E2 F G2 A|[V:3]C6- C2 E|[V:4](F,2 G, A,2 =B, C3)|[V:5]G,,3- G,,2 G, C,3|
+[V:1]!mf! d2 d e3- e2 c|[V:2]!mf! (=B2 d) c3- c2 A|[V:3]F2 F G3 E3|[V:4]=B,2 G, G,3 A,3|[V:5]G,2 F, E,3 C,3|
+[V:1]d6 c2 B|[V:2]A3 B3 A2 G|[V:3]^F3 G3 =F3|[V:4]C3 D3 B,3|[V:5]D,3 G,,6|
+[V:1]A2 d G3- G2 c|[V:2]F2 F F3 E3|[V:3]C3- C3 B,3|[V:4]A,3 G,3 C,3|[V:5]C,3- C,3 C,,3|
+[V:1]A6- A z z|[V:2]F6- F z z|[V:3]A,6- A, z z|[V:4]C,6- C, z z|[V:5]F,,6- F,, z z|
+[V:1]"^animato" A2 A d3 c3|[V:2]!p! A2 A F6|[V:3]C2 C C6|[V:4]F,2 F, A,6|[V:5]F,,2 F,, F,6|
+[V:1]!p![Q:1/4=88]"^riten." A2 A d3 c3|[V:2]!p! A2 A F6|[V:3]C2 C D6|[V:4]F,2 F, A,6|[V:5]F,2 F, D,6|
+[V:1]!pp![Q:1/4=84] A3[Q:1/4=82] d3[Q:1/4=78] A3|[V:2]!pp! A2 A F3 D3|[V:3]C2 C =B,3 A,3|[V:4]F,2 F, F,6|[V:5]F,2 F, D,3 =B,,3|
+[V:1]F6- F3|[V:2]C6 F3|[V:3](A,3 C3 B,3)|[V:4](C,3 A,3 G,3)|[V:5]C,6- C,3|
+[V:1]F6- F3-|[V:2]F6- F3-|[V:3]A,3 C3 B,3|[V:4]C,3 A,3 G,3|[V:5]F,,6- F,,3-|
+[V:1]!fermata!F6 z2 z|][V:2]!fermata!F6 z2 z|][V:3]A,6 x2 x|][V:4]C,6 x2 x|][V:5]F,,6 x2 x|]

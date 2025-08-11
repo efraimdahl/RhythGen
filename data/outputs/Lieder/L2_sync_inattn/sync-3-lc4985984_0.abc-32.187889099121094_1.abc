@@ -1,0 +1,60 @@
+%syncopation 6 6 5 6 6 6 6 6 5 6 5 5 5 6 6 6 6 6 5 6 4 6 6 6 5 6 6 6 6 6 6 5 5 5 5 6
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=50
+M:2/2
+K:Db
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+[V:1]"^Lento" z|[V:2]!p! F|[V:3]z1|[V:4]x1|[V:5]x1|
+[V:1]z8|[V:2]B2 c2 (ded[Fc])|[V:3]!ped! [G,B,E]4 [F,B,D]4!ped-up!|[V:4]E4 B4|[V:5]x8|
+[V:1]z7|:[V:2]!>(! ([F-B-c]4!>)! [F=Ac]3)|:[V:3](([F,CE]4 [F,CE]3))|:[V:4]x7|:[V:5]x7|:
+[V:1]z4 z2 z!p! F||[V:2][DFB]4 z4||[V:3][B,,F,D]4 z4||[V:4]x8||[V:5]x8||
+[V:1]B2 c d e2 d c|[V:2]!mp! [FB]4 ([EG-Be]4|[V:3]D4 (B,4|[V:4]D4 x4|[V:5][B,,B,]4 G,,4|
+[V:1](B3 =A) A3 A|[V:2][EF-=Ae-]4) [EFAe]4|[V:3]C4-) C4|[V:4]x8|[V:5][F,,F,]4- [F,,F,]4|
+[V:1]B2 c d e2 (dc)|[V:2][DFB-]4 ([E-GBe-]4|[V:3]D4 (B,4|[V:4]B,4 x4|[V:5][B,,,B,,]4 (G,,4|
+[V:1]B3) =A !breath!A2 c2|[V:2][EF-=Ae-]4) [EFAe]4|[V:3]C4-) C4|[V:4]x8|[V:5][F,,F,]4-) [F,,F,]4|
+[V:1]d2 e f g2 (fe)|[V:2](B8|[V:3](G8|[V:4]x8|[V:5][G,D]8|
+[V:1]d3 B !breath!e2 d2|[V:2][GB]8)|[V:3]D8)|[V:4]x8|[V:5]x8|
+[V:1]c3 B !fermata!=A2 F2|[V:2](B4 !fermata!=A4)|[V:3][F,CF]8|[V:4]F8|[V:5]x8|
+[V:1]B2 c2 de (dc)|[V:2][DFB-]4 (([EBe]4|[V:3][F,B,D]4 ([G,,G,-]4|[V:4]x8|[V:5]x8|
+[V:1]B3 =A A3 A|[V:2][E-F=A-e-]4 [EFAe]4))|[V:3]C4-) C4|[V:4]x8|[V:5][G,,G,]4 [F,,F,]4|
+[V:1]B2 cd e2 (dc)|[V:2][DFB-]4 (([E-GBe-]4|[V:3](B,8|[V:4]x8|[V:5][B,,,B,,]4 [G,,G,]4|
+[V:1]B3 =A A2 c2|[V:2][E-F=Ae-]4)) [EFAe]4|[V:3]C4-) C4|[V:4]x8|[V:5][F,,F,]4- [F,,F,]4|
+[V:1]d2 ef g2 (fe)|[V:2](B8|[V:3](G8|[V:4]x8|[V:5][G,D]8|
+[V:1]d3 B !breath!e2 d2|[V:2][GB]8)|[V:3][G,D]8)|[V:4]x8|[V:5]x8|
+[V:1]c3 B !fermata!=A2 F2|[V:2](B4 !fermata!=A4)|[V:3][F,CF]8|[V:4]F8|[V:5]x8|
+[V:1]B2 cd e2 (dc)|[V:2][DB-]4 (([EB-e]4|[V:3][F,B,D]4 (G,4-|[V:4]F4 x4|[V:5]x8|
+[V:1]B3 =A !breath!!fermata!F2 F2|[V:2][E=A-e-]4)) !fermata![EAe]4|[V:3]z8|[V:4]x8|[V:5]x8|
+[V:1]B3 =A !breath!A3 A|[V:2]((([E=Ae-]4 [EFAe]4)))|[V:3]C4- C4)|[V:4]x8|[V:5][G,,G,]4 [F,,F,]4)|
+[V:1]B2 cd e2 (dc)|[V:2][DFB-]4 (([E-GBe-]4|[V:3](B,8|[V:4]x8|[V:5][B,,,B,,]4 ([G,,G,]4|
+[V:1]B3 =A A2 c2|[V:2](([E=Ae-]4)) [EFAe]4))|[V:3]C4-) C4|[V:4]x8|[V:5][F,,F,]4-) [F,,F,]4|
+[V:1]d2 ef !fermata!g3 d|[V:2](B8|[V:3](G8|[V:4]x8|[V:5][G,D]8|
+[V:1]d3 B e2 d2|[V:2](B8|[V:3](G8|[V:4]x8|[V:5][G,D]8|
+[V:1]B3 B e2 d2|[V:2][GB]8)|[V:3][G,D]8)|[V:4]x8|[V:5]x8|
+[V:1]c3 B =A4|[V:2](B4 =A4|[V:3][F,CE]8|[V:4]F8|[V:5]x8|
+[V:1]B4 z4||[V:2][DFB]4) z4||[V:3][B,,F,B,]4 z4||[V:4]x8||[V:5]x8||
+[V:1]z4 z2!mf! B2|[V:2]!mf! [DFB]4 z4|[V:3][B,,F,B,]4 z4|[V:4]x8|[V:5]x8|
+[V:1]B2 B2 z4|[V:2]!mf! [_FB]4 z4|[V:3][D,D]4 z4|[V:4]x8|[V:5]D,4 x4|
+[V:1]d3 B A2 A2|[V:2][D_FG]8|[V:3][B,,B,]8|[V:4]x8|[V:5]x8|
+[V:1](A4- AB) !breath!A2 A2|[V:2](([CGA-]4 [EGA]4))|[V:3]([C,A,-]4 [C,A,]4)|[V:4]x8|[V:5]x8|
+[V:1](d4- de) !breath!d2 d2|[V:2](([_CD-A-]4 [B,DA]4))|[V:3]([D,F,]4 [G,,G,]4)|[V:4]x8|[V:5]x8|
+[V:1]c4- (ce) !breath!d2 d2|[V:2](([EA-c-]4 [DAd]4))|[V:3]([G,A,-]4 [F,A,]4)|[V:4]x8|[V:5]x8|
+[V:1]g3 f e4|[V:2]([D-Bd]4 [CGBc]4|[V:3]([G,-B,]4 [E,G,]4|[V:4]x8|[V:5]x8|
+[V:1]f4 z2!mp! F2||[V:2][CF=Ac]4) z4||[V:3][F,=A,]4) z4||[V:4]x8||[V:5]F,4 x4||
+[V:1]B2 cd e2 (dc)|[V:2]!mp! [FB-]4 [EGBe]4|[V:3]D4 (B,4|[V:4]x8|[V:5][B,,F,]4 [G,,G,]4|
+[V:1]B3 =A A3 A|[V:2][E-F=A-e-]4 [EFAe]4|[V:3]C4-) C4|[V:4]x8|[V:5][F,,F,]4- [F,,F,]4|
+[V:1]B2 cd e2 (dc)|[V:2][DFB-]4 (([E-GBe-]4|[V:3](B,8|[V:4]x8|[V:5][B,,,B,,]4 ([G,,G,]4|
+[V:1]B3 =A A2 c2|[V:2](([E=Ae-]4)) [EFAe]4))|[V:3]C4-) C4|[V:4]x8|[V:5][F,,F,]4-) [F,,F,]4|
+[V:1]d2 ef !fermata!g2 (3gf e|[V:2](B8|[V:3](G8|[V:4]x8|[V:5]G,8-|
+[V:1]d3) B !breath!e2 d2|[V:2][GB]8)|[V:3][G,D]8)|[V:4]x8|[V:5]x8|
+[V:1]c3 B !fermata!=A4|[V:2](B4 =A4|[V:3][F,CE]8|[V:4]F8|[V:5]x8|
+[V:1]B4 z4||[V:2][DFB]4) z4||[V:3][B,,F,B,]4 z4||[V:4]x8||[V:5]x8||
+[V:1]z4 z2 z!p! B||[V:2]!p! [DFB]4 z4||[V:3][B,,F,B,]4 z4||[V:4]x8||[V:5]x8||
+[V:1]B2 cd e2 (dc)|[V:2]!mp! [FB-]4 ([EGBe-]4|[V:3]D4 (B,4|[V:4]x8|[V:5][D,,D,]4 [G,,,G,,]4|
+[V:1](B3 =A) A4|[V:2][E-F=A-e-]4 [EFAe]4)|[V:3]C4-) C4|[V:4]x8|[V:5][F,,,F,,]4- [F,,,F,,]4|
+[V:1]B2 cd e2 (dc)|[V:2][DFB-]4 (([E-GBe-]4|[V:3](B,8|[V:4]x8|[V:5][B,,,B,,]4 ([G,,G,]4|
+[V:1]B3 =A !fermata!A2 c2|][V:2](([E=A-e-f]4)) !fermata![EFAe]4)|][V:3]!fermata!C8)|][V:4]x8|][V:5]!fermata![F,,F,]4-) [F,,F,]4|]

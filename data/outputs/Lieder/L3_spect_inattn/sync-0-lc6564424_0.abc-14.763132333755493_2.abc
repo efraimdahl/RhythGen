@@ -1,0 +1,28 @@
+%%score ( 1 2 ) { ( 3 5 ) | 4 }
+L:1/8
+Q:1/4=116
+M:2/4
+K:G
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:5 treble 
+V:4 bass 
+[V:1]"^Langsam und geschelle\n" z4|[V:2]x4|[V:3]"^Allegro de semplice\n" [B,DG][B,DG]/[B,DG]/ [B,DG][B,DG]/[B,DG]/|[V:4][G,,G,][G,,G,]/[G,,G,]/ [G,,G,][G,,G,]/[G,,G,]/|[V:5]x4|
+[V:1]z2 z!p! d|:[V:2]x4|:[V:3][B,DG][B,DG]/[B,DG]/ [B,DG][B,DG]|:[V:4][G,,G,][G,,G,]/[G,,G,]/ [G,,G,][G,,G,]|:[V:5]x4|:
+[V:1]d3/2 B/ B G|[V:2]x4|[V:3][B,DG][B,DG]/[B,DG]/ [B,DG][B,DG]|[V:4][G,,G,][G,,G,]/[G,,G,]/ [G,,G,][G,,G,]|[V:5]x4|
+[V:1]F3/2 G/ A c|[V:2]x4|[V:3][CDF][CDF]/[CDF]/ [CDF][CDF]|[V:4][G,,G,][G,,G,]/[G,,G,]/ [G,,G,][G,,G,]|[V:5]x4|
+[V:1]B3/2 A/ B c|[V:2]x4|[V:3][B,DG][B,DG]/[B,DG]/ [B,DG][CDF]|[V:4][G,,G,][G,,G,]/[G,,G,]/ [G,,G,][G,,G,]|[V:5]x4|
+[V:1]d3 d|[V:2]x4|[V:3][B,DG][B,DG]/[B,DG]/ [B,DG][B,DG]|[V:4][G,,G,][G,,G,]/[G,,G,]/ [G,,G,][G,,G,]|[V:5]x4|
+[V:1]d3/2 B/ B d|[V:2]x4|[V:3][B,D=FG][B,DFG]/[B,DFG]/ [B,DFG][B,DFG]|[V:4][G,,G,][G,,G,]/[G,,G,]/ [G,,G,][G,,G,]|[V:5]x4|
+[V:1]c3/2 A/ A c|[V:2]x4|[V:3][CEG][CEG]/[CEG]/ [CEA][CEA]|[V:4][C,G,][C,G,]/[C,G,]/ [C,A,][C,A,]|[V:5]x4|
+[V:1]B G (A>B)|[V:2]x2 F2|[V:3][DGB][DGB]/[DGB]/ [DFAc][DFAc]|[V:4]D,D,/D,/ D,D,|[V:5]x4|
+[V:1]G2 z!mf! d|[V:2]x4|[V:3][DGB][DGB]/[DGB]/ [DGB]!mf! [DGBd]|[V:4][G,,G,][G,,G,]/[G,,G,]/ [G,,G,] [G,,G,]|[V:5]x4|
+[V:1]!f! d3/2 B/ B d|[V:2]x4|[V:3][DGBd]>[DGB][DGB][GBd]|[V:4][G,,G,]>[G,,G,][G,,G,][G,,G,]|[V:5]x4|
+[V:1]c A A c|[V:2]x4|[V:3][DFc][DFA][DFA][DFc]|[V:4][D,,D,][D,,D,][D,,D,][D,,D,]|[V:5]x4|
+[V:1]B3/2 G/ B c|[V:2]x4|[V:3][DGB]>[B,DG][DGB][DAc]|[V:4][G,,G,]>[G,,G,][G,,G,][G,,G,]|[V:5]x4|
+[V:1]d2 z!mf! d|[V:2]x4|[V:3][DGBd][DGBd]/[DGBd]/ [DGBd]!mf! [DGBd]|[V:4][G,,G,][G,,G,]/[G,,G,]/ [G,,G,] [G,,G,]|[V:5]x4|
+[V:1]d3/2 B/ B d|[V:2]x4|[V:3][D=FGBd]>[DFGB][DFGB][FGBd]|[V:4][G,,G,]>[G,,G,][G,,G,][G,,G,]|[V:5]x4|
+[V:1]c A A c|[V:2]x4|[V:3][EGc][EG] [EG][CEAc]|[V:4][C,G,][C,G,] [C,G,][C,G,]|[V:5]x4|
+[V:1]B G A3/2 B/|[V:2]x4|[V:3][DGB][B,DG] [DFA]>[DFB]|[V:4]D,D, D,>D,|[V:5]x4|
+[V:1]G3 d:|[V:2]x4:|[V:3][B,DG][B,DG]/[B,DG]/ [B,DG]!f! [Bd]:|[V:4][G,,G,][G,,G,]/[G,,G,]/ [G,,G,] [G,,G,]:|[V:5]x3 G:|

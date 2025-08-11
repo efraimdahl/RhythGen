@@ -1,0 +1,28 @@
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=76
+M:3/4
+K:C
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+V:4 bass 
+[V:1]"^Andante" z|[V:2](3([ce]/[df]/[^d^f]/)|[V:3]z1|[V:4]x1|
+[V:1]z2 z2 z c|[V:2][eg]2 z [Cc] [Ee] z|[V:3][C,,C,][E,G,C] [E,G,C] z z2|[V:4]x6|
+[V:1]e2 d2 c2|[V:2]!p! [EGc]2 [FGd]2 [EGc]2|[V:3][C,C]2 [B,,B,]2 [C,C]2|[V:4]x6|
+[V:1]e3/2 d/ c2 z2|[V:2][GBe]>[FBd] [EGc]2 z2|[V:3][G,,G,]>[G,,G,] [C,C]2 z2|[V:4]x6|
+[V:1]!pp!!<(! d3/2 d/ g3 d|[V:2]!<(! [DGB]2 [Gd]2 [Gdg]2|[V:3]!<(! G,,2 G,2 B,2|[V:4]x6|
+[V:1]e3/2 f/!<)! g2 z2|[V:2][Gce]>[Gdf] [Gcg]2!<)! z2|[V:3]C>G,!<)! [C,E,C]2 z2|[V:4]x6|
+[V:1]!ff! e2 c2 A d|[V:2]!ff! [Gce]2 [EGc]2 [CFA][FAd]|[V:3]!ff! [C,,C,]2 [C,,C,]2 [F,,F,]2|[V:4]x6|
+[V:1]c2 B2 z2|[V:2][EGc]2 [DGB]2 z2|[V:3][G,,G,]2 [G,,G,]2 z2|[V:4]x6|
+[V:1]!p!!<(! d2 e2 ^f2|[V:2]!p! [D^FAd]2 [EGce]2 [FAcd^f]2|[V:3]!p! [D,,D,]2 [C,C]2 [A,,A,]2|[V:4]x6|
+[V:1]g3/2 ^f/!<)!!f! e4-|[V:2]!<(! [GBdg]>[^FA^d^f] [Ee]2!<)!!f! (3.[EGBe].[EGBe].[EGBe]|[V:3][G,,G,]>[^F,,^F,] [E,,E,]2 z2|[V:4]x6|
+[V:1]!>(! e2 e3 e|[V:2](3.[EGBe].[EGBe].[EGBe] (3.[EGBe].[EGBe].[EGBe] (3.[EGBe].[EGBe].[EGBe]|[V:3]z2 [E,G,B,E]2 [E,G,B,E]2|[V:4]x6|
+[V:1]g3 ^f e2!>)!|[V:2](3.[^FA^d^f].[FAdf].[FAdf] (3.[FAdf].[FAdf].[FAdf] (3.[EGBe].[EGBe].[EGBe]|[V:3].[E,^F,B,^D]2 .[B,,F,B,]2 .[E,G,B,]2|[V:4]x6|
+[V:1]!p!!<(! e2 e2 ^f2|[V:2]!p! (3.[EGBe].[EGBe].[EGBe] (3.[EGBe].[EGBe].[EGBe] (3.[^FAB^d].[FABd].[FABd]|[V:3]z2 [B,,B,]2 [B,,B,]2|[V:4]x6|
+[V:1]g3/2!<)!!f! ^f/ e2 z2|[V:2](3.[GBe].[GBe].[GBe] (3.[GBe].[GBe].[GBe] (3.[GBe].[GBe].[GBe]|[V:3]z2 [E,G,B,E]2 [E,G,B,E]2|[V:4]x6|
+[V:1]z2!f! g3 e|[V:2](3.[GBeg].[GBeg].[GBeg] (3.[GBeg].[GBeg].[GBeg] (3.[GBeg].[GBeg].[GBeg]|[V:3]z2 [G,B,E]2 [G,B,E]2|[V:4]x6|
+[V:1]^d3 e ^f2|[V:2](3.[AB^d^f].[ABdf].[ABdf] (3.[ABdf].[ABdf].[ABdf] (3.[ABdf].[ABdf].[ABdf]|[V:3][^F,B,^D]2 [B,,F,A,]2 [B,,F,A,]2|[V:4]x6|
+[V:1]!ff! g6-|[V:2](3.[GBeg].[GBeg].[GBeg] (3.[GBeg].[GBeg].[GBeg] (3.[GBeg].[GBeg].[GBeg]|[V:3]z2 [G,B,E]2 [G,B,E]2|[V:4]x6|
+[V:1]g2 z2 B2|[V:2](3.[GBeg].[GBeg].[GBeg] (3.[GBeg].[GBeg].[GBeg] (3.[^FAB^d^f].[FABdf].[FABdf]|[V:3][B,E]2 z2 [B,,B,]2|[V:4]x6|
+[V:1]e2 z4|][V:2][GBe]2 z4|][V:3][E,,E,]2 z4|][V:4]x6|]

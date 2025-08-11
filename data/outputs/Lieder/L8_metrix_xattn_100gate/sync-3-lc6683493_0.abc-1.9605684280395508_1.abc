@@ -1,0 +1,20 @@
+%%score [ { 1 2 } 3 4 ( 5 6 ) ] { ( 7 8 11 13 ) | ( 9 10 12 ) }
+L:1/8
+Q:1/4=114
+M:4/4
+K:F
+V:1 treble nm="Soprano I"
+V:2 treble nm="Soprano II"
+V:3 treble nm="Alto"
+V:4 treble-8 nm="Tenor"
+V:5 bass nm="Bass"
+V:6 bass 
+V:7 treble nm="Piano\nfor practice only"
+V:8 treble 
+V:11 treble 
+V:13 treble 
+V:9 bass 
+V:10 bass 
+V:12 bass 
+V:6 bass 
+[V:1]z8|:[V:2]z8|:[V:3]d3 g (g4|[V:4]z8|:[V:5]B,3 B, C2 C2|[V:6]x8|:[V:6]x8|:[V:7]z8|:[V:8]x8|:[V:9]!arpeggio![CEAc]4 !arpeggio![E,CG]4|:[V:10]x8|:[V:11]x8|:[V:12]x8|:[V:13]E3 E C4|

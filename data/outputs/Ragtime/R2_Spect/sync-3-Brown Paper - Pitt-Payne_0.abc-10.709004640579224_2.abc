@@ -1,0 +1,24 @@
+%%score ( 1 2 ) 3 4 ( 5 6 )
+L:1/8
+Q:1/4=105
+M:2/4
+K:G
+V:1 treble nm="Grand Piano, piano"
+V:2 treble 
+V:3 treble nm="Grand Piano, piano"
+V:4 treble nm="Grand Piano, piano"
+V:5 bass nm="Grand Piano, piano"
+V:6 bass 
+[V:1]z2 z z/4 ^c'/4^d'/4e'/4|[V:2]x4|[V:3]z4|[V:4]z4|[V:5].[B,,B,]2 z2|[V:6]x4|
+[V:1]=f''/4d''/4b'/4^g'/4=f'/4d'/4 b/4^g/4=f/4d/4B z2|[V:2]x11/2|[V:3]z11/2|[V:4]z11/2|[V:5]z11/2|[V:6]x11/2|
+[V:1]z4|[V:2]x4|[V:3]z4|[V:4]z4|[V:5]z4|[V:6]x4|
+[V:1]=F/4D/4[K:bass]B,/4=F, z2|[V:2]x4|[V:3]z4|[V:4]z4|[V:5][G,,,G,,][A,,,A,,] .[B,,,B,,]2|[V:6]x4|
+[V:1][K:bass] B,/4C,/4B,,3/2 z2|[V:2]x4|[V:3]G,,,/C,,,/4B,,,,/4-B,,,, z2|[V:4]z4|[V:5][K:bass] x4|[V:6]G,,,/C,,,/G,,,, z/ =F,/E,|
+[V:1]z2|[V:2]x2|[V:3]z2|[V:4]z2|[V:5]z2|[V:6]x2|
+[V:1]C/4B,,,/4A,,,/G,,,|[V:2]x2|[V:3]z2|[V:4]z2|[V:5]z2|[V:6]x2|
+[V:1]z4|[V:2]=F,,,,4-|[V:3]z4|[V:4]z4|[V:5]z4|[V:6]=F,,,4-|
+[V:1]z4|[V:2]x4|[V:3]z4|[V:4]z4|[V:5]z4|[V:6]x4|
+[V:1]z17/4|[V:2]x/ g/4=f/4^d/4^c z2|[V:3]z17/4|[V:4]z17/4|[V:5]z17/4|[V:6]x17/4|
+[V:1]z2|[V:2]x2|[V:3]z2|[V:4]G,,,/D,,,/B,,,, z/ =F,/E,/|[V:5]z2|[V:6]x2|
+[V:1]z2|[V:2]x2|[V:3]z2|[V:4]z2|[V:5]z2|[V:6]x2|
+[V:1][K:bass] B,,/4C,,/4B,,,3/2 z2|[V:2]x4|[V:3][K:bass] G,,/4C,,/4B,,,3/2 z2|[V:4][K:bass] G,,/4C,,/4B,,,3/2 z2|[V:5][K:bass] G,,/4C,,/4B,,,3/2 z2|[V:6]G,,,/C,,,/G,,,, z/ =F,/E,/|

@@ -1,0 +1,20 @@
+%%score 1 { ( 2 4 6 ) | ( 3 5 7 ) }
+L:1/8
+Q:1/4=110
+M:2/4
+K:C
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:6 treble 
+V:3 bass 
+V:5 bass 
+V:7 bass 
+[V:1]e2 z2|[V:2]z!ff! [^cg^c'][dgd'][^dg^d']|[V:3]!ped! z[I:staff -1] [^CG^A]!ped-up![DGB][^DGB]|[V:4]%distance=2[r:0/7]x4|[V:5]%distance=2[r:0/7]x4|[V:6]%distance=2[r:0/7]x4|[V:7]%distance=2[r:0/7]x4|
+[V:1]z4|[V:2]z [eae'] z!ff! [^cea^c']|[V:3]!ped![I:staff +1] z [^CGA]!ped-up!!ped! z [A,CGA]!ped-up!|[V:4]x4|[V:5]x4|[V:6]x4|[V:7]x4|
+[V:1]z4|[V:2]!p! !arpeggio![dgd']2 !arpeggio![GBdg]2|[V:3]!ped! !arpeggio![B,DGB]2 !arpeggio![D,B,D]2!ped-up!|[V:4]x4|[V:5]x4|[V:6]x4|[V:7]x4|
+[V:1]z4|[V:2]!arpeggio![cegc']2 !arpeggio![dfad']2|[V:3]!ped! !arpeggio![A,,C,E,A,]2!ped-up!!ped! !arpeggio![D,F,A,C]2!ped-up!|[V:4]x4|[V:5]x4|[V:6]x4|[V:7]x4|
+[V:1]z4|[V:2]!arpeggio![gbd'g']4-|[V:3]!ped! !arpeggio![G,B,DG]4-|[V:4]x4|[V:5]x4|[V:6]x4|[V:7]x4|
+[V:1]z4|[V:2][gbd'g'] z z2|[V:3][G,B,DG]!ped-up! z z2|[V:4]x4|[V:5]x4|[V:6]x4|[V:7]x4|
+[V:1]z4|[V:2]!pp! [egc'e']4-|[V:3]!ped! !arpeggio![C,E,G,C]4-|[V:4]x4|[V:5]x4|[V:6]x4|[V:7]x4|
+[V:1]z4|][V:2][egc'e'] z z2|][V:3][C,E,G,C]!ped-up! z z2|][V:4]x4|][V:5]x4|][V:6]x4|][V:7]x4|]

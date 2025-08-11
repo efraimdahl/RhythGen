@@ -1,0 +1,35 @@
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=100
+M:6/8
+K:G
+V:1 treble nm="Voice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+[V:1]"^Light zu geschwing" z|[V:2]!f! z"_Leinant e dehors" [CEA]2[I:staff +1] [F,B,=D][I:staff +1] z z|[V:3]z1|
+[V:1]z2 z z2 F|[V:2][DFB]!<)! z z [DFB] z z|[V:3]F,,F,,F,, F,,F,,F,,|
+[V:1]G3 z2 G|[V:2][B,D][DF][DF] [DB][B,F][B,D][F,B,]|[V:3][B,,,B,,]3 [C,,C,]3|
+[V:1]B2 B Bc d|[V:2]z [B,DG][B,DG] z [B,DG][B,DG]|[V:3][F,,C,]3 F,,3|
+[V:1]c3 c2 c|[V:2][F,F]2 z [F,A,CF][F,A,CF][F,A,CF] [F,A,CF][F,A,CF][F,A,CF] z [F,B,DF][F,B,DF]|[V:3]F,,, F,,2 F,,,2 F,,|
+[V:1]F2 E F2 F|[V:2]!f! z [F,A,D][F,A,D] z [F,A,D]|[V:3]z6|
+[V:1](B3 d2) c|[V:2]z B,[DA] [B,A]D[B,A]|[V:3][D,,D,]6|
+[V:1]G3 z2 c|[V:2][FA]CF [Ac]CC|[V:3]F,3 F,3|
+[V:1]A2 A (AG) A|[V:2]CEA DFB|[V:3]F,3 F,3|
+[V:1]c3 z2 c|[V:2]C^EB CEB|[V:3]C,,6|
+[V:1]z6|[V:2][Bb][Aa][Aa] [Bb][Aa][Aa]|[V:3]A,A,A,A,A,A,|
+[V:1]A3 F D E|[V:2][FA]C[FA] F,[FAc][FAc]|[V:3]F,, z z F,,2 z|
+[V:1]!<(! G2 F G2 F|[V:2][DGB][DGB][DGB] [GB][GB][GB]|[V:3]z6|
+[V:1]!<(! G2 F G2 A!<)!|[V:2][Af][Ge][Fe] [Ff][Ee][Ee]|[V:3][B,D][B,D][B,D] [B,D][B,D]|
+[V:1]d3- d2 d|[V:2]!<(! [Aca][Aca][Aca] [Aca][CAc][CAc]|[V:3]F,,2 [F,CE]2 [F,CE]|
+[V:1]c3 c2 c|[V:2]z F[Ac] z [FAc] z [FB]|[V:3]D,2 z D,2 z|
+[V:1]G3 z z c|[V:2][Ac]C[Ac] [GB][GB][FA]|[V:3]A,,, [E,A,]2 A,,[E,A,]A,,|
+[V:1](f2 =e) e2 e|[V:2]z [CE][CE] [CE]E,[CE]|[V:3]E,,3 E,,3|
+[V:1](d2 B) G2 E|[V:2]z [B,EG][B,EG] z [=A,EF][A,EF]|[V:3]A,,,[C,F,][A,,C,F,] [C,,C,]2 z|
+[V:1](c3 B2) G|[V:2]z (G,D [Bd]D[Ac])|[V:3][C,,C,]3 [C,,C,]3|
+[V:1]!f! f2 f f e f|[V:2]z [FAe][FA] z [EG][EG]|[V:3][G,B,][A,C][A,C] [A,C][A,C][A,C]|
+[V:1]!f! B d f e d c|[V:2]!f! [FAdf][FAdf][FAdf] [EAe]2 [DFB]|[V:3]E,,B,,G, G,,[D,G,B,][D,G,B,]|
+[V:1]A2 z A2 A|[V:2]!f! !>![D=FAd]!>![DFAd]!>![FAd] !>![DFA]!>)!|[V:3]E,,2 E, [G,B,E]2 z|
+[V:1](A>B) A G F E|[V:2]z [DFA][DFA] z [DFA][DFA]|[V:3]!ped! B,,2 [B,,,B,,] [B,,,B,,]2 [B,,,B,,]|
+[V:1]B2 G B2 G|[V:2][A,A]3 [CGA]2 z|[V:3][C,,C,]3 [F,,,F,,]2 z|
+[V:1]A3/2 G/ ^F A2 A|[V:2][GB]D[FA] [GB]B,[DG]|[V:3][G,,G,]3 [G,,G,]2 z|
+[V:1]z6|[V:2][Ec]2 [DFB] [CFA]2 [CFA]|[V:3][C,,C,]3 [F,,C,F,]3|

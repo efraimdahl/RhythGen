@@ -1,0 +1,41 @@
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=45
+M:4/4
+K:D
+V:1 treble nm="Voice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+V:4 bass 
+[V:1]"^Sehr langsam" z8|[V:2]!pp! z [FAdf][FAdf][FAdf] z [FAdf][FAdf][FAdf]|[V:3]!ped! z [DF][DF][DF] z [DF][DF][DF]!ped-up!|[V:4]D,4 D,4|
+[V:1]z2 z f e f d A|[V:2]z [FAdf][FAdf][FAdf] z [FAdf][FAdf][FAdf]|[V:3]!ped! z [DF][DF][DF] z [DF][DF][DF]!ped-up!|[V:4]D,4 D,4|
+[V:1]B3 c d3 B|[V:2]!p! z [GBdg][GBdg][GBdg] z [GBdg][GBdg][GBdg]|[V:3]!ped! z [DG][DG][DG] z [DG][DG][DG]!ped-up!|[V:4]D,4 D,4|
+[V:1]A2 B2 z2 c B|[V:2]z [GBdg][GBdg][GBdg] z [GBdg][GBdg][GBdg]|[V:3]!ped! z [DG][DG][DG] z [DG][DG][DG]!ped-up!|[V:4]D,4 D,4|
+[V:1]e3 e e3 d|[V:2]z [EAe][EAe][EAe] z [EGe][EGe][EGe]|[V:3]!ped! z [DE][DE][DE] z [DE][DE][DE]!ped-up!|[V:4]D,4 D,4|
+[V:1]d2 c2 z2 e f|[V:2]z [EAce][EAce][EAce] z [EAce][EAce][EAce]|[V:3]!ped! z [A,CE][A,CE][A,CE] z [A,CE][A,CE][A,CE]!ped-up!|[V:4]A,,4 A,,4|
+[V:1]g3 g g3 f|[V:2]z [Acea][Acea][Acea] z [Gceg][Gceg][Gceg]|[V:3]!ped! z [A,CE][A,CE][A,CE]!ped-up!!ped! z [A,CEG][A,CEG][A,CEG]!ped-up!|[V:4]A,,4 A,,4|
+[V:1]e2 f2 z2 d c|[V:2]z [FAdf][FAdf][FAdf] z [FAdf][FAdf][FAdf]|[V:3]!ped! z [A,DF][A,DF][A,DF] z [A,DF][A,DF][A,DF]!ped-up!|[V:4]D,4 D,4|
+[V:1]B3 ^A B3 d|[V:2]z [EBd][EBd][EBd] z [EBd][EBd][EBd]|[V:3]!ped! z [^G,B,DE][G,B,DE][G,B,DE] z [G,B,DE][G,B,DE][G,B,DE]!ped-up!|[V:4]E,4 E,4|
+[V:1]d2 c2 z2 c B|[V:2]z [EAc][EAc][EAc] z [EAc][EAc][EAc]|[V:3]!ped! z [A,CE][A,CE][A,CE] z [A,CE][A,CE][A,CE]!ped-up!|[V:4]A,,4 A,,4|
+[V:1]A2 ^G z e3 G|[V:2]z [EAce][EAce][EAce] z [E^GBde][EGBde][EGBde]|[V:3]!ped! z [E,^G,B,D][E,G,B,D][E,G,B,D]!ped-up!!ped! z [E,G,B,D][E,G,B,D][E,G,B,D]!ped-up!|[V:4]E,4 E,4|
+[V:1]B2 A2 z2 A A|[V:2]z [EAce][EAce][EAce] z [EAce][EAce][EAce]|[V:3]!ped! z [E,A,C][E,A,C][E,A,C]!ped-up!!ped! z [E,A,C][E,A,C][E,A,C]!ped-up!|[V:4]A,,4 A,,4|
+[V:1]B3 d c3 f|[V:2]z [DEBd][DEBd][DEBd] z [DEBd][EBde][EBde]|[V:3]!ped! z [E,^G,B,D][E,G,B,D][E,G,B,D]!ped-up!!ped! z [E,G,B,D][E,G,B,D][E,G,B,D]!ped-up!|[V:4]A,,4 A,,4|
+[V:1]a4 g3 c|[V:2]z [EAce][EAce][EAce] z [EAce][EAce][EAce]|[V:3]!ped! z [E,A,C][E,A,C][E,A,C]!ped-up!!ped! z [E,A,C][E,A,C][E,A,C]!ped-up!|[V:4]A,,4 A,,4|
+[V:1]B3 A f3 e|[V:2]z [EBde][EBde][EBde] z [EAce][EAce][EAce]|[V:3]!ped! z [E,^G,B,D][E,G,B,D][E,G,B,D]!ped-up!!ped! z [E,A,C][E,A,C][E,A,C]!ped-up!|[V:4]A,,4 A,,4|
+[V:1]d2 z2 z2 d e|[V:2]z [DFAd][DFAd][DFAd] z [DFAd][DFAd][DFAd]|[V:3]!ped! z [D,F,A,][D,F,A,][D,F,A,]!ped-up!!ped! z [D,F,A,][D,F,A,][D,F,A,]!ped-up!|[V:4]D,4 D,4|
+[V:1]f2 B2 z2 B c|[V:2]z [FBdf][FBdf][FBdf] z [FBdf][FBdf][FBdf]|[V:3]!ped! z [F,B,D][F,B,D][F,B,D]!ped-up!!ped! z [F,B,D][F,B,D][F,B,D]!ped-up!|[V:4]B,,4 B,,4|
+[V:1]d2 c2 z2 c B|[V:2]z [^EBd^e][EBde][EBde] z [EBde][EBde][EBde]|[V:3]!ped! z [^E,B,D][E,B,D][E,B,D]!ped-up!!ped! z [E,B,D][E,B,D][E,B,D]!ped-up!|[V:4]^G,,4 G,,4|
+[V:1]B2 A2 g3 e|[V:2]z [EBce][EBce][EBce] z [EBce][EBce][EBce]|[V:3]!ped! z [E,B,D][E,B,D][E,B,D]!ped-up!!ped! z [E,B,D][E,B,D][E,B,D]!ped-up!|[V:4]G,,4 G,,4|
+[V:1]e2 ^d2 z2 f e|[V:2]z [FAB^df][FABdf][FABdf] z [FABdf][FABdf][FABdf]|[V:3]!ped! z [F,A,^D][F,A,D][F,A,D]!ped-up!!ped! z [F,A,D][F,A,D][F,A,D]!ped-up!|[V:4]F,,4 F,,4|
+[V:1]g3 g g3 g|[V:2]z [G^Aeg][GAeg][GAeg] z [GAeg][GAeg][GAeg]|[V:3]!ped! z [E,G,^A,C][E,G,A,C][E,G,A,C]!ped-up!!ped! z [E,G,A,C][E,G,A,C][E,G,A,C]!ped-up!|[V:4]F,,4 F,,4|
+[V:1]g2 f2 z2 f ^A|[V:2]z [FBdf][FBdf][FBdf] z [F^Acf][FAcf][FAcf]|[V:3]!ped! z [F,B,D][F,B,D][F,B,D]!ped-up!!ped! z [F,^A,C][F,A,C][F,A,C]!ped-up!|[V:4]F,,4 F,,4|
+[V:1]c3 B d3 c|[V:2]z [^EBc^e][EBce][EBce] z [FBcf][FBcf][FBcf]|[V:3]!ped! z [G,B,C][G,B,C][G,B,C]!ped-up!!ped! z [F,B,D][F,B,D][F,B,D]!ped-up!|[V:4]F,,4 F,,4|
+[V:1]B2 ^A2 z2 c c|[V:2]z [F^Acf][FAcf][FAcf] z [FAcf][FAcf][FAcf]|[V:3]!ped! z [F,^A,C][F,A,C][F,A,C]!ped-up!!ped! z [F,A,C][F,A,C][F,A,C]!ped-up!|[V:4]F,,4 F,,4|
+[V:1]g4 f3 f|[V:2]z [^Aef^a][Aefa][Aefa] z [Bfb][Bfb][Bfb]|[V:3]!ped! z [G,^A,C][G,A,C][G,A,C]!ped-up!!ped! z [F,B,^D][F,B,D][F,B,D]!ped-up!|[V:4]F,,4 F,,4|
+[V:1]f2 c2 z2 f c|[V:2]z [^Aef^a][Aefa][Aefa] z [Aefa][Aefa][Aefa]|[V:3]!ped! z [F,^A,C][F,A,C][F,A,C]!ped-up!!ped! z [F,A,C][F,A,C][F,A,C]!ped-up!|[V:4]F,,4 F,,4|
+[V:1](d2 ^G2) f3 e|[V:2]z [Bdfb][Bdfb][Bdfb] z [Bdfb][Bdfb][Bdfb]|[V:3]!ped! z [F,B,D][F,B,D][F,B,D]!ped-up!!ped! z [F,B,D][F,B,D][F,B,D]!ped-up!|[V:4]F,,4 F,,4|
+[V:1]d2 c2 z2 c B|[V:2]z [cgb][cgb][cgb] z [B^eb][Beb][Beb]|[V:3]!ped! z [G,B,C][G,B,C][G,B,C]!ped-up!!ped! z [^G,B,C][G,B,C][G,B,C]!ped-up!|[V:4]F,,4 F,,4|
+[V:1]B2 ^A2 f3 e|[V:2]z [cef][cef][cef] z [cef][cef][cef]|[V:3]!ped! z [F,CE][F,CE][F,CE]!ped-up!!ped! z [F,CE][F,CE][F,CE]!ped-up!|[V:4]F,,4 F,,4|
+[V:1]d2 c2 z2 d e|[V:2]z [Bdf][Bdf][Bdf] z [Bdf][Bdf][Bdf]|[V:3]!ped! z [F,B,D][F,B,D][F,B,D]!ped-up!!ped! z [F,B,D][F,B,D][F,B,D]!ped-up!|[V:4]F,,4 F,,4|
+[V:1]f3 f (g3 e)|[V:2]z [Bfb][Bfb][Bfb] z [Beb][Beb][Beb]|[V:3]!ped! z [F,B,D][F,B,D][F,B,D]!ped-up!!ped! z [G,B,DE][G,B,DE][G,B,DE]!ped-up!|[V:4]F,,4 G,,4|
+[V:1]d4 z4|][V:2]z [Ada][Ada][Ada] z [FAdf][FAdf][FAdf]|][V:3]!ped! z [F,A,D][F,A,D][F,A,D]!ped-up!!ped! z [F,A,D][F,A,D][F,A,D]!ped-up!|][V:4]A,,4 [D,,D,]4|]

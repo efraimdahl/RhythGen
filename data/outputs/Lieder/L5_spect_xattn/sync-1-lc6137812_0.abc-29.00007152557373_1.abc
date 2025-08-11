@@ -1,0 +1,32 @@
+%%score ( 1 2 ) { ( 3 6 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=80
+M:12/8
+K:C
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:6 treble 
+V:4 bass 
+V:5 bass 
+[V:1]"^Andante" z6 z3!pp! e3|[V:2]x12|[V:3]([^G,B,]EB,) ([G,B,]EB,) ([A,C]EC) ([^G,B,]EB,)|[V:4]!p!!ped! E,,3- E,,2 E,, E,,3- E,,2 E,,!ped-up!|[V:5]E,,6 E,,6|[V:6]x12|
+[V:1]!<(! e6-!<)!!>(! e3- (e!>)!d) ^G|[V:2]x6 x3 B2 B|[V:3]([A,C]EC) ([A,C]EC) ([B,D]FD) ([B,D]ED)|[V:4]!ped! A,,,6-!ped-up! A,,,3!ped! ^G,,,3!ped-up! G,,,|[V:5]x6 x3 ^G,,,3|[V:6]x12|
+[V:1]!>(! (A3 e3)!>)! c3 (A3-|[V:2]A3 E3 x3 (E2 ^F)|[V:3]([A,C]EC) ([A,C]EC) ([A,^D]^FD) ([A,C]EC)|[V:4]!ped! A,,,6!ped-up!!ped! A,,,3!ped-up!!ped! A,,,3!ped-up!|[V:5]A,,,6 A,,,3 A,,,3|[V:6]x12|
+[V:1]A3 G2) z!>(! (G2 e) d2 B!>)!|[V:2](^F3 E2) E G2 G x2 x|[V:3]([G,B,]EB,) ([G,B,]EB,) ([G,B,]EB,) ([F,A,]B,^D)|[V:4]!ped! [B,,,B,,]6!ped-up!!ped! [B,,,B,,]3!ped-up!!ped! [B,,,B,,]3!ped-up!|[V:5]x12|[V:6]x12|
+[V:1]B6 z3 e3|[V:2]x12|[V:3]([^G,B,]EB,) ([G,B,]EB,) ([A,C]EC) ([^G,B,]EB,)|[V:4]!ped! E,,6- E,,3- E,,2 E,,!ped-up!|[V:5]E,,6 E,,6|[V:6]x12|
+[V:1]e6- e3- (ed) ^G|[V:2]x11 B|[V:3]([A,C]EC) ([A,C]EC) ([B,D]FD) ([B,D]ED)|[V:4]!ped! A,,,6-!ped-up!!ped! A,,,3!ped! ^G,,,3!ped-up!|[V:5]x6 x3 ^G,,,3|[V:6]x12|
+[V:1]!<(! A3 e3!<)!!>(! e3!>)! c2 c|[V:2]x12|[V:3]([A,C]EC) ([A,C]EC) ([A,^D]^FD) ([A,C]EC)|[V:4]!ped! A,,,6!ped-up!!ped! A,,,3!ped-up!!ped! A,,,3!ped-up!|[V:5]A,,,6 A,,,3 A,,,3|[V:6]x12|
+[V:1]c6 B3 B2 B|[V:2]x12|[V:3]([^F,A,]CA,) ([F,A,]CA,) ([F,A,]B,A,) ([E,^G,]B,E)|[V:4]!ped! [B,,,B,,]6!ped-up!!ped! [B,,,B,,]3!ped-up!!ped! [E,,E,]3!ped-up!|[V:5]x12|[V:6]x12|
+[V:1]c6- c3 c3|[V:2]x12|[V:3]([A,C]EC) ([A,C]EC) ([C^D]^FD) ([A,C]EC)|[V:4]!ped! [A,,,A,,]6-!ped-up!!ped! [A,,,A,,]3!ped-up!!ped! [A,,,A,,]3!ped-up!|[V:5]x12|[V:6]x12|
+[V:1]e6-!<(! e3 ^d3!<)!|[V:2]x12|[V:3]([G,B,]EB,) ([G,B,]EB,) ([^F,C]EC) ([F,A,]^DB,)|[V:4]!ped! [B,,,B,,]6!ped-up!!ped! [B,,,B,,]3!ped-up!!ped! [B,,,B,,]3!ped-up!|[V:5]x12|[V:6]x12|
+[V:1]!>(! e6- e3!>)! z2!p! ^f|[V:2]x12|[V:3]([G,B,]EB,) ([G,B,]EB,) ([A,C]EC) ([A,B,]^DA,)|[V:4]!ped! [E,,E,]3- [E,,E,]2!ped-up! [E,,E,] [E,,E,]3- [E,,E,]2 [E,,E,]|[V:5]x12|[V:6]x12|
+[V:1]!<(! (^f2 e) B3-!<)! B2 z z2 ^d|[V:2]x12|[V:3]([^G,B,]EB,) ([G,B,]EB,) ([A,B,]EB,) ([A,B,]^DB,)|[V:4]!ped! [E,,E,]3- [E,,E,]2 [E,,E,] [E,,E,]3- [E,,E,]2 [E,,E,]!ped-up!|[V:5]x12|[V:6]x12|
+[V:1](^d2 e) B3- B2 z z2 ^f|[V:2]x12|[V:3]([^G,B,]EB,) ([G,B,]EB,) ([A,B,]EB,) ([A,B,]^DB,)|[V:4]!ped! [E,,E,]3- [E,,E,]2 [E,,E,] [E,,E,]3- [E,,E,]2 [E,,E,]!ped-up!|[V:5]x12|[V:6]x12|
+[V:1](^f2 e) B3- B2 z!<(! ^A2 A|[V:2]x12|[V:3]([^G,B,]EB,) ([G,B,]EB,) ([G,^A,]^CB,) ([G,B,]CA,)|[V:4]!ped! [E,,E,]3- [E,,E,]2 [E,,E,] [E,,E,]3- [E,,E,]2!ped-up! [E,,E,]|[V:5]x12|[V:6]x12|
+[V:1]B2!<)! z ^A3!>(! B2 B!>)! z!p! B B|[V:2]x12|[V:3]([^F,B,]^DB,) ([F,^A,]^CA,) ([F,B,]DB,) ([F,^G,]B,^G)|[V:4]!ped! (^D,2 E,)!ped-up!!ped! (D,2 E,)!ped-up!!ped! (D,2 E,)!ped-up!!ped! (D,2 E,)!ped-up!|[V:5]^D,,3 E,,3 D,,3 E,,3|[V:6]x12|
+[V:1]^c3 c2 c e3- e e e|[V:2]^c3- c B B e3- e e e|[V:3]([^A,^C]^FC) ([A,C]EC) ([G,B,]EB,) ([G,B,]CG)|[V:4]!ped! (^C,2 E,)!ped-up!!ped! (C,2 E,)!ped-up!!ped! (B,,2 E,)!ped-up!!ped! (B,,2 E,)!ped-up!|[V:5]^C,,3 E,,3 B,,,3 E,,3|[V:6]x12|
+[V:1]!>(! e6-!>)! e3 ^d3-|[V:2]x12|[V:3]!>(! ([^A,E]^FE) ([A,E]FE) ([A,^D]FD) ([=A,D]FD)!>)!|[V:4]!ped! ([B,,,B,,-]3!ped-up!!ped! [^C,,B,,]2 C,,)!ped-up!!ped! ([B,,,B,,-]2 [C,,B,,-]!ped-up! [B,,,B,,]2 B,,)|[V:5]x12|[V:6]x12|
+[V:1]d6-!<(! d3!<)!!>(! (^d2!>)! ^F)|[V:2]x12|[V:3]([A,B,]^D^F) ([A,B,]DF) ([A,B,]DF) ([A,B,]DF)|[V:4]!ped! (B,,,3!ped-up!!ped! ^C,,2 B,,,)!ped-up!!ped! ([B,,,B,,]3!ped-up!!ped! [^A,,,^A,,]2!ped-up! [B,,,B,,])|[V:5]x12|[V:6]x12|
+[V:1]!>(! (^G3 ^d3)!>)! ^f3!pp! f2 f|[V:2]x12|[V:3]([^G,B,]^D^F) ([G,B,]DF) ([A,B,]DF) ([A,B,]DF)|[V:4]!ped! ([B,,,B,,-]3!ped-up!!ped! [^C,,B,,]2 B,,,)!ped-up!!ped! ([B,,,B,,-]3!ped-up!!ped! [B,,,B,,]2)!ped-up! [B,,,B,,]|[V:5]x12|[V:6]x12|
+[V:1]"^cresc." (^g2 e c2) c ^G3- G2 B|[V:2]e3- e2 e e3- e2 d|[V:3]([^G,B,]E^G) ([G,B,]EG) ([G,B,]EG) ([G,B,]EG)|[V:4]!ped! ([B,,,B,,-]3!ped-up!!ped! [C,,B,,]2 B,,,)!ped-up!!ped! ([B,,,B,,-]3!ped-up!!ped! [B,,,B,,]2) [B,,,B,,]!ped-up!|[V:5]x12|[V:6]x12|
+[V:1]!>(! A6!>)! z2 z!p! e3:|[V:2]x12:|[V:3]([A,C]EC) ([A,C]EC) ([A,C]^FC) ([A,B,]EB,):|[V:4]!ped! [A,,,A,,]3- [A,,,A,,]2!ped-up! [A,,,A,,] [A,,,A,,]3- [A,,,A,,]2 [A,,,A,,]:|[V:5]x12:|[V:6]x12:|

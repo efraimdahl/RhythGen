@@ -1,0 +1,34 @@
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=52
+M:4/4
+K:A
+V:1 treble nm="Chant\nVoice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+[V:1]"^Andante con moto""^Larghetto soster, agitato ma nima espressione""^Andante con moto." E3 A A2 A2|[V:2]!mp! z/[I:staff -1] F/F/F/!pp!!<(! F/F/F/F/!<)!!p!!>(! c/c/d/c/ c/)(c/c/!>)!!ppp!!<(!c/)!<)!!ppp!!<(! c/c'/|:[V:3]x8|:[V:4]z8|:[V:5]x8|:
+[V:1]g4!p! g/!<(! g/ f/ f/ f/ f/!<)!!>(!f/e-!>)!|[V:2]!mp!!>(! z/!8va)!!>)!!p!!>(! c/c/c/ z/ c/c/!>)!!ppp!c/!>)!||[V:3]!ppp! c8||[V:4]c/c/c/c/!p!!>(! c/c/c/c/ ^d/d/d/d/ e/e/e/!pp!e/ e/!>)!:|[V:5]x[K:treble] x7::
+[V:1][Q:1/4=50] e4 e2 z e|[V:2]!mf!!>(!!ped! z/!ped-up!!p! f/f/f/!mp!!>(! f/f/f/f/!ped-up!!pp!!ped! b/b/b/b/!ped-up!|[V:3]x8|[V:4]z8|[V:5]x8|
+[V:1]d d/ d/ d3/2 A/ F3 z|[V:2]!p!!<(! z/ f/f/f/!<)!!p!!>(! f/f/b/b/!<)!!ped! b/b/b/b/- b/b/b/b/-!<)!!pedff! b/b/b/b/-|[V:3]x8|[V:4]!ped! z/[K:treble] d/d/d/!>(! d/d/b/b/-[K:treble] b/b/b/b/|[V:5]x8|
+[V:1]a/ a/ a/ a/ e d f4|[V:2]a/a/a/a/ b/b/b/d'/ ffff-|[V:3]x8|[V:4]!ped! a/a/a/b/[K:bass][K:tass][K:treble] b/b/d'/d'/[K:bass] b/b/b/b/|[V:5][K:bass][Kvass] x11/2[K:treble]|
+[V:1]z8|[V:2]x6 z!p! c|[V:3]x8|[V:4]f/!mf!!>(! (A,/G,/F,/!>)!!<(![I:staff -1] F/A/A/!<)!!p!!>()!|[V:5]x8|
+[V:1]=c B/ A/!<)! c B!>(!c|[V:2]z5|[V:3]x5|[V:4][K:treble] z/ =c/B/A/!ped! G/F/E/D/[K:bassass] z/ =G,/=C/D/[K:treble]!ped-up!|[V:5]x2[K:bass] x4[K:treble] x3|
+[V:1]z8|[V:2]B)!>)! A/G/ BA!>(! GF^EF!>)!|[V:3]x8|[V:4]x2[K:treble]!ped! z/ A/A/G/F/!ped-up!|[V:5][K:bass][K:alto1] x[K:] x2[K:bass] x6|
+[V:1][Q:1/4=51]"^Tempo Prima Im Tempo." z/!ppp!!<(! d/ c/ B/!<)! c3/2!>(! c3 x2!>)!|[V:2]!mp!!>(! z/ f/^e/^d/!>)!!>)!|[V:3]x6 ^A2|[V:4][K:bass]!ped! z/[K:treble] B/B/A/"^dim."!ped! G/F/F/^E/[K:bass]|[V:5]x4|
+[V:1][Q:1/4=48] z!pp!!<(! =c/B/ A/ B3/2!<)!A/[Q:1/4=70][Q:1/4=76] x4[Q:1/4=77][Q:1/4=75] G/A/ B|[V:2]!mp!!>(! z4 x4!>)!|[V:3]x21/2|[V:4][K:bass]!ped! z/[K:treble] B/B/A/!ped! z/ A/A/G/[K:bass]!ped-up!|[V:5]a)[K:][K:bass][K:][K:bass][K:treble] x/ (A/A/G/[K:bass][K:bass]|
+[V:1]a =g/ =f/ g f[Q:1/4=50] fe/d/) ef|[V:2]z/ a/=g/=f/ efed|[V:3]x4 z2 =f2|[V:4][K:treble] z/!ped! A/=G/=F/ F/E/E/D/ z/ D/E/F/D!ped-up!|[V:5]x8|
+[V:1]^e3/2 ^d/ c2 z2 c z|[V:2]!>(! z/ =f/e/d/ c2 z cc!>)!!pp!f||[V:3]z/ =f/e/d/ =ccBc||[V:4]!ped! z/ =G/=F/E/!ped-up!||[V:5]x6 e2||
+[V:1]!mfp! z/ d/ =c/ B/[Q:1/4=58]"^a Tempre come sopranodando" z2 z d|[V:2]!pp! z/ d=c/[K:bass] (Bc BcBA)|[V:3]x6|[V:4]!pp!"^dim." z/ (=c/B/_B/) A^G!ff! z/ =F,,,/=C,,/=F,,/G,,/A,,/|[V:5]x6|
+[V:1]a3/2 =g/ =f e[Q:1/4Q:1/4=58]d) z z2[Q:1/4=52]"^.6"[Q:1/4=80] g/ a|[V:2]z/ a=g/ z =f efed|[V:3]z6 =f2|[V:4]!ped! z/ =G/=F/E/ EDz2z/D/F!mf!=F,!ped-up!E,D,z!ped!zzD|[V:5]z/ (a=g/) x6|
+[V:1]x2!>(! x =g =f3/2 e/!>)!|[V:2]z/ =f_ed/!>(! dd=cc!>)!||[V:3]z/ =f_e/- e/=f/e/d/ =c z =c2||[V:4][K:bass] x4 C4!ped-up!||[V:5]x8||
+[V:1][K:C] z/!mf! _e/ d/ =c3/2 _E =F G _A|[V:2]=c8-|[V:3]z/ a=g/ =f4 ed|[V:4][K:bass]!p! z/ =F=F,/ z/ F/EE,/zDD,/z/=C/|[V:5][K:treble][K:bass] x9/2 (=C/|
+[V:1]!p! =g3 =f e/=c/d/e/|[V:2]!>(! c8-|[V:3]z/ _a=g/ =f3 _ede|[V:4]!ped! z2 z!ped-up! =C!ped! z!ped-up!|[V:5]x8|
+[V:1]_e3/2 d/ =F =G A G A2|[V:2]a/a=g/ =f=f' e'2!8va)! z2|[V:3]z/ a=g/ =f3 _ede|[V:4]!ped! z/ _A=FE/!ped-up! z!ped!xE/^D/zE/D/!mp!E/!ped-up! z[I:staff +1] _E|[V:5][K:bass] x8|
+[V:1][Q:1/4=51]"^poco rall." x8[Q:1/4=50]|[V:2]!>(! z/ [=fad'][eac']/[fbd']/[fac'e'][fac'f'][fbd'][f^ac']|[V:3]x8|[V:4]z8|[V:5]x8|
+[V:1]z8|[V:2]e8|[V:3]z4 [Beg]4|[V:4][K:bass]!ped! z/[K:treble] =f/f/e/ z/ dd/-|[V:5](E,,,/B,,,/G,/F,/ E,/D,/C,,/B,,,/ E,,,) z z|
+[V:1][Q:1/4=46] z/!pp! B/ B/ A/ =G B A4-[Q:1/4=60]"_cresndo" x4|[V:2]!p!!>(! =f6 ed!>)!|[V:3][AB-]8|[V:4]z8|[V:5]x8|
+[V:1]A2[Q:1/4=51]"^T" G2 x4|][V:2]c4-)"^rit." c(cBG|][V:3]B8)|][V:4]!p! z/[K:treble] A3/2-A!ped-up!|][V:5]B6 ^A2|]
+[V:1]z6|][V:2][I:staff -1] a6)|][V:3]B/c/d/B/ c4|][V:4]x6!ped-up!|][V:5]x6|]
+[V:1]z7|[V:2][I:bass]!p! z/ A,/A/A/G/=GF/ F/F,,,/C,/F,/G,/A,/|[V:3]x7|[V:4]z7|[V:5]x7|

@@ -1,0 +1,18 @@
+%%score ( 1 2 ) { 3 | ( 4 5 ) }
+L:1/8
+Q:1/4=92
+M:3/4
+K:F
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:4 bass 
+V:5 bass 
+[V:1]!fermata!F4!p! D3/2 E/|[V:2]%distance=4[r:0/7]x6|[V:3]!fermata![A,CF]4!p! (D>E|[V:4]!fermata![F,,C,]4!pp! z2|[V:5]%distance=4[r:0/7]x6|
+[V:1]F2 E2 D3/2 F/|[V:2]x6|[V:3][A,F]2 [G,E]2 [F,D]>[A,F]|[V:4][F,,C,]4 z2|[V:5]x6|
+[V:1]A2 G2 G3/2 A/|[V:2]x6|[V:3][CA]2 [B,G]2 G>A|[V:4][C,,C,]4 z2|[V:5]x4[I:staff -1] B,2|
+[V:1]!<(! B3/2 B/ A2 G2!<)!|[V:2]x6|[V:3]!<(! [DB]2 [CA]2 [B,G]2!<)!|[V:4][C,,C,]4 z2|[V:5]x6|
+[V:1]!>(! c4 D3/2 E/|[V:2]x6|[V:3]!>(! [CAc]4) (D>E!>)!|[V:4][F,,,F,,]4 z2|[V:5]x4 B,2|
+[V:1]F2 E2 D3/2 F/!>)!|[V:2]x6|[V:3]!<(! [A,F]2 [G,E]2 [F,D]>[A,F]!<)!|[V:4][F,,C,]4 z2|[V:5]x6|
+[V:1]A2 G2"^a tempo"[Q:1/4=80] A3/2 B/|[V:2]x6|[V:3][CA]2 [B,G]2"^a tempo" A>B|[V:4][C,,C,]4"^a tempo" [B,,,B,,]2|[V:5]x4 C>D|
+[V:1]c2 B2[Q:1/4=75] A3/2 G/|[V:2]x6|[V:3][Ac]2 [GB]2 A>G|[V:4][C,,C,]4 [C,,C,]2|[V:5]x4 C>B,|

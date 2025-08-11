@@ -1,0 +1,13 @@
+%%score 1 { ( 2 5 ) | ( 3 4 6 ) }
+L:1/8
+Q:1/4=116
+M:3/4
+K:F
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:6 bass 
+[V:1]"^Messig"!ff![Q:1/4=108]!<(! c4- c c|[V:2]!ff!!<(! (!^![CAc]4!<)!!>(! [B,EB]2)!>)!|[V:3]z2 (!^![D,F,]2 [C,G,]2)|[V:4][C,,,C,,]6|[V:5]%distance=5[r:0/1]x6|[V:6]%distance=5[r:0/1]x6|
+[V:1]!ff![Q:1/4=112] !fermata!c6!<)!|][V:2]!ff! !fermata![A,CA]6|][V:3]!fermata![F,,C,F,]6|][V:4]x6|][V:5]x6|][V:6]x6|]

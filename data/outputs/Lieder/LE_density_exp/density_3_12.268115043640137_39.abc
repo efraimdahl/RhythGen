@@ -1,0 +1,25 @@
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=114
+M:4/4
+K:Gb
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 bass 
+V:4 bass 
+[V:1]"^Allegretto" z8|[V:2]!mf! ([GBdg]3 [GBdg] [Adfa]3 [Adfa]|[V:3]([G,,D,G,][D,,D,][D,,D,][D,,D,]) ([D,,D,][D,,D,][D,,D,][D,,D,])|[V:4]%distance=3[r:0/15]x8|
+[V:1]z8|[V:2][Bdgb]2) ([cc'][Bb]) [Acea]3 ([Gg]|[V:3]([D,,D,][D,,D,][D,,D,][D,,D,]) ([D,,D,][D,,D,][D,,D,][D,,D,])|[V:4]x8|
+[V:1]z8|[V:2][FAcf]2) ([Ee][Ff]) ([GBdg]2 [DGBd]2)|[V:3]([D,,D,][D,,D,][D,,D,][D,,D,]) ([D,,D,][D,,D,][D,,D,][D,,D,])|[V:4]x8|
+[V:1]z8||[V:2][B,DGB]2 ([Ece]>[Fcf]) [GBg]2 z2||[V:3][D,,D,]2 [D,,D,]2 [G,,,G,,]2 z2||[V:4]x8||
+[V:1]"^VERSES" G2 G3/2 A/ A3 A|[V:2]!p! ([B,DG][B,DG][B,DG][B,DG] [CDFA][CDFA][CDFA][CDFA])|[V:3]G,4 D,4|[V:4]x8|
+[V:1]B2 (cB) A4|[V:2]([B,DGB][B,DGB][B,DGB][B,DGB] [CDFA][CDFA][CDFA][CDFA])|[V:3](G,2 E,2) D,4|[V:4]x8|
+[V:1]G3 G B2 B2|[V:2]([B,DG][B,DG][B,DG][B,DG] [DGB][DGB][DGB][DGB])|[V:3]G,4 E,4|[V:4]x8|
+[V:1]d2 d2 A4|[V:2]([DGBd][DGBd][DGBd][DGBd] [DFAc][DFAc][DFAc][DFAc])|[V:3](B,,2 C,2) D,4|[V:4]x8|
+[V:1]B3 B e2 B2|[V:2]([D_FGB][DFGB][DFGB][DFGB] [DEGB][DEGB][DEGB][DEGB])|[V:3]G,4 G,4|[V:4]x8|
+[V:1]c2 c2 G3 G|[V:2]([CEGc][CEGc][CEGc][CEGc]) [CEG][CEG][CEG][CEG]|[V:3](A,2 E,2) C,4|[V:4]x8|
+[V:1]A3 A B2 G2|[V:2]([CEGA][CEGA][CEGA][CEGA]) [B,DGB][B,DGB][B,DGB][B,DGB]|[V:3][=C,G,]4 [D,G,]4|[V:4]x8|
+[V:1](FE) (DF) G4||[V:2][CDF][CDF][CDF][CDF] [B,DG][B,DG][B,DG][B,DG]||[V:3][D,A,]2 [D,,D,]2 [G,,D,]4||[V:4]x8||
+[V:1]z8|[V:2]!f! ([GBdg]3 [GBdg] [Adfa]3 [Adfa]|[V:3]([G,,D,G,][D,,D,][D,,D,][D,,D,]) ([D,,D,][D,,D,][D,,D,][D,,D,])|[V:4]x8|
+[V:1]z8|[V:2][Bdgb]2) ([cc'][Bb]) [Acea]3 ([Gg]|[V:3]([D,,D,][D,,D,][D,,D,][D,,D,]) ([D,,D,][D,,D,][D,,D,][D,,D,])|[V:4]x8|
+[V:1]z8|[V:2][FAcf]2) ([Ee][Ff]) ([GBdg]2 [DGBd]2)|[V:3]([D,,D,][D,,D,][D,,D,][D,,D,]) ([D,,D,][D,,D,][D,,D,][D,,D,])|[V:4]x8|
+[V:1]z8|][V:2][B,DGB]2 ([Ece]>[Fcf]) [GBg]2 z2|][V:3][D,,D,]2 [D,,D,]2 [G,,,G,,]2 z2|][V:4]x8|]

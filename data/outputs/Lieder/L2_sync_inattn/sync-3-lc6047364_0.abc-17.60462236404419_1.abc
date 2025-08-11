@@ -1,0 +1,32 @@
+%syncopation 6 5 5 5 5 4 5 5 5 5 5 5 5 5 5 5 5 5 3 6
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=116
+M:2/4
+K:Eb
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+[V:1]"^Massig" z4|[V:2]"^Allegro brison" (6:4:6z/ (E/G/B/e/g/ (6:4:6e/B/G/E/B,/E/)|[V:3]z4|
+[V:1]z2 z!mp! B|[V:2](6:4:6z/ (D/F/B/d/f/ (6:4:6d/B/F/D/B,/D/)|[V:3]B,, z z2|
+[V:1]e e d c|[V:2](6:4:6z/ (C/E/A/c/e/ (6:4:6c/A/E/C/E/A/)|[V:3]A,, z z2|
+[V:1]B2 z B|[V:2](6:4:6z/ (B,/E/G/B/e/ (6:4:6g/e/B/G/E/B,/)|[V:3]E, z z2|
+[V:1]G2 E2|[V:2][I:staff +1] (6:4:6(G,/B,/[I:staff -1]E/G/B/ (6:4:6E/B,/[I:staff +1]G,/E,/B,,/|[V:3][I:staff -1] G[I:staff +1] z z2|
+[V:1]e e f f|[V:2](6:4:6(G,/C/[I:staff -1]E/[I:staff +1]G,/[I:staff -1]C/E/)[I:staff +1] (6:4:6(F,/=A,/[I:staff -1]C/F/[I:staff +1]F,/[I:staff -1]=A,/C/)|[V:3]z4|
+[V:1]F2 z f|[V:2][I:staff +1] (6:4:6(F,/B,/[I:staff -1]D/F/B/ (6:4:6F/D/B,/[I:staff +1]F,/B,/D/)|[V:3]z4|
+[V:1]e d c d|[V:2][I:staff -1] (6:4:6z/[I:staff +1] (E,/B,/[I:staff -1]E/G/B/[I:staff +1] (6:4:6F,/=A,/[I:staff -1]C/F/[I:staff +1]F,/[I:staff -1]A,/C/)|[V:3]z4|
+[V:1]F2 z f|[V:2][I:staff +1] (6:4:6(F,/B,/[I:staff -1]D/F/B/ (6:4:6F/D/B,/[I:staff +1]F,/B,/D/)|[V:3]z4|
+[V:1]e d c d|[V:2][I:staff -1] (6:4:6z/[I:staff +1] (E,/B,/[I:staff -1]E/G/B/[I:staff +1] (6:4:6F,/=A,/[I:staff -1]C/F/[I:staff +1]F,/[I:staff -1]A,/C/)|[V:3]z4|
+[V:1]F2 z!mf! B|[V:2][I:staff +1] (6:4:6(F,/B,/[I:staff -1]D/F/B/ (6:4:6F/D/B,/[I:staff +1]F,/B,/D/)|[V:3]z4|
+[V:1]e e d c|[V:2][I:staff -1] (6:4:6z/[I:staff +1] (E,/A,/C/[I:staff -1]E/A/c/ (6:4:6E/C/A,/[I:staff +1]C,/_F,/A,/)|[V:3]z4|
+[V:1]B2 z B|[V:2][I:staff -1] (6:4:6z/[I:staff +1] (B,,/E,/G,/[I:staff -1]B,/E/ (6:4:6G/E/B,/[I:staff +1]G,/B,,/)|[V:3]z4|
+[V:1]e e f f|[V:2](6:4:6(_G,/C/[I:staff -1]E/[I:staff +1]G,/[I:staff -1]C/E/)[I:staff +1] (6:4:6(F,/=A,/[I:staff -1]C/F/[I:staff +1]F,/[I:staff -1]=A,/C/)|[V:3]z4|
+[V:1]F2 z f|[V:2][I:staff +1] (6:4:6(F,/B,/[I:staff -1]D/F/B/ (6:4:6F/D/B,/[I:staff +1]F,/B,/D/)|[V:3]z4|
+[V:1]e d c d|[V:2][I:staff -1] (6:4:6z/[I:staff +1] (E,/B,/[I:staff -1]E/G/B/[I:staff +1] (6:4:6F,/=A,/[I:staff -1]C/F/[I:staff +1]F,/[I:staff -1]A,/C/)|[V:3]z4|
+[V:1]F2 z f|[V:2][I:staff +1] (6:4:6(F,/B,/[I:staff -1]D/F/B/ (6:4:6F/D/B,/[I:staff +1]F,/B,/D/)|[V:3]z4|
+[V:1]e G A3/2 C/|[V:2][I:staff -1] E z z2|[V:3]z4|
+[V:1]B,2 !fermata!z||[V:2]B,2 !fermata!z||[V:3][I:staff +1] B,,2 !fermata!z||
+[V:1][Q:1/4=90] B c|[V:2]z2|[V:3]z2|
+[V:1]d2 z F||[V:2]z4||[V:3]z4||
+[V:1]B2 !fermata!z||[V:2]B,2 !fermata!z||[V:3]B,,2 !fermata!z||
+[V:1]z1|[V:2]"^Imme" z|[V:3]z1|

@@ -1,0 +1,74 @@
+%syncopation 6 5 5 6 5 5 5 5 5 4 4 5 5 5 5 5 6 5 5 5 5 5 5 6 5 5 5 6 6 6 5 5 5 6 5 6 5 5 5 6 6 6 6 6 5 5 5 5 6 6 6 5 5 5 6 5 6 5 5 5 6 6 6 6
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+Q:1/4=144
+M:4/4
+K:G
+V:1 treble nm="Chant\nVoice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+[V:1]"^Allegro con espress." z8|[V:2]!f!!8va(! [ad'a']2 z (3(d'/e'/f'/ [ad'a']2) z (3(a/b/d'/|[V:3]!f!!ped! (!arpeggio![D,,D,]2[K:treble] !arpeggio![FAdf]2)!ped-up![K:bass]!ped! (!arpeggio![D,,D,]2[K:treble] !arpeggio![FAdf]2)!ped-up!|[V:4]!8va(! x8|
+[V:1]z8|[V:2][fad'f']2) z (3(d'/e'/f'/ [ad'a']2) z (3(a/b/d'/|[V:3][K:bass]!ped! (!arpeggio![D,,D,]2[K:treble] !arpeggio![FAdf]2)[K:bass]!ped-up!!ped! (!arpeggio![D,,D,]2[K:treble] !arpeggio![FAdf]2)!ped-up!|[V:4]x8|
+[V:1]z8|[V:2]!arpeggio!!^![bd'g'b']2)!8va)! z2[K:bass] (!^!G,,2 z2|[V:3]!ped! !arpeggio![G,B,DG]2[I:staff +1] z2!ped-up!!ped! (!^!G,,,2 z2|[V:4]x2!8va)! x2[K:bass] x4|
+[V:1]z8|[V:2]!^!D,,2) z2 (!^!B,,,2 z2|[V:3]!^!D,,,2) z2!ped-up!!ped! (!^!B,,,,2 z2!ped-up!|[V:4]x8|
+[V:1]z8|[V:2]!^!G,,,2) z2 (!^!E,,,2 z2|[V:3]!^!G,,,,2) z2!ped! (!^!E,,,,2 z2!ped-up!|[V:4]x8|
+[V:1]z8|[V:2]!^!D,,,2) z2 !^!B,,,,2 z2|[V:3]!^!D,,,,2) z2!ped! !^!B,,,,2 z2!ped-up!|[V:4]x8|
+[V:1]z8|[V:2]!^!G,,,,2 z2 !^!B,,,,2 z2|[V:3]!^!G,,,,2 z2!ped! !^!B,,,,2 z2!ped-up!|[V:4]x8|
+[V:1]z8|[V:2]!^!G,,,,2 z2 !^!B,,,,2 z2|[V:3]!^!G,,,,2 z2!ped! !^!B,,,,2 z2!ped-up!|[V:4]x8|
+[V:1]z8|[V:2][K:treble]!mf! (!arpeggio![gbe'g']2) !arpeggio![gbe'g']2 (!arpeggio![ac'e'a']2 !arpeggio![ac'e'a']2|[V:3]!ped! !arpeggio![E,,,B,,,E,,]2!ped-up![K:treble] !arpeggio![EGBe]2!ped! !arpeggio![EAce]2 !arpeggio![EAce]2|[V:4][K:treble] x8|
+[V:1]z8|[V:2]!arpeggio![gbd'g']2 !arpeggio![gbd'g']2 !arpeggio![fad'f']2 !arpeggio![fad'f']2)|[V:3]!ped! !arpeggio![DGBd]2!ped-up! !arpeggio![DGBd]2!ped! !arpeggio![DFAd]2!ped-up! !arpeggio![DFAd]2|[V:4]x8|
+[V:1]z8|[V:2](!arpeggio![egbe']2 !arpeggio![egbe']2 !arpeggio![ac'e'a']2 !arpeggio![ac'e'a']2|[V:3]!ped! !arpeggio![B,EGB]2!ped-up! !arpeggio![B,EGB]2!ped! !arpeggio![CEAc]2 !arpeggio![CEAc]2!ped-up!|[V:4]x8|
+[V:1]z4 z2 D2|[V:2]!arpeggio![gbd'g']2 !arpeggio![gbd'g']2 !arpeggio![fad'f']2 !arpeggio![fad'f']2)|[V:3]!ped! !arpeggio![B,DGB]2!ped-up! !arpeggio![B,DGB]2!ped! !arpeggio![A,DFA]2!ped-up! !arpeggio![A,DFA]2|[V:4]x8|
+[V:1]B3 B A3 A|[V:2]!mp! (!arpeggio![gbe'g']2 !arpeggio![gbe'g']2 !arpeggio![ac'e'a']2 !arpeggio![ac'e'a']2|[V:3]!ped! !arpeggio![G,B,EG]2!ped-up! !arpeggio![G,B,EG]2!ped! !arpeggio![A,CEA]2 !arpeggio![A,CEA]2!ped-up!|[V:4]x8|
+[V:1](G2 D2) F4|[V:2]!arpeggio![gbd'g']2 !arpeggio![gbd'g']2 !arpeggio![fad'f']2 !arpeggio![fad'f']2)|[V:3]!ped! !arpeggio![G,B,DG]2!ped-up! !arpeggio![G,B,DG]2!ped! !arpeggio![F,A,DF]2!ped-up! !arpeggio![F,A,DF]2|[V:4]x8|
+[V:1](E3 F) (G2 A2)|[V:2](!arpeggio![egbe']2 !arpeggio![egbe']2 !arpeggio![ac'e'a']2 !arpeggio![ac'e'a']2|[V:3]!ped! !arpeggio![E,G,B,E]2!ped-up! !arpeggio![E,G,B,E]2!ped! !arpeggio![A,CEA]2 !arpeggio![A,CEA]2!ped-up!|[V:4]x8|
+[V:1]B4 z2 B2|[V:2]!arpeggio![gbd'g']2 !arpeggio![gbd'g']2 !arpeggio![fad'f']2 !arpeggio![fad'f']2)|[V:3]!ped! !arpeggio![G,B,DG]2!ped-up! !arpeggio![G,B,DG]2!ped! !arpeggio![F,A,DF]2!ped-up! !arpeggio![F,A,DF]2|[V:4]x8|
+[V:1]B2 B2 d3 d|[V:2](!arpeggio![gbe'g']2 !arpeggio![gbe'g']2 !arpeggio![gbd'g']2 !arpeggio![gbd'g']2|[V:3]!ped! !arpeggio![G,B,EG]2!ped-up! !arpeggio![G,B,EG]2!ped! !arpeggio![G,B,DG]2!ped-up! !arpeggio![G,B,DG]2|[V:4]x8|
+[V:1]B4 F2 F2|[V:2]!arpeggio![fbd'f']2 !arpeggio![fbd'f']2 !arpeggio![fbd'f']2 !arpeggio![fbd'f']2)|[V:3]!ped! !arpeggio![F,B,DF]2!ped-up! !arpeggio![F,B,DF]2!ped! !arpeggio![F,B,DF]2!ped-up! !arpeggio![F,B,DF]2|[V:4]x8|
+[V:1](A3 B) ^c2 c2|[V:2](!arpeggio![ea^c'e']2 !arpeggio![eac'e']2 !arpeggio![eac'e']2 !arpeggio![eac'e']2)|[V:3]!ped! !arpeggio![E,A,^CE]2!ped-up! !arpeggio![E,A,CE]2!ped! !arpeggio![E,A,CE]2!ped-up! !arpeggio![E,A,CE]2|[V:4]x8|
+[V:1]d4 z2 D2|[V:2](!arpeggio![fad'f']2 !arpeggio![fad'f']2 !arpeggio![fad'f']2 !arpeggio![fad'f']2)|[V:3]!ped! !arpeggio![F,A,DF]2!ped-up! !arpeggio![F,A,DF]2!ped! !arpeggio![F,A,DF]2!ped-up! !arpeggio![F,A,DF]2|[V:4]x8|
+[V:1]A3 A G2 B2|[V:2]!arpeggio![eac'e']2 !arpeggio![eac'e']2 !arpeggio![dgbd']2 !arpeggio![dgbd']2|[V:3]!ped! !arpeggio![E,A,CE]2!ped-up! !arpeggio![E,A,CE]2!ped! !arpeggio![D,G,B,D]2!ped-up! !arpeggio![D,G,B,D]2|[V:4]x8|
+[V:1]A2 D2 F4|[V:2]!arpeggio![dfad']2 !arpeggio![dfad']2 !arpeggio![dfad']2 !arpeggio![dfad']2|[V:3]!ped! !arpeggio![D,F,A,D]2!ped-up! !arpeggio![D,F,A,D]2!ped! !arpeggio![D,F,A,D]2!ped-up! !arpeggio![D,F,A,D]2|[V:4]x8|
+[V:1]G2 G2 A3 G|[V:2](!arpeggio![dgbd']2 !arpeggio![dgbd']2 !arpeggio![ea^c'e']2 !arpeggio![eac'e']2)|[V:3]!ped! (!arpeggio![D,G,B,D]2!ped-up! !arpeggio![D,G,B,D]2!ped-up!!ped! !arpeggio![E,A,^CE]2!ped-up!!ped! !arpeggio![E,A,CE]2)!ped-up!|[V:4]x8|
+[V:1]F4 z2 F2|[V:2](!arpeggio![dfbd']2 !arpeggio![dfbd']2 !arpeggio![dfbd']2 !arpeggio![dfbd']2)|[V:3]!ped! !arpeggio![D,F,B,D]2!ped-up! !arpeggio![D,F,B,D]2!ped-up!!ped! !arpeggio![D,F,B,D]2!ped-up! !arpeggio![D,F,B,D]2|[V:4]x8|
+[V:1]E3 E F2 F2|[V:2]!arpeggio![^cea^c']2 !arpeggio![ceac']2 !arpeggio![dfad']2 !arpeggio![dfad']2|[V:3]!ped! !arpeggio![^C,E,A,^C]2!ped-up! !arpeggio![C,E,A,C]2!ped! !arpeggio![D,F,A,D]2!ped-up!!ped! !arpeggio![D,F,A,D]2!ped-up!|[V:4]x8|
+[V:1]E2 E2 A2 A2|[V:2]!arpeggio![^cea^c']2 !arpeggio![ceac']2 !arpeggio![dfad']2 !arpeggio![dfad']2)|[V:3]!ped! !arpeggio![^C,E,A,^C]2!ped-up! !arpeggio![C,E,A,C]2!ped! !arpeggio![D,F,A,D]2!ped-up!!ped! !arpeggio![D,F,A,D]2!ped-up!|[V:4]x8|
+[V:1]B3 A F2 E2|[V:2]!<(! !arpeggio![dgbd']2 !arpeggio![dgbd']2 !arpeggio![^dab^d']2 !arpeggio![dabd']2|[V:3]!ped! !arpeggio![D,G,B,D]2!ped-up!!ped! !arpeggio![D,G,B,D]2!ped-up!!ped! !arpeggio![B,,^D,A,B,]2!ped-up!!ped! !arpeggio![B,,D,A,B,]2!ped-up!|[V:4]x8|
+[V:1]E4 z4|[V:2](!arpeggio![egbe']2 !arpeggio![e^gbe']2 !arpeggio![fac'f']2 !arpeggio![fac'f']2)|[V:3]!ped! !arpeggio![E,^G,B,E]2!ped-up!!ped! !arpeggio![E,G,B,E]2!ped-up!!ped! !arpeggio![F,A,CF]2!ped-up!!ped! !arpeggio![F,A,CF]2!ped-up!|[V:4]x8|
+[V:1]z8|[V:2](!arpeggio![egbe']2 !arpeggio![egbe']2 !arpeggio![e^gbe']2 !arpeggio![egbe']2)!8va)!|[V:3]!ped! !arpeggio![E,^G,B,E]2!ped-up!!ped! !arpeggio![E,G,B,E]2!ped-up!!ped! !arpeggio![E,G,B,E]2!ped-up!!ped! !arpeggio![E,G,B,E]2!ped-up!|[V:4]x8!8va)!|
+[V:1]z4 z2 D2|[V:2]!mf!!<(! (!arpeggio![fad'f']2 !arpeggio![fad'f']2 !arpeggio![fad'f']2!<)! !arpeggio![fad'f']2)|[V:3]!ped! !arpeggio![F,A,DF]2!ped-up!!ped! !arpeggio![F,A,DF]2!ped-up!!ped! !arpeggio![F,A,DF]2!ped-up!!ped! !arpeggio![F,A,DF]2!ped-up!|[V:4]x8|
+[V:1]B3 B A2 A2|[V:2](!arpeggio![gbe'g']2 !arpeggio![gbe'g']2 !arpeggio![ac'e'a']2 !arpeggio![ac'e'a']2|[V:3]!ped! !arpeggio![G,B,EG]2!ped-up! !arpeggio![G,B,EG]2!ped! !arpeggio![A,CEA]2!ped-up! !arpeggio![A,CEA]2|[V:4]x8|
+[V:1](G2 D2) F4|[V:2]!arpeggio![gbd'g']2 !arpeggio![gbd'g']2 !arpeggio![fad'f']2 !arpeggio![fad'f']2)|[V:3]!ped! !arpeggio![G,B,DG]2!ped-up! !arpeggio![G,B,DG]2!ped! !arpeggio![F,A,DF]2!ped-up! !arpeggio![F,A,DF]2|[V:4]x8|
+[V:1]E2 (EF) G2 A2|[V:2](!arpeggio![egbe']2 !arpeggio![egbe']2 !arpeggio![ac'e'a']2 !arpeggio![ac'e'a']2|[V:3]!ped! !arpeggio![E,G,B,E]2!ped-up! !arpeggio![E,G,B,E]2!ped! !arpeggio![A,CEA]2!ped-up! !arpeggio![A,CEA]2|[V:4]x8|
+[V:1]B4 z2 B2|[V:2]!arpeggio![gbd'g']2 !arpeggio![gbd'g']2 !arpeggio![fad'f']2 !arpeggio![fad'f']2)|[V:3]!ped! !arpeggio![G,B,DG]2!ped-up! !arpeggio![G,B,DG]2!ped! !arpeggio![F,A,DF]2!ped-up! !arpeggio![F,A,DF]2|[V:4]x8|
+[V:1]B3 B ^c2 B2|[V:2](!arpeggio![gbe'g']2 !arpeggio![gbe'g']2 !arpeggio![f^a^c'f']2 !arpeggio![fac'f']2|[V:3]!ped! !arpeggio![G,B,EG]2!ped-up! !arpeggio![G,B,EG]2!ped! !arpeggio![F,^A,^CF]2!ped-up! !arpeggio![F,A,CF]2|[V:4]x8|
+[V:1](d2 F2) B4|[V:2]!arpeggio![fbd'f']2 !arpeggio![fbd'f']2 !arpeggio![fbd'f']2 !arpeggio![fbd'f']2)|[V:3]!ped! !arpeggio![F,B,DF]2!ped-up! !arpeggio![F,B,DF]2!ped! !arpeggio![F,B,DF]2!ped-up! !arpeggio![F,B,DF]2|[V:4]x8|
+[V:1]A2 A2 ^c2 c2|[V:2](!arpeggio![ea^c'e']2 !arpeggio![eac'e']2 !arpeggio![eac'e']2 !arpeggio![eac'e']2)|[V:3]!ped! !arpeggio![E,A,^CE]2!ped-up! !arpeggio![E,A,CE]2!ped! !arpeggio![E,A,CE]2!ped-up! !arpeggio![E,A,CE]2|[V:4]x8|
+[V:1]d4 z2 D2|[V:2](!arpeggio![fad'f']2 !arpeggio![fad'f']2 !arpeggio![fad'f']2 !arpeggio![fad'f']2)|[V:3]!ped! !arpeggio![F,A,DF]2!ped-up! !arpeggio![F,A,DF]2!ped! !arpeggio![F,A,DF]2!ped-up! !arpeggio![F,A,DF]2|[V:4]x8|
+[V:1]A2 A2 G2 B2|[V:2](!arpeggio![eac'e']2 !arpeggio![eac'e']2 !arpeggio![dgbd']2 !arpeggio![dgbd']2|[V:3]!ped! !arpeggio![E,A,CE]2!ped-up!!ped! !arpeggio![E,A,CE]2!ped-up!!ped! !arpeggio![D,G,B,D]2!ped-up!!ped! !arpeggio![D,G,B,D]2!ped-up!|[V:4]x8|
+[V:1](A2 D2) F4|[V:2]!arpeggio![dfad']2 !arpeggio![dfad']2 !arpeggio![dfad']2 !arpeggio![dfad']2|[V:3]!ped! !arpeggio![D,F,A,D]2!ped-up!!ped! !arpeggio![D,F,A,D]2!ped-up!!ped! !arpeggio![D,F,A,D]2!ped-up!!ped! !arpeggio![D,F,A,D]2!ped-up!|[V:4]x8|
+[V:1]G2 G2 A3 G|[V:2]!arpeggio![dgbd']2 !arpeggio![dgbd']2 !arpeggio![ea^c'e']2 !arpeggio![eac'e']2)|[V:3]!ped! !arpeggio![D,G,B,D]2!ped-up!!ped! !arpeggio![D,G,B,D]2!ped-up!!ped! !arpeggio![E,A,^CE]2!ped-up!!ped! !arpeggio![E,A,CE]2!ped-up!|[V:4]x8|
+[V:1]F4 z2 F2|[V:2](!arpeggio![dfbd']2 !arpeggio![dfbd']2 !arpeggio![dfbd']2 !arpeggio![dfbd']2)|[V:3]!ped! !arpeggio![D,F,B,D]2!ped-up! !arpeggio![D,F,B,D]2!ped-up!!ped! !arpeggio![D,F,B,D]2!ped-up! !arpeggio![D,F,B,D]2|[V:4]x8|
+[V:1]E2 E2 F3 F|[V:2]!arpeggio![^cea^c']2 !arpeggio![ceac']2 !arpeggio![dfad']2 !arpeggio![dfad']2|[V:3]!ped! !arpeggio![^C,E,A,^C]2!ped-up!!ped! !arpeggio![C,E,A,C]2!ped-up!!ped! !arpeggio![D,F,A,D]2!ped-up!!ped! !arpeggio![D,F,A,D]2!ped-up!|[V:4]x8|
+[V:1]E2 E2 A2 A2|[V:2]!arpeggio![^cea^c']2 !arpeggio![ceac']2 !arpeggio![dfad']2 !arpeggio![dfad']2)|[V:3]!ped! !arpeggio![^C,E,A,^C]2!ped-up!!ped! !arpeggio![C,E,A,C]2!ped-up!!ped! !arpeggio![D,F,A,D]2!ped-up!!ped! !arpeggio![D,F,A,D]2!ped-up!|[V:4]x8|
+[V:1]B2 A2 F2 E2|[V:2]([dgbd']2 [dgbd']2 [^dab^d']2 [eabe']2)|[V:3]!ped! !arpeggio![D,G,B,D]2!ped-up!!ped! !arpeggio![D,G,B,D]2!ped-up!!ped! !arpeggio![^D,A,B,^D]2!ped-up!!ped! !arpeggio![E,A,B,E]2!ped-up!|[V:4]x8|
+[V:1]E4 z4|[V:2]!f! (!arpeggio![e^gbe']2 !arpeggio![egbe']2 !arpeggio![egbe']2 !arpeggio![egbe']2)|[V:3]!ped! !arpeggio![E,^G,B,E]2!ped-up!!ped! !arpeggio![E,G,B,E]2!ped-up!!ped! !arpeggio![E,G,B,E]2!ped-up!!ped! !arpeggio![E,G,B,E]2!ped-up!|[V:4]x8|
+[V:1]!f! B3 B ^c2 A2|[V:2]!f! (!arpeggio![fb^d'f']2 !arpeggio![fbd'f']2 !arpeggio![ea^c'e']2 !arpeggio![eac'e']2|[V:3]!ped! !arpeggio![F,B,^DF]2!ped-up!!ped! !arpeggio![F,B,DF]2!ped-up!!ped! !arpeggio![E,A,^CE]2!ped-up!!ped! !arpeggio![E,A,CE]2!ped-up!|[V:4]x8|
+[V:1]B2 B2 F4|[V:2]!arpeggio![^dfb^d']2 !arpeggio![dfbd']2 !arpeggio![dfbd']2 !arpeggio![dfbd']2)|[V:3]!ped! !arpeggio![^D,F,B,^D]2!ped-up!!ped! !arpeggio![D,F,B,D]2!ped-up!!ped! !arpeggio![D,F,B,D]2!ped-up!!ped! !arpeggio![D,F,B,D]2!ped-up!|[V:4]x8|
+[V:1]^G3 G A2 B2|[V:2](!arpeggio![e^gbe']2 !arpeggio![egbe']2 !arpeggio![fb^d'f']2 !arpeggio![fbd'f']2|[V:3]!ped! !arpeggio![E,^G,B,E]2!ped-up!!ped! !arpeggio![E,G,B,E]2!ped-up!!ped! !arpeggio![F,B,^DF]2!ped-up!!ped! !arpeggio![F,B,DF]2!ped-up!|[V:4]x8|
+[V:1]^c4 z2 c2|[V:2]!arpeggio![fa^c'f']2 !arpeggio![fac'f']2 !arpeggio![fac'f']2 !arpeggio![fac'f']2)|[V:3]!ped! !arpeggio![F,A,^CF]2!ped-up!!ped! !arpeggio![F,A,CF]2!ped-up!!ped! !arpeggio![F,A,CF]2!ped-up!!ped! !arpeggio![F,A,CF]2!ped-up!|[V:4]x8|
+[V:1]^c2 c2 ^d2 d2|[V:2](!arpeggio![^g^c'e'^g']2 !arpeggio![gc'e'g']2 !arpeggio![fb^d'f']2 !arpeggio![fbd'f']2|[V:3]!ped! !arpeggio![^G,^CE^G]2!ped-up!!ped! !arpeggio![G,CEG]2!ped-up!!ped! !arpeggio![F,B,^DF]2!ped-up!!ped! !arpeggio![F,B,DF]2!ped-up!|[V:4]x8|
+[V:1]e2 ^G2 ^c4|[V:2]!arpeggio![e^g^c'e']2 !arpeggio![egc'e']2 !arpeggio![egc'e']2 !arpeggio![egc'e']2)|[V:3]!ped! !arpeggio![E,^G,^CE]2!ped-up!!ped! !arpeggio![E,G,CE]2!ped-up!!ped! !arpeggio![E,G,CE]2!ped-up!!ped! !arpeggio![E,G,CE]2!ped-up!|[V:4]x8|
+[V:1]B2 B2 ^d2 d2|[V:2](!arpeggio![fb^d'f']2 !arpeggio![fbd'f']2 !arpeggio![fbd'f']2 !arpeggio![fbd'f']2)|[V:3]!ped! !arpeggio![F,B,^DF]2!ped-up!!ped! !arpeggio![F,B,DF]2!ped-up!!ped! !arpeggio![F,B,DF]2!ped-up!!ped! !arpeggio![F,B,DF]2!ped-up!|[V:4]x8|
+[V:1]e4 z2 e2|[V:2](!arpeggio![^gbe'^g']2 !arpeggio![gbe'g']2 !arpeggio![gbe'g']2 !arpeggio![gbe'g']2)|[V:3]!ped! !arpeggio![^G,B,E^G]2!ped-up!!ped! !arpeggio![G,B,EG]2!ped-up!!ped! !arpeggio![G,B,EG]2!ped-up!!ped! !arpeggio![G,B,EG]2!ped-up!|[V:4]x8|
+[V:1]!<(! ^c3 c B2 ^G2|[V:2]!<(! (!arpeggio![fb^d'f']2 !arpeggio![fbd'f']2 !arpeggio![eb^c'e']2 !arpeggio![ebc'e']2|[V:3]!ped! !arpeggio![F,B,^DF]2!ped-up!!ped! !arpeggio![F,B,DF]2!ped-up!!ped! !arpeggio![E,B,^CE]2!ped-up!!ped! !arpeggio![E,B,CE]2!ped-up!|[V:4]x8|
+[V:1]B2 B2 F4!<)!|[V:2]!arpeggio![^dfb^d']2 !arpeggio![dfbd']2 !arpeggio![dfbd']2 !arpeggio![dfbd']2)!<)!|[V:3]!ped! !arpeggio![^D,F,B,^D]2!ped-up!!ped! !arpeggio![D,F,B,D]2!ped-up!!ped! !arpeggio![D,F,B,D]2!ped-up!!ped! !arpeggio![D,F,B,D]2!ped-up!|[V:4]x8|
+[V:1]!ff! ^G2 G2 A3 G|[V:2]!ff! (!arpeggio![ea^c'e']2 !arpeggio![eac'e']2 !arpeggio![fb^d'f']2 !arpeggio![fbd'f']2)|[V:3]!ped! !arpeggio![E,A,^CE]2!ped-up!!ped! !arpeggio![E,A,CE]2!ped-up!!ped! !arpeggio![F,B,^DF]2!ped-up!!ped! !arpeggio![F,B,DF]2!ped-up!|[V:4]x8|
+[V:1]!>(! ^G4 z2 G2!>)!|[V:2]!>(! (!arpeggio![e^g^c'e']2 !arpeggio![egc'e']2 !arpeggio![egc'e']2 !arpeggio![egc'e']2)!>)!|[V:3]!ped! !arpeggio![E,^G,^CE]2!ped-up!!ped! !arpeggio![E,G,CE]2!ped-up!!ped! !arpeggio![E,G,CE]2!ped-up!!ped! !arpeggio![E,G,CE]2!ped-up!|[V:4]x8|
+[V:1]!mp! F2 F2 ^G3 G|[V:2]!mp! (!arpeggio![^dfb^d']2 !arpeggio![dfbd']2 !arpeggio![e^gbe']2 !arpeggio![egbe']2|[V:3]!ped! !arpeggio![^D,F,B,^D]2!ped-up!!ped! !arpeggio![D,F,B,D]2!ped-up!!ped! !arpeggio![E,^G,B,E]2!ped-up!!ped! !arpeggio![E,G,B,E]2!ped-up!|[V:4]x8|
+[V:1]F2 F2 B2 B2|[V:2]!arpeggio![^dfb^d']2 !arpeggio![dfbd']2 !arpeggio![e^gbe']2 !arpeggio![egbe']2)|[V:3]!ped! !arpeggio![^D,F,B,^D]2!ped-up!!ped! !arpeggio![D,F,B,D]2!ped-up!!ped! !arpeggio![E,^G,B,E]2!ped-up!!ped! !arpeggio![E,G,B,E]2!ped-up!|[V:4]x8|
+[V:1]!ff! ^c3 B ^G2 F2|[V:2]!ff! (!arpeggio![fa^c'f']2 !arpeggio![fac'f']2 !arpeggio![^gbd'^g']2 !arpeggio![gbd'g']2|[V:3]!ped! !arpeggio![F,A,^CF]2!ped-up!!ped! !arpeggio![F,A,CF]2!ped-up!!ped! !arpeggio![^G,B,D^G]2!ped-up!!ped! !arpeggio![G,B,DG]2!ped-up!|[V:4]x8|
+[V:1][Q:1/4=122]"^rit." F4[Q:1/4=120] z4|[V:2]"_accel."!<(! (!arpeggio![a^c'f'a']2 !arpeggio![ac'f'a']2 !arpeggio![^gc'^e'^g']2 !arpeggio![gc'e'g']2)!<)!|[V:3]!ped! !arpeggio![A,^CFA]2!ped-up!!ped! !arpeggio![A,CFA]2!ped-up!!ped! !arpeggio![^G,C^E^G]2!ped-up!!ped! !arpeggio![G,CEG]2!ped-up!|[V:4]x8|
+[V:1]z8|[V:2]!ff! !arpeggio![f^a^c'f']2) z2!fff!!8va(! (!arpeggio![b'^d''f''b'']2!8va)! z2|[V:3]!ped! !arpeggio![F,^A,^CF]2 z2!ped-up![K:bass]!ped! (!arpeggio![B,,,B,,]2 z2|[V:4]x4!8va(! x2!8va)! x2|
+[V:1]!fermata!z8|][V:2]!fermata!z8|][V:3]!fermata!B,,,,2) z2 z4!ped-up!|][V:4]x8|]

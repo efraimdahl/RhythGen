@@ -1,0 +1,26 @@
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=45
+M:4/4
+K:D
+V:1 treble nm="Voice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+V:4 bass 
+[V:1]"^Lent"!mf! D2 E3/2 D/ D2 z2|[V:2]!mf! z2 ([E,G,C]>D) [F,D]2 z2|[V:3]z2 (A,,>[D,,A,,]) [D,,A,,]2 z2|[V:4]x8|
+[V:1]F2 G3/2 F/ F2 z2|[V:2]z2 ([G,CE]>[F,DF]) [F,DF]2 z2|[V:3]z2 (A,,>[D,,A,,]) [D,,A,,]2 z2|[V:4]x8|
+[V:1]A2 B3/2 A/ d3 B|[V:2]z2 ([DGB]>[DFA]) (d3 B)|[V:3]z2 [G,,D,]2 [G,,D,]4|[V:4]x4 [G,B,]4|
+[V:1](A>F) (G>E) D2 z2|[V:2](A>F) ([CE]>C) D2 z2|[V:3]z2 [A,,G,]2 [D,F,]2 z2|[V:4]x2 A,2 x4|
+[V:1]F3/2 G/ A A A2 z2|[V:2]([DF]>[EG] [FA])[FA] [FA]2 z2|[V:3]D,2 D,>D, D,2 z2|[V:4]D,2 D,>D, D,2 x2|
+[V:1]B3/2 c/ d d d2 z2|[V:2]([GB]>[Ac] [Bd])[Bd] [Bd]2 z2|[V:3]G,2 G,>G, G,2 z2|[V:4]G,2 G,>G, G,2 x2|
+[V:1]!p! B2 c d (ed) c B|[V:2]!p! [GB]2 [GB]2 [GB]2 [GB]2|[V:3][G,D]2 [G,D]2 [G,D]2 [G,D]2|[V:4]x8|
+[V:1]B3 A A2 z2|[V:2][GB]3 [FA] [FA]2 z2|[V:3]D3 D, D,2 z2|[V:4]D3 x5|
+[V:1]!f! A3/2 B/ A3/2 G/ F2 z2|[V:2]!f! ([DFA]>[GB]) ([FA]>[EG]) [DF]2 z2|[V:3][D,,D,]2 [D,,D,]>[D,,D,] [D,,D,]2 z2|[V:4]x8|
+[V:1]!p! G3/2 A/ G3/2 F/ E2 z2|[V:2]!p! ([EG]>[FA]) ([EG]>[DF]) [CE]2 z2|[V:3][A,,A,]2 [A,,A,]>[A,,A,] [A,,A,]2 z2|[V:4]x8|
+[V:1]!f! d3 c/ B/ A G F B|[V:2]!f! ([DFd]3 [DAc]/[DGB]/) ([FA][EG][DF][DGB])|[V:3]([F,,F,]3 [F,,F,]/[G,,G,]/ [A,,A,][^A,,^A,][B,,B,][G,,G,])|[V:4]x8|
+[V:1]A2 (G3/2F/4)G/4 A2 z2|[V:2][FA]2 (G3/2F/4G/4) [FA]2 z2|[V:3][A,,A,]2 [A,,A,]2 [D,A,]2 z2|[V:4]x8|
+[V:1]!f! d3/2 c/ B/A/ A B A G F|[V:2]!f! ([DFd]>[EAc] [DGB]/[DFA]/[DFA]) ([GB][FA][EG][DF])|[V:3]([D,A,]>[F,A,] [F,A,]/[E,G,]/[D,F,]) G,2 [B,,G,]2|[V:4]x4 G,2 x2|
+[V:1]!f! E3/2 G/ (B/A/) (G/E/) D2 z2|[V:2]!f! (E>G) ([DB]/[CA]/)([CE]/C/) [F,D]2 z2|[V:3][C,A,]2 [A,,E,]2 [D,,D,]2 z2|[V:4]x2 A,2 x4|
+[V:1]!f! (d>c) (B/A/) (A/d/) B A G F|[V:2]!f! ([DFd]>[EAc] [DGB]/[DFA]/[DFA]/[DFA]/) ([GB][FA][EG][DF])|[V:3]([D,A,]>[F,A,] [F,A,]/[F,A,]/[F,A,]/[F,A,]/) ([B,,G,]2 [^G,,B,,]2)|[V:4]x8|
+[V:1]!f! E3/2 B/ (A/G/) (E/c/) d2 z2|[V:2]!f! (E>G) ([DB]/[CA]/)([CE]/C/) [F,D]2 z2|[V:3][A,,C,]2 [A,,E,]2 D,,2 z2|[V:4]x2 A,,2 x4|
+[V:1]!fermata!z8|][V:2]!fermata![F,D]8|][V:3]!fermata![D,,A,,]8|][V:4]x8|]

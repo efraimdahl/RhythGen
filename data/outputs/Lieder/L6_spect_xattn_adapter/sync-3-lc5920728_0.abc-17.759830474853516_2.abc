@@ -1,0 +1,31 @@
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=114
+M:3/2
+K:B
+V:1 treble nm="Chant\nVoice"
+V:2 treble nm="Piano"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+[V:1]"^Molto adagio" z12|[V:2](f'e'd'c'ba gfedcB)|[V:3]!p! (CECECE CECE CECE|[V:4](.C,,2 .C,,2 .C,,2) z6|[V:5]x(bc'd'e'f'e' d'c'b=a|
+[V:1]z11|[V:2]AG)(FEDC ^B,A,G,F,^E,)|[V:3]z11|[V:4]x11|[V:5]x11|
+[V:1]z6 z2!f! g2 g2|[V:2]!>!C z z2 z2 (!>!f'd'bg|[V:3](D)FDFDF)[K:bass](DF DF=DFD FDFD|[V:4]x6[K:bass]!mf! .d2 z4)|[V:5]x12|
+[V:1]g12)||[V:2]fe) z2 z2!8va(! (!>!f''d'c'bgf!8va)!|[V:3][K:treble] (EGEGEG[K:bass]EG EG[K:treble]EG|[V:4]x12|1[V:5][K:treble] z6|1
+[V:1]e z z2 G,2|[V:2]z6|[V:3]z6|[V:4]x6|[V:5]x6|
+[V:1]g z!>(! G2 c2 A2 ^B2!>)!|[V:2][K:treble]!>(! feB)!>)! z8|[V:3]z10|[V:4]x10|[V:5][K:bass] x12|
+[V:1][K:D][M:6/4][Q:3/4=144] z12|[V:2]z12|[V:3]z12|[V:4]x12|[V:5]x12|
+[V:1]z12||1,2[V:2]z12||1,2[V:3][M:12/8][K:bass]"^meno mossimo" [A,A][G,G]||[V:4][K:Ab][M:3/4][K:trerte]!f!"^marcato"!>(! [Gg][^D^d][^B,^B][A,A][G,G]|[V:5][M:9/4] x12||
+[V:1][K:C]!f! G2 G2 G G z _AA (3_BAG|[V:2][K:C]!p! (_AG_E_D_AG) z6[K:bass]|[V:3][K:C][M:6/2]!p! [CF]_A,G,_D,) (!>!_D,,6-|1[V:4][K:C][M:,fg_a]12-|1[V:5][K:C][M:2/2][K:bass] x12|
+[V:1]F) z z2 z8|[V:2]z12[K:treb/8]|1[V:3][_B,,,-D,,-F,,-_B,,-]12|1,][V:4]([F_Adg]6- [FABg]2) z6|1[V:5]x12|1
+[V:1]z4 z2 G2 A2 B2|[V:2]z12!>)!|[V:3](!>!E,2) _E2 D2 _D2 C2) (_B,2|1[V:4](E,,,6 E,,2 _E,,2 D,,2 _D,,2|1[V:5][G_B]EG=CE_C, CEGC,C,|
+[V:1]=c6 G2 G2 E2|[V:2]=C12)|[V:3]=G6 (F4 =C2)|[V:4]=G12|[V:5]x12|
+[V:1]=d6 =G2 =B2 =A2|[V:2]z12|[V:3]=D,,12|[V:4]=C6) B,6|[V:5](=D6 =B,6)-|
+[V:1]E12|[V:2]E12)|[V:3]E,12|1[V:4]=G,12|1[V:5]B,12-|1
+[V:1]=G12)[Q:3/8=112]"^a tempo"|[V:2]([=CE=G=c]12||1[V:3]=C,,12|1[V:4]E,12||1[V:5]x12||1
+[V:1]F12|[V:2][CEFc]6 [B,CEF]4 [A,EFA]2)|[V:3]F,,,12:|2,4][V:4]x12|[V:5]b6 a3 a||
+[V:1]z2:|2[V:2]z2:|2[V:3][B,,,,B,,,] z:|2[V:4]x2:|2[V:5]x2:|2
+[V:1]z12|1[V:2][B,E=G] z z2 z8:|2[V:3][E,,,E,,] z z2 z8:|2[V:4]z12[K:treble]|1[V:5]x12|1
+[V:1]z6::2[V:2]!ferpeggio!!fermata!z6::2[V:3]z6::2[V:4]x6::2[V:5]x6::2
+[V:1]z12:|2[V:2]!8va(!{fb} f' z z2 !fermata!z8:|2[V:3]!f! B,,, z z2 z2 z6:|2[V:4]x12:|2[V:5]x12:|2
+[V:1]z12|[V:2][K:treble]!p! B z [=A,B,D] z|[V:3][K:bass]!p! [B,,,,B,,,]12-!8vb)!|[V:4]x12|[V:5]x12!8va)!|

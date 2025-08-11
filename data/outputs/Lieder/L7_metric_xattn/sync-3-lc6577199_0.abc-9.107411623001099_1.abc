@@ -1,0 +1,22 @@
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=92
+M:6/8
+K:D
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+[V:1]"^Andantino" z|[V:2]!p! A-|[V:3]A|[V:4]A,|[V:5]x1|
+[V:1]z6|[V:2][Ad]2 (A [Bd]2) A|[V:3]d2 A d2 A|[V:4]D2 (A, D2) A,|[V:5]D,2 A,, D,2 A,,|
+[V:1]z6|[V:2][df]2 ([ce] [df]2) [fa]|[V:3]d2 c d2 a|[V:4]D2 (C D2) [DF]|[V:5]D,2 A,, D,2 F,|
+[V:1]z6|[V:2][dg]2 [Adf] [Ace]2 [FAd]|[V:3]g2 f x3|[V:4][B,D]2 [F,D] A,2 D|[V:5]x6|
+[V:1]z2 z z2 A|[V:2][FAd]2 [GAc] [FAd]2!p! A|[V:3]x5 A|[V:4]D2 [A,E] [D,D]2 A,|[V:5]x6|
+[V:1]d2 A d2 A|[V:2]d2 (A [Bd]2) A|[V:3]d2 A d2 A|[V:4]D2 (A, D2) A,|[V:5]D,2 A,, D,2 A,,|
+[V:1]d2 c d2 f|[V:2][df]2 ([ce] [df]2) [fa]|[V:3]d2 c d2 a|[V:4]D2 (C D2) [DF]|[V:5]D,2 A,, D,2 F,|
+[V:1]g2 f e2 d|[V:2][Adg]2 [Adf] [Ace]2 [FAd]|[V:3]d2 f x3|[V:4][B,D]2 [F,D] A,2 D|[V:5]x6|
+[V:1](d2 c) d2 z|[V:2][FAd]2 [GAc] [FAd]2!mf! A|[V:3]x5 A|[V:4]D2 [A,E] [D,D]2 A,|[V:5]x6|
+[V:1]z6|[V:2]d2 A d2 A|[V:3]d2 A d2 A|[V:4]D2 (A, D2) A,|[V:5]D,2 A,, D,2 A,,|
+[V:1]z6|[V:2][df]2 ([ce] [df]2) [fa]|[V:3]d2 c d2 a|[V:4]D2 (C D2) [DF]|[V:5]D,2 A,, D,2 F,|
+[V:1]z6|][V:2][dg]2 [Adf] [Ace]2 [FAd]|][V:3]g2 f x3|][V:4][B,D]2 [F,D] A,2 D|][V:5]x6|]

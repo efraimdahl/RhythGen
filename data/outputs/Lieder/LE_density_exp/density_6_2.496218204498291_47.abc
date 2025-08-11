@@ -1,0 +1,13 @@
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=108
+M:2/2
+K:D
+V:1 treble nm="Voice"
+V:2 treble nm="Pianoforte"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+[V:1]%distance=6[r:0/2]z8|[V:2][DFAd]2 z2 [DFAd]2 z2|[V:3][D,,D,]2 z2 [D,,D,]2 z2|[V:4]%distance=6[r:0/2]x8|[V:5]%distance=6[r:0/2]x8|
+[V:1]z8|[V:2][FAdf]2 z2 [FAdf]2 z2|[V:3][D,,D,]2 z2 [D,,D,]2 z2|[V:4]x8|[V:5]x8|
+[V:1]z8|][V:2][FAdf]6 z2|][V:3][D,,D,]6 z2|][V:4]x8|][V:5]x8|]

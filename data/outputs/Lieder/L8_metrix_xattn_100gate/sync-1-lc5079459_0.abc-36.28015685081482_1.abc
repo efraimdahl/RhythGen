@@ -1,0 +1,42 @@
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=52
+M:4/4
+K:A
+V:1 treble nm="Chant\nVoice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:7 bass 
+[V:1]B2 F z z2|[V:2]z6|[V:3]E/G/B/G/ E/G/E/G/ B,/F/=D/|[V:4]z6|[V:5]x6|[V:7]z6|
+[V:1]B3/2 F/ G A B3 E|[V:2]B,/F/A/F/B,/F/)|[V:3]x8|[V:4]z8|[V:5]x8|[V:7]z8|
+[V:1]A4 G3 E|[V:2][I:staff -1] (B,,/=E,/^F,/A,/[I:staff -1]C/[I:staff +1]E,/ D,/A,,/D,,/A,,/ z/ z|[V:3]x8|[V:4]z8|[V:5]x8|[V:7]z8|
+[V:1]B2 c2 d2 f2|[V:2][GB]/D/[GB]/d/ [GB]/d/[GB]/) z/ (B,/[DG]/B/G/ D/B,/[I:staff +1]F,/D,/)|[V:3]x8|[V:4][D,,,D,,] [C,,,C,,]4|[V:5]x8|[V:7]z8|
+[V:1]z2 z2 z4|[V:2](B,/F/A/F/F/) z/ (B,/F/G/) z/ (A,/C/F/)|[V:3]x8|[V:4]F,4 B,4|[V:5]x8|[V:7]z8|
+[V:1]d3 B A3 B|[V:2]C/E/A/E/ C/F/A/F/ B,/D/G/D/ B/G/D/G/ B/G/D/B,/ A,/B,/D/B,/|[V:3]x8|[V:4](E/C/E/C/) C,/C/E/C/ C,/C/E/C/)|[V:5]F,,2 x2 x4|[V:7]z8|
+[V:1]z6|[V:2]z6|[V:3]E,2 E,,2 A,,2|[V:4]z6|[V:5]x6|[V:7]z6|
+[V:1]B3<(! (d B2-!<)!!>p! z/[K:bass] E,2|[V:2]z11/2|[V:3]z/!>(! (G,,,4 [E,,B,,E,]4|[r:12/51][V:4]z11/2|[V:5]E,,4- E,, ped! [E,,,E,,]4!ped! [E,,E,]4!peed-up!|[V:7]z11/2|
+[V:1]!ppp!!>(! (B/c/)(c/a/g/)|[V:2]z5/2|[V:3]x5/2|[V:4]!ped! [C,G][E,G,B,][E,G,B,[B,,,B,,])|[V:5]x5/2|[V:7]z5/2|
+[V:1]z0[E,,,E,,]4[V:2]z/arpeggio![CEGB]2|[V:3][E,,,E,,]4[V:4]z0[E,,,E,,]4[V:5]x0[E,,,E,,]4[V:7]z0[E,,,E,,]4
+[V:1][Q! z/ [Bdb]/ z/ (p!!>(! z/ [B,E][aff +1]B,/[I:staaff -1]E/G/)[I:saff +1] z/ F,/C/<)!|[V:2]z0[B,,,B,,]6[V:3]x0[B,,,B,,]6[V:4]z0[B,,,B,,]6[V:5][B,,,B,,]6[V:7]z0[B,,,B,,]6
+[V:1]!fpp! z/ (E/c/B/ A z/ B/[dg]/b/ z/|[V:2]!<(! z/ [Eaff +1]B,/F,/)[Iass] [G,B,]4|[V:3]x11/2|[V:4]z11/2|[V:5]x11/2|[V:7]z11/2|
+[V:1]z0(c/a voce" (B2 c/) tenuto!.[G,B,G] [V:2](c/a voce" (B2 c/) tenuto!.[G,B,G] [V:3]x0(c/a voce" (B2 c/) tenuto!.[G,B,G] [V:4]z0(c/a voce" (B2 c/) tenuto!.[G,B,G] [V:5]x0(c/a voce" (B2 c/) tenuto!.[G,B,G] [V:7]z0(c/a voce" (B2 c/) tenuto!.[G,B,G] 
+[V:1]c2 z2 z z/!p! c/ ced-up!|[V:2]z0|[V:3]x0|[V:4]z0|[V:5]x0|[V:7]z0|
+[V:1]!<p!!>(! (cB!>)! A z/[I:staff +1] >(! z/ [B,E]/[E=[DFB]/|[V:2]z5|[V:3]x5|[V:4](D,,/G,,/D/F,/ z/ B,/F/A/[aff -1]D/[I:staf +1] (D,/A,/F/)[ped-up!|[V:5]x5|[V:7]z5|
+[V:1]B3>(! A3!>)! E|[V:2]z4[K:treble][V:3]x4[K:treble][V:4]z4[K:treble][V:5][K:treble][V:7]z4[K:treble]
+[V:1]!>>(! (dc) (BA)!>)!!<(! (!arpeggioesc." [A,D]/[A,D,] z/ B,,,/[G,,D/ z/ [B,,E,]/z/[staff -1][EA]/)[all." (F/[B,A]/F/A/B,/[DF]/B,/ zass][F,A,B,]/ z/[V:2]z0!>>(! (dc) (BA)!>)!!<(! (!arpeggioesc." [A,D]/[A,D,] z/ B,,,/[G,,D/ z/ [B,,E,]/z/[staff -1][EA]/)[all." (F/[B,A]/F/A/B,/[DF]/B,/ zass][F,A,B,]/ z/[V:3]x0!>>(! (dc) (BA)!>)!!<(! (!arpeggioesc." [A,D]/[A,D,] z/ B,,,/[G,,D/ z/ [B,,E,]/z/[staff -1][EA]/)[all." (F/[B,A]/F/A/B,/[DF]/B,/ zass][F,A,B,]/ z/[V:4]z0!>>(! (dc) (BA)!>)!!<(! (!arpeggioesc." [A,D]/[A,D,] z/ B,,,/[G,,D/ z/ [B,,E,]/z/[staff -1][EA]/)[all." (F/[B,A]/F/A/B,/[DF]/B,/ zass][F,A,B,]/ z/[V:5]x0!>>(! (dc) (BA)!>)!!<(! (!arpeggioesc." [A,D]/[A,D,] z/ B,,,/[G,,D/ z/ [B,,E,]/z/[staff -1][EA]/)[all." (F/[B,A]/F/A/B,/[DF]/B,/ zass][F,A,B,]/ z/[V:7]z0!>>(! (dc) (BA)!>)!!<(! (!arpeggioesc." [A,D]/[A,D,] z/ B,,,/[G,,D/ z/ [B,,E,]/z/[staff -1][EA]/)[all." (F/[B,A]/F/A/B,/[DF]/B,/ zass][F,A,B,]/ z/
+[V:1](cart" z G F D E F2|[V:2]z0[I:staff -ass]!ped! E,2 z/ped! (C,,C,/G,/[tenuto![B,,,B,,][V:3][I:staff -ass]!ped! E,2 z/ped! (C,,C,/G,/[tenuto![B,,,B,,][V:4]z0[I:staff -ass]!ped! E,2 z/ped! (C,,C,/G,/[tenuto![B,,,B,,][V:5]x0[I:staff -ass]!ped! E,2 z/ped! (C,,C,/G,/[tenuto![B,,,B,,][V:7]z0[I:staff -ass]!ped! E,2 z/ped! (C,,C,/G,/[tenuto![B,,,B,,]
+[V:1](G2 G2) z2 G2|][V:2]z8|[V:3][B,D]/D/C/[B,D]/G/ [DG]/B,/G,/|][V:4]E,, z z z/ (E,,/E,)z/(E,,/E,/) (E,,/E,/D,/ E,/B,,/E,,/B,,/)|[V:5][K:bass] x8|[V:7]z8|
+[V:1]c ped-up!|[V:2](^<(! z/ B/c/g/ f/ [dgb] [Beg][r:38/19][V:3]x0|[V:4][M:2/4][I:treble] x11/2|[V:5]x0|[V:7]z0|
+[V:1][Q:all." z/ ([^^CE] [CF]/A,/[CF]/A,[B,DFA]/!<(! z/ arpeggio![A,D^FA/[FAB]/[FAB]/ z/p! !arpeggio![DF,,]2 [B,,,B,,]2 [V:2]"_mp!!>(! (d/B/G/!ped![I:staff +1]<)![r:31/32][V:3][K:bass] (f! z/ (C,/F,/A,/<(! (D,/B,/[I:staff -1] x/ x/[I:ass][r:27/12][V:4]z0[K:bass] (f! z/ (C,/F,/A,/<(! (D,/B,/[I:staff -1] x/ x/[I:ass][r:27/12][V:5]x0[K:bass] (f! z/ (C,/F,/A,/<(! (D,/B,/[I:staff -1] x/ x/[I:ass][r:27/12][V:7]z0[K:bass] (f! z/ (C,/F,/A,/<(! (D,/B,/[I:staff -1] x/ x/[I:ass][r:27/12]
+[V:1][Q:reath!F2 F F[r:32/2][V:2]z/pp! ([cec'][Beb]|[V:3](C,/F,/G,/[C,E,]/A,/)!<(! <)!|[V:4](G,,D,G,D,2 (F,,,F,,) (C,,/ [F,B,]/C,/[F,A]/[r:51/4][V:5]z/ (C,/A,/<(![I:staff +1] <(![I:staff +1](>(! ([Ac]/[FA]/[all." ([A,A]/[Cc]/[FA]/[Ac]/ [FA[EB]!>(! [Ec][EB] z z/ (C/[EA]/c/[CEB]/|[V:7]z0|
+[V:1]z11/2|[V:2]c/ c c c d/c/ c/A/)!<)!|][V:3]x11/2|[V:4][K:Eb] [C,,E,,]/ z/ [E,,B,,]/[A,,B,,]/[A,,,A,,]/ [A,,,A,,][C,,G,,C,][C,,C,]/[B,,,C,,]/|[V:5]x11/2|[V:7]z11/2|
+[V:1](d z2 B2|[V:2]z5|[V:3]x5|[V:4]z5|[V:5][K:bass] xtaff +1] z/ (G,,/[I:staff -1][DF,/C/[F,A,]/C/ [F/ [G,E]2 z/ E/[C]/[DFB]/!pp![DFB,,]/- [B,,,B,,]/p! z/ (B,,,/B,,/ x/ x x x/ x/|[V:7]z5|
+[V:1]B3ped-up![r:41/22][V:2]"^p!!<(! ([Beg]2 [tenuto!.[G,EG]/![V:3]x0"^p!!<(! ([Beg]2 [tenuto!.[G,EG]/![V:4]z0"^p!!<(! ([Beg]2 [tenuto!.[G,EG]/![V:5]x0"^p!!<(! ([Beg]2 [tenuto!.[G,EG]/![V:7]z0"^p!!<(! ([Beg]2 [tenuto!.[G,EG]/!
+[V:1]!f(! G c B!<)!!f! <(! (B/^^c/) (c/ d z/!p! (D/[Fc]/[Bb]/ (B/[ee']/ z/ ([Aa][Bb]/) |[V:2]z15/2|[V:3]x15/2|[V:4]z15/2|[V:5][K:bass] xtaff +1] (F,/A,/ped![I:staff -1] z/ (E/[GB]/e/) |[V:7]z15/2|
+[V:1](F B B c d e c|[V:2]z0[K:C][M:3/aff -1][CA]/) (carpeggio!.[cea]!>)! !fermata![cf]/[r:13/48][V:3]!ped! [D,,4|[V:4][I:staff +1]B,/E/[I:staff ass] x3/2[r:23/40][V:5][K:C][M:3/aff -1][CA]/) (carpeggio!.[cea]!>)! !fermata![cf]/[r:13/48][V:7]z0[K:C][M:3/aff -1][CA]/) (carpeggio!.[cea]!>)! !fermata![cf]/[r:13/48]
+[V:1][Q:staff +1] A,/[I:ass]!ped! (C,,/C z|[V:2]z3[D,F,]2 (B2 [B,D]2[r:57/6][V:3][D,F,]2 (B2 [B,D]2[r:57/6][V:4]z3[D,F,]2 (B2 [B,D]2[r:57/6][V:5]x3[D,F,]2 (B2 [B,D]2[r:57/6][V:7]z3[D,F,]2 (B2 [B,D]2[r:57/6]
+[V:1]z11/2|[V:2]!p! B,/F/D/ F/B,/G,/B,/ G,,/B,/E,/B,/|[V:3]x11/2|[V:4]z11/2|[V:5]x11/2|[V:7]z11/2|
+[V:1]!fermata!G6)|][V:2]z6|][V:3]x6|][V:4][K:bass] z8|][V:5]x6|][V:7]z6|]
+[V:1]z12|[V:2][I:1/4=115] z8[Q:1/4=50][Q:1/4=50]"^.7" !fermata![F,C]4!ped-up!|][V:3]x12|[V:4]z12|[V:5]x2[K:treble] x2/3[K:bass] x4|[V:7]z12|

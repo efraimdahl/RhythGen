@@ -1,0 +1,132 @@
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=116
+M:2/4
+K:Eb
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+[V:1]"^Allegretto." z4|[V:2][E,G,B,] z z2|[V:3][E,G,B,] z z2|
+[V:1]z4||[V:2]!p! ([F,B,F]2 .[E,B,]) z|[V:3]!wedge![E,G,B,]2- [E,G,B,]!p! (E,,/>F,,/||
+[V:1]z4|[V:2]z2 z!pp! (.[E,E]/.[E,E]/|[V:3]([G,,B,,]2 .E,,) z|
+[V:1]z4||[V:2]!p! .[E,E])([cc'][^c^c'][dd']|[V:3](.A,,.[E,A,^C].[G,A,C].[F,A,D])||
+[V:1]"^(T-200 bach -607)""^B" !breath!e z z/ E/ =E/ F/|[V:2].[ee'])"_dim." (.[_d_d'].[ee']) z|[V:3][K:treble] (.[A,C].[EB_d] .[GBe]) z/[K:bass] ^G,,/|
+[V:1]z4|:[V:2]G (.[gg'].[gg'].[aa'])|[V:3](.A,,[K:treble] .[A_c].[GBe]) z|:
+[V:1]z4:|[V:2]G2) z/ [Ee]/[Ee]/>[Ee]/|1[V:3]z4:|
+[V:1]z4::[V:2]"^Tempo di legato." ([_G,_G][Ge_g].[=Fd=f].[Ece])|1[V:3]"^Una corale org."!ped! ._G,,) (.[B,_D].[CE])::
+[V:1]z4::[V:2]"^a tempoc" (.[_A,FA].[Afa].[Afa]:1[V:3](.[_C,,_CE].[E_G] .[_FA]"^p".[df])::
+[V:1]z4:|[V:2](.[_A,A]/"^a tem._".[A_g=a]/) (.[a_a'].[a_f'a'].[a_e'f']):|[V:3]z4:|
+[V:1]"^piu cresc.ad librato." (e'2!>(! .d')!>)! z:|[V:2](.[eae']2!>(! .[_e_e'])!>)! z:|[V:3](.c'/.e'/.a'/ ._g'/)"^r.hard."!pp!!<(! (!arpeggio!.[_Gc=e'])"^poco riten."||
+[V:1]z3:|[V:2]z/ (.[A,Ea]/.[aa'].[e_f=ea]):|[V:3]z/"^pizz." (.E/.A/._c/ .=d/ .e) z/ z/:|
+[V:1]z6:|[V:2]"///-![e'a'e'']2"^in tempo" z:|[V:3]z6:|
+[V:1]z3:|[V:2]"^ritard." (.[e'a'e'']2- !fermata![e'a'e'_e'']:|[V:3]z3:|
+[V:1]z2 z:|[V:2]z3:|[V:3](.a/.e'/._e/.f/ .c/"^har-d.".[c'e']/ z z:|
+[V:1]z9/2:|[V:2]"^aiv." (.[ae'a'e'']/.[ad'f']/.[e'_a'e''].[e'=g'e'_g']):|[V:3].a/(.e'/._e'/.d'/ ._d'/"^a tempo".b/.g/.e):|
+[V:1][Q:1/4=36] z4[Q:1/4=100]"^a tempo." [ae'a']-:|[V:2]z:|[V:3](.[_e'_a'']/.[_d'a']/.[c'a']/.[be']/:|
+[V:1]z7/2|[V:2]"^piu lentasso ." .a/)"^espress.".[aa'd''f''a''].[e'_g'c''].[_e'f'])|[V:3]z7/2|
+[V:1]z4|[V:2]"^arco"!pp! .a/(.[ae']/.[c'a']/.[ad'f']/.[c''_f'']!ppp!.[_d'_g']|[V:3]z4|
+[V:1]z3/2|[V:2]"^tacet ." (a/.[ae']/.[c'g']/|[V:3]z3/2|
+[V:1]z3|[V:2]"^tacet ." (a/!<(!.[_c'a']/.[__d'a']/!<)!!mp!.[c'b']/!ppp!.[^d'=c''])|[V:3]z3|
+[V:1]z2|[V:2]"^cadenza _"!p! (.a/!<(!.[_c'a']/.[_d'__b']/!<)!!ppp!.[c'_c'']/|[V:3]z2|
+[V:1]z2|[V:2]"^pacedenza"!<(! .a/(.[^d'b']/.[^e'^c'']/!ppp!.[^f'^d'']/)|[V:3]z2|
+[V:1]z4|[V:2].f'/ z/ z z2|[V:3]z4|
+[V:1]z4|[V:2]"^adagio" (.f/.^e/.f/.e/) (f/e/)(.[Ff]/.[Ee]/)|[V:3](.F,,/.^G,,/.F,,/.G,,/) ([A,,C,]>[G,,B,,]|
+[V:1]z4|[V:2]"^tr. espress." (=B/c/B/^A/) (B3/2c/4d/4)|[V:3][F,A,]2) (^G,/A,/B,/C/)|
+[V:1]z4|[V:2]"^piu lento." (f/g/^f/=f/) (^f3/2g/4a/4)|[V:3][CE]2 (=D/E/F/G/)|
+[V:1]z4|[V:2]"^in 1 subito" (c'/d'/=b/^a/) (b3/2^b/4^c'/4)|[V:3][GB]2[K:teass] (^^F/G/=A/=B/)|
+[V:1]z4|[V:2]"^I 1o perse" (d'/e'/^^c'/^b/) (c'3/2^c'/4^d'/4)|[V:3][B^d]2[K:tab] (^^G/^A/=B/^c/)|
+[V:1]z4|[V:2]"^I 1os over" (f'/g'/e'/^^d'/) (e'3/2^e'/4^^f'/4)|[V:3][^^c^e]2[K:treble] (^^A/^B/^^B/^c/)|
+[V:1]z4|[V:2]"^Instrument 1os" (g'/a'/^^f'/^^e'/) (f'3/2^g'/4^a'/4)|[V:3][^^d^^f]2[K:bass] (^^A/^B/^c/d/)|
+[V:1]z4|[V:2]"^Instrument 1 Sting" (^^g'/^^a'/^g'/^^f'/) (g'3/2^^a'/4^b'/4)|[V:3][^e^^g]2"^c" (^^B/^^c/^^d/^e/)|
+[V:1]z4|[V:2]"^Instrument 1st" (^b'/c''/^^a'/^g'/) (a'3/2^^a'/4^b'/4)|[V:3][^^e^g]2"^Instrument cordac" .[b^^g']/([^^a^a']/[^b^b']/) x/|
+[V:1]z2|[V:2]"^niente" .[^b'^d'']/.[bd']/.[^gb]/.[fa]/|[V:3].[^b'^g'']/.[b'^d'']/.[^gb]/.[fa]/|
+[V:1]z3:|[V:2]"^rit." [eg] !>!!wedge![E^^Ge]2:|[V:3]"^r.h." [e^^g] !arpeggio![E,,^^G,,E,]2:|
+[V:1]z4|[V:2]"^a tempo." z/ (.[Ee].[E,E].[ec'e'].[^Ec^e]/)|[V:3](.A,,.[E,A,=C].[G,^A,^C].[A,CE])|
+[V:1]z4|[V:2]"_an" z (.[gg'].[G^eg].[^Af^a])|[V:3]z4|
+[V:1]z4|[V:2]"_b" z (.[bb'].[bg'^b'].[af'a'])|[V:3]z4|
+[V:1]z4|[V:2]"_f" z (.[gg'].[gd'g'].[^^f^d'^^f'])|[V:3]z4|
+[V:1]z4|[V:2]"_f" z (.[ee'].[ee'].[d^a^d'])|[V:3]z4|
+[V:1]z4|[V:2]"_d" z (.[dd'].[dd'].[cg^c'])|[V:3]z4|
+[V:1]z4|[V:2]"_d" z (.[cc'].[cc'].[^B^b])|[V:3]z4|
+[V:1]z4|[V:2]"_f" z (.[^B^b].[Bb].[=B=b])|[V:3]z4|
+[V:1]z4|[V:2]"_dolce" z (.[Aa].[Bb].[^B^b])|[V:3]z4|
+[V:1]z4|[V:2]"^con forza" z (.[cc'].[^^c^^c'].[^d^d'])|[V:3]z4|
+[V:1]z4|[V:2]"_do no" z (.[ee'].[^e^e'].[ff'])|[V:3]z4|
+[V:1]z4|[V:2]"_do no _" z (.[^^f^^f'].[gg'].[^g^g'])|[V:3]z4|
+[V:1]z4|[V:2]"_doo _" z (.[aa'].[^a^a'].[b^b'])|[V:3]z4|
+[V:1]z4|[V:2]"_con _" z (.[c'c''].[^^c'^^c''].[^d'^d''])|[V:3]z4|
+[V:1]"^ad. lib." z4|[V:2]"^no _" z (.[^^d'^^d''].[e'^e''].[^^f'^^f''])|[V:3]z4|
+[V:1]z4|[V:2]"^dolce" (.[g'g''].[gg'].[^e^e'].[^d^d']|[V:3]z4|
+[V:1]z4|[V:2].[gg'].[^d^d'].[Gg].[^E^e])|[V:3]z4|
+[V:1]z4|[V:2]"^rall. -" (.[Gg].[^E^e].[^D^d].[G,G]|[V:3]z4|
+[V:1]z4|[V:2]"^ten." .[Gg].[^D^d].[G,G].[^E,^E])|[V:3]z4|
+[V:1]z4|[V:2]"^allarg.""^rall. _" (.[G,G].[^E,^E].[^D,^D][K:bass].[G,,G,]|[V:3]z4|
+[V:1]z5|[V:2]"^ten." .[G,,G,].!fermata![^D,^D]!fermata![G,,G,] !fermata!z z)|[V:3]z5|
+[V:1]"^Tempo. I." z4|[V:2]!ppp!"^a tempo." [ege']) z z2|[V:3][K:treble]"^ad lib." (.[C^Ec].[GB^e]) z/[K:bass] (CB,,/)|
+[V:1]z3|[V:2]z3|[V:3]z3|
+[V:1]z4|[V:2]z4|[V:3]z4|
+[V:1]z4|[V:2]z4|[V:3]z4|
+[V:1]z4|[V:2]z4|[V:3]z4|
+[V:1]z4|[V:2]z4|[V:3]z4|
+[V:1]z4|[V:2]z4|[V:3]z4|
+[V:1]z4|[V:2]z4|[V:3]z4|
+[V:1]z4|[V:2]z4|[V:3]z4|
+[V:1]z4|[V:2]z4|[V:3]z4|
+[V:1]z4|[V:2]z4|[V:3]z4|
+[V:1]z4|[V:2]z4|[V:3]z4|
+[V:1]z4|[V:2]z4|[V:3]z4|
+[V:1]z4|[V:2]z4|[V:3]z4|
+[V:1]z4|[V:2]z4|[V:3]z4|
+[V:1]z4|[V:2]z4|[V:3]z4|
+[V:1]z4|[V:2]z4|[V:3]z4|
+[V:1]z4|[V:2]z4|[V:3]z4|
+[V:1]z4|[V:2]z4|[V:3]z4|
+[V:1]z2|[V:2]"^sostenuto poco (agitato)" z2|[V:3]z2|
+[V:1]z2|[V:2]"^sotto pedale - addeg." z2|[V:3]z2|
+[V:1]z4|[V:2]"^sotto voce" z2 z .[cc']/.[=dd']/|[V:3]z4|
+[V:1]z3|[V:2]"_sotto voce" [ee']/[gg']/.[ff']/[ee']/.[dd']/.[ff']/|[V:3]z3|
+[V:1]z3|[V:2]"^sotto voce" [gg']/[=b=b']/.[=a=a']/.[gg']/.[ff']/.[aa']/|[V:3]z3|
+[V:1]z3|[V:2]"^tranquillo" .[bb']/.[d'd'']/.[c'c'']/.[bb']/.[aa']/.[c'c'']/|[V:3]z3|
+[V:1]z3|[V:2]"^staccato" .[_d'_d'']/.[_f'_f'']/.[e'e'']/.[d'd'']/.[c'c'']/.[e'e'']/|[V:3]z3|
+[V:1]z3|[V:2]"^stacc. 2nd" .[_f'_f'']/.[a'a'']/.[_g'_g'']/.[f'f'']/.[e'e'']/.[g'g'']/|[V:3]z3|
+[V:1]z3|[V:2]"^ten.stropp." .[a'a'']/.[_c''_c''']/.[b'b'']/.[a'a'']/.[_g'_g'']/.[b'b'']/|[V:3]z3|
+[V:1]z7/2|[V:2]"^poco stringendono" .[_d''_d''']/.[e''e''']/.[_f''_f''']/.[e''e''']/.[d''d''']/.[_c''_c''']/.[e''e''']/|[V:3]z7/2|
+[V:1]z3|[V:2]"^sempre dim." .[a'a'']/.[b'b'']/.[_c''_c''']/.[a'a'']/.[_g'_g'']/.[b'b'']/|[V:3]z3|
+[V:1]z3|[V:2]"^sotto poco a poco" .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2]"^ten. poco a poco" .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2]"^senza sordino" .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2]"^senza sord." .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2]"^sempre diminuendo" .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2]"^sempre stacc." .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2]"^sempre dim."!>(! .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2]"^sempre piu" .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2]"^sempre cresc." .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2]"^sempre cresc." .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2]"^m.sempre cresc." .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2]"^sempre sc."!p! .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2]"^sempre cresc." .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2]"^mossempre cresc." .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2]"^meno cresc. semre" .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2]"^sempre dim." .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2]"^mossempre cresc." .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2]"^sempre stacc." .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2]"^mossempre cresc." .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2]"^sempre cresc." .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2]"^mossempre cresc." .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2]"^sempre cresc. molto" .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2]"^sempre cresc. molto" .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2]"^mossempre cresc." .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2]"^smorz. espress. _" .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2]!ppp!"_morendo." .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2]"^morendo. espresto." .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2].[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2].[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2]"^molto cresc." .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z3|[V:2].[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|[V:3]z3|
+[V:1]z4|[V:2]!fermata!z4|[V:3][K:tenor]"_senza sord." .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|
+[V:1]z3|[V:2]z3|[V:3].[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|
+[V:1]z3|[V:2]z3|[V:3]!ppp! .[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|
+[V:1]z3|[V:2]z3|[V:3].[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|
+[V:1]z3|[V:2]z3|[V:3].[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|
+[V:1]z3|[V:2]z3|[V:3].[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/|
+[V:1]z3||[V:2]z3||[V:3].[_c'_c'']/.[_d'_d'']/.[c'c'']/.[aa']/.[_g_g']/.[bb']/||

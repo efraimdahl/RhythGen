@@ -1,0 +1,74 @@
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=92
+M:6/8
+K:D
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+[V:1]"^Andantino moderato" z6|[V:2]z2!pp! F z z F|[V:3]x D x x D x|[V:4]"^sehr legato" (A,2 ^G, A,2 G,|[V:5]x6|
+[V:1]z6|[V:2]z z F z z F|[V:3]x D x x D x|[V:4]A,2 ^G, A,2 G,)|[V:5]x6|
+[V:1]A2 A A2 A|[V:2]!p! z z F z z F|[V:3]x D x x D x|[V:4](A,2 ^G, A,2 G,)|[V:5]x6|
+[V:1](d3 A2) F|[V:2]z z F z z F|[V:3]x D x x D x|[V:4](A,2 ^G, A,2 G,)|[V:5]x6|
+[V:1]A2 F D2 E|[V:2]z z F z z E|[V:3]x D x x D x|[V:4](A,2 ^G, A,2 =G,)|[V:5]x6|
+[V:1]F2 F z2 F|[V:2]z z F z z F|[V:3]x D x x D x|[V:4](A,2 ^G, A,2 G,)|[V:5]x6|
+[V:1]G2 G G F E|[V:2]z z E z z E|[V:3]x C x x C x|[V:4](A,2 ^G, A,2 G,)|[V:5]x6|
+[V:1](A2 d) A2 F|[V:2]z z F z z F|[V:3]x D x x D x|[V:4](A,2 ^G, A,2 G,)|[V:5]x6|
+[V:1]A2 F D2 E|[V:2]z z F z z E|[V:3]x D x x D x|[V:4](A,2 ^G, A,2 =G,)|[V:5]x6|
+[V:1]F2 F z2 A|[V:2]z z F z z F|[V:3]x D x x D x|[V:4](A,2 ^G, A,2 ^A,)|[V:5]x6|
+[V:1](cB) A B2 A|[V:2]z z E z z E|[V:3]x D x x D x|[V:4](B,2 ^A, B,2 =C)|[V:5]x6|
+[V:1](d2 B) G2 B|[V:2]z z D z z D|[V:3]x B, x x B, x|[V:4](G,2 F, G,2 E,)|[V:5]x6|
+[V:1](BA) G A2 G|[V:2]z z D z z D|[V:3]x =C x x C x|[V:4](A,2 ^G, A,2 ^A,)|[V:5]x6|
+[V:1](=c2 A) F2 D|[V:2]z z =C z z C|[V:3]x A, x x A, x|[V:4](F,2 ^E, F,2 D,)|[V:5]x6|
+[V:1]G2 G B2 A|[V:2]z z B, z z B,|[V:3]x G, x x G, x|[V:4](D,2 C, D,2 E,)|[V:5]x6|
+[V:1]A3 E2 z|[V:2]z z C z z C|[V:3]x G, x x G, x|[V:4](E,2 ^D, E,2 D,)|[V:5]x6|
+[V:1]z2 z E2 F|[V:2]z z C z z C|[V:3]x G, x x G, x|[V:4](E,2 ^D, E,2 D,)|[V:5]x6|
+[V:1]G2 G F2 E|[V:2]z z C z z C|[V:3]x G, x x G, x|[V:4](E,2 ^D, E,2 D,)|[V:5]x6|
+[V:1]c2 B A2 E|[V:2]z z C z z C|[V:3]x G, x x G, x|[V:4](E,2 ^D, E,2 =D,)|[V:5]x6|
+[V:1]G2 G F2 E|[V:2]z z C z z C|[V:3]x G, x x G, x|[V:4](E,2 ^D, E,2 D,)|[V:5]x6|
+[V:1]c2 B A2 A|[V:2]z z C z z C|[V:3]x G, x x G, x|[V:4](E,2 ^D, E,2 G,)|[V:5]x6|
+[V:1]d2 A F2 D|[V:2]z z D z z D|[V:3]x A, x x A, x|[V:4](F,2 ^E, F,2 ^^F,)|[V:5]x6|
+[V:1](B3 G) E B|[V:2]z z E z z E|[V:3]x B, x x B, x|[V:4](G,2 F, G,2 ^G,)|[V:5]x6|
+[V:1](B2 A) A (AG)|[V:2]z z F z z E|[V:3]x C x x C x|[V:4](A,2 ^G, A,2 ^A,)|[V:5]x6|
+[V:1](F3 B2) F|[V:2]z z F z z F|[V:3]x ^D x x D x|[V:4](B,2 ^A, B,2 =A,)|[V:5]x6|
+[V:1]G2 A B2 =c|[V:2]z z E z z E|[V:3]x B, x x B, x|[V:4](G,2 F, G,2 E,)|[V:5]x6|
+[V:1](=c3 B2) A|[V:2]z z E z z E|[V:3]x =C x x C x|[V:4](A,2 ^G, A,2 =G,)|[V:5]x6|
+[V:1]A2 d =c2 c|[V:2]z z D z z D|[V:3]x A, x x A, x|[V:4](F,2 ^E, F,2 D,)|[V:5]x6|
+[V:1]B3 G2 G|[V:2]z z D z z D|[V:3]x B, x x B, x|[V:4](G,2 F, G,2 =F,)|[V:5]x6|
+[V:1]G2 A B2 A|[V:2]z z =C z z C|[V:3]x G, x x G, x|[V:4](E,2 ^D, E,2 =C,)|[V:5]x6|
+[V:1](A3 G2) =F|[V:2]z z =C z z C|[V:3]x A, x x A, x|[V:4](F,2 ^E, F,2 D,)|[V:5]x6|
+[V:1]=F2 G A2 G|[V:2]z z _B, z z B,|[V:3]x =F, x x F, x|[V:4](D,2 C, D,2 _B,,)|[V:5]x6|
+[V:1](G3 =F2) _B|[V:2]z z _B, z z B,|[V:3]x G, x x G, x|[V:4](E,2 ^D, E,2 =D,)|[V:5]x6|
+[V:1]=c2 G G2 G|[V:2]z z =C z z C|[V:3]x G, x x G, x|[V:4](=C,2 B,, C,2 E,)|[V:5]x6|
+[V:1]A3 A2 A|[V:2]z z =C z z C|[V:3]x A, x x A, x|[V:4](=F,2 E, F,2 ^F,)|[V:5]x6|
+[V:1]B2 G D2 G|[V:2]z z B, z z B,|[V:3]x G, x x G, x|[V:4](G,2 F, G,2 =F,)|[V:5]x6|
+[V:1]G3 E2 G|[V:2]z z =C z z C|[V:3]x G, x x G, x|[V:4](E,2 D, E,2 G,)|[V:5]x6|
+[V:1]=c2 G G2 G|[V:2]z z =C z z C|[V:3]x G, x x G, x|[V:4](=C,2 B,, C,2 E,)|[V:5]x6|
+[V:1]A3 A2 A|[V:2]z z =C z z C|[V:3]x A, x x A, x|[V:4](=F,2 E, F,2 ^F,)|[V:5]x6|
+[V:1]B2 B B2 =c|[V:2]z z B, z z B,|[V:3]x G, x x G, x|[V:4](G,2 F, G,2 E,)|[V:5]x6|
+[V:1]c2 z z2 A|[V:2]z z C z z C|[V:3]x G, x x G, x|[V:4](A,2 ^G, A,2 G,)|[V:5]x6|
+[V:1]A2 A A2 A|[V:2]z z F z z F|[V:3]x D x x D x|[V:4](A,2 ^G, A,2 G,)|[V:5]x6|
+[V:1](d3 A2) F|[V:2]z z F z z F|[V:3]x D x x D x|[V:4](A,2 ^G, A,2 G,)|[V:5]x6|
+[V:1]A2 F D2 E|[V:2]z z F z z E|[V:3]x D x x D x|[V:4](A,2 ^G, A,2 =G,)|[V:5]x6|
+[V:1]F2 F z2 F|[V:2]z z F z z F|[V:3]x D x x D x|[V:4](A,2 ^G, A,2 G,)|[V:5]x6|
+[V:1]G2 G G F E|[V:2]z z E z z E|[V:3]x C x x C x|[V:4](A,2 ^G, A,2 G,)|[V:5]x6|
+[V:1](A2 d) A2 F|[V:2]z z F z z F|[V:3]x D x x D x|[V:4](A,2 ^G, A,2 G,)|[V:5]x6|
+[V:1]A2 F D2 E|[V:2]z z F z z E|[V:3]x D x x D x|[V:4](A,2 ^G, A,2 =G,)|[V:5]x6|
+[V:1]F2 F z2 A|[V:2]z z F z z F|[V:3]x D x x D x|[V:4](A,2 ^G, A,2 ^A,)|[V:5]x6|
+[V:1](cB) A B2 A|[V:2]z z E z z E|[V:3]x D x x D x|[V:4](B,2 ^A, B,2 =C)|[V:5]x6|
+[V:1](d2 B) G2 B|[V:2]z z D z z D|[V:3]x B, x x B, x|[V:4](G,2 F, G,2 E,)|[V:5]x6|
+[V:1](BA) G A2 G|[V:2]z z D z z D|[V:3]x =C x x C x|[V:4](A,2 ^G, A,2 ^A,)|[V:5]x6|
+[V:1](=c2 A) F2 D|[V:2]z z =C z z C|[V:3]x A, x x A, x|[V:4](F,2 ^E, F,2 D,)|[V:5]x6|
+[V:1]G2 G B2 A|[V:2]z z B, z z B,|[V:3]x G, x x G, x|[V:4](D,2 C, D,2 E,)|[V:5]x6|
+[V:1]A3 E2 z|[V:2]z z C z z C|[V:3]x G, x x G, x|[V:4](E,2 ^D, E,2 D,)|[V:5]x6|
+[V:1]z2 z E2 F|[V:2]z z C z z C|[V:3]x G, x x G, x|[V:4](E,2 ^D, E,2 D,)|[V:5]x6|
+[V:1]G2 G F2 E|[V:2]z z C z z C|[V:3]x G, x x G, x|[V:4](E,2 ^D, E,2 D,)|[V:5]x6|
+[V:1]c2 B A2 E|[V:2]z z C z z C|[V:3]x G, x x G, x|[V:4](E,2 ^D, E,2 =D,)|[V:5]x6|
+[V:1]G2 G F2 E|[V:2]z z C z z C|[V:3]x G, x x G, x|[V:4](E,2 ^D, E,2 D,)|[V:5]x6|
+[V:1]c2 B A2 A|[V:2]z z C z z C|[V:3]x G, x x G, x|[V:4](E,2 ^D, E,2 G,)|[V:5]x6|
+[V:1]d2 A F2 D|[V:2]z z D z z D|[V:3]x A, x x A, x|[V:4](F,2 ^E, F,2 ^^F,)|[V:5]x6|
+[V:1](B3 G) E B|[V:2]z z E z z E|[V:3]x B, x x B, x|[V:4](G,2 F, G,2 ^G,)|[V:5]x6|
+[V:1](B2 A) A (AG)|[V:2]z z F z z E|[V:3]x C x x C x|[V:4](A,2 ^G, A,2 ^A,)|[V:5]x6|
+[V:1][Q:1/4=90]"^T" (F3[Q:1/4=88]"^T" B2)[Q:1/4=85]"^T" F|[V:2]z z D z z C|[V:3]x B, x x B, x|[V:4](B,2 A, G,2 A,)|[V:5]x3 E,3|

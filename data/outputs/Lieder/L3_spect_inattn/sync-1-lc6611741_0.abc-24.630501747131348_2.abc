@@ -1,0 +1,49 @@
+%%score ( 1 2 ) { ( 3 5 ) | 4 }
+L:1/8
+Q:1/4=140
+M:3/4
+K:Bb
+V:1 treble nm="Canto\nVoice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:5 treble 
+V:4 bass 
+[V:1]"^Allegro agitato"!f! D2|:[V:2]x2|:[V:3]z2|:[V:4]z2|:[V:5]x2|:
+[V:1]"^Etwas langsam" D4 G2|[V:2]x6|[V:3]"^Animato"!f! z2 [B,DG] z [B,DG] z|[V:4]G,,2 z2 z2|[V:5]x6|
+[V:1]B4 B2|[V:2]x6|[V:3]z2 [B,DG] z [B,DG] z|[V:4]G,,2 z2 z2|[V:5]x6|
+[V:1]A2 B2 G2|[V:2]x6|[V:3]z2 [B,DG] z [B,DG] z|[V:4]G,,2 z2 z2|[V:5]x6|
+[V:1]D4 z2|[V:2]x6|[V:3]z2 [B,DG] z [B,DG] z|[V:4]G,,2 z2 z2|[V:5]x6|
+[V:1]G2 A2 B2|[V:2]x6|[V:3]z2 [B,DG] z [B,DG] z|[V:4]G,,2 z2 z2|[V:5]x6|
+[V:1]c4 B2|[V:2]x6|[V:3]z2 [B,C=EG] z [B,CEG] z|[V:4][C,,C,]2 z2 z2|[V:5]x6|
+[V:1]A4 z2|[V:2]x6|[V:3]z2 [A,CF] z [A,CF] z|[V:4][F,,F,]2 z2 z2|[V:5]x6|
+[V:1]z2 z2 c2|[V:2]x6|[V:3]z2 [A,CF] z [A,CF] z|[V:4]F,,2 z2 z2|[V:5]x6|
+[V:1]c4 A2|[V:2]x6|[V:3]z2 [A,CF] z [A,CF] z|[V:4]F,,2 z2 z2|[V:5]x6|
+[V:1]F4 A2|[V:2]x6|[V:3]z2 [A,CF] z [A,CF] z|[V:4]F,,2 z2 z2|[V:5]x6|
+[V:1]c4 A2|[V:2]x6|[V:3]z2 [A,CF] z [A,CF] z|[V:4]F,,2 z2 z2|[V:5]x6|
+[V:1]F4 F2|[V:2]x6|[V:3]z2 [A,CF] z [A,CF] z|[V:4]F,,2 z2 z2|[V:5]x6|
+[V:1]c4 A2|[V:2]x6|[V:3]z2 [A,CF] z [A,CF] z|[V:4]F,,2 z2 z2|[V:5]x6|
+[V:1]F4 G2|[V:2]x6|[V:3]z2 [A,CF] z [A,CF] z|[V:4]F,,2 z2 z2|[V:5]x6|
+[V:1]A4 z2|[V:2]x6|[V:3]z2 [A,CF] z [A,CF] z|[V:4]F,,2 z2 z2|[V:5]x6|
+[V:1]z2 z2!mf! F2|[V:2]x6|[V:3]z2 [A,CF] z [A,CF] z|[V:4]F,,2 z2 z2|[V:5]x6|
+[V:1]G4 F2|[V:2]x6|[V:3]!mf! z2 [B,EG] z [B,EG] z|[V:4][E,,E,]2 z2 z2|[V:5]x6|
+[V:1](E2 F2) G2|[V:2]x6|[V:3]z2 [B,EG] z [B,EG] z|[V:4][E,,E,]2 z2 z2|[V:5]x6|
+[V:1]B4 A2|[V:2]x6|[V:3]z2 [B,DF] z [B,DF] z|[V:4]B,,2 z2 z2|[V:5]x6|
+[V:1]B4 z2|[V:2]x6|[V:3]z2 [B,DF] z [B,DF] z|[V:4]B,,2 z2 z2|[V:5]x6|
+[V:1]G4 A2|[V:2]x6|[V:3]z2 [B,EG] z [B,EG] z|[V:4][E,,E,]2 z2 z2|[V:5]x6|
+[V:1](B2 c2) B2|[V:2]x6|[V:3]z2 [B,EG] z [B,EG] z|[V:4][E,,E,]2 z2 z2|[V:5]x6|
+[V:1]A4 z2|[V:2]x6|[V:3]z2 [A,CEF] z [A,CEF] z|[V:4]F,,2 z2 z2|[V:5]x6|
+[V:1]z2 z2!mp! B2|[V:2]x6|[V:3]z2 [B,DF] z [B,DF] z|[V:4]B,,2 z2 z2|[V:5]x6|
+[V:1]G4 F2|[V:2]x6|[V:3]!p! z2 [B,EG] z [B,EG] z|[V:4]E,2 z2 z2|[V:5]x6|
+[V:1](E2 F2) G2|[V:2]x6|[V:3]z2 [B,EG] z [B,EG] z|[V:4]E,2 z2 z2|[V:5]x6|
+[V:1]B4 A2|[V:2]x6|[V:3]z2 [B,DF] z [B,DF] z|[V:4]B,,2 z2 z2|[V:5]x6|
+[V:1]B4 B2|[V:2]x6|[V:3]z2 [B,DF] z [B,DF] z|[V:4]B,,2 z2 z2|[V:5]x6|
+[V:1]!>!A4 A2|[V:2]x6|[V:3]z2 [A,^CGA] z [A,CGA] z|[V:4][A,,,A,,]2 z2 z2|[V:5]x6|
+[V:1]!>!A4 G2|[V:2]x6|[V:3]z2 [A,^CGA] z [A,CGA] z|[V:4][A,,,A,,]2 z2 z2|[V:5]x6|
+[V:1]^F4 z2|[V:2]x6|[V:3]z2 [A,D^F] z [A,DF] z|[V:4]D,,2 z2 z2|[V:5]x6|
+[V:1]z2 z2!f! D2:|[V:2]x6:|[V:3]z2 [A,D^F] z [A,DF] z:|[V:4]D,,2 z2 z2:|[V:5]x6:|
+[V:1]"^Drum Set und tracks" D4 G2|[V:2]x6|[V:3]"^Modere mute tranquillo" z2 [B,DG] z [B,DG] z|[V:4]G,,2 z2 z2|[V:5]x6|
+[V:1]B4 B2|[V:2]x6|[V:3]z2 [B,DG] z [B,DG] z|[V:4]G,,2 z2 z2|[V:5]x6|
+[V:1]A2 B2 G2|[V:2]x6|[V:3]z2 [B,DG] z [B,DG] z|[V:4]G,,2 z2 z2|[V:5]x6|
+[V:1]!>!D6|[V:2]x6|[V:3]z2 [B,DG] z [B,DG] z|[V:4]G,,2 z2 z2|[V:5]x6|
+[V:1]G2 G2 G2|[V:2]x6|[V:3]z2 [B,DG] z [B,DG] z|[V:4]G,,2 z2 z2|[V:5]x6|
+[V:1]!fermata!B4 !fermata!A2|][V:2]x4 ^F2|][V:3]!fermata![B,DGB]4 !fermata![C^FA]2|][V:4][G,,G,]4 !fermata![D,,D,]2|][V:5]x4 DC|]

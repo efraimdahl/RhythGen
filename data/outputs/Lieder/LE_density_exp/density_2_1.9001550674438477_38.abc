@@ -1,0 +1,10 @@
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+Q:1/4=80
+M:3/8
+K:F#
+V:1 treble nm="Voice"
+V:2 treble nm="Pianoforte"
+V:4 treble 
+V:3 bass 
+[V:1]z3[Q:1/4=60][Q:1/4=50]|][V:2]!p!"_ten." !tenuto!F!tenuto!D!tenuto!!fermata!C|][V:3]!tenuto!F,!tenuto!D,!tenuto!!fermata!C,|][V:4]%distance=2[r:0/0]x3|]

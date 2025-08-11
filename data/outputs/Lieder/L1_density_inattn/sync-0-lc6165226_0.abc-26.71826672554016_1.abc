@@ -1,0 +1,39 @@
+%distance 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 5 4 5 3 4 3 3 6
+%%score ( 1 2 ) { ( 3 4 ) | 5 }
+L:1/8
+Q:1/4=120
+M:6/8
+K:Gb
+V:1 treble nm="Gesang\nVoice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:4 treble 
+V:5 bass 
+V:6 treble nm="Stimme\nVoice"
+V:7 treble nm="Stimme\nVioline"
+V:8 treble 
+V:9 treble nm="Voice\n(Verse 1)"
+V:10 treble 
+V:11 treble nm="Voice\n(Verse 2)"
+V:12 treble nm="Voice\n(Voice 2)"
+V:13 treble 
+V:14 treble 
+V:15 treble nm="Voice\n(Verse 3d)"
+[V:1]!p! B2 G|[V:2]x3|[V:3]!p! b2 g|[V:4][Bd]2 [GB]|[V:5][G,D]3|[V:6]B2 G|[V:7]d2 B|[V:8]z3|[V:9]!p! B2 G|[V:10]z3|[V:11]!p! G2 D|[V:12]!p! D2 B,|[V:13]z3|[V:14]z3|[V:15]!p! G,2 B,|
+[V:1]D3 (ED) C|[V:2]x6|[V:3]d3 (ed) c|[V:4][Fc]3 [Ec]2 [Fc]|[V:5][G,A,CD]3 [G,A,CD]3|[V:6]D3 (ED) C|[V:7]F3 (GF) G|[V:8]z6|[V:9]D3 (ED) C|[V:10]z6|[V:11]C3 (CB,) C|[V:12]A,3 (A,G,) A,|[V:13]z6|[V:14]z6|[V:15]D3 D2 D|
+[V:1](B,2 D) (GB) d|[V:2]x6|[V:3](B2 d) (gb) d'|[V:4][GB]2 [GB] [Bd]2 [Bd]|[V:5][G,B,D]3 [G,B,D]3|[V:6](B,2 D) (GB) d|[V:7]G3 (GB) d|[V:8]z6|[V:9](B,2 D) (GB) d|[V:10]z6|[V:11]D3 (DG) B|[V:12]B,3 (B,D) G|[V:13]z6|[V:14]z6|[V:15]G,3 G,2 G,|
+[V:1](d2 B) G2 B|[V:2]x6|[V:3](d'2 b) g2 b|[V:4][Bd]3 [Bd]3|[V:5][G,B,D]3 [G,B,D]3|[V:6](d2 B) G2 B|[V:7]d3 B2 d|[V:8]z6|[V:9](d2 B) G2 B|[V:10]z6|[V:11]B3 D2 B|[V:12]G3 B,2 G|[V:13]z6|[V:14]z6|[V:15]G,3 G,2 G,|
+[V:1]A3 B2 G|[V:2]x6|[V:3]a3 b2 g|[V:4][cd]3 [Bd]2 [GB]|[V:5][G,A,CD]3 [G,B,D]3|[V:6]A3 B2 G|[V:7]c3 d2 B|[V:8]z6|[V:9]A3 B2 G|[V:10]z6|[V:11]F3 G2 D|[V:12]D3 D2 B,|[V:13]z6|[V:14]z6|[V:15]D3 G,2 B,|
+[V:1]D3 (ED) C|[V:2]x6|[V:3]d3 (ed) c|[V:4][Fc]3 [Ec]2 [Fc]|[V:5][G,A,CD]3 [G,A,CD]3|[V:6]D3 (ED) C|[V:7]F3 (GF) G|[V:8]z6|[V:9]D3 (ED) C|[V:10]z6|[V:11]C3 (CB,) C|[V:12]A,3 (A,G,) A,|[V:13]z6|[V:14]z6|[V:15]D3 D2 D|
+[V:1](B,2 D) (GB) d|[V:2]x6|[V:3](B2 d) (gb) d'|[V:4][GB]2 [GB] [Bd]2 [Bd]|[V:5][G,B,D]3 [G,B,D]3|[V:6](B,2 D) (GB) d|[V:7]G3 (GB) d|[V:8]z6|[V:9](B,2 D) (GB) d|[V:10]z6|[V:11]D3 (DG) B|[V:12]B,3 (B,D) G|[V:13]z6|[V:14]z6|[V:15]G,3 G,2 G,|
+[V:1](d=c) B (d_c) F|[V:2]x6|[V:3](d'=c') b (d'_c') f|[V:4][Bd]3 [Ac]3|[V:5][D,G,B,D]3 [D,A,CD]3|[V:6](d=c) B (d_c) F|[V:7]d2 G (cB) A|[V:8]z6|[V:9](d=c) B (d_c) F|[V:10]z6|[V:11]B2 D (FE) D|[V:12]G2 D D2 D|[V:13]z6|[V:14]z6|[V:15]G,2 B, D2 D|
+[V:1]G3 z2 B|[V:2]x6|[V:3]g3 z2 b|[V:4][GB]3 z2 B|[V:5][G,B,D]3 z2 z|[V:6]G3 z2 B|[V:7]B3 z2 z|[V:8]z6|[V:9]G3 z2 B|[V:10]z6|[V:11]D3 z2 z|[V:12]B,3 z2 z|[V:13]z6|[V:14]z6|[V:15]G,3 z2 z|
+[V:1]c2 A (FG) A|[V:2]x6|[V:3]c'2 a (fg) a|[V:4]c2 A FGA|[V:5][D,F,A,C]6|[V:6]c2 A (FG) A|[V:7]z6|[V:8]z6|[V:9]c2 A (FG) A|[V:10]z6|[V:11]z6|[V:12]z6|[V:13]z6|[V:14]z6|[V:15]z2 z c3|
+[V:1](G3 D2) B|[V:2]x6|[V:3](g3 d2) b|[V:4]G3 D2 B|[V:5][D,G,B,]6|[V:6](G3 D2) B|[V:7]z6|[V:8]z6|[V:9](G3 D2) B|[V:10]z6|[V:11]z6|[V:12]z6|[V:13]z6|[V:14]z6|[V:15]B3 (BA) G|
+[V:1](cB) A (AG) F|[V:2]x6|[V:3](c'b) a (ag) f|[V:4]cB A AG F|[V:5][D,F,A,C]3 [D,A,C]3|[V:6](cB) A (AG) F|[V:7]z6|[V:8]z6|[V:9](cB) A (AG) F|[V:10]z6|[V:11]z6|[V:12]z6|[V:13]z6|[V:14]z6|[V:15](FE) D (DE) F|
+[V:1]G3 z2 z|[V:2]x6|[V:3]g3 z2 z|[V:4]G3 z2 z|[V:5][G,B,]3 z2 z|[V:6]G3 z2 z|[V:7]z6|[V:8]z6|[V:9]G3 z2 z|[V:10]z6|[V:11]z6|[V:12]z6|[V:13]z6|[V:14]z6|[V:15]G3 z2 z|
+[V:1]z6|[V:2]x6|[V:3]"^SOLO" d2 z d2 z|[V:4]D2 z D2 z|[V:5]D,2 z D,2 z|[V:6]D2 z D2 z|[V:7]D2 z D2 z|[V:8]z6|[V:9]D2 z D2 z|[V:10]z6|[V:11]D2 z D2 z|[V:12]D2 z D2 z|[V:13]z6|[V:14]z6|[V:15]D2 z D2 z|
+[V:1]z6|[V:2]x6|[V:3]g3- gf g|[V:4]G3- GFG|[V:5]G,3- G,F,G,|[V:6]G3- GF G|[V:7]G3- GF G|[V:8]z6|[V:9]G3- GF G|[V:10]z6|[V:11]G3- GF G|[V:12]G3- GF G|[V:13]z6|[V:14]z6|[V:15]G3- GF G|
+[V:1]z6|[V:2]x6|[V:3]ag f ef d|[V:4]AG F EF D|[V:5]A,G, F, E,F, D,|[V:6]AG F EF D|[V:7]AG F EF D|[V:8]z6|[V:9]AG F EF D|[V:10]z6|[V:11]AG F EF D|[V:12]AG F EF D|[V:13]z6|[V:14]z6|[V:15]AG F EF D|
+[V:1]z6|[V:2]x6|[V:3]g3 [Bdg]3|[V:4]G3 [B,DG]3|[V:5]G,3 [G,,D,G,]3|[V:6]G3 z2 z|[V:7]G3 z2 z|[V:8]z6|[V:9]G3 z2 z|[V:10]z6|[V:11]G3 z2 z|[V:12]G3 z2 z|[V:13]z6|[V:14]z6|[V:15]G3 z2 z|
+[V:1]z6|[V:2]x6|[V:3][Bdg]3 [Bdg]3|[V:4][B,DG]3 [B,DG]3|[V:5][G,,D,G,]3 [G,,D,G,]3|[V:6]z6|[V:7]z6|[V:8]z6|[V:9]z6|[V:10]z6|[V:11]z6|[V:12]z6|[V:13]z6|[V:14]z6|[V:15]z6|

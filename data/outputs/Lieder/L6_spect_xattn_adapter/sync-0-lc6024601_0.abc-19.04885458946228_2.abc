@@ -1,0 +1,31 @@
+%%score [ 1 2 3 4 ]
+L:1/8
+Q:1/4=130
+M:9/8
+K:A
+V:1 treble nm="Soprano"
+V:2 treble nm="Alto"
+V:3 treble-8 nm="Tenor"
+V:4 bass nm="Bass"
+[V:1]!p! E E F G A B A B2 B B B2|[V:2]!p! E E E E E E E2 E E2|[V:3]!p! B B B B B B B2 B B2|[V:4]!p! E, E, E, E, E, E, E,2 E,2|
+[V:1]B2 A G2 A B2 B B B|[V:2]E2 E E2 E E2 E E E|[V:3]d2 c B2 c d2 d d d|[V:4]E,2 E, E,2 E, E,2 E, E,|
+[V:1]c2 B A B2 c A G F|[V:2]E2 E E2 E E2 E ^D|[V:3]c2 d e2 d c2 A|[V:4]E,2 E, E,2 E, E,2 E,|
+[V:1](GA) B (AB) A G F E|[V:2]E2 E E2 E E2 E|[V:3](Bc) d (cd) c B A G|[V:4]E,2 E, E,2 E, E,2 E,|
+[V:1]!fermata!E3!<(! (A B) c (de) f!<)!|[V:2]!fermata!E3!<(! E E E E2 F!<)!|[V:3]!fermata!A3!<(! A A A2 A2!<)!|[V:4]!fermata!A,,3!<(! A,, B,, C, (D,E,) F,!<)!|
+[V:1]!f! e2 d c B d c B2|[V:2]!f! A2 F F F F F2 F|[V:3]!f! c2 A B B c d2 d|[V:4]!f! F,2 F, G, A, A, A,2 A,|
+[V:1]!mp! c2 B (AG) B A2 A|[V:2]!mp! E2 E E2 E E2 E|[V:3]!mp! B2 d c2 d c2 c|[V:4]!mp! G,2 G, G,2 G, A,2 A,|
+[V:1]G2 A B2 B (cB) A|[V:2]^D2 D E2 E E2 E|[V:3]^B2 B =B2 A (AB) c|[V:4]A,2 A, G,2 =G, (F,^G,) A,|
+[V:1][M:3/4] B2 A G2 F|[V:2][M:3/4] ^D2 E E2 D|[V:3][M:3/4] B2 A B2 B|[V:4][M:3/4] G,2 A, B,2 B,,|
+[V:1]E3 E E F|[V:2]E3 E E F|[V:3]G3 G G A|[V:4]E,3 E, E, E,|
+[V:1]G A B2 c B|[V:2]G F E2 F G|[V:3]B A G2 F E|[V:4]E, E, E,2 E, E,|
+[V:1]A3 B A B|[V:2]A3 E E E|[V:3]c3 B c d|[V:4]A,3 G, A, B,|
+[V:1]!<(! c2 c c B A!<)!|[V:2]!<(! E2 E E ^D D!<)!|[V:3]!<(! e2 e e ^d c!<)!|[V:4]!<(! C2 C C B, A,!<)!|
+[V:1]!mf! !fermata!G3 B e ^d|[V:2]!mf! !fermata!E3 G F A|[V:3]!mf! !fermata!B3 G A A|[V:4]!mf! !fermata!G,3 E, F, F,|
+[V:1](e^d) c B (c A)|[V:2]G2 G2 (F E)|[V:3]B2 B2 c2|[V:4]G,2 G,2 A,2|
+[V:1][Q:1/4=120]"^ritardando" (B2 A2) G2|[V:2](^D2 F2) E2|[V:3](F2 A2) G2|[V:4](B,2 B,,2) E,2|
+[V:1]F2 G !fermata!G2 z|[V:2]E2 ^D !fermata!E2 z|[V:3]A2 B !fermata!B2 z|[V:4]E,2 E, !fermata!E,2 z|
+[V:1][M:9/8]"^a tempo"[Q:1/4=130] E F G A B c (dc) B2|[V:2][M:9/8] E E E E E E2 E E2|[V:3][M:9/8] B B B B B B2 B2|[V:4][M:9/8] E, E, E, E, E, E,2 E,2|
+[V:1]A2 G A2 B c2 c|[V:2]E2 E E2 E E2 E|[V:3]d2 c B2 A A2 A|[V:4]E,2 E, E,2 E, E,2 E,|
+[V:1]d2 d e2 c A2 B|[V:2]E2 E E2 E E2 E|[V:3]B2 B c2 A A2 A|[V:4]E,2 E, E,2 E, E,2 E,|
+[V:1](cd) e (fe) d c2 B|[V:2]A2 A A2 G A2 A|[V:3](AB) c (dc) B c2 d|[V:4]E,2 E, E,2 E, E,2 E,|
+[V:1]A2 B (B2 A) A2|][V:2]A2 G (G2 E) E2|][V:3]c2 d (d2 c) c2|][V:4]E,2 E, (E,2 A,) A,2|]

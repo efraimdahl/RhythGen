@@ -1,0 +1,74 @@
+%%score ( 1 2 ) { ( 3 5 ) | 4 }
+L:1/8
+Q:1/4=116
+M:2/4
+K:G
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:5 treble 
+V:4 bass 
+[V:1]"^Allegretto moderato" z|:[V:2]x1|:[V:3]!p! D|:[V:4]z1|:[V:5]x1|:
+[V:1]z4|[V:2]x4|[V:3]!<(! (B,DG!<)!A|[V:4]z (D,E,F,)|[V:5]x4|
+[V:1]z4|[V:2]x4|[V:3]Bc!>(!dc)!>)!|[V:4](G,A,B,A,)|[V:5]x4|
+[V:1]z4|[V:2]x4|[V:3]B3 A|[V:4](G,B,,E,C,)|[V:5](DEDC)|
+[V:1]z2 z!p! D|[V:2]x4|[V:3][B,DG]3 z|[V:4](G,,D,B,,G,,)|[V:5]x4|
+[V:1]!<(! (B,D) (G!<)!A)|[V:2]x4|[V:3]z (B,DG)|[V:4](G,2 F,2|[V:5]x4|
+[V:1](Bc) (dc)|[V:2]x4|[V:3]z (B,DC)|[V:4]E,2 A,,2)|[V:5]x4|
+[V:1](BA) (GA)|[V:2]x4|[V:3]z ([B,D][CE][A,C])|[V:4](D,2 D,,2)|[V:5]x4|
+[V:1]B2 z!mf! D|[V:2]x4|[V:3]z (B,DG)|[V:4]G,,4|[V:5]x4|
+[V:1](B,D) (GA)|[V:2]x4|[V:3]z (B,DG)|[V:4](G,2 F,2|[V:5]x4|
+[V:1]!<(! (Bc) d e!<)!|[V:2]x4|[V:3]!<(! z (B,DG)!<)!|[V:4]E,2 B,,2)|[V:5]x4|
+[V:1]!f!!>(! (fe) (d^c)!>)!|[V:2]x4|[V:3]!f! z!>(! (A,EG)!>)!|[V:4](A,,2 A,,,2)|[V:5]x4|
+[V:1]!mf! d2 z A|[V:2]x4|[V:3]!mf! z (FAF)|[V:4](D,,2 D,2)|[V:5]x4|
+[V:1]B B ^c c|[V:2]x4|[V:3](GBF^A)|[V:4](G,2 F,2)|[V:5]x4|
+[V:1]d3 d|[V:2]x4|[V:3]z (FBF)|[V:4](B,,2 B,,,2)|[V:5]x4|
+[V:1]d3 A|[V:2]x4|[V:3]z (FAF)|[V:4](D,,2 D,2)|[V:5]x4|
+[V:1]B2 z B|[V:2]x4|[V:3]z (DGD)|[V:4](G,,2 G,2)|[V:5]x4|
+[V:1]c B A B|[V:2]x4|[V:3]z (DAD)|[V:4](F,2 D,2)|[V:5]x4|
+[V:1]G D G B|[V:2]x4|[V:3]z (DGD)|[V:4](B,,2 G,,2)|[V:5]x4|
+[V:1]A4-|[V:2]x4|[V:3]z (DAD)|[V:4](D,2 D,,2)|[V:5]x4|
+[V:1]A z z A|[V:2]x4|[V:3]z (DAD)|[V:4](F,,2 D,,2)|[V:5]x4|
+[V:1]!<(! B B c c|[V:2]x4|[V:3]!<(! z (DAD)|[V:4](G,2 D,2)|[V:5]x4|
+[V:1]d3 d|[V:2]x4|[V:3]z (DBD)|[V:4](B,,2 G,,2)|[V:5]x4|
+[V:1]e3 e!<)!|[V:2]x4|[V:3]z (EcE)!<)!|[V:4](C,2 C,,2)|[V:5]x4|
+[V:1]!ff! g3 G|[V:2]x4|[V:3]!ff! [GBg]3 z|[V:4][E,,E,]3 z|[V:5]x4|
+[V:1](dc) (BA)|[V:2]x4|[V:3]z [DG]z[DFA]|[V:4][B,,,B,,]2 [C,,C,]2|[V:5]x4|
+[V:1](GD) G B|[V:2]x4|[V:3]z [DGB]z[DGB]|[V:4][B,,,B,,]2 [G,,,G,,]2|[V:5]x4|
+[V:1]!fermata!A4|[V:2]x4|[V:3]z (D[FA]D)|[V:4][D,,D,]4|[V:5]x4|
+[V:1]z4|1[V:2]x4|1[V:3]z!p! (D[FA]D)|1[V:4]D,,2 D,2|1[V:5]x4|1
+[V:1]z4|[V:2]x4|[V:3]!<(! (B,DG!<)!A|[V:4]z (D,E,F,)|[V:5]x4|
+[V:1]z4|[V:2]x4|[V:3]Bc!>(!dc)!>)!|[V:4](G,A,B,A,)|[V:5]x4|
+[V:1]z4|[V:2]x4|[V:3]B3 A|[V:4](G,B,,E,C,)|[V:5](DEDC)|
+[V:1]z2 z!p! D:|2[V:2]x4:|2[V:3][B,DG]3 z:|2[V:4](G,,D,B,,G,,):|2[V:5]x4:|2
+[V:1]z4||[V:2]x4||[V:3]!<(! (B,DG!<)!A||[V:4]z (D,E,F,)||[V:5]x4||
+[V:1]z4|[V:2]x4|[V:3]Bc!>(!dc)!>)!|[V:4](G,A,B,A,)|[V:5]x4|
+[V:1]z4|[V:2]x4|[V:3]B3 A|[V:4](G,B,,E,C,)|[V:5](DEDC)|
+[V:1]z4|[V:2]x4|[V:3][B,DG]3 z|[V:4](G,,D,B,,G,,)|[V:5]x4|
+[V:1]z2 z!p! G|[V:2]x4|[V:3]z2 z!p! G|[V:4]G,,,4|[V:5]x4|
+[V:1]!<(! (G A)!<)! B c|[V:2]x4|[V:3](G!<(![FA])!<)![GB][Ac]|[V:4]z (D,G,A,)|[V:5]x4|
+[V:1]!<(! d2 d2|[V:2]x4|[V:3]!<(! (BGdG)|[V:4]B,2 B,2|[V:5]x4|
+[V:1]e e d d!<)!|[V:2]x4|[V:3](eGdG)!<)!|[V:4]C2 B,2|[V:5]x4|
+[V:1]!f! d3 c|[V:2]x4|[V:3]!f! (dGdc)|[V:4](B,3 A,)|[V:5]x4|
+[V:1](BA) (GA)|[V:2]x4|[V:3](BAGA)|[V:4](G,F,E,F,)|[V:5]x4|
+[V:1](Bc) (de)|[V:2]x4|[V:3](Bcde)|[V:4](G,A,B,C)|[V:5]x4|
+[V:1]!ff! f4|[V:2]x4|[V:3]!ff! z (A[cf]A)|[V:4]D2 D,2|[V:5]x4|
+[V:1]g4|[V:2]x4|[V:3]z (G[Bdg]G)|[V:4]G,2 G,,2|[V:5]x4|
+[V:1]z4|[V:2]x4|[V:3]z (G[Bdg]G)|[V:4]G,2 G,,2|[V:5]x4|
+[V:1]z2 z!p! G|[V:2]x4|[V:3]z (G[Bdg]G)|[V:4]G,2 G,,2|[V:5]x4|
+[V:1](GA) B c|[V:2]x4|[V:3]z (DGB)|[V:4]G,2 (B,,D,)|[V:5]x4|
+[V:1]!<(! d3 d|[V:2]x4|[V:3]!<(! z (DBd)|[V:4]G,2 G,,2|[V:5]x4|
+[V:1](ed) (cB)!<)!|[V:2]x4|[V:3](edcB)!<)!|[V:4](CB,A,G,)|[V:5]x4|
+[V:1]!f! d2 z!mp! A|[V:2]x4|[V:3]!f! [FAd]2 z2|[V:4]D,2 z2|[V:5]x4|
+[V:1]B B ^c c|[V:2]x4|[V:3]!p! (B,[GB]^C[F^A])|[V:4](G,2 F,2)|[V:5]x4|
+[V:1]d2 z d|[V:2]x4|[V:3]z (D[FB]D)|[V:4](B,,2 B,,,2)|[V:5]x4|
+[V:1]d3 A|[V:2]x4|[V:3]z (D[FA]D)|[V:4](D,,2 D,2)|[V:5]x4|
+[V:1]B2 z!f! B|[V:2]x4|[V:3]z (D[GB]D)|[V:4](G,,2 G,2)|[V:5]x4|
+[V:1]c B A B|[V:2]x4|[V:3]!f! z (D[Ac]D)|[V:4](F,2 D,2)|[V:5]x4|
+[V:1](GD) G B|[V:2]x4|[V:3]z (D[GB]D)|[V:4](B,,2 G,,2)|[V:5]x4|
+[V:1]A4-|[V:2]x4|[V:3]z (D[FA]D)|[V:4](D,2 D,,2)|[V:5]x4|
+[V:1]A z z!mp! A|[V:2]x4|[V:3]z (D[FA]D)|[V:4](F,,2 D,,2)|[V:5]x4|
+[V:1]"^cresc." B B c c|[V:2]x4|[V:3]!p!"_cresc." z (D[GB]D)|[V:4](G,2 D,2)|[V:5]x4|
+[V:1]d3 d|[V:2]x4|[V:3]z (D[GB]D)|[V:4](B,,2 G,,2)|[V:5]x4|
+[V:1]!<(! e3 e|[V:2]x4|[V:3]z (E[Gc]E)|[V:4](C,2 C,,2)|[V:5]x4|
+[V:1]!fermata!g4!<)!|[V:2]!fermata!g4|[V:3]!fermata![GBg]4|[V:4]!fermata![E,,E,]4|[V:5]x4|

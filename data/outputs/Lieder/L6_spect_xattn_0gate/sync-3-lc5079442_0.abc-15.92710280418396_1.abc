@@ -1,0 +1,36 @@
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=64
+M:4/4
+K:B
+V:1 treble nm="Voice" snm="Vo."
+V:2 treble nm="Piano" snm="Pno."
+V:4 treble 
+V:3 bass 
+V:5 bass 
+[V:1]"^Sehr langsam" z2 D2 F2 B2|[V:2]z (B,DF BFDB,)|[V:3]B,,8|[V:4]x8|[V:5]x8|
+[V:1]B3 A A2 z2|[V:2]z (CEA cAEC)|[V:3]F,,8|[V:4]x8|[V:5]x8|
+[V:1]z2 A2 c2 e2|[V:2]z (EFA cAFE)|[V:3]F,,8|[V:4]x8|[V:5]x8|
+[V:1]d2 c B B4|[V:2]z (EFA BFDB,)|[V:3]B,,8|[V:4]x8|[V:5]x8|
+[V:1]z2 d d e3 d|[V:2]z (FBF) z (EGE)|[V:3][B,,B,]4 [E,B,]4|[V:4]x8|[V:5]x8|
+[V:1]c2 c2 c3 B|[V:2]z (EAE) z (FBF)|[V:3]F,4 [D,B,]4|[V:4]x8|[V:5]x8|
+[V:1]A2 c2 (BA) (GF)|[V:2]z (C[FA]C) z ([DF]B,[DF])|[V:3]F,4 B,,4|[V:4]x8|[V:5]x8|
+[V:1]F2 ^E2 F2 z2|[V:2]z (G,[C^E]G,) z (F,A,C)|[V:3]C,4 F,,4|[V:4]x8|[V:5]x8|
+[V:1]G2 G2 G2 A2|[V:2]z [B,D][B,D][B,D] z [A,E][A,E][A,E]|[V:3]G,4 C,4|[V:4]x8|[V:5]x8|
+[V:1](A2 G) ^^F G4|[V:2]z [CD][CD][CD] z [B,D][B,D][B,D]|[V:3]D,4 G,,4|[V:4]x8|[V:5]x8|
+[V:1]c3 c c2 ^^c2|[V:2]z [CF][CF][CF] z [A,E][A,E][A,E]|[V:3]A,,4 F,,4|[V:4]x8|[V:5]x8|
+[V:1]^^c3 d d4|[V:2]z [B,E][B,E][B,E] z [B,D][B,D][B,D]|[V:3]B,,4 B,,,4|[V:4]x8|[V:5]x8|
+[V:1]z d d d d3 d|[V:2]z DGD z F=AF|[V:3]B,4 ^B,4|[V:4]x8|[V:5]x8|
+[V:1]d2 c2 z4|[V:2]z EGE z EGE|[V:3]C4 C,4|[V:4]x8|[V:5]x8|
+[V:1]z e e e e2 d c|[V:2]z EFE z FAF|[V:3]A,,4 F,,4|[V:4]x8|[V:5]x8|
+[V:1]c3 d B4|[V:2]z EFA z DFD|[V:3]B,,4 B,,,4|[V:4]x8|[V:5]x8|
+[V:1]z2 B2 c3 c|[V:2]z (DFB) z (CFA)|[V:3]B,4 A,4|[V:4]x8|[V:5]x8|
+[V:1]d2 c2 B2 A2|[V:2]z (DGB) z (CFA)|[V:3]B,4 F,4|[V:4]x8|[V:5]x8|
+[V:1]A3 G G2 ^^F2|[V:2]z (A,DG) z (A,D^^F)|[V:3]D,4 C,4|[V:4]x8|[V:5]x8|
+[V:1]G4 z4|[V:2]z (G,B,D) (FDFG)|[V:3]^B,,8|[V:4]x4 G,4|[V:5]x8|
+[V:1]z2 G2 c3 e|[V:2]z (CEG) z (G,CE)|[V:3]C,8|[V:4]x8|[V:5]C,8|
+[V:1]d2 c2 (cB) (AG)|[V:2]z (G,CE) z (G,CE)|[V:3]C,4 E,4|[V:4]x8|[V:5]x8|
+[V:1]G4 F4|[V:2]z (G,B,C) z (F,A,E)|[V:3]^E,4 F,,4|[V:4]x8|[V:5]x8|
+[V:1]B8-|[V:2]z (F,B,D) z (DF=A)|[V:3][B,,,B,,]4 [=A,,,=A,,]4|[V:4]x4 B,4|[V:5]x8|
+[V:1](B8|[V:2]z (B,EG) z (CE^^F)|[V:3][G,,,G,,]4 [=A,,,=A,,]4|[V:4]B,4 C4|[V:5]x8|
+[V:1]B4) z4|][V:2]z (B,EG) !fermata![B,DF]4|][V:3][B,,,B,,]4 !fermata![B,,,B,,]4|][V:4]x8|][V:5]x8|]

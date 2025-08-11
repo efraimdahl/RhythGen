@@ -1,0 +1,26 @@
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=100
+M:6/8
+K:G
+V:1 treble nm="Voice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+[V:1]"^Sehr langsam" z2|[V:2]!p! D|[V:3]z2|
+[V:1]z6|[V:2]B>AB G>AB|[V:3][G,,D,G,]3 [G,,D,G,]3|
+[V:1]z6|[V:2]c>Bc A>Bc|[V:3][A,,D,F,]3 [A,,D,F,]3|
+[V:1]z6|[V:2]d>ed g>fe|[V:3][B,,D,G,]3 [C,E,G,]3|
+[V:1]z2 z z2 D|[V:2]d2 B A2 z|[V:3]D,2 D,, D,2 z|
+[V:1]B>AB G>AB|[V:2][B,DG]2 z [B,DG]2 z|[V:3][G,,D,G,]2 z [G,,D,G,]2 z|
+[V:1]c>Bc A>Bc|[V:2][CDF]2 z [CDF]2 z|[V:3][G,,D,A,]2 z [G,,D,A,]2 z|
+[V:1]d>ed g>fe|[V:2][B,DG]2 z [CEG]2 z|[V:3][G,,D,G,]2 z [G,,E,G,]2 z|
+[V:1]d>BG A z d|[V:2][B,DG]2 [B,DG] [CDF]2 z|[V:3][D,G,]2 [D,G,] D,2 z|
+[V:1]d>^cd B>^AB|[V:2][B,DG]2 z [B,D^G]2 z|[V:3][G,,D,G,]2 z [=F,,D,=F,]2 z|
+[V:1]e>^de c>Bc|[V:2][CEA]2 z [CEA]2 z|[V:3][E,,A,,E,]2 z [A,,E,A,]2 z|
+[V:1]e>fe a>gf|1,2[V:2][EAc]2 z [Fcd]2 z|1,2[V:3][A,,E,A,]2 z [D,,D,]2 z|1,2
+[V:1]gdB G z d:|2[V:2][GBd]2 [GBd] [GBd] z z:|2[V:3][G,,G,]2 [G,,G,] [G,,G,] z z:|2
+[V:1]gdB G2 B|[V:2][GBd]2 [GBd] [GBd] z z|[V:3][G,,G,]2 [G,,G,] [G,,G,] z z|
+[V:1]d>ed d>cA||2[V:2][GBd]2 z [FAcd]2 z||2[V:3][G,,G,]2 z [D,,D,]2 z||2
+[V:1]G3 z2:|3[V:2][GBd]2 [GBd] [GBd] z:|3[V:3][G,,G,]2 [G,,G,] [G,,G,] z:|3
+[V:1]gdB G2:|3[V:2][GBd]2 [GBd] [GBd] z:|3[V:3][G,,G,]2 [G,,G,] [G,,G,] z:|3
+[V:1]gdB G2|][V:2][GBd]2 [GBd] [GBd] z|][V:3][G,,G,]2 [G,,G,] [G,,G,] z|]

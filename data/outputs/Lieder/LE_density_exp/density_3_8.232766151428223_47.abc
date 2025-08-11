@@ -1,0 +1,22 @@
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=116
+M:6/8
+K:Eb
+V:1 treble nm="Voice"
+V:2 treble nm="Pianoforte"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+[V:1]"^Liebhaft" B,|[V:2]%distance=3[r:0/11]z1|[V:3]%distance=3[r:0/11]z1|[V:4]%distance=3[r:0/11]x1|[V:5]%distance=3[r:0/11]x1|
+[V:1]G2 E (B>A) G|[V:2][B,EG]2 z [EGB]2 z|[V:3][E,,E,]2 z [E,,E,]2 z|[V:4]x6|[V:5]x6|
+[V:1]c2 B B z B|[V:2][EAc]2 [DFB] [DFB]2 z|[V:3][A,,A,]2 [B,,B,] [B,,B,]2 z|[V:4]x6|[V:5]x6|
+[V:1](cd) e (B>A) G|[V:2][EAc]2 z [EGB]2 z|[V:3][A,,A,]2 z [E,,E,]2 z|[V:4]x6|[V:5]x6|
+[V:1]{G} F2 F F2 E|[V:2]{G} [DF]2 [DF] [DF]2 E|[V:3]B,2 B, B,2 z|[V:4]x6|[V:5]x6|
+[V:1](DF) B (EG) B|[V:2](DF)B (EG)B|[V:3][B,,B,]2 z [B,,B,]2 z|[V:4]B,2 x B,2 x|[V:5]x6|
+[V:1](DF) B E2 E|[V:2](DF)B E2 E|[V:3][B,,B,]2 z [E,B,]2 z|[V:4]B,2 x B,2 x|[V:5]x6|
+[V:1]c2 c B2 B|[V:2][EAc]2 [EAc] [EGB]2 [EGB]|[V:3]A,2 A, E,2 E,|[V:4]x6|[V:5]x6|
+[V:1](BA) G F2 z|[V:2](BA)[EG] [DF]2 z|[V:3][B,,B,]2 [B,,B,] [B,,B,]2 z|[V:4]E2 x4|[V:5]x6|
+[V:1](BG) E (ec) A|[V:2](BG)E (ec)A|[V:3]G,B,E, A,CE,|[V:4]x6|[V:5]E,2 x E,2 x|
+[V:1]G B F E2 z|[V:2]GBF E2 z|[V:3]B,2 A, [E,G,]2 z|[V:4]x6|[V:5]B,,2 B,, x3|
+[V:1]z6|[V:2](BG)E (ec)A|[V:3]G,B,E, A,CE,|[V:4]x6|[V:5]E,2 x E,2 x|

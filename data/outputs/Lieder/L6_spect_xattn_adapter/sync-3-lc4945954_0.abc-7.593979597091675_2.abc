@@ -1,0 +1,22 @@
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=40
+M:4/8
+K:Ab
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+[V:1]z4"^Slow Adagio"|[V:2]!p! cc- cB/G/|[V:3]E3 E|[V:4]A,2 G,2|[V:5]C2 B,2|
+[V:1]z4|[V:2]A2 AB/G/|[V:3]E3 E|[V:4]F,2 E,2|[V:5]A,2 G,2|
+[V:1]z4|[V:2]!fermata!A2 z!pp! !fermata![ca]|[V:3]x4|[V:4]E,2 E,2|[V:5]A,2 A,,2|
+[V:1]z4|[V:2]cB-Bc/B/|[V:3]E3 E|[V:4]A,2 G,2|[V:5]C2 B,2|
+[V:1]z4|[V:2]A2 AB/G/|[V:3]E3 E|[V:4]F,2 E,2|[V:5]A,2 G,2|
+[V:1]z4|[V:2]A2- A/c/e/c/|[V:3]C3 E|[V:4]E,2 E,2|[V:5]E,2 A,,2|
+[V:1]z4|[V:2]cB- B/A/G/A/|[V:3]E3 E|[V:4]D2 C2|[V:5]G,2 _G,2|
+[V:1]z4|[V:2]cB- B/A/G/A/|[V:3]E3 E|[V:4]_C2 B,2|[V:5]F,2 _F,2|
+[V:1]z4[Q:1/4=36]"^Adagio"|[V:2]Bc-cB/G/|[V:3]E3 E|[V:4]A,2 G,2|[V:5]E,2 D,2|
+[V:1]z4[Q:1/4=34]::[V:2]!fermata!A2 z !fermata![Aa]::[V:3]x4::[V:4]E,2 E,2::[V:5]C,2 A,,2::
+[V:1][Q:1/4=48]"^T" z4|[V:2]!pp! AB- B/A/c/B/|[V:3]E3 E|[V:4]C2 B,2|[V:5]A,2 G,2|
+[V:1]z4:|[V:2][Q:1/4=28]"^P" A4[Q:1/8=26][Q:1/4=20]:|[V:3]E4:|[V:4]A,2 A,2:|[V:5]A,2 A,2:|

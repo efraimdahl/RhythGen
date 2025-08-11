@@ -1,0 +1,16 @@
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=100
+M:6/8
+K:G
+V:1 treble nm="Voice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+[V:1]GGA B2 c|[V:2]([B,DG]2 [^CFA] [DGB]2 [EGc])|[V:3]!ped! [G,,,G,,]2 [G,,D,] [G,,D,]2 [G,,D,]!ped-up!|
+[V:1]d>ed A3|[V:2]([FAd]3- [FAd]3)|[V:3]!ped! [G,,,G,,]2 [G,,D,F,] [G,,D,F,]2 [G,,C,E,]!ped-up!|
+[V:1]A>BA cBA|[V:2]([A,D]2 [B,E] [DF][CE][DF])|[V:3]!ped! [G,,,F,,]2 [F,,D,] [F,,D,]2 [F,,D,]!ped-up!|
+[V:1](B3 G3):|[V:2]([B,EG]3- [B,EG]3):|[V:3]!ped! [G,,,G,,]2 [G,,D,G,] [G,,D,G,]2 [G,,,G,,]!ped-up!:|
+[V:1]GAG B2 c|[V:2]([B,DG][B,^DG][^CEA] [=DGB]2 [EA^c])|[V:3]!ped! [G,,,G,,]2 [G,,^D,] [G,,D,]2 [G,,D,]!ped-up!|
+[V:1]d>ed A3|[V:2]([FAd]3- [FAd]3)|[V:3]!ped! [G,,,G,,]2 [G,,D,F,G,] [G,,D,F,G,]2 [G,,C,E,G,]!ped-up!|
+[V:1]"_rit."!<(! DEF G2 A)|[V:2]"_ritard." ([FA][GB][Ac] [Bd]2 [ce])|[V:3]!ped! [G,,,G,,]2 [G,,D,F,G,] [G,,D,F,G,]2 [G,,C,E,G,]!ped-up!|
+[V:1](B3 G3):|[V:2][GBdg]6:|[V:3]!ped! G,,,D,,G,, [D,G,]3!ped-up!:|

@@ -1,0 +1,24 @@
+%syncopation 6 3 3 3 3 3 3 3 3 3 3 6
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=92
+M:4/4
+K:F
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+[V:1]"^Andante con moto" z8|[V:2]!mf! z (A,[DF]A,) z (A,[DF]A,)|[V:3][D,,D,]4 [C,,C,]2 [B,,,B,,]2|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]z ([A,E]G,A,) z (A,[DF]A,)|[V:3][A,,,A,,]4 [D,,D,]2 [C,,C,]2|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]z (B,[DF]B,) z (B,[EG]B,)|[V:3][B,,,B,,]4 ([G,,,G,,]2 [E,,,E,,]2)|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]z (A,[EG]A,) z (A,[^CG]A,)|[V:3][A,,,A,,]4 [A,,,A,,]4|[V:4]x8|[V:5]x8|
+[V:1]!p! D3 D C2 B,2|[V:2]z (A,[DF]A,) z (A,[DG]B,)|[V:3][D,,D,]4 z4|[V:4]x8|[V:5]x8|
+[V:1]A,4 D2 C2|[V:2]z (A,[DF]A,) z (A,[CF]A,)|[V:3][F,,F,]4 z4|[V:4]x8|[V:5]x8|
+[V:1]B,2 D2 F2 E2|[V:2]z (F,[B,D]F,) z (E,[B,C]E)|[V:3]B,,4 G,,4|[V:4]x8|[V:5]x8|
+[V:1]D4 ^C4|[V:2]z[I:staff +1] (F,[I:staff -1][A,D][DF])[I:staff +1] z (E,[A,^C-][CE])|[V:3]A,,4 [A,,,A,,]4|[V:4]x8|[V:5]x8|
+[V:1]!p! F3 F G2 A2|[V:2][I:staff -1] z[I:staff +1] (F,[A,D]F,)[I:staff -1] z ([B,E]F,[CF])|[V:3]!p! D,4 G,,2 A,,2|[V:4]x8|[V:5]x8|
+[V:1]B4 G2 DE|[V:2]z ([B,D]F,[B,D])[I:staff +1] z (E,[B,E]E,)|[V:3]B,,4 G,,4|[V:4]x8|[V:5]x8|
+[V:1]F4 E4|1[V:2][I:staff +1] ([F,A,-D]4 [G,^C]4)|1[V:3]A,,8|1[V:4]x8|1[V:5]x8|1
+[V:1]D4 z4:|2[V:2][F,A,D]4[I:staff -1] z4:|2[V:3]D,4 D,,4:|2[V:4]x8:|2[V:5]x8:|2
+[V:1]D4 z4|][V:2][F,A,D]4[I:staff -1] z4|][V:3]D,4 D,,4|][V:4]x4 D,,4|][V:5]x8|]

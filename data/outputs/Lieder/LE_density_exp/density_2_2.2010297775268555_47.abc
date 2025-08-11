@@ -1,0 +1,13 @@
+%%score ( 1 2 ) { ( 3 6 7 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=144
+M:4/4
+K:C#
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:6 treble 
+V:7 treble 
+V:4 bass 
+V:5 bass 
+[V:1]!>(! e8!>)!|][V:2]%distance=2[r:0/0]x8|][V:3]!>(! (.[D^^GB]2 .[CEA]2 .[B,DG]2 .[CEA]2)!>)!|][V:4](.[A,,E,]2 .[A,,E,]2 .[A,,E,]2 .[A,,E,]2)|][V:5]%distance=2[r:0/0]x8|][V:6]%distance=2[r:0/0]x8|][V:7]%distance=2[r:0/0]x8|]

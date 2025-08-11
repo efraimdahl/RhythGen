@@ -1,0 +1,22 @@
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=100
+M:2/4
+K:A
+V:1 treble nm="Canto\nVoice"
+V:2 treble nm="Piano"
+V:3 bass 
+[V:1]A F D A,|[V:2](6:4:6(A/f/d/)(A/f/d/) (6:4:6(A/f/d/)(A/f/d/)|[V:3]!ped! [D,,D,] [F,A,D][D,,D,][F,A,D]!ped-up!|
+[V:1]!>(! E C/ B,/!>)! A, z|[V:2]!>(! (6:4:6(A/e/c/)(A/e/c/)!>)! A z|[V:3][E,,E,][E,G,D] [A,C] z|
+[V:1]!p! E F E F|[V:2]!p! (6:4:6(E/e/A/E/e/A/ (6:4:6E/e/A/E/e/A/)|[V:3][A,C][E,B,][A,C][E,B,]|
+[V:1]E C F2|[V:2](6:4:6(E/e/E/A/E/e/ (6:4:6F/f/A/F/f/A/)|[V:3][A,C][E,B,][A,C][E,B,]|
+[V:1]E F E F|[V:2](6:4:6(E/e/E/A/e/E/ (6:4:6E/e/A/E/e/A/)|[V:3][A,C][E,B,][A,C][E,B,]|
+[V:1]E C F z|[V:2](6:4:6(E/e/E/A/E/e/ (6:4:6F/f/A/F/f/A/)|[V:3][A,C][E,B,][A,C][E,B,]|
+[V:1]!f! B G E C|[V:2](6:4:6(E/e/B/E/e/B/) (6:4:6(E/e/B/E/e/B/)|[V:3]!ped! [G,B,] [B,,E,G,][G,B,] [B,,E,G,]!ped-up!|
+[V:1]!>(! F ^D/ C/!>)! B,2|[V:2](6:4:6(E/^d/A/F/d/A/) (6:4:6(E/d/A/E/d/A/)|[V:3]!ped! [F,A,] [B,,F,A,][F,A,] [B,,F,A,]!ped-up!|
+[V:1]B G E C|[V:2](6:4:6(E/e/B/E/e/B/) (6:4:6(E/e/B/E/e/B/)|[V:3]!ped! [G,B,] [B,,E,G,][G,B,] [B,,E,G,]!ped-up!|
+[V:1]!>(! F ^D/ C/!>)! B,2|[V:2](6:4:6(E/^d/A/F/d/A/) (6:4:6(E/d/A/E/d/A/)|[V:3]!ped! [F,A,] [B,,F,A,][F,A,] [B,,F,A,]!ped-up!|
+[V:1]!mp! G, B, G, B,|[V:2]!p! (6:4:6(E/e/B/E/e/B/) (6:4:6(E/e/B/E/e/B/)|[V:3]!ped! [G,B,] [B,,E,G,][G,B,] [B,,E,G,]!ped-up!|
+[V:1]C B, B,2|[V:2](6:4:6(E/c/A/E/c/A/) (6:4:6(E/^d/A/E/d/A/)|[V:3]!ped! [A,C] [A,,E,A,][F,A,] [B,,F,A,]!ped-up!|
+[V:1]G, B, G, B,|[V:2](6:4:6(E/e/B/E/e/B/) (6:4:6(E/e/B/E/e/B/)|[V:3]!ped! [G,B,] [B,,E,G,][G,B,] [B,,E,G,]!ped-up!|
+[V:1]!>(! C B,/ A,/!>)! !fermata!E2|][V:2](6:4:6(E/c/A/E/c/A/) (6:4:6(E/d/G/E/d/G/)|][V:3]!ped! [A,,E,][A,,E,]!ped-up!!ped! [E,,E,]2!ped-up!|]

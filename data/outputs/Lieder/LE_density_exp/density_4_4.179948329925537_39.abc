@@ -1,0 +1,17 @@
+%%score 1 { ( 2 5 6 ) | ( 3 4 7 ) }
+L:1/8
+Q:1/4=114
+M:4/4
+K:B
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:5 treble 
+V:6 treble 
+V:3 bass 
+V:4 bass 
+V:7 bass 
+[V:1]B4 A2 A2|[V:2]([EB]4 [EA]4|[V:3]([F,C]4 [F,C]4|[V:4]%distance=4[r:0/4]x8|[V:5]%distance=4[r:0/4]x8|[V:6]%distance=4[r:0/4]x8|[V:7]%distance=4[r:0/4]x8|
+[V:1]d6 A2|[V:2][DAd]8)|[V:3][B,,^^F,]8)|[V:4]x8|[V:5]x8|[V:6]x8|[V:7]x8|
+[V:1]B2 G2 G2 F2|[V:2]([DB]2 [EG]4 [DF]2|[V:3]G,8|[V:4](B,,4 ^B,,4|[V:5]x8|[V:6]x8|[V:7]x8|
+[V:1]E4 (E2 c2)|[V:2]E6 [EG]2)|[V:3](G,4 C4)|[V:4]C,4 A,,4)|[V:5]C6 x2|[V:6]x8|[V:7]x8|
+[V:1]B6 B2|[V:2]([DB]4 [CEF]4|[V:3]([F,B,]4 F,,4|[V:4]x8|[V:5]x8|[V:6]x8|[V:7]x8|

@@ -1,0 +1,32 @@
+%%score ( 1 2 )
+L:1/8
+Q:1/4=145
+M:4/4
+K:D
+V:1 treble nm="Grand Piano"
+V:2 treble 
+[V:1]z2 (3:2:2^g a2 b2 z e'|[V:2]x8|
+[V:1]^g'b' (3:2:2^a' b'2 e''2 z b'|[V:2]x8|
+[V:1]e''b' (3:2:2^a' b'2 e''2 z2|[V:2]x8|
+[V:1][E^G]2 [EG]2 [DEG]2 [DEG]2|[V:2]x8|
+[V:1][CEA]2 z2 z z/4 c/4=c/4^c/4 d>e|[V:2]x8|
+[V:1]f>e c>A G>F (3E z f|[V:2]x8|
+[V:1](3g/a3/2c' f'>e' c'>=c' ^c'>a|[V:2]x8|
+[V:1]^g>f ^d>c =c>^c d>=f|[V:2]x8|
+[V:1](3^gbc' (3bg^g (3fec B z/4 E/4F/4^G/4|[V:2]x8|
+[V:1](3:2:2A2 e4- e2 z z/4 A/4B/4c/4|[V:2]z4 z z/4 A3/4 z2|
+[V:1](3:2:2d2 ^g4- g2 z z/4 c/4d/4e/4|[V:2]z4 z z/4 B3/4 z2|
+[V:1](3:2:2=f2 d'4- d'2 z2|[V:2]z4 z z/4 d/4e/4=f/4 g/4a/4b/4c'/4d'/4e'/4=f'/4g'/4|
+[V:1]a'>^a' b'>^g' =g'>e' c'>b|[V:2]x8|
+[V:1]a>^g =g>e c>B A>B|[V:2]x8|
+[V:1]A>^G =G>E C>B,[K:bass] A,>B,|[V:2]x6[K:bass] x2|
+[V:1]A,>^G, =G,>E, C,>B,, A,,>B,,|[V:2]x8|
+[V:1][K:treble] [Aca]2 z2 z z/4 c'/4=c'/4^c'/4 d'>e'|[V:2][K:treble] x8|
+[V:1]f'>e' c'>a g>f (3e z f'|[V:2]x8|
+[V:1](3g'/a'3/2c'' f''>e'' c''>=c'' ^c''>a'|[V:2]x8|
+[V:1]^g'>f' ^d'>c' =c'>^c' d'>=f'|[V:2]x8|
+[V:1](3^g'b'c'' (3b'g'f' (3f'e'c' b z/4 e/4f/4^g/4|[V:2]x8|
+[V:1](3:2:2a2 e'4- e'2 z z/4 a/4b/4c'/4|[V:2]z4 z z/4 a3/4 z2|
+[V:1](3:2:2d'2 ^g'4- g'2 z z/4 c'/4d'/4e'/4|[V:2]z4 z z/4 b3/4 z2|
+[V:1](3:2:2=f'2 d''4- d''2 z2|[V:2]z4 z z/4 d'/4e'/4=f'/4 g'/4a'/4b'/4c''/4d''/4e''/4=f''/4g''/4|
+[V:1]a''>^a'' b''>^g'' =g''>e'' c''>b'|[V:2]x8|

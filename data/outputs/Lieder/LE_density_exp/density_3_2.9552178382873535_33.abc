@@ -1,0 +1,13 @@
+%%score 1 { ( 2 3 ) | ( 4 5 6 ) }
+L:1/8
+Q:1/4=144
+M:3/4
+K:F
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:6 bass 
+[V:1]A4 z2|[V:2]z/ ([^CA]A/) z/ ([CA]A/) z/ ([CA]A/)|[V:3][I:staff +1] (G,F,G,F,G,F,)|[V:4]!ped! A,,6!ped-up!|[V:5][D,,A,,]2 A,,,2 A,,,2|[V:6]x A,,, z A,,, z A,,,|
+[V:1]z6|][V:2]!p! [A,DFA]6|][V:3]x6|][V:4][A,,,A,,]6|][V:5]x6|][V:6]x6|]

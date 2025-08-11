@@ -1,0 +1,43 @@
+%distance 2 1 1 1 1 1 1 1 1 1 5
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=92
+M:4/4
+K:F
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+[V:1]"^Lachleung"!p! C|:[V:2](3z/ A,/F,/|:[V:3]!p! (F,,|:[V:4]x1|:[V:5]x1|:
+[V:1]SSS D/ D E/ F3/2 A/ G3/2 A/ B/ c d/ e/|[V:2]z/ (F,/A,/C/) z/ (F,/B,/D/) z/ (F,/A,/C/) z/ (F,/A,/C/)|[V:3]!ped! G,,A,,B,,A,, D,C,E,!ped-up!A,)|[V:4]G,,,2 A,,,2 C,,2 E,,2|[V:5]x8|
+[V:1]f3/2 e/ d3/2 A/ B/ d3/2 G/ A/ G|[V:2]z/ (F,/A,/C/) z/ (F,/A,/D/) z/ (F,/G,/B,/) z/ (E,/G,/C/)|[V:3]!ped! (F,,G,,A,,!ped-up!F,,!ped! E,,D,E,!ped-up!G,)|[V:4]F,,,2 A,,,2 D,,2 E,,2|[V:5]x8|
+[V:1]c2 z/ A B/ c F F3/2 F/|[V:2]z/ (F,/A,/C/) z/ (F,/A,/_E/) z/ (F,/B,/D/) z/ (F,/A,/E/)|[V:3](F,,G,,A,,C, D,B,,C,A,,)|[V:4]x8|[V:5]x8|
+[V:1]B3/2 A/ G/ A3/2 B D D3/2 G/|[V:2]z/ (D,/G,/B,/) z/ (D,/G,/B,/) z/ (D,/F,/A,/) z/ (D,/G,/B,/)|[V:3](G,,A,,B,,D, ^F,,D,G,,B,,)|[V:4]x8|[V:5]x8|
+[V:1]E3/2 D/ C F _E3/2 D/ C G|[V:2][K:treble] z/ (E,/G,/C/) z/ (_E,/A,/C/) z/ (D,/^F,/C/) z/ (_E,/G,/C/)|[V:3](C,B,,A,,^F,, G,,A,,B,,_E,)|[V:4]x8|[V:5][K:treble] x8|
+[V:1]B3/2 B/ c3/2 c/ A2 z/ A/ =B/ c/|[V:2]z/ (D,/G,/B,/) z/ (E,/G,/C/) z/ (^F,/A,/C/) z/ (^F,/A,/_E/|[V:3]B,,2 A,,C, (F,,G,,A,,) (D,/_E,/)|[V:4]x8|[V:5]x8|
+[V:1]d3/2 c/ B d d3/2 G/ G A/ B/|[V:2]z/ (^F,/A,/D/) z/ (F,/A,/D/) z/ (_E,/G,/C/) z/ (_E,/G,/B,/)|[V:3](^F,,>G,,A,,B,, _E,,G,,B,,_E,)|[V:4]x8|[V:5]x8|
+[V:1]c3/2 c/ B A B2 z2|[V:2]z/ (D,/^F,/A,/) z/ (D,/G,/A,/) z/ (G,/B,/D/) z/ (G,/B,/D/)|[V:3]D,2 G,,B,, (^F,,G,,B,,D,)|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2][C,_E,G,C]2 ([F,B,D]2 [=E,G,C]2 [D,G,B,]2)|[V:3][C,,C,]2 ([B,,,B,,]2 [C,,C,]2 E,,2)|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2][C,F,A,]4 !fermata![C,F,A,C]3[K:treble]!p! [D,D]|[V:3][F,,A,,]3 z !fermata!F,,3 D,,|[V:4]x8|[V:5]x7[K:treble] x|
+[V:1]z8|[V:2][E,G,B,E]4 [D,G,B,D]3 [E,G,B,C]|[V:3]z2 C,,2 G,,2 C,,2|[V:4]C,,4 z4|[V:5]x8|
+[V:1]z4 z2 F2|[V:2][K:bass] [C,F,A,]6[K:treble]!mf! !arpeggio![DFBd]2|[V:3][F,,C,]6 [B,,F,]2|[V:4]x8|[V:5][K:bass] x2[K:treble] x6|
+[V:1]G2 A3/2 A/ B3 F|[V:2]!arpeggio![CEGc]4 !arpeggigio![DFBd]4|[V:3][B,,B,]4 [B,,B,]4|[V:4]x8|[V:5]x8|
+[V:1]G3/2 A/ A2 B2 B2|[V:2]!arpeggio![C_EGc]4 !arpeggio![DFBd]4|[V:3][B,,B,]4 [B,,B,]4|[V:4]x8|[V:5]x8|
+[V:1]!<(! d2 c3/2 B/ d2 f2|[V:2]!<(! !arpeggio![C_EGc]4 [DFBd]4|[V:3][A,,A,]4 [B,,B,]4|[V:4]x8|[V:5]x8|
+[V:1]_e2!<)!!>(! d2 !breath!c3!>)! c|[V:2][C_EGc]2 [DFBd]2 !breath![CFAc]2 !breath![A,CEA]2!8va)!|[V:3][A,,A,]2 [G,,G,]2 !breath![F,,F,]2 !breath![^F,,^F,]2|[V:4]x8|[V:5]x8!8vb)!|
+[V:1]!p! B3 A A2 G2|[V:2]!p! z2 [G,DG]2 z2 [G,CE]2|[V:3][B,,,B,,]2 z2 [C,,C,]2 z2|[V:4]x8|[V:5]x8|
+[V:1]F3 E (G2 F) C|[V:2]z2 [A,CF]2 z2 [G,CF]2|[V:3][D,,D,]2 z2 [_E,,_E,]2 z2|[V:4]x8|[V:5]x8|
+[V:1]B3 B A2 A2|[V:2]z2 [F,B,F]2 z2 [^F,CD^F]2|[V:3][D,,D,]2 z2 [A,,,A,,]2 z2|[V:4]x8|[V:5]x8|
+[V:1](A4 !breath!G2)"^diemmer" d2|[V:2]!breath!!fermata![G,B,DG]2 !arpeggio![G,B,DG]2 !arpeggio!!fermata![DEBd]4|[V:3][G,,,G,,]2 !breath![G,,G,]2 !fermata![C,,C,]4|[V:4]x8|[V:5]x8|
+[V:1]c2 A2 G2 A2|[V:2]z2 [CFA]2 z2 [B,EG]2|[V:3][F,,F,]2 z2 [C,,C,]2 z2|[V:4]x8|[V:5]x8|
+[V:1]!>(! G3 F E2 F2!>)!|[V:2]!>(! z2 [A,CF]2 z2 [F,_CF]2!>)!|[V:3][F,,F,]2 z2 [_A,,,_A,,]2 z2|[V:4]x8|[V:5]x8|
+[V:1]G2 c2 A2 F2|[V:2]z2 [G,CE]2 z2 [F,A,C]2|[V:3][G,,,G,,]2 z2 [C,,C,]2 z2|[V:4]x8|[V:5]x8|
+[V:1](C2 E2) !breath!F2 z"^molto rall."[Q:1/4=90] D|[V:2]z2 [E,B,C]2 !arpeggio!!ferpeggio![F,A,F]3"_Morendo"!mf! D|[V:3][G,,,G,,]2 [C,,C,]2 !breata![F,,C,]3 D,|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2][E,G,B,E]4 [D,E,G,B,D]3 [E,G,B,C]|[V:3]z2 C,,2 G,,2 C,,2|[V:4]C,,4 z4|[V:5]x8|
+[V:1][Q:1/4=92] z4 z2 F2||[V:2][K:bass] [C,F,A,]6!mf! !arpeggio![D,F,B,D]2||[V:3][F,,C,]6 [B,,F,]2||[V:4]x8||[V:5][K:bass] x8||
+[V:1][K:F] G2 A3/2 A/ B3 F|[V:2][K:F] !arpeggio![C,E,G,C]4 !arpeggio![D,F,B,D]4|[V:3][K:F] [B,,,B,,]4 [B,,,B,,]4|[V:4][K:F] x8|[V:5][K:F] x8|
+[V:1]G3/2 A/ A2 B2 B2|[V:2]!arpeggio![C,_E,G,C]4 !arpeggio![D,F,B,D]4|[V:3][B,,,B,,]4 [B,,,B,,]4|[V:4]x8|[V:5]x8|
+[V:1]!<(! d2 c3/2 B/ d2 f2|[V:2]!<(! !arpeggio![C,_E,G,C]4 !arpeggio![D,F,B,D]4|[V:3][A,,,A,,]4 [B,,,B,,]4|[V:4]x8|[V:5]x8|
+[V:1]_e2 d2 !breath!c3 c'|[V:2][_E,G,C_E]2[K:treble] [B,DFB]2 !breath![CFAc]4|[V:3][A,,,A,,]2 [G,,,G,,]2 !bremata![F,,,F,,]4|[V:4]x8|[V:5]x2[K:treble] x6|
+[V:1]!f! b3!<)! a g3/2 f/|[V:2]z2 [DGBd]2 z2 [EGc]2|[V:3][G,,,G,,]2 z2 [A,,,A,,]2 z2|[V:4]x8|[V:5]x8|

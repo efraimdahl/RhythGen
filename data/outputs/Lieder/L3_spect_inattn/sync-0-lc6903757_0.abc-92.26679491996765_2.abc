@@ -1,0 +1,137 @@
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:3/4=76
+M:3/4
+K:F
+V:1 treble nm="Chant\nVoice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+[V:1]"^Presto espressivo" z6|[V:2]!f! z2 (3[Acfa][Acfa][Acfa] (3[Acfa][Acfa][Acfa]|[V:3]!ped! (F,,2 [A,CF]2 [A,CF]2)!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2]z2 (3[Bceb][Bceb][Bceb] (3[Bceb][Bceb][Bceb]|[V:3]!ped! (C,2 [CEB]2 [CEB]2)!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2]z2 (3[Acfa][Acfa][Acfa] (3[Acfa][Acfa][Acfa]|[V:3]!ped! (F,,2 [A,CF]2 [A,CF]2)!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2]z2 (3[Bceb][Bceb][Bceb] (3[Bceb][Bceb][Bceb]|[V:3]!ped! (C,2 [CEB]2 [CEB]2)!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2](!>![Acfa]2 [FAcf]2 [CFAc]2)|[V:3]!ped! !>![F,,C,F,]6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2](!>![Acfa]2 [FAcf]2 [CFAc]2)|[V:3]!ped! !>![F,,C,F,]6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2](!>![Acfa]2 [FAcf]2 [CFAc]2)|[V:3]!ped! !>![F,,C,F,]6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2]!>(! (!>![Acfa]2 [FAcf]2 [CFAc]2)!>)!|[V:3]!ped! !>![F,,C,F,]6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2]!mp! (!>![Acfa]2 (3[FAcf]fc [CFAc]2)|[V:3]!ped! !>![F,,C,F,]6-|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2](!>![Acfa]2 (3[FAcf]fc [CFAc]2)|[V:3][F,,C,F,]6-!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2](!>![Acfa]2 (3[FAcf]fc [CFAc]2)|[V:3][F,,C,F,]6|[V:4]x6|[V:5]x6|
+[V:1]z4 c2|[V:2](!>![Acfa]2 (3[FAcf]fc [CFAc]2)|[V:3]!ped! z6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]A4 A2|[V:2]!p! (!>![Acfa]2 (3[FAcf]cA [CFAc]2)|[V:3]!ped! F,,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]B4 B2|[V:2](!>![Bcegb]2 (3[GBceg]ec [Bcegb]2)|[V:3]!ped! C,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]c6-|[V:2](!>![Acfa]2 (3[FAcf]cA [CFAc]2)|[V:3]!ped! F,,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]c4 c2|[V:2](!>![Acfa]2 (3[FAcf]cA [CFAc]2)|[V:3]!ped! C,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]A4 A2|[V:2](!>![Acfa]2 (3[FAcf]cA [CFAc]2)|[V:3]!ped! F,,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]B4 B2|[V:2](!>![Bcegb]2 (3[GBceg]ec [Bcegb]2)|[V:3]!ped! C,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]c6-|[V:2](!>![Acfa]2 (3[FAcf]cA [CFAc]2)|[V:3]!ped! F,,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]c2 z2 c2|[V:2](!>![Acfa]2 (3[FAcf]cA [CFAc]2)|[V:3]!ped! C,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]!<(! f4 f2|[V:2](3([c_efa]2 [FAef]2 [FAef]2 [FAef]2)|[V:3]!ped! F,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]f4 f2!<)!|[V:2](3([cdfa]2 [Bdfb]2 [Bdfb]2 [Bdfb]2)|[V:3]!ped! B,,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1](d4 f2)|[V:2](3([dfbd']2 [Bdfb]2 [Bdfb]2 [Bdfb]2)|[V:3]!ped! D,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]d4 d2|[V:2](3([dfbd']2 [Bdfb]2 [Bdfb]2 [Bdfb]2)|[V:3]!ped! B,,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]c4 c2|[V:2](!>![Acfa]2 (3[FAcf]cA [CFAc]2)|[V:3]!ped! F,,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]B4 c2|[V:2](!>![Bcegb]2 (3[GBceg]ec [Bcegb]2)|[V:3]!ped! C,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]A6-|[V:2](!>![Acfa]2 (3[FAcf]cA [CFAc]2)|[V:3]!ped! F,,6-|[V:4]x6|[V:5]x6|
+[V:1]A2 z2 c2|[V:2](!>![Acfa]2 (3[FAcf]cA [CFAc]2)|[V:3]F,,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]f4 f2|[V:2](3([c_efa]2 [FAef]2 [FAef]2 [FAef]2)|[V:3]!ped! F,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]f4 f2|[V:2](3([cdfa]2 [Bdfb]2 [Bdfb]2 [Bdfb]2)|[V:3]!ped! B,,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1](d4 f2)|[V:2](3([dfbd']2 [Bdfb]2 [Bdfb]2 [Bdfb]2)|[V:3]!ped! D,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]d4 d2|[V:2](3([dfbd']2 [Bdfb]2 [Bdfb]2 [Bdfb]2)|[V:3]!ped! B,,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]c4 c2|[V:2](!>![Acfa]2 (3[FAcf]cA [CFAc]2)|[V:3]!ped! F,,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]B4 c2|[V:2](!>![Bcegb]2 (3[GBceg]ec [Bcegb]2)|[V:3]!ped! C,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]A6-|[V:2](!>![Acfa]2 (3[FAcf]cA [CFAc]2)|[V:3]!ped! F,,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]A2 z2 z2|[V:2](!>![Acfa]2 (3[FAcf]cA [CFAc]2)|[V:3]!ped! C,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2](!>![Acfa]2 (3[FAcf]cA [CFAc]2)|[V:3]!ped! F,,6-!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2](!>![Acfa]2 (3[FAcf]cA [CFAc]2)|[V:3]!ped! F,,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2](!>![Acfa]2 (3[FAcf]cA [CFAc]2)|[V:3]!ped! C,6-|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2](!>![Acfa]2 (3[FAcf]cA [CFAc]2)|[V:3]C,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2](!>![Acfa]2 (3[FAcf]cA [CFAc]2)|[V:3]!ped! F,,6-|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2](!>![Acfa]2 (3[FAcf]cA [CFAc]2)|[V:3]F,,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2](!>![Acfa]2 (3[FAcf]cA [CFAc]2)|[V:3]!ped! C,6-|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2](!>![Acfa]2 (3[FAcf]cA [CFAc]2)|[V:3]C,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]!ped! !>![C,,C,]6-|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3][C,,C,]6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]!ped! !>![G,,,G,,]6-|[V:4]x6|[V:5]x6|
+[V:1]z2 z2 G2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3][G,,,G,,]6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]e4 e2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]!ped! !>!C,,6-|[V:4]x6|[V:5]x6|
+[V:1]e4 d2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]C,,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1](c6|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]!ped! !>!G,,6-|[V:4]x6|[V:5]x6|
+[V:1]=B4) G2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]G,,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]=B4 B2|[V:2](!>![dfg=b]2 (3[=Bdfg]fd [Bdfg]2)|[V:3]!ped! D,6-|[V:4]x6|[V:5]x6|
+[V:1]d4 f2|[V:2](!>![dfg=b]2 (3[=Bdfg]fd [Bdfg]2)|[V:3]D,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]e6-|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]!ped! G,,6-|[V:4]x6|[V:5]x6|
+[V:1]e2 z2 c2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]G,,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]d4 d2|[V:2](!>![dfg=b]2 (3[=Bdfg]fd [Bdfg]2)|[V:3]!ped! D,6-|[V:4]x6|[V:5]x6|
+[V:1]d4 d2|[V:2](!>![dfg=b]2 (3[=Bdfg]fd [Bdfg]2)|[V:3]D,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1](d4 c2)|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]!ped! G,,6-|[V:4]x6|[V:5]x6|
+[V:1]=B4 c2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]G,,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1](d4 c2)|[V:2](!>![dfg=b]2 (3[=Bdfg]fd [Bdfg]2)|[V:3]!ped! D,6-|[V:4]x6|[V:5]x6|
+[V:1]=B4 d2|[V:2](!>![dfg=b]2 (3[=Bdfg]fd [Bdfg]2)|[V:3]D,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]c6-|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]!ped! G,,6-|[V:4]x6|[V:5]x6|
+[V:1]c2 z2 G2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]G,,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]e4 e2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]!ped! C,,6-|[V:4]x6|[V:5]x6|
+[V:1]e4 d2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]C,,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1](c6|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]!ped! !>!G,,6-|[V:4]x6|[V:5]x6|
+[V:1]=B4) G2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]G,,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]=B4 B2|[V:2](!>![dfg=b]2 (3[=Bdfg]fd [Bdfg]2)|[V:3]!ped! D,6-|[V:4]x6|[V:5]x6|
+[V:1]d4 f2|[V:2](!>![dfg=b]2 (3[=Bdfg]fd [Bdfg]2)|[V:3]D,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]e6-|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]!ped! G,,6-|[V:4]x6|[V:5]x6|
+[V:1]e2 z2 e2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]G,,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]d4 d2|[V:2](!>![cegc']2 (3[Acea]ec [Acea]2)|[V:3]!ped! A,,6-|[V:4]x6|[V:5]x6|
+[V:1]c4 =B2|[V:2](!>![egc'e']2 (3[ceac']ae [ceac']2)|[V:3]A,,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]A4 =B2|[V:2](!>![cfac']2 (3[Acfa]fc [Acfa]2)|[V:3]!ped! C,6-|[V:4]x6|[V:5]x6|
+[V:1]c4 e2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]C,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]d4 c2|[V:2](!>![cegc']2 (3[Gceg]ec [Gceg]2)|[V:3]!ped! G,,6-|[V:4]x6|[V:5]x6|
+[V:1]=B4 d2|[V:2](!>![dfg=b]2 (3[=Bdfg]fd [Bdfg]2)|[V:3]G,,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]c6-|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]!ped! C,6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]c2 z2 z2|[V:2](!>![cf_ac']2 (3[_Acfa]fc [Acfa]2)|[V:3]!ped! [F,,C,F,]6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]!ped! C,,2 z2 z2|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]z2 z2 z2!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]!ped! G,,2 z2 z2|[V:4]x6|[V:5]x6|
+[V:1]z2 z2 G2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]z6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]e4 e2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]!ped! C,,2 z2 z2|[V:4]x6|[V:5]x6|
+[V:1]e4 d2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]z2 z2 z2!ped-up!|[V:4]x6|[V:5]x6|
+[V:1](c6|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]!ped! G,,2 z2 z2|[V:4]x6|[V:5]x6|
+[V:1]=B4) G2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]z6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]=B4 B2|[V:2](!>![dfg=b]2 (3[=Bdfg]fd [Bdfg]2)|[V:3]!ped! D,2 z2 z2|[V:4]x6|[V:5]x6|
+[V:1]d4 f2|[V:2](!>![dfg=b]2 (3[=Bdfg]fd [Bdfg]2)|[V:3]z6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]e6-|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]!ped! G,,2 z2 z2|[V:4]x6|[V:5]x6|
+[V:1]e2 z2 c2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]z6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]d4 d2|[V:2](!>![dfg=b]2 (3[=Bdfg]fd [Bdfg]2)|[V:3]!ped! D,2 z2 z2|[V:4]x6|[V:5]x6|
+[V:1]d4 d2|[V:2](!>![dfg=b]2 (3[=Bdfg]fd [Bdfg]2)|[V:3]z6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1](d4 c2)|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]!ped! G,,2 z2 z2|[V:4]x6|[V:5]x6|
+[V:1]=B4 c2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]z6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1](d4 c2)|[V:2](!>![dfg=b]2 (3[=Bdfg]fd [Bdfg]2)|[V:3]!ped! D,2 z2 z2|[V:4]x6|[V:5]x6|
+[V:1]=B4 d2|[V:2](!>![dfg=b]2 (3[=Bdfg]fd [Bdfg]2)|[V:3]z6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]c6-|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]!ped! G,,2 z2 z2|[V:4]x6|[V:5]x6|
+[V:1]c2 z2 G2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]z6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]e4 e2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]!ped! C,,2 z2 z2|[V:4]x6|[V:5]x6|
+[V:1]e4 d2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]z2 z2 z2!ped-up!|[V:4]x6|[V:5]x6|
+[V:1](c6|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]!ped! G,,2 z2 z2|[V:4]x6|[V:5]x6|
+[V:1]=B4) G2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]z6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]=B4 B2|[V:2](!>![dfg=b]2 (3[=Bdfg]fd [Bdfg]2)|[V:3]!ped! D,2 z2 z2|[V:4]x6|[V:5]x6|
+[V:1]d4 f2|[V:2](!>![dfg=b]2 (3[=Bdfg]fd [Bdfg]2)|[V:3]z6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]e6-|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]!ped! G,,2 z2 z2|[V:4]x6|[V:5]x6|
+[V:1]e2 z2 e2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]z6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]d4 d2|[V:2](!>![cegc']2 (3[Acea]ec [Acea]2)|[V:3]!ped! A,,2 z2 z2|[V:4]x6|[V:5]x6|
+[V:1]c4 =B2|[V:2](!>![egc'e']2 (3[ceac']ae [ceac']2)|[V:3]z2 z2 z2!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]A4 =B2|[V:2](!>![cfac']2 (3[Acfa]fc [Acfa]2)|[V:3]!ped! C,2 z2 z2|[V:4]x6|[V:5]x6|
+[V:1]c4 e2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]z6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]d4 c2|[V:2](!>![cegc']2 (3[Gceg]ec [Gceg]2)|[V:3]!ped! G,,2 z2 z2|[V:4]x6|[V:5]x6|
+[V:1]=B4 d2|[V:2](!>![dfg=b]2 (3[=Bdfg]fd [Bdfg]2)|[V:3]z6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]c6-|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]!ped! C,2 z2 z2|[V:4]x6|[V:5]x6|
+[V:1]c2 z2 z2|[V:2](!>![cf_ac']2 (3[_Acfa]fc [Acfa]2)|[V:3]!ped! [F,,C,F,]6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]!ped! C,,2 z2 z2|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]z2 z2 z2!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]!ped! G,,2 z2 z2|[V:4]x6|[V:5]x6|
+[V:1]z2 z2 G2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]z6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]e4 e2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]!ped! C,,2 z2 z2|[V:4]x6|[V:5]x6|
+[V:1]e4 d2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]z2 z2 z2!ped-up!|[V:4]x6|[V:5]x6|
+[V:1](c6|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]!ped! G,,2 z2 z2|[V:4]x6|[V:5]x6|
+[V:1]=B4) G2|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]z6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]=B4 B2|[V:2](!>![dfg=b]2 (3[=Bdfg]fd [Bdfg]2)|[V:3]!ped! D,2 z2 z2|[V:4]x6|[V:5]x6|
+[V:1]d4 f2|[V:2](!>![dfg=b]2 (3[=Bdfg]fd [Bdfg]2)|[V:3]z6!ped-up!|[V:4]x6|[V:5]x6|
+[V:1]e6-|[V:2](!>![cegc']2 (3[Gceg]ec [EGce]2)|[V:3]!ped! G,,2 z2 z2|[V:4]x6|[V:5]x6|

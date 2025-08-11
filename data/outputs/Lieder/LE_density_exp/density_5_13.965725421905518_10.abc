@@ -1,0 +1,29 @@
+%%score ( 1 2 ) { ( 3 4 ) | ( 5 6 ) }
+L:1/8
+Q:1/4=92
+M:6/8
+K:E
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:4 treble 
+V:5 bass 
+V:6 bass 
+[V:1]"^Lento"!p! B|:[V:2]%distance=5[r:0/17]x1|:[V:3]%distance=5[r:0/17]z1|:[V:4]%distance=5[r:0/17]x1|:[V:5]%distance=5[r:0/17]z1|:[V:6]%distance=5[r:0/17]x1|:
+[V:1]G2 B e2 G|[V:2]x6|[V:3][EG]2 [EG] [EG]2 [EG]|[V:4][I:staff +1] B,2 B, B,2 B,|[V:5]E,2 E, E,2 E,|[V:6]E,,2 z E,,2 z|
+[V:1]F3 F2 F|[V:2]x6|[V:3][DA]3 [DA]2 [DA]|[V:4]B,3 B,2 B,|[V:5]B,,3 B,,2 B,,|[V:6]B,,,2 z B,,,2 z|
+[V:1]G2 A B2 e|[V:2]x6|[V:3][EG]2 [EA] [EB]2 [EBe]|[V:4]B,2[I:staff -1] x4|[V:5]E,2 [E,F,] [E,G,]2 [G,B,]|[V:6]E,,2 F,, G,,2 z|
+[V:1]d3 c2 B|[V:2]x6|[V:3][DBd]3 [EAc]2 [EGB]|[V:4]x6|[V:5][A,B,]3 [A,,A,]2 [B,,B,]|[V:6]B,,3 z2 z|
+[V:1]e2 c B2 c|[V:2]x6|[V:3][EAe]2 [Ec] [EB]2 [Ec]|[V:4]x6|[V:5][C,C]2 [A,,A,] [G,,G,]2 [A,,A,]|[V:6]C,2 A,, G,,2 A,,|
+[V:1]B2 A G2 B|[V:2]x6|[V:3][DB]2 [DA] [EG]2 [GB]|[V:4]x6|[V:5][B,,B,]2 [B,,B,] [E,B,]2 [E,E]|[V:6]B,,2 B,, E,2 z|
+[V:1]c2 A F2 B|[V:2]x6|[V:3][Ac]2 [EA] [DF]2 [DB]|[V:4]x6|[V:5][A,E]2 [A,C] B,2 [B,,A,]|[V:6]x3 B,2 z|
+[V:1]E3- E z!p! E|[V:2]x6|[V:3]E3- E z!p! E|[V:4]x6|[V:5][E,G,]3- [E,G,] z z|[V:6]x6|
+[V:1]F2 G F2 E|[V:2]x6|[V:3][DF]2 [EG] [DF]2 [B,E]|[V:4]x6|[V:5]B,2 B, B,2 G,|[V:6]B,,2 B,, B,,2 B,,|
+[V:1]D3 F2 F|[V:2]x6|[V:3][B,D]3 [DF]2 [DF]|[V:4]x6|[V:5]F,3 B,2 B,|[V:6]B,,3 B,,2 B,,|
+[V:1]G2 ^A B2 G|[V:2]x6|[V:3][EG]2 [E^A] [EB]2 [EG]|[V:4]x6|[V:5]B,2 [F,B,] [G,B,]2 [E,B,]|[V:6]B,,2 z z2 z|
+[V:1]F3- F2!f! F|[V:2]x6|[V:3][DF]3- [DF]2!f! F|[V:4]x6|[V:5][B,,B,]3- [B,,B,]2 z|[V:6]x6|
+[V:1]B2 c d2 B|[V:2]x6|[V:3]B2 c d2 [AB]|[V:4]x6|[V:5]B,2 C D2 z|[V:6]B,,2 C, D,2 z|
+[V:1]e2 d c2 e|[V:2]x6|[V:3]e2 [Ad] [Ec]2 [Ee]|[V:4]B2 x4|[V:5][G,E]2 [F,A,] [E,A,]2 [C,C]|[V:6]G,2 F, E,2 C,|
+[V:1]f2 d B2 e|1[V:2]x6|1[V:3][Bf]2 [Fd] B2 [Ge]|1[V:4]x6|1[V:5][D,B,]2 [F,B,] [G,B,]2 [E,B,]|1[V:6]D,2 F, G,2 E,|1
+[V:1](d3 e2)!p! B:|2[V:2]x6:|2[V:3](d3 e2)!p! [GB]:|2[V:4]x6:|2[V:5]([A,B,-]3 [E,B,]2) z:|2[V:6](B,,3 E,2) x:|2
+[V:1](d3 e2) z|][V:2]x6|][V:3](d3 e2) z|][V:4]x6|][V:5]([A,B,-]3 [E,B,]2) z|][V:6](B,,3 E,2) x|]

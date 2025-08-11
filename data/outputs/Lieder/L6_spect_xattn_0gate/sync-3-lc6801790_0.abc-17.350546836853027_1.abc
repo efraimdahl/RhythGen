@@ -1,0 +1,36 @@
+%%score ( 1 2 ) { ( 3 5 ) | ( 4 6 ) }
+L:1/8
+Q:1/4=63
+M:2/4
+K:Db
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:5 treble 
+V:4 bass 
+V:6 bass 
+[V:1]"^Langsam" F|[V:2]x1|[V:3]!p! F|[V:4]z1|[V:5]x1|[V:6]x1|
+[V:1]B3/2 c/ d e|[V:2]x4|[V:3][FB]>c [FBd][Bce]|[V:4][B,D]>[B,E] [B,D][B,G]|[V:5]x4|[V:6]x4|
+[V:1]f c z c|[V:2]x4|[V:3][=Acf][Ac] z [Fc]|[V:4][F,F][F,E] z [F,E]|[V:5]x4|[V:6]x4|
+[V:1]e3/2 d/ c d|[V:2]x4|[V:3][FBe]>[FBd] [F=Ac][FBd]|[V:4][F,D]>[F,C] [F,B,][F,B,]|[V:5]x4|[V:6]x4|
+[V:1]B2 z B|[V:2]x4|[V:3][DFB]2 z [FB]|[V:4][B,,B,]2 z [D,B,]|[V:5]x4|[V:6]x4|
+[V:1]B3/2 A/ G E|[V:2]x4|[V:3][EB]>[EA] [EG]E|[V:4][C,G,]>[C,A,] [C,A,][C,A,]|[V:5]x4|[V:6]x4|
+[V:1]G3/2 F/ z B|[V:2]x4|[V:3][DG]>[DF] z [DFB]|[V:4][D,A,]>[D,A,] z [D,F,]|[V:5]x4|[V:6]x4|
+[V:1]=A3/2 A/ c A|[V:2]x4|[V:3][CE=A]>[CEA] [Ec][EA]|[V:4][F,,F,]>[F,,F,] [F,=A,][F,C]|[V:5]x4|[V:6]x4|
+[V:1]B2 z B|[V:2]x4|[V:3][DFB]2 z [=DFB]|[V:4][B,,B,]2 z [A,,A,]|[V:5]x4|[V:6]x4|
+[V:1]B3/2 B/ c =d|[V:2]x4|[V:3][=DB]>[DB] [Ec][FA=d]|[V:4][A,,A,]>[A,B,] [G,B,][F,B,]|[V:5]x4|[V:6]x4|
+[V:1]f e z e|[V:2]x4|[V:3][EBf][EBe] z [EBe]|[V:4][E,B,][D,=G,] z [D,G,]|[V:5]x4|[V:6]x4|
+[V:1]e c f3/2 e/|[V:2]x4|[V:3][EAe][E=Gc] [GBf]>[Gce]|[V:4][C,A,][C,A,] [C,C]>[C,C]|[V:5]x4|[V:6]x4|
+[V:1]c2 z A|[V:2]x4|[V:3][=Gc]2 z [EA]|[V:4][C,C]2 z [C,A,]|[V:5]x4|[V:6]x4|
+[V:1]B3/2 B/ c d|[V:2]x4|[V:3][_FB]>[FB] [=Fc][FBd]|[V:4][D,A,]>[D,=G,] [D,A,][D,G,]|[V:5]x4|[V:6]x4|
+[V:1](_f2{gf} e) d|[V:2]x4|[V:3][Gd_f]2 [Gce][GBd]|[V:4][B,,G,]2 [C,G,][D,_F,]|[V:5]x4|[V:6]x4|
+[V:1]c3/2 e/ c =A|[V:2]x4|[V:3][GBc]>[Gce] [GBc][G=A]|[V:4][E,E]>[E,E] [E,C][E,C]|[V:5]x4|[V:6]x4|
+[V:1]B2 z!p! d|[V:2]x4|[V:3][FB]2 z!p! [GBd]|[V:4][B,D]2 z2|[V:5]x4|[V:6]x4|
+[V:1]d3/2 A/ A A|[V:2]x4|[V:3][FAd]>[FA] [FA][FA]|[V:4]z2 z [D,D]|[V:5]x4|[V:6]x4|
+[V:1]__B3 B|[V:2]__B3 B|[V:3][G__B]>[GB] [GB][GB]|[V:4][D,D]>[D,D] [D,D][D,D]|[V:5]_f4|[V:6]_F4|
+[V:1]A3/2 A/ _c _f|[V:2]A3/2 A/ _c _f|[V:3][A_f]>[Af] [Af][_cf]|[V:4][_F,_C]>[F,C] [F,C][A,_F]|[V:5]x4|[V:6]x4|
+[V:1]e2 z e|[V:2]x4|[V:3][G_ce]2 z [Gce]|[V:4]_C2 z2|[V:5]x4|[V:6]x4|
+[V:1]e3/2 __e/ e e|[V:2]_c3/2 __e/ e e|[V:3][G_c__e]>[ce] [ce][ce]|[V:4]z3/2 G/ GG|[V:5]x4|[V:6]x4|
+[V:1]__e2 d z|[V:2]x4|[V:3][_c__e]2 [__Bd] z|[V:4][_F__A]2 [__B,F] z|[V:5]x4|[V:6]x4|
+[V:1]_c3/2 c/ A c|[V:2]_c3/2 c/ A c|[V:3][A_c]>[Ac] A[EAc]|[V:4][_F,_F]>[F,F] [F,F][_CE]|[V:5]x4|[V:6]x4|
+[V:1]_c2 z:|[V:2]x3:|[V:3][EG_c]2 z:|[V:4]_C2 z:|[V:5]x3:|[V:6]x3:|

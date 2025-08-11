@@ -1,0 +1,36 @@
+%syncopation 1 1 1 1 1 1 1 6 1 2 2 2 1 2 1 2 1 2 2 2 1 2 2 2 1 1 1 1 1 1 1 6 6 1 2 2 2 1 2 2 2 6 1 2 2 2 1 2 2 2 6 1 2 2 2 1 2 2 3
+%%score { 1 ( 2 3 ) }
+L:1/8
+Q:1/4=100
+M:2/4
+K:A
+V:1 treble nm="Voice"
+V:2 treble-8 nm="Guitar"
+V:3 treble-8 
+[V:1]"^Andantino"!p! A3/2 A/ A/G/ A/ B/|[V:2]"^a tempo"!p! A,/A/E/A/ A,/E/A/E/|[V:3]x4|
+[V:1]c A A A|[V:2]A,/E/A/E/ A,/E/A/E/|[V:3]x4|
+[V:1]B B d B|[V:2]"^sim." E,/E/G/E/ E,/E/G/E/|[V:3]x4|
+[V:1]c2 z2|[V:2]A,/E/A/E/ A,/E/A/E/|[V:3]x4|
+[V:1]!mf! A3/2 A/ A/G/ A/ B/|[V:2]!mf! A,/E/A/E/ A,/E/A/E/|[V:3]x4|
+[V:1]!>(! c A A c!>)!|[V:2]!>(! A,/E/A/E/ A,/E/A/E/!>)!|[V:3]x4|
+[V:1]d2 G2||[V:2][E,Gde]2 z2!>)!||[V:3]x4||
+[V:1]SSS[Q:1/4=100]!p! A3/2 A/ A/G/ A/ B/|[V:2]"^a Tempo"!mp! A,/E/A/E/ A,/E/A/E/|[V:3]x4|
+[V:1](c/B/) B3|:[V:2]z !arpegguto![E,Gde]!arpeggio![E,EGd]!arpeggio![E,EGd]|:[V:3]x4|:
+[V:1][Q:1/4=120] z!<(! e f g!<)!|:[V:2]"^a Tempolo" z!<(! EFG|:[V:3]xEFG|:
+[V:1][Q:1/4=108]!mf! (b2 a2)||[V:2][Bdg]2 [A,ca]2!<)!||[V:3]x4||
+[V:1][Q:1/4=100]!p! A3/2 A/ A/ G/ A/ B/|[V:2]"^a tempo"!mp! A,/E/A/E/ A,/E/A/E/|[V:3]x4|
+[V:1](c/B/) B3|[V:2]z !arpeggio![E,Gde]!arpeggio![E,EGd]!arpeggio![E,EGd]|[V:3]x4|
+[V:1]A3/2 A/ B/ A/ G/ A/4g/4|[V:2]A,/E/A/E/ A,/E/A/E/|[V:3]x4|
+[V:1][Q:1/4=116] (B2 A2-|[V:2]z !arpeggio![DFAd] z !arpeggio![DFAd]|[V:3]x4|
+[V:1]b3 a|][V:2]z4|][V:3]x4|]
+[V:1][K:F]!p![Q:1/4=108] AdcB|[V:2][K:F] !arpeggio![F,Adf] z !arpeggio![F,Adf] z|[V:3][K:F] x4|
+[V:1]A c B A|[V:2]!wedge![F,Acf] z !wedge![FAcf] z|[V:3]x4|
+[V:1]GA[Q:1/4=100] d c|[V:2]!arpeggio![CGBe] z !arpeggio![F,FAf] z|[V:3]x4|
+[V:1](cB) z2:|[V:2]B,/F/d/F/ B,/F/d/F/:|[V:3]x4:|
+[V:1][Q:1/4=110] A!<(! d[Q:1/4=94] c B||[V:2]!arpeggio![F,FAd] z"_ralll." !arpeggio![F,FAd] z||[V:3]x4||
+[V:1]A!<)! c B A|[V:2]!arpeggio![F,FAcf] z !arpeggio![F,FAcf] z|[V:3]x4|
+[V:1]!<(! G A[Q:1/4=70] d c|[V:2]!<(! !arpeggio![CGBe] z !arpeggio![CEBe] z|[V:3]x4|
+[V:1]z4|1[V:2]!mp!"^ritard." C/G/c/C/ C/B/c/C/|1[V:3]x4|1
+[V:1]z4:|2[V:2]F,/F/A/F/ F,2:|2[V:3]x4:|2
+[V:1]z4||[V:2]!pp!"^ritard."[Q:1/4=96]"^ritard." C/G/c/G/!<(! C/B,/E/B,/||[V:3]x4||
+[V:1]z4:|5[V:2]F,/C/F/A/ F,2!<)!:|5[V:3]x4:|5

@@ -1,0 +1,65 @@
+%distance 5 5 4 6 5 5 5 5 5 5 5 5 4 6 5 5 5 4 5 4 4 5 4 6 5 4 5 4 5 5 4 5 5 5 4 6 5 4 4 4 4 4 4 4 4 5 5 4 6 5 5 4 6 5 4 4 4 5 4 4 4 5 4 3
+%%score 1 { ( 2 7 ) | ( 3 4 5 6 ) }
+L:1/8
+Q:1/4=168
+M:3/4
+K:D
+V:1 treble nm="Chant\nVoice"
+V:2 treble nm="Piano"
+V:7 treble 
+V:3 bass 
+V:4 bass 
+V:5 bass 
+V:6 bass 
+V:8 treble transpose=24 nm="Glockenspiel"
+V:9 treble nm="Chant\nVoice"
+V:10 treble 
+V:11 treble nm="Violin"
+V:12 treble nm="Violins 1"
+V:13 treble 
+V:14 treble 
+V:15 treble nm="Violins 2"
+V:16 treble nm="Strings"
+V:17 treble 
+V:18 treble 
+V:19 treble 
+V:20 bass 
+V:21 treble nm="Strings\nViolons"
+V:22 treble 
+V:23 treble 
+V:24 treble 
+V:25 treble nm="Strings 2"
+V:26 treble nm="Strings"
+V:27 treble 
+V:28 treble 
+V:29 treble 
+V:30 treble 
+V:31 bass transpose=-12 nm="Contrabasses"
+V:32 treble nm="Piano"
+V:37 treble 
+V:33 bass 
+V:34 bass 
+V:36 bass 
+V:38 treble nm="Flute"
+V:39 treble nm="Flute"
+V:40 treble nm="Bassoon"
+V:41 treble 
+V:42 treble 
+V:43 treble nm="Bassoon"
+V:44 treble transpose=-2 nm="Bass Clarinet"
+V:45 treble nm="Clarinet in B"
+V:46 treble transpose=-2 nm="B Clarinet"
+V:47 treble nm="Clarinet in B"
+V:48 bass nm="Bassoon"
+V:49 treble nm="Clarinet in C"
+V:50 treble nm="Clarinet in B"
+V:51 treble nm="Clarinet I in B"
+V:52 treble nm="Clarinet II in B"
+V:53 treble nm="Clarinet in B"
+V:54 treble nm="Clarinet in B"
+V:55 treble nm="Contrabassoon"
+V:56 treble nm="Bassoon"
+V:57 bass transpose=-26 nm="Contrabassoon"
+[V:1][Q:1/4=166] z6|[V:2]!8va(! [gg']2 !fermata![aa']4)!8va)!|[V:3][K:treble] !fermata![Ae]6|[V:4][K:treble] x6|[V:5][K:treble] x6|[V:6][K:treble] x6|[V:7]!8va(! x6!8va)!|[V:8]!fermata!z6|[V:9]!fermata!z6|[V:10]z6|[V:11]!fermata!z6|[V:12]!fermata!z6|[V:13]z6|[V:14]z6|[V:15]!fermata!z6|[V:16]!fermata!z6|[V:17]!fermata!z6|[V:18]!fermata!z6|[V:19]z6|[V:20]z6|[V:21]!fermata!z6|[V:22]!fermata!z6|[V:23]z6|[V:24]z6|[V:25]!fermata!z6|[V:26]!fermata!z6|[V:27]!fermata!z6|[V:28]z6|[V:29]z6|[V:30]z6|[V:31]!fermata!z6|[V:32][K:treble] !fermata!z6|[V:33]!fermata!z6|[V:34]z6|[V:36]z6|[V:37][K:treble] x6|[V:38]!fermata!z6|[V:39]!fermata!z6|[V:40]!fermata!z6|[V:41]z6|[V:42]z6|[V:43]!fermata!z6|[V:44]!fermata!z6|[V:45]!fermata!z6|[V:46]!fermata!z6|[V:47]!fermata!z6|[V:48]!fermata!z6|[V:49]!fermata!z6|[V:50]!fermata!z6|[V:51]!fermata!z6|[V:52]!fermata!z6|[V:53]!fermata!z6|[V:54]!fermata!z6|[V:55]!fermata!z6|[V:56]!fermata!z6|[V:57]!fermata!z6|
+[V:1][Q:1/4=174] z6|[V:2]!8va(! !arpeggio![d'f'd'']6-|[V:3]!arpeggio![DAdfa]6-|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]!8va(! x6|[V:8]!arpeggio![DAdad'] z z2 z2|[V:9]!arpeggio![DAdfad'] z z2 z2|[V:10]z6|[V:11]!arpeggio![DAdfad'] z z2 z2|[V:12]!arpeggio![DAdfad'] z z2 z2|[V:13]z6|[V:14]z6|[V:15]!arpeggio![DAdfad'] z z2 z2|[V:16]!arpeggio![DAdfad'] z z2 z2|[V:17]!arpeggio![DAdfad'] z z2 z2|[V:18]!arpeggio![DAdfad'] z z2 z2|[V:19]z6|[V:20]z6|[V:21]!arpeggio![DAdfad'] z z2 z2|[V:22]!arpeggio![DAdfad'] z z2 z2|[V:23]z6|[V:24]z6|[V:25]!arpeggio![DAdfad'] z z2 z2|[V:26]!arpeggio![DAdfad'] z z2 z2|[V:27]!arpeggio![DAdfad'] z z2 z2|[V:28]!arpeggio![DAdfad'] z z2 z2|[V:29]z6|[V:30]z6|[V:31]!arpeggio![D,A,Fd] z z2 z2|[V:32]!arpeggio![DFAd] z z2 z2|[V:33]!arpeggio![D,,D,] z z2 z2|[V:34]!arpeggio!x6|[V:36]!arpeggio!x6|[V:37]z6|[V:38]!arpeggio![dfad'] z z2 z2|[V:39]!arpeggio![dfad'] z z2 z2|[V:40]!arpeggio![dfad'] z z2 z2|[V:41]!arpeggio![dfad'] x x2 x2|[V:42]!arpeggio![DFAd] x x2 x2|[V:43]!arpeggio![DFAd] z z2 z2|[V:44]!arpeggio![E^GBe] z z2 z2|[V:45]!arpeggio![DFAd] z z2 z2|[V:46]!arpeggio![E^GBe] z z2 z2|[V:47]!arpeggio![DFAd] z z2 z2|[V:48]!arpeggio![D,,F,,A,,D,] z z2 z2|[V:49]!arpeggio![dfad'] z z2 z2|[V:50]!arpeggio![dfad'] z z2 z2|[V:51]!arpeggio![DFAd] z z2 z2|[V:52]!arpeggio![DFAd] z z2 z2|[V:53]!arpeggio![DFAd] z z2 z2|[V:54]!arpeggio![E^GBe] z z2 z2|[V:55]!arpeggio![E^GBe] z z2 z2|[V:56]!arpeggio![E^GBe] z z2 z2|[V:57]!arpeggio![E,,^G,,B,,E,] z z2 z2|
+[V:1]z6|][V:2][d'f'd'']!8va)! z z2 z2|][V:3][DAdfa] z z2 z2|][V:4]x6|][V:5]x6|][V:6]x6|][V:7]x!8va)! x5|][V:8][DAdad'] z z2 z2|][V:9][DAdfad'] z z2 z2|][V:10]z6|][V:11][DAdfad'] z z2 z2|][V:12][DAdfad'] z z2 z2|][V:13]z6|][V:14]z6|][V:15][DAdfad'] z z2 z2|][V:16][DAdfad'] z z2 z2|][V:17][DAdfad'] z z2 z2|][V:18][DAdfad'] z z2 z2|][V:19]z6|][V:20]z6|][V:21][DAdfad'] z z2 z2|][V:22][DFAdfad'] z z2 z2|][V:23]z6|][V:24]z6|][V:25][DAdfad'] z z2 z2|][V:26][DFAdfad'] z z2 z2|][V:27][DFAdfad'] z z2 z2|][V:28][DFAdfad'] z z2 z2|][V:29]z6|][V:30]z6|][V:31][D,A,DFd] z z2 z2|][V:32][DFAd] z z2 z2|][V:33][D,,D,] z z2 z2|][V:34][E,,,^G,,,B,,,E,,] z z2 z2|][V:36][E,,^G,,B,,E,] x x2 x2|][V:37]z6|][V:38][dfad'] z z2 z2|][V:39][dfad'] z z2 z2|][V:40][dfad'] z z2 z2|][V:41][dfad'] z z2 z2|][V:42][DFAd] x x2 x2|][V:43][DFAd] z z2 z2|][V:44][E^GBe] z z2 z2|][V:45][E^GBe] z z2 z2|][V:46][E^GBe] z z2 z2|][V:47][E^GBe] z z2 z2|][V:48][E,,^G,,B,,E,] z z2 z2|][V:49][e^gbe'] z z2 z2|][V:50][e^gbe'] z z2 z2|][V:51][E^GBe] z z2 z2|][V:52][E^GBe] z z2 z2|][V:53][E^GBe] z z2 z2|][V:54][E^GBe] z z2 z2|][V:55][E^GBe] z z2 z2|][V:56][E^GBe] z z2 z2|][V:57][E,,^G,,B,,E,] z z2 z2|]

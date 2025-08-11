@@ -1,0 +1,17 @@
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+M:2/4
+K:Bb
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+[V:1]"^Etwas langsam und a bewegt" F|:[V:2]z1|:[V:3]z1|:[V:4]x1|:
+[V:1]B B B B|[V:2]z/ F/[DB]/F/ z/ F/[DB]/F/|[V:3]B, z B, z|[V:4]x4|
+[V:1]d B B2|[V:2]z/ F/[DB]/F/ z/ F/[DB]/F/|[V:3]B, z B, z|[V:4]x4|
+[V:1]B c/ d/ e c|[V:2]z/ F/[DB]/F/ z/ E/[Fc]/E/|[V:3]B, z A, z|[V:4]x4|
+[V:1]d2 B B|[V:2]z/ [DB]/F/B/ z/ B/[DB]/F/|[V:3]B, z D, z|[V:4]x4|
+[V:1]B c/ d/ e c|[V:2]z/ B/[Fd]/F/ z/ E/[Fc]/E/|[V:3]B, z A, z|[V:4]x4|
+[V:1](f>e) d2|[V:2]z/ F/[Dd]/A/ z/ F/[_Ad]/B/|[V:3]_A, z B, z|[V:4]x4|
+[V:1]e/[Q:1/4=106] d/[Q:1/4=103] c/[Q:1/4=100] B/[Q:1/4=90] e/[Q:1/4=80] d[Q:1/4=95] c/[Q:1/4=90] B/|[V:2]!<(! z/"^ritard." F/[Bd]/!<)!B/ z/"_rit."!>(! B/[_Ad]/"_dim."z/B/!>)!!mf!|[V:3]B,, z/"^ritard." z/ D z/"^dim." _G/|[V:4]x9/2|
+[V:1]B2 z2:|[V:2]B/!pp![DF]/B/[DF]/ B2:|[V:3]B,2"^a tempo" B,/F,/D,/B,,/:|[V:4]x3/2 x/ D2:|

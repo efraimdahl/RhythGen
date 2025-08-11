@@ -1,0 +1,26 @@
+%distance 5 4 4 5 5 5 5 4 5 5 6 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 4 5 6 4 4 5 5 5 6 5 5 5 5 6
+%%score [ 1 2 3 4 ]
+L:1/8
+Q:1/4=130
+M:9/8
+K:A
+V:1 treble nm="Soprano"
+V:2 treble nm="Alto"
+V:3 treble-8 nm="Tenor"
+V:4 bass nm="Bass"
+V:5 treble nm="Soprano"
+V:6 treble nm="Alto"
+V:7 treble-8 nm="Tenor"
+V:8 bass nm="Bass"
+V:9 treble nm="Violin 1"
+V:10 treble 
+V:11 treble nm="Violin 2"
+V:12 alto nm="Viola"
+V:13 bass nm="Violoncello"
+V:14 bass transpose=-12 nm="Contrabass"
+V:15 treble nm="Organ"
+V:16 bass 
+[V:1]!>!f3 c2 z z2 z|[V:2]!>!A3 F2 z z2 z|[V:3]!>!c3 A2 z z2 z|[V:4]!>!F,3 F,2 z z2 z|[V:5]!>!f3 c2 z z2 z|[V:6]!>!A3 F2 z z2 z|[V:7]!>!c3 A2 z z2 z|[V:8]!>!F,3 F,2 z z2 z|[V:9]!/!!>!c'3 af^e fac'|[V:10]z9|[V:11]!/!!>!c'3 af^e fac'|[V:12]!/!!>!A3 cAF CFA|[V:13]F,2 z C,2 z A,,2 z|[V:14]F,2 z C,2 z A,,2 z|[V:15]!/!!>![cfc']3 AF^E FAc|[V:16]F,2 z C,2 z A,,2 z|
+[V:1]z9|[V:2]z9|[V:3]z9|[V:4]z9|[V:5]z9|[V:6]z9|[V:7]z9|[V:8]z9|[V:9]!>!d'3 fdB FBd|[V:10]z9|[V:11]!/!!>!d'3 fdB FBd|[V:12]!/!!>!B3 dBF DFB|[V:13]D,2 z B,,2 z D,2 z|[V:14]D,2 z B,,2 z D,2 z|[V:15]!/!!>![Bdf]3 FDB, F,B,D|[V:16]D,2 z B,,2 z D,2 z|
+[V:1]z9|[V:2]z9|[V:3]z9|[V:4]z9|[V:5]z9|[V:6]z9|[V:7]z9|[V:8]z9|[V:9]!>!c3- c^eg c'ge|[V:10]z9|[V:11]!/!!>!c3- c^eg c'ge|[V:12]!/!!>!G3- Gc^e gec|[V:13]!>!C,3 !>!^E,3 !>!G,3|[V:14]!>!C,3 !>!^E,3 !>!G,3|[V:15]!/!!>![^EGc-]3 c^eg c'ge|[V:16]!>!C,3 !>!^E,3 !>!G,3|
+[V:1]z9|][V:2]z9|][V:3]z9|][V:4]z9|][V:5]z9|][V:6]z9|][V:7]z9|][V:8]z9|][V:9]c3 z2 z z2 z|][V:10]z9|][V:11]c3 z2 z z2 z|][V:12]c3 z2 z z2 z|][V:13]!>!C3 z2 z z2 z|][V:14]!>!C3 z2 z z2 z|][V:15]c3 z2 z z2 z|][V:16]!>!C3 z2 z z2 z|]

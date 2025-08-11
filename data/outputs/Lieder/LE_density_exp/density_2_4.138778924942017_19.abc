@@ -1,0 +1,15 @@
+%%score ( 1 2 ) { ( 3 6 ) | ( 4 5 7 ) }
+L:1/8
+Q:1/4=71
+M:4/4
+K:Bb
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:6 treble 
+V:4 bass 
+V:5 bass 
+V:7 bass 
+[V:1]z8[Q:1/4=68]|[V:2]%distance=2[r:0/2]x8|[V:3]"^rall." z2 z ([E,-_G,C-] [E,G,C][D,F,B,]) z2|[V:4]!ped! z2 [B,,,F,,]2- [B,,,F,,]2 [B,,,F,,]2!ped-up!|[V:5]B,,,,8|[V:6]%distance=2[r:0/2]x8|[V:7]%distance=2[r:0/2]x8|
+[V:1][Q:1/4=64] z8[Q:1/4=60][Q:1/4=58]|[V:2]x8|[V:3]"_rall." z2 z ([C,-E,_G,-] [C,E,G,][B,,D,F,]-) [B,,D,F,]2-|[V:4]!ped! z2 [B,,,F,,]2- [B,,,F,,]2 [B,,,F,,]2-!ped-up!|[V:5]B,,,,8|[V:6]x8|[V:7]x8|
+[V:1][Q:1/4=56] z8|][V:2]x8|][V:3][B,,D,F,]4 !fermata![B,,D,F,]4|][V:4]!ped! [B,,,F,,]4 !fermata![B,,,F,,]4!ped-up!|][V:5]B,,,,8|][V:6]x8|][V:7]x8|]

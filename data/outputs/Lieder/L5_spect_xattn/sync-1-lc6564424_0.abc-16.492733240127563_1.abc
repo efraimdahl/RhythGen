@@ -1,0 +1,37 @@
+%%score ( 1 2 ) { ( 3 5 ) | 4 }
+L:1/8
+Q:1/4=116
+M:2/4
+K:G
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:5 treble 
+V:4 bass 
+[V:1]"^Allegretto" z4|:[V:2]x4|:[V:3]!mf! .[B,DG].[B,DG] z2|:[V:4]z2 .[G,,D,G,] z|:[V:5]x4|:
+[V:1]SSS B G A B|[V:2]x4|[V:3]!mf! .[B,DB].[B,DG].[B,DA].[B,DB]|[V:4].[G,,G,] z .D, z|[V:5]x4|
+[V:1]G3/2 E/ D D|[V:2]x4|[V:3].G>.E .D.D|[V:4].G, z .G, z|[V:5]x4|
+[V:1]G3/2 D/ B G|[V:2]x4|[V:3].G>.D .B.G|[V:4].G, z .[G,,D,G,] z|[V:5]x4|
+[V:1]A2 z2|[V:2]x4|[V:3][FA]2 z2|[V:4]z (D,^C,D,)|[V:5]x4|
+[V:1]B G A B|[V:2]x4|[V:3].[B,DB].[B,DG].[B,DA].[B,DB]|[V:4].[G,,G,] z .D, z|[V:5]x4|
+[V:1]G E D D|[V:2]x4|[V:3].G.E .D.D|[V:4].G, z .G, z|[V:5]x4|
+[V:1]G3/2 A/ B G|[V:2]x4|[V:3].G>.A .[DGB].[DG]|[V:4].[G,,D,] z .[G,,G,].[G,,G,]|[V:5][B,D]2 x2|
+[V:1]A2 z2|[V:2]x4|[V:3][DFA]2 z2|[V:4]z (D,^C,D,)|[V:5]x4|
+[V:1]B G A B|[V:2]x4|[V:3].[B,DB].[B,DG].[B,DA].[B,DB]|[V:4].[G,,G,] z .D, z|[V:5]x4|
+[V:1]G3/2 E/ D D|[V:2]x4|[V:3].G>.E .D.D|[V:4].G, z .G, z|[V:5]x4|
+[V:1]G D B G|[V:2]x4|[V:3].G.D .[DB].[DG]|[V:4].G, z .[G,,G,].[G,,G,]|[V:5]x4|
+[V:1]A2 z2|[V:2]x4|[V:3][FA]2 z2|[V:4]z (D,^C,D,)|[V:5]x4|
+[V:1]B B c B|[V:2]x4|[V:3].[DB].[DB] .[Ec].[DB]|[V:4].G, z .G, z|[V:5]x4|
+[V:1](Ac) B A|[V:2]x4|[V:3].[CA].[Ec] .[DB].[CA]|[V:4].C, z .C, z|[V:5]x4|
+[V:1]G B A F|[V:2]x4|[V:3].[B,G].[DB] .[CA].[CF]|[V:4].D, z .D, z|[V:5]x4|
+[V:1]G2 z2!fine!||[V:2]x4||[V:3].[B,DG] z z2||[V:4].[G,,G,] z !fermata!z2||[V:5]x4||
+[V:1]"^Page 1" A A A A|[V:2]x4|[V:3][CFA][CFA][CFA][CFA]|[V:4]D,D,D,D,|[V:5]x4|
+[V:1]B2 z2|[V:2]x4|[V:3][DGB][DGB][DGB][DGB]|[V:4]D,D,D,D,|[V:5]x4|
+[V:1]c c B B|[V:2]x4|[V:3][EGc][EGc][DGB][DGB]|[V:4]D,D,D,D,|[V:5]x4|
+[V:1]A2 z2|[V:2]x4|[V:3][FA]2 z2|[V:4]z (D,^C,D,)|[V:5]x4|
+[V:1]B B A G|[V:2]x4|[V:3].[DB].[DB].[DA].[DG]|[V:4].G,.G,.F,.G,|[V:5]x4|
+[V:1](Ac) B A|[V:2]x4|[V:3].[CA].[Ec] .[DB].[CA]|[V:4].C,.C, .C,.C,|[V:5]x4|
+[V:1]G B A F|[V:2]x4|[V:3].[B,G].[DB] .[CA].[CF]|[V:4].D,.D, .D,.D,|[V:5]x4|
+[V:1]S G2 z2:|[V:2]x4:|[V:3][B,DG]2 z2:|[V:4][G,,G,]2 z2:|[V:5]x4:|
+[V:1]"^Page 1" A A A A|[V:2]x4|[V:3][CFA][CFA][CFA][CFA]|[V:4]D,D,D,D,|[V:5]x4|
+[V:1]SSS B2 z2|][V:2]x4|][V:3][DGB][DGB][DGB][DGB]|][V:4]D,D,D,D,|][V:5]x4|]

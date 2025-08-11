@@ -1,0 +1,55 @@
+%%score [ 1 2 ] { ( 3 5 ) | ( 4 6 ) }
+L:1/8
+Q:1/4=82
+M:6/8
+K:E
+V:1 treble nm="Soprano"
+V:2 treble nm="Alto"
+V:3 treble nm="Piano"
+V:5 treble 
+V:4 bass 
+V:6 bass 
+[V:1]"^Lento grazioso" z6|[V:2]z6|[V:3]!mf! [Ge]2 [Ae] [Ae]2 [Ac]|[V:4](E,,/B,,/E,/G,/E,/G,/) (E,,/C,/E,/A,/E,/A,/)|[V:5]x6|[V:6]x6|
+[V:1]z6|[V:2]z6|[V:3]!>(! (B>c[Ad] [Ge]2)!>)! ([FB]|[V:4](E,,/B,,/D,/F,/A,/F,/) (E,,/B,,/E,/G,/E,/B,,/)|[V:5]x6|[V:6]x6|
+[V:1]z6|[V:2]z6|[V:3][Ec]>[EB][EA]) [EG]2 [CF]|[V:4](A,,/E,/A,/C/A,/E,/) (C,/G,/C/G,/A,,/F,/)|[V:5]x6|[V:6]x6|
+[V:1]z6|[V:2]z6|[V:3]!>(! [B,E]>(DC) B,2!>)! (B,|[V:4](B,,/G,/B,/G,/F,/E,/) (B,,/F,/A,/G,/F,/D,/)|[V:5]x6|[V:6]x6|
+[V:1]z6|[V:2]z6|[V:3]!<(! E>FG A2) [CA]!<)!|[V:4](E,,/B,,/E,/G,/E,/G,/) (A,,/E,/A,/C/A,/E,/)|[V:5]x6|[V:6]x6|
+[V:1]z6|[V:2]z6|[V:3]!>(! (G>AF!>)! [B,E]2)!<(! (B|[V:4](B,,/F,/A,/B,/A,/F,/) (E,,/B,,/E,/G,/E,/B,,/)|[V:5]D2 x4|[V:6]x6|
+[V:1]z6|[V:2]z6|[V:3][EB]2) [EB]!<)!!>(! [Ee]2!>)! [Ec]|[V:4](G,,/E,/G,/B,/G,/E,/) (A,,/E,/A,/C/A,/E,/)|[V:5]x6|[V:6]x6|
+[V:1]z6|[V:2]z6|[V:3]!>(! (B>c!>)!d [EB]2) (G|[V:4](B,,/F,/A,/B,/A,/F,/) (E,,/B,,/E,/G,/E,/B,,/)|[V:5]D2 x4|[V:6]x6|
+[V:1]z6|[V:2]z6|[V:3]!>(! c>BA) (G>F!>)!E)|[V:4](A,,/E,/A,/C/A,/E,/) (G,,/E,/G,/C/G,/E,/)|[V:5]E2 C B,2 B,|[V:6]x6|
+[V:1]z6|[V:2]z6|[V:3]!>(! ([B,D]>[CE][A,D])!>)! [G,E]2 z|[V:4](F,,/B,,/F,/B,,/B,,,/B,,/) E,,2 z|[V:5]x6|[V:6]x6|
+[V:1]"^(staccato)" G2 A A2 A|[V:2]"^sempre legato" E2 E E2 E|[V:3][B,G]2 [CA] [CA]2 [CA]|[V:4](E,,/B,,/E,/G,/E,/G,/) (E,,/C,/E,/A,/E,/C,/)|[V:5]x6|[V:6]x6|
+[V:1](B>c d e2) B|[V:2](D>E F G2) D|[V:3]([DB]>[Ec][Fd] [Ge]2) [EB]|[V:4](E,,/B,,/D,/F,/B,/F,/) (E,,/B,,/E,/G,/E,/B,,/)|[V:5]x6|[V:6]x6|
+[V:1](c>B A) G2 F|[V:2](E>F E) E2 C|[V:3]([Ec]>[DB][CA]) [B,G]2 [A,F]|[V:4](A,,/E,/A,/C/A,/E,/) (C,/G,/C/G,/A,,/F,/)|[V:5]x6|[V:6]x6|
+[V:1](E>D) C B,2 z|[V:2](B,>C) B, B,2 z|[V:3]([G,E]>[F,D][E,C]) B,2 (B,|[V:4](B,,/G,/B,/G,/F,/E,/) (B,,/F,/A,/G,/F,/D,/)|[V:5]x6|[V:6]x6|
+[V:1]E2 E A2 A|[V:2]B,2 B, C2 C|[V:3][G,E]2 [B,G] [CA]2 [CA]|[V:4](E,,/B,,/E,/G,/E,/G,/) (E,,/C,/E,/A,/E,/C,/)|[V:5]x6|[V:6]x6|
+[V:1]G3/2 A/ F E2 z|[V:2]D3/2 C/ D E2 z|[V:3][B,G]>[CA][DF] [B,E]2) (B|[V:4](E,,/B,,/D,/F,/B,/F,/) (E,,/B,,/E,/G,/E,/B,,/)|[V:5]x6|[V:6]x6|
+[V:1]z6|[V:2]z6|[V:3]e2 e edc)|[V:4](G,,/E,/G,/B,/G,/E,/) (A,,/E,/A,/C/A,/E,/)|[V:5][EB]2 [EB] [Ec]2 E|[V:6]x6|
+[V:1]z6|[V:2]z6|[V:3](B>cd B2) ([GB]|[V:4](B,,/F,/A,/B,/A,/F,/) (E,,/B,,/E,/G,/E,/B,,/)|[V:5](D>EF E2) x|[V:6]x6|
+[V:1]z6|[V:2]z6|[V:3]e>dc) (B>AG)|[V:4](A,,/E,/A,/C/A,/E,/) (G,,/E,/G,/C/G,/E,/)|[V:5][EA]2 [CE] [B,E]2 B,|[V:6]x6|
+[V:1]z6|[V:2]z6|[V:3](F>G[B,F] [G,E]2) z|[V:4](F,,/B,,/F,/B,,/B,,,/B,,/) E,,2 z|[V:5]D2 x4|[V:6]x6|
+[V:1]B2 B B2 B|[V:2]E2 E F2 F|[V:3](E/B/e/B/e/B/) (F/B/f/B/f/B/)|[V:4][K:treble] G,2 G, D,2 D,|[V:5]x6|[V:6][K:treble] x6|
+[V:1]e3 (ed) c|[V:2](G>AG) (G2 E)|[V:3](G/e/g/e/g/e/) (G/c/e/c/e/c/)|[V:4](C,2 C) (EDC)|[V:5]x6|[V:6]x6|
+[V:1]B3/2 A/ (G/F/) (Gc) B|[V:2]D3/2 D/ E (EB) G|[V:3](F/B/d/B/F/B/) (G/B/e/B/G/B/)|[V:4]B,3 (E,G,B,)|[V:5]x6|[V:6]x6|
+[V:1](B3/2 c/) B A2 z|[V:2](F>G) F F2 z|[V:3](F/B/d/B/F/B/) (F/B/d/B/F/B/)|[V:4]B,3[K:bass] (B,,F,B,)|[V:5]x6|[V:6]x3[K:bass] x3|
+[V:1]G2 G G ^A ^B|[V:2]D2 D D G F|[V:3](D/G/^B/G/B/G/) (F/G/B/G/F/G/)|[V:4]G,3 (D,G,^B,)|[V:5]x6|[V:6]x6|
+[V:1]c2 G G2 (G/^A/)|[V:2]E2 E E2 (E/^^F/)|[V:3](E/G/c/G/E/G/) (E/G/c/G/E/G/)|[V:4]C3 (C,G,C)|[V:5]x6|[V:6]x6|
+[V:1]B2 B B2 ^A|[V:2]G2 D C2 E|[V:3](D/G/B/G/D/G/) (C/G/^A/G/C/G/)|[V:4]D,3 E,2 ^^F,|[V:5]x6|[V:6]x6|
+[V:1]G3/2 ^A/ G G2 z|[V:2]D3/2 D/ D D2 z|[V:3](B,/D/G/B,/D/G/) (B,/D/G/B,/D/G/)|[V:4]G,3 (G,,D,G,)|[V:5]x6|[V:6]x6|
+[V:1]"^dolce" G2 G A2 G|[V:2]"^dolce" E2 E F2 E|[V:3]"_dolce" [EG]2 [EG] [DA]2 [EG]|[V:4][E,,E,]2 [E,,E,] [F,,F,]2 [E,,E,]|[V:5]x6|[V:6]x6|
+[V:1](F>G) F E2 z|[V:2](D>E) D E2 z|[V:3]([DF]>[EG][DF]) E2 z|[V:4](B,,2 B,,,) (E,,/B,,/E,/G,/E,/B,,/)|[V:5]x6|[V:6]x6|
+[V:1]B2 B (c>d) e|[V:2]G2 G (A>G) E|[V:3][EB]2 [EB] ([Ac]>[Bd])[ce]|[V:4](G,,/E,/G,/B,/G,/E,/) (A,,/E,/A,/C/A,/E,/)|[V:5]x6|[V:6]x6|
+[V:1]B2 c B2 z|[V:2]G2 A G2 z|[V:3]([GB]>[FA][EG]) ([DF]>[CE][B,D])|[V:4](B,,/E,/G,/B,/G,/E,/) (B,,/F,/A,/B,/A,/F,/)|[V:5]x6|[V:6]x6|
+[V:1]"^sempre dolce" (G>F) G A2 A|[V:2]"^sempre colla parte" (E>D) E F2 F|[V:3][B,G]2 [B,G] [CA]2 [CA]|[V:4](E,,/B,,/E,/G,/E,/G,/) (E,,/C,/E,/A,/E,/C,/)|[V:5]x6|[V:6]x6|
+[V:1](G>A F) E2 z|[V:2](E>D) D E2 z|[V:3]([B,G]>[CA][DF]) [B,E]2 (B|[V:4](E,,/B,,/D,/F,/B,/F,/) (E,,/B,,/E,/G,/E,/B,,/)|[V:5]x6|[V:6]x6|
+[V:1]z6|[V:2]z6|[V:3]e2 e edc)|[V:4](G,,/E,/G,/B,/G,/E,/) (A,,/E,/A,/C/A,/E,/)|[V:5][EB]2 [EB] [Ec]2 E|[V:6]x6|
+[V:1]z6|[V:2]z6|[V:3](B>cd B2) ([GB]|[V:4](B,,/F,/A,/B,/A,/F,/) (E,,/B,,/E,/G,/E,/B,,/)|[V:5](D>EF E2) x|[V:6]x6|
+[V:1]z6|[V:2]z6|[V:3]e>dc) (B>AG)|[V:4](A,,/E,/A,/C/A,/E,/) (G,,/E,/G,/C/G,/E,/)|[V:5][EA]2 [CE] [B,E]2 B,|[V:6]x6|
+[V:1]z6|[V:2]z6|[V:3](F>G[B,F] [G,E]2) z|[V:4](F,,/B,,/F,/B,,/B,,,/B,,/) E,,2 z|[V:5]D2 x4|[V:6]x6|
+[V:1]z6|[V:2]z6|[V:3]!<(! [G,B,]>[B,E][B,E] [EB]2 [EB]!<)!|[V:4](E,,/G,,/E,/G,/E,/G,/) (G,,/E,/G,/B,/G,/E,/)|[V:5]x6|[V:6]x6|
+[V:1]z6|[V:2]z6|[V:3]!>(! (c>B!>)![CA] [B,G]2) z|[V:4](A,,/E,/A,/C/A,/E,/) (G,,/E,/G,/B,/G,/E,/)|[V:5]E2 x4|[V:6]x6|
+[V:1]z6|[V:2]z6|[V:3]!p! [G,E]>[A,E][G,E] [G,E]2 [G,E]|[V:4](B,,,/E,,/G,,/B,,/G,,/E,,/) (B,,,/E,,/G,,/B,,/G,,/E,,/)|[V:5]x6|[V:6]x6|
+[V:1]z6|[V:2]z6|[V:3][G,E]3- [G,E] z"_dim." [G,E]|[V:4](B,,,/E,,/G,,/B,,/G,,/E,,/) (B,,,/E,,/G,,/B,,/G,,/E,,/)|[V:5]x6|[V:6]x6|
+[V:1]z6|[V:2]z6|[V:3][G,E]3- [G,E]2 [G,E]|[V:4](B,,,/E,,/G,,/B,,/G,,/E,,/) (B,,,/E,,/G,,/B,,/G,,/E,,/)|[V:5]x6|[V:6]x6|
+[V:1]z6|][V:2]z6|][V:3][G,E]6|][V:4][E,,B,,]6|][V:5]x6|][V:6]x6|]

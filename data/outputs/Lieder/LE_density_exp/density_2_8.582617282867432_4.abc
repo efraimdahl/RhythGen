@@ -1,0 +1,18 @@
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=60
+M:4/4
+K:B
+V:1 treble nm="Chant\nVoice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+[V:1][M:6/4] (d3 ^e3- e) z d e (f2-|[V:2][M:6/4] (d3 ^e3- ed) (e2 f2-)|[V:3][M:6/4] z6 (^E4 D2)|[V:4][M:6/4] [DFA]12-|[V:5][M:6/4] [A,,D,F,A,]12-|
+[V:1][M:5/4] f2- (3fgf ^e2-) e z (A A|[V:2][M:5/4] (3f2 (g2 f2 ^e4-) e z|[V:3][M:5/4] (A4- (3AG^^F ^E4)|[V:4][M:5/4] [DFA]2- [DFA]4- [DFA] z x2|[V:5][M:5/4] [A,,D,F,A,]2- [A,,D,F,A,]4- [A,,D,F,A,] x x2|
+[V:1][M:4/4] B3 d c3 ^e|[V:2][M:4/4]!p! (B3 d c3 ^e|[V:3][M:4/4] (3(^ED^^C D4-) (3(D^CB,|[V:4][M:4/4] x8|[V:5][M:4/4] x8|
+[V:1]d3 B A2) z2|[V:2]d3 B A2) z2|[V:3]C4-) (3(CB,A, G,2-)|[V:4]x8|[V:5]x8|
+[V:1][M:6/4] (d3 ^e3- e) z d e (f2-|[V:2][M:6/4] (d3 ^e3- ed) (e2 f2-)|[V:3][M:6/4] ([D,-G,]4 [D,-F,A,]4) [D,G,^B,]4|[V:4][M:6/4] [DFA]12-|[V:5][M:6/4] A,12-|
+[V:1][M:5/4] f2- (3fgf ^e2-) e z (A A|[V:2][M:5/4] (3f2 (g2 f2 ^e4-) e z|[V:3][M:5/4] [^E,G,^B,]4- [E,G,B,] z [E,G,B,] z z2|[V:4][M:5/4] [DFA]2- [DFA]4- [DFA] x x2|[V:5][M:5/4] A,2- A,4- A, x x2|
+[V:1][M:4/4] B3 d c3 ^e|[V:2][M:4/4]!p! (B3 d c3 ^e|[V:3][M:4/4] (3(D^^CB, D4-) (3(D^CB,|[V:4][M:4/4] x8|[V:5][M:4/4] x8|
+[V:1]d3 B A2) z2|][V:2]d3 B A2) z2|][V:3]C4-) (3(CB,A, G,2)|][V:4]x8|][V:5]x8|]

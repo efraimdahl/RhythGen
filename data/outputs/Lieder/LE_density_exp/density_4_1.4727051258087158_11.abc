@@ -1,0 +1,11 @@
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=92
+M:2/4
+K:G
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+[V:1]%distance=4[r:0/0]z4|][V:2]!pp! [DG]2- [DG] z|][V:3]%distance=4[r:0/0]x4|][V:4][G,B,]2- [G,B,] z|][V:5]%distance=4[r:0/0]x4|]

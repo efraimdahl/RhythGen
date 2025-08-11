@@ -1,0 +1,36 @@
+%%score ( 1 2 ) { 3 | ( 4 5 6 ) }
+L:1/8
+Q:1/4=135
+M:6/8
+K:F
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:4 bass 
+V:5 bass 
+V:6 bass 
+[V:1]"^Allegro molto agitato."!p! A|[V:2]x1|[V:3]A|[V:4]z1|[V:5]x1|[V:6]x1|
+[V:1]d3/2 d/ d c2 c|[V:2]x6|[V:3][FAd] z z [EGc] z z|[V:4]D z z A, z z|[V:5]x6|[V:6]x6|
+[V:1]d3/2 d/ d c2 A|[V:2]x6|[V:3][FAd] z z [EGc] z z|[V:4]D z z A, z z|[V:5]x6|[V:6]x6|
+[V:1]d3/2 d/ d c3/2 c/ c|[V:2]x6|[V:3][FAd] z z [EGc] z z|[V:4]D z z A, z z|[V:5]x6|[V:6]x6|
+[V:1]d3 d z d|[V:2]x6|[V:3][FAd]3- [FAd] z z|[V:4]D3- D z z|[V:5]x6|[V:6]x6|
+[V:1]d3/2 d/ d c3/2 c/ c|[V:2]x6|[V:3][Adf] z z [Gce] z z|[V:4]D z z A, z z|[V:5]x6|[V:6]x6|
+[V:1]d3/2 d/ d c2 c|[V:2]x6|[V:3][Adf] z z [Gce] z z|[V:4]D z z A, z z|[V:5]x6|[V:6]x6|
+[V:1]d3/2 d/ d d3/2 d/ d|[V:2]x6|[V:3][Adf] z z [Bdg] z z|[V:4]D z z B, z z|[V:5]x6|[V:6]x6|
+[V:1]^c3- c z A|[V:2]x6|[V:3][A^ce]3- [Ace] z z|[V:4]A,3- A, z z|[V:5]x6|[V:6]x6|
+[V:1]f3/2 f/ f _e3/2 e/ e|[V:2]x6|[V:3][Adf] z z [c_eg] z z|[V:4]D z z A, z z|[V:5]x6|[V:6]x6|
+[V:1]d3/2 d/ d _e3/2 e/ e|[V:2]x6|[V:3][Adf] z z [c_eg] z z|[V:4]D z z A, z z|[V:5]x6|[V:6]x6|
+[V:1]d3/2 d/ d c3/2 c/ c|[V:2]x6|[V:3][Adf] z z [Gce] z z|[V:4]D z z A, z z|[V:5]x6|[V:6]x6|
+[V:1]d3- d2 d|[V:2]x6|[V:3][Adf]3- [Adf] z z|[V:4]D3- D z z|[V:5]x6|[V:6]x6|
+[V:1]d3/2 d/ d c3/2 c/ c|[V:2]x6|[V:3][Adf] z z [Gce] z z|[V:4]D z z A, z z|[V:5]x6|[V:6]x6|
+[V:1]d3/2 d/ d c2 c|[V:2]x6|[V:3][Adf] z z [Gce] z z|[V:4]D z z A, z z|[V:5]x6|[V:6]x6|
+[V:1]d3/2 d/ d d3/2 d/ d|[V:2]x6|[V:3][Adf] z z [Bdg] z z|[V:4]D z z B, z z|[V:5]x6|[V:6]x6|
+[V:1]^c3- c2!pp! A|[V:2]x6|[V:3][A^ce]3- [Ace] z z|[V:4]A,3- A, z z|[V:5]x6|[V:6]x6|
+[V:1]d3/2 d/ d c3/2 c/ c|[V:2]x6|[V:3][Adf] z z [Gce] z z|[V:4]D z z A, z z|[V:5]x6|[V:6]x6|
+[V:1]d3/2 d/ d c2 c|[V:2]x6|[V:3][Adf] z z [Gce] z z|[V:4]D z z A, z z|[V:5]x6|[V:6]x6|
+[V:1]d3/2 d/ d c3/2 c/ c|[V:2]x6|[V:3][Adf] z z [Gce] z z|[V:4]D z z A, z z|[V:5]x6|[V:6]x6|
+[V:1]d3- d2 d|[V:2]x6|[V:3][Adf]3- [Adf] z z|[V:4]D3- D z z|[V:5]x6|[V:6]x6|
+[V:1]d3/2 d/ d c3/2 c/ c|[V:2]x6|[V:3][Adf] z z [Gce] z z|[V:4]D z z A, z z|[V:5]x6|[V:6]x6|
+[V:1]d3/2 d/ d c2 c|[V:2]x6|[V:3][Adf] z z [Gce] z z|[V:4]D z z A, z z|[V:5]x6|[V:6]x6|
+[V:1]d3/2 d/ d d3/2 d/ d|[V:2]x6|[V:3][Adf] z z [Bdg] z z|[V:4]D z z B, z z|[V:5]x6|[V:6]x6|
+[V:1]^c3- c z:|[V:2]x5:|[V:3][A^ce]3- [Ace] z:|[V:4]A,3- A, z:|[V:5]x5:|[V:6]x5:|

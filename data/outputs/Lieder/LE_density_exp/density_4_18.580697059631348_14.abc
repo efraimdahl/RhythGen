@@ -1,0 +1,41 @@
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+Q:1/4=116
+M:6/8
+K:B
+V:1 treble nm="Chant\nVoice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+[V:1]"^Moderato. (ca. 66)"!p!"^Andante." F|[V:2]"^Andante" z|[V:3]%distance=4[r:0/31]z1|[V:4]%distance=4[r:0/31]x1|
+[V:1]B2 B c2 c|[V:2](DFB) (EFA)|[V:3][B,,B,]2 z [F,,F,]2 z|[V:4]x6|
+[V:1]d3- d2 z|[V:2](DFB) (DFB)|[V:3][B,,B,]2 z [B,,B,]2 z|[V:4]x6|
+[V:1]B2 B c2 c|[V:2](DFB) (EFA)|[V:3][B,,B,]2 z [F,,F,]2 z|[V:4]x6|
+[V:1]d3- d z B|[V:2](DFB) (DFB)|[V:3][B,,B,]2 z [B,,B,]2 z|[V:4]x6|
+[V:1]e2 e d2 d|[V:2](EGc) (DFB)|[V:3][B,,B,]2 z [B,,B,]2 z|[V:4]x6|
+[V:1]c2 c B2 B|[V:2](CFA) (B,FB)|[V:3][E,,E,]2 z [D,,D,]2 z|[V:4]x6|
+[V:1]e3 d3|[V:2](EGc) (DFB)|[V:3][C,,C,]2 z [D,,D,]2 z|[V:4]x6|
+[V:1]c3- c z F|[V:2](CFA) (CFA)|[V:3][F,,F,]2 z [F,,F,]2 z|[V:4]x6|
+[V:1]B2 B c2 c|[V:2](DFB) (EFA)|[V:3][B,,B,]2 z [F,,F,]2 z|[V:4]x6|
+[V:1]d3- d2 z|[V:2](DFB) (DFB)|[V:3][B,,B,]2 z [B,,B,]2 z|[V:4]x6|
+[V:1]B2 B c2 c|[V:2](DFB) (EFA)|[V:3][B,,B,]2 z [F,,F,]2 z|[V:4]x6|
+[V:1]d3- d z B|[V:2](DFB) (DFB)|[V:3][B,,B,]2 z [B,,B,]2 z|[V:4]x6|
+[V:1]e2 e d2 d|[V:2](EGc) (DFB)|[V:3][B,,B,]2 z [B,,B,]2 z|[V:4]x6|
+[V:1]c2 c B2 B|[V:2](CFA) (B,FB)|[V:3][E,,E,]2 z [D,,D,]2 z|[V:4]x6|
+[V:1]e3 d3|[V:2](EGc) (DFB)|[V:3][C,,C,]2 z [D,,D,]2 z|[V:4]x6|
+[V:1]c3- c z c|[V:2](CFA) (CFA)|[V:3][F,,F,]2 z [F,,F,]2 z|[V:4]x6|
+[V:1]d2 d ^e2 e|[V:2](DFB) (C^EB)|[V:3][B,,B,]2 z [G,,G,]2 z|[V:4]x6|
+[V:1]f3- f2 f|[V:2](CFA) (CFA)|[V:3][F,,F,]2 z [F,,F,]2 z|[V:4]x6|
+[V:1]f3- f (dB)|[V:2](CFB) (DFB)|[V:3][D,,D,]2 z [D,,D,]2 z|[V:4]x6|
+[V:1]c3- c z c|[V:2](CFA) (CFA)|[V:3][F,,F,]2 z [F,,F,]2 z|[V:4]x6|
+[V:1]d2 d ^e2 e|[V:2](DFB) (C^EB)|[V:3][B,,B,]2 z [G,,G,]2 z|[V:4]x6|
+[V:1]f3 d3|[V:2](CFA) (DG^B)|[V:3][F,,F,]2 z [G,,G,]2 z|[V:4]x6|
+[V:1]c3 (c^eg)|[V:2](CFA) (C^EB)|[V:3][C,,C,]2 z [C,,C,]2 z|[V:4]x6|
+[V:1]f3- f2 z|[V:2](CFA) (CFA)|[V:3][F,,F,]2 z [F,,F,]2 z|[V:4]x6|
+[V:1]c3 (cde)|[V:2](CFA) (CFA)|[V:3][F,,F,]2 z [F,,F,]2 z|[V:4]x6|
+[V:1]d3- d z d|[V:2](DFB) (DFB)|[V:3][F,,F,]2 z [F,,F,]2 z|[V:4]x6|
+[V:1](f2 e) (dc) B|[V:2](EFA) (DFB)|[V:3][F,,F,]2 z [F,,F,]2 z|[V:4]x6|
+[V:1]c3- c z c|[V:2](CFA) (CFA)|[V:3][F,,F,]2 z [F,,F,]2 z|[V:4]x6|
+[V:1](d2 B) f2 f|[V:2](DFB) (EFA)|[V:3][B,,B,]2 z [F,,F,]2 z|[V:4]x6|
+[V:1](f2 d) b2 f|[V:2](DFB) (DFB)|[V:3][B,,B,]2 z [B,,B,]2 z|[V:4]x6|
+[V:1]e3 (dc) d|[V:2](CEG) (DFB)|[V:3][E,,E,]2 z [F,,F,]2 z|[V:4]x6|

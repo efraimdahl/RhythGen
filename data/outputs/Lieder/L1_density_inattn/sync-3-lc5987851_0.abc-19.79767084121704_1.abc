@@ -1,0 +1,35 @@
+%distance 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 3 3 1 1 2 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 3 1 1 1 1 1 5 6
+%%score 1 { ( 2 3 ) | ( 4 5 6 ) }
+L:1/8
+Q:1/4=80
+M:2/4
+K:F#
+V:1 treble nm="Gesang\nVoice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:6 bass 
+[V:1]V:7 treble nm="FG=B]6)))!<(!|z4|[V:2]V:7 treble nm="FG=B]6)))!<(!|z4|[V:3]V:7 treble nm="FG=B]6)))!<(!|x4|[V:4]V:7 treble nm="FG=B]6)))!<(!|z4|[V:5]V:7 treble nm="FG=B]6)))!<(!|x4|[V:6]V:7 treble nm="FG=B]6)))!<(!|x4|
+[V:1][Q:1/4=92]"^Andante"!mf! z/ (c/^B/c/ =B/c/B/c/|[V:2]"_a tempo"!mf! z/ (c/^B/c/ =B/c/G/c/|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]B/A/^^G/A/ d/c/F/A/|[V:2]B/A/^^G/A/ d/c/F/A/|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]G/F/E/F/ B/A/D/E/|[V:2]G/F/E/F/ B/D/E/F/|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]F2 E2)|[V:2]A/C/F/C/ E/C/B,/C/)|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]z/ (c/^B/c/ =B/c/B/c/|[V:2]z/ (c/^B/c/ =B/c/G/c/|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]B/A/^^G/A/ d/c/F/A/|[V:2]B/A/^^G/A/ d/c/F/A/|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]G/F/E/F/ B/D/B,/C/|1,2[V:2]G/F/E/F/ B/D/B,/C/|1,2[V:3]x4|1,2[V:4]z4|1,2[V:5]x4|1,2[V:6]x4|1,2
+[V:1]F2 F) z:|3[V:2]F/C/A,/C/ F) z:|3[V:3]x4:|2[V:4]z4:|2[V:5]x4:|2[V:6]x4:|2
+[V:1]F2 F2||[V:2]F/C/A,/C/ F/C/A,/C/||[V:3]x4||[V:4]z4||[V:5]x4||[V:6]x4||
+[V:1]!p! (E/F/D/E/ F/G/E/G/|[V:2]!p! (E/C/D/F/ G/E/C/G/|[V:3]x DEE|[V:4]C,C,C,C,|[V:5]C,/G,/A,/G,/ [G,B,]/G,/[G,C]/G,/|[V:6]x4|
+[V:1]F/G/E/F/ G) z|[V:2]F/G/E/F/ G) z|[V:3]DEE z|[V:4]C,C,C,C,|[V:5]A,/G,/A,/G,/ [G,B,] z|[V:6]x4|
+[V:1]!p! (E/F/D/F/ G/A/B/G/|[V:2]!p! (E/C/F/D/ G/A/B/G/|[V:3]E/C/D/C/ G/C/E/C/|[V:4]C,C,C,C,|[V:5][G,B,]/C,/[A,C]/C,/ [G,B,]/C,/[G,C]/C,/|[V:6]x4|
+[V:1]A/C/^B,/C/ F) z|[V:2]A/A/C/^B,/ FC)|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]A/B/G/A/ F/) z/ (C|[V:2]A/F/G/B/ A/C/) z|[V:3]F/C/G/C/ A/C/ z|[V:4]F,C,F,C,|[V:5][A,C]/F,/[G,C]/C,/ F, z|[V:6]x4|
+[V:1]D/C/^B,/C/ D/C/B,/C/|[V:2]z4|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]D/C/^B,/C/ D/C/B,/C/)|[V:2]z4|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]!mp![Q:1/4=84]"^riten." D/C/^B,/C/"^ritard."[Q:1/4=80]"^rit." E/D/[Q:1/4=70]C/B,/|[V:2]z4|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]C[Q:1/4=70]"_a tempo." z z2|[V:2]z/ (C/^B,/C/"_ritard." A/c/g/f/|[V:3]x4|[V:4]"_suivez"!ped! [F,,C,]2!ped-up![K:treble] ([FA][DF]|[V:5]x2[K:treble] x2|[V:6]x2 .C.C|
+[V:1]z4|[V:2]c/d/B/c/{/Bc} B/A/F/G/)|[V:3]x4|[V:4][B,D][G,B,][B,D][DF]|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2](A/c/F/G/ A/d/B/e/)|[V:3]x4|[V:4]F/C/D/A,/ B,/D/G/C/)|[V:5]x4|[V:6]x4|
+[V:1]z4|][V:2]f z{/a} f z|][V:3]x4|][V:4][K:bass]!pp!!ped! F z!ped-up!!ped! [F,,C,A,] z!ped-up!|][V:5][K:bass] x4|][V:6][K:bass] x4|]
+[V:1]z4|][V:2]z4|][V:3]x4|][V:4]z4|][V:5]x4|][V:6]x4|]

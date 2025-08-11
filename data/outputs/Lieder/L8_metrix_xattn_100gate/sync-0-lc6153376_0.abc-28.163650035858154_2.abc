@@ -1,0 +1,41 @@
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=94
+M:4/4
+K:G
+V:1 treble nm="Gesang\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+[V:1]"^Allegretto agitato" z2|[V:2]!p! !arpeggio![G,B,DG]2|[V:3]z2|
+[V:1]z2 (F G A2|[V:2]!p! (!arpeggio![D,A,DF]4!ped-up!|[V:3]z6|
+[V:1]A2 G2 F2|[V:2]!arpeggio![D,A,DF]4 !arpeggio![D,A,DF]4|[V:3]!arpeggio![D,,A,,D,]8|
+[V:1]A2 z2 A2|[V:2]!p! !arpeggio![A,DFA]4!<(! !arpeggio![B,EG]4|[V:3]!arpeggio![A,,,D,,A,,]8|
+[V:1]G2 F2 F2|[V:2]!arpeggio![A,DFA]4 !arpeggio![A,CEA]4|[V:3][A,,E,]4 !arpeggio![A,,G,]4|
+[V:1]E2 F2 A2 F2|[V:2]!arpeggio![A,CFA]4 !arpeggio![A,CFA]4|[V:3]!arpeggio![D,A,]4 !arpeggio![A,,E,]4|
+[V:1]B2 G2 A2 D2|[V:2]!arpeggio![B,DGB]4 !arpeggio![A,DFA]4|[V:3]!arpeggio![B,,G,]4 !arpeggio![A,,F,]4|
+[V:1]C2 D2 E2 E2|[V:2]!arpeggio![B,DEG]4 !arpeggio![CEA]4|[V:3]!arpeggio![B,,G,]4 !arpeggio![A,,E,]4|
+[V:1]E2 F2 D4|[V:2]!arpeggio![DFA]4 !arpeggio![CEAc]4|[V:3]!arpeggio![D,A,]4 !arpeggio![A,,E,A,]4|
+[V:1]C2 D2 F4|[V:2]!arpeggio![DFAd]4 !arpeggio![DFA]4|[V:3]!arpeggio![D,A,]4 !arpeggio![D,A,]4|
+[V:1]E4 E2 E2|[V:2]!arpeggio![EAce]4 !arpeggio![Adfa]4|[V:3]!arpeggio![C,A,]4 !arpeggio![F,A,D]4|
+[V:1]G4 G4|[V:2]!arpeggio![Ada]4 !arpeggio![Ada]4|[V:3]!arpeggio![D,A,F]4 !arpeggio![D,A,F]4|
+[V:1]G2 G2 F2 F2|[V:2]!arpeggio![DGd]4 !arpeggio![DGBd]4|[V:3]!arpeggio![B,,D,G,]4 !arpeggio![B,,D,G,]4|
+[V:1]G2 A2 B2 G2|[V:2]!arpeggio![EAc]4 !arpeggio![DAd]4|[V:3]!arpeggio![G,,D,G,]4 !arpeggio![F,,D,G,]4|
+[V:1]F4 z4|[V:2]!arpeggio![FAd]4 !arpeggio![FAd]4|[V:3]!arpeggio![F,,D,F,]4 !arpeggio![D,F,D]4|
+[V:1]G4 G4|[V:2]!arpeggio![EAe]4 !arpeggio![DFAd]4|[V:3]!arpeggio![D,A,C]4 !arpeggio![D,A,D]4|
+[V:1]A2 G2 F2 A2|[V:2]!arpeggio![DFAd]4 !arpeggio![DFAd]4|[V:3]!arpeggio![D,,A,,D,F,]4 !arpeggio![D,,A,,D,F,]4|
+[V:1]B4 A2 A2|[V:2]!arpeggio![EGce]4 !arpeggio![EAce]4|[V:3]!arpeggio![C,E,A,C]4 !arpeggio![A,,E,A,C]4|
+[V:1]F2 G2 A2 B2|[V:2]!arpeggio![EGAce]4 !arpeggio![Acea]4|[V:3]!arpeggio![A,,E,A,C]4 !arpeggio![A,,E,A,C]4|
+[V:1]c2 A2 B2 c2|[V:2]!arpeggio![CEAc]4 !arpeggio![CEAc]4|[V:3]!arpeggio![A,,,E,,A,,]4 !arpeggio![C,E,A,C]4|
+[V:1]d2 c2 d2 B2|[V:2]!arpeggio![Adf]4 !arpeggio![GBdg]4|[V:3]!arpeggio![D,F,A,D]4 !arpeggio![G,,D,G,B,]4|
+[V:1]A2 F2 E2 D2|[V:2]!arpeggio![A,CGA]4 !arpeggio![B,EGB]4|[V:3]!arpeggio![A,,,E,,C,]4 !arpeggio![E,,B,,E,G,]4|
+[V:1]C4 D2 E2|[V:2]!arpeggio![A,CEA]4 !arpeggio![E,G,B,DE]4|[V:3]!arpeggio![A,,,E,,C,]4 !arpeggio![E,,B,,D,]4|
+[V:1]F2 E2 G2 F2|[V:2]!arpeggio![D,F,A,D]4 !arpeggio![E,A,CE]4|[V:3]!arpeggio![D,,A,,D,F,]4 !arpeggio![C,,A,,E,]4|
+[V:1]F2 A2 A2 A2|[V:2]!arpeggio![F,A,DF]4 !arpeggio![A,CEA]4|[V:3]!arpeggio![D,,A,,D,]4 !arpeggio![A,,,E,,A,,]4|
+[V:1]B4 E2 A2|[V:2]!arpeggio![G,B,E]4 !arpeggio![A,CEA]4|[V:3]!arpeggio![E,,,E,,]4 !arpeggio![A,,,A,,]4|
+[V:1]A2 A2 G2 E2|[V:2]!arpeggio![A,DFA]4 !arpeggio![A,CEA]4|[V:3]!arpeggio![D,,A,,F,]4 !arpeggio![A,,,E,,C,]4|
+[V:1]F4 F2 F2|[V:2]!arpeggio![A,CFA]4 !arpeggio![A,CFA]4|[V:3]!arpeggio![D,,A,,D,F,]4 !arpeggio![D,,A,,D,F,]4|
+[V:1]G2 F2 G2 B2|[V:2]!arpeggio![G,B,DG]4 !arpeggio![G,B,DG]4|[V:3]!arpeggio![G,,,D,,G,,B,,]4 !arpeggio![G,,,D,,G,,]4|
+[V:1]B4 A2 G2|[V:2]!arpeggio![G,B,DG]4 !arpeggio![G,B,DG]4|[V:3]!arpeggio![G,,,D,,G,,]4 !arpeggio![G,,,D,,G,,]4|
+[V:1]G4 z4|[V:2]!arpeggio![G,B,DG]4 !arpeggio![G,B,DG]4|[V:3]!arpeggio![G,,,D,,G,,]4 !arpeggio![G,,,D,,G,,]4|
+[V:1]z8|[V:2]!arpeggio![G,B,DG]4 !arpeggio!!fermata![G,B,DG]4|[V:3]!arpeggio![G,,,D,,G,,]4 !arpeggio![G,,,D,,G,,]4|
+[V:1]z8|][V:2]!arpeggio!!fermata![G,B,DG]8|][V:3]!arpeggio!!fermata![G,,,D,,G,,]8|]

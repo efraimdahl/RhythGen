@@ -1,0 +1,76 @@
+%%score 1 { ( 2 7 ) | ( 3 4 5 6 ) }
+L:1/8
+Q:1/4=168
+M:3/4
+K:D
+V:1 treble nm="Chant\nVoice"
+V:2 treble nm="Piano"
+V:7 treble 
+V:3 bass 
+V:4 bass 
+V:5 bass 
+V:6 bass 
+[V:1]"^Allegro con moto" z6|[V:2]"^Allegro con moto" [DF]2 [DG]2 [DB]2|[V:3]!arpeggio![D,,D,A,]2 !arpeggio![D,B,]2 !arpeggio![D,G,]2|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]z6|[V:2][DA]4 [DG]2|[V:3]!arpeggio![D,,A,,F,]4 !arpeggio![D,,D,B,]2|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]z6|[V:2]!<(! [DF]2 [DG]2 [DB]2|[V:3]!arpeggio![D,A,]2 !arpeggio![D,B,]2 !arpeggio![D,G,]2|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]z2 z2 A2|[V:2][DA]4 [CGA]2!<)!|[V:3]!arpeggio![D,,A,,F,]4 !arpeggio![E,,A,,E,]2|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]A2 G2 F2|[V:2]!arpeggio![A,DA]6|[V:3]!arpeggio![F,,D,F,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]F4 E2|[V:2]!arpeggio![B,EG]6|[V:3]!arpeggio![G,,E,G,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1](D4 E2)|[V:2]!arpeggio![A,CG]6|[V:3]!arpeggio![A,,E,G,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]F4 D2|[V:2]!arpeggio![A,DF]6|[V:3]!arpeggio![D,F,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]!pp! G2 F2 E2|[V:2]!pp! [G,B,DG]2 [G,B,DF]2 [G,B,DE]2|[V:3]!arpeggio![D,,D,]2 !arpeggio![D,,D,]2 !arpeggio![D,,D,]2|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1](G4 E2)|[V:2][G,B,DG]4 [G,B,CE]2|[V:3]!arpeggio![D,,D,]4 !arpeggio![D,,D,]2|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]D6|[V:2]!arpeggio![F,A,DF]6|[V:3]!arpeggio![D,,D,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]z6|[V:2]!f! [Dd]6|[V:3][D,F,A,]6|[V:4]!arpeggio!D,,2 !arpeggio!E,,2 !arpeggio!F,,2|[V:5]!arpeggio!D,,2 !arpeggio!E,,2 !arpeggio!F,,2|[V:6]x6|[V:7]x6|
+[V:1]z2 z2!mp! E2|[V:2]!>(! [DEBd]6!>)!|[V:3]!arpeggio!^G,6|[V:4]!arpeggio!E,,6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]E2 F2 ^G2|[V:2][EBde]6|[V:3]^G,6|[V:4]!arpeggio!D,2 !arpeggio!C,2 !arpeggio!B,,2|[V:5]!arpeggio!D,,2 !arpeggio!C,,2 !arpeggio!B,,,2|[V:6]x6|[V:7]x6|
+[V:1]A6-|[V:2][Ace]6|[V:3]!arpeggio!A,,6|[V:4]!arpeggio!A,,,6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]A2 B2 c2|[V:2][Acea]6|[V:3][I:staff -1] [A,CE]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]e4 d2|[V:2]!mf! [Ada]6|[V:3]!arpeggio![F,D]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]c4 B2|[V:2][Bd^g]6|[V:3]!arpeggio![^G,^E]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]c4 B2|[V:2][Acg]6|[V:3]!arpeggio![A,E]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]A4 F2|[V:2][Adf]6|[V:3]!arpeggio![DF]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]!pp! F2 E2 D2|[V:2]!pp! [Fdf]2 [Fde]2 [Fd]2|[V:3][I:staff +1] A,2 ^G,2 F,2|[V:4]!arpeggio!D,,2 !arpeggio!D,,2 !arpeggio!D,,2|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]F4 D2|[V:2][FAdf]4 [FAd]2|[V:3]A,4 A,2|[V:4]!arpeggio!D,,4 !arpeggio!D,,2|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1](F6|[V:2][F^Adf]6|[V:3]^A,6|[V:4]!arpeggio!D,,6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]D2) z2 F2|[V:2][F^Adf]6|[V:3]^A,6|[V:4]!arpeggio!D,,6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]!<(! F4 ^G2|[V:2]!<(! [FAdf]6|[V:3]!arpeggio!D,6|[V:4]!arpeggio!D,,6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]^A4 ^B2!<)!|[V:2][^^F^A^d^^f]6!<)!|[V:3]!arpeggio!^D,6|[V:4]!arpeggio!^D,,6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]c4 B2|[V:2][^GB^d^g]6|[V:3]!arpeggio!^G,,6|[V:4]!arpeggio!^G,,,6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]^A4 ^G2|[V:2][^E^Gc^e]6|[V:3][^G,C]6|[V:4]!arpeggio!C,,6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]F6-|[V:2][^A,CF^A]6|[V:3]!arpeggio!F,,6|[V:4]!arpeggio!F,,,6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]F2 z2!mp! C2|[V:2]!arpeggio![^A,CF^A]6|[V:3]!arpeggio!F,,6|[V:4]!arpeggio!F,,,6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1](F4 ^G2)|[V:2]!p! [F,A,CF]6|[V:3][F,,,F,,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1](A4 B2)|[V:2][A,DFA]6|[V:3][F,,,F,,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]c6-|[V:2][^G,C^E^G]6-|[V:3][C,,C,]6-|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]c2 z2!mf! C2|[V:2][G,CEG]6|[V:3][C,,C,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1](F4 ^G2)|[V:2]!mf! [F,A,CF]6|[V:3][F,,,F,,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1](A4 B2)|[V:2][A,DFA]6|[V:3][F,,,F,,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]c6-|[V:2][^G,C^E^G]6-|[V:3][C,,C,]6-|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]c4 B2|[V:2][G,CEG]6|[V:3][C,,C,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1](A4 ^G2)|[V:2][A,CFA]6|[V:3]!arpeggio![F,,,F,,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]F4 ^E2|[V:2][^B,F^B]6|[V:3]!arpeggio![F,,,F,,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]^G6-|[V:2][C^E^Gc]6-|[V:3]!arpeggio![C,,,C,,]6-|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]G4 C2|[V:2][CEGc]6|[V:3][C,,,C,,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]!p! F4 ^G2|[V:2]!p! [FAcf]6|[V:3][F,,,F,,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1](A4 B2)|[V:2][Adfa]6|[V:3][F,,,F,,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]c6-|[V:2][^Gc^e^g]6-|[V:3][C,,C,]6-|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]c2 z2!p! C2|[V:2][Gceg]6|[V:3][C,,C,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]F4 ^G2|[V:2]!p! [FAcf]6|[V:3][F,,,F,,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1](A4 B2)|[V:2][Adfa]6|[V:3][F,,,F,,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]c6-|[V:2][^Gc^e^g]6-|[V:3][C,,C,]6-|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]c2 z2!mp! B2|[V:2][Gceg]6|[V:3][C,,C,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]A4 ^G2|[V:2]!mp! [Acfa]6|[V:3]!arpeggio![F,,,F,,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]F4 ^E2|[V:2][^Bf^b]6|[V:3]!arpeggio![F,,,F,,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]^G6-|[V:2][c^e^gc']6-|[V:3]!arpeggio![C,,,C,,]6-|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]G4 C2|[V:2][cegc']6|[V:3][C,,,C,,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]!>(! (F4 ^G2)!>)!|[V:2]!p! [fac'f']6|[V:3]!arpeggio![F,,,F,,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]A4 B2|[V:2][ad'f'a']6|[V:3]!arpeggio![F,,,F,,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]c6-|[V:2][^gc'^e'^g']6-|[V:3]!arpeggio![C,,C,]6-|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]c2 z2!mp! C2|[V:2][gc'e'g']6|[V:3][C,,C,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1](F4 ^G2)|[V:2]!p! [fac'f']6|[V:3]!arpeggio![F,,,F,,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1](A4 B2)|[V:2][ad'f'a']6|[V:3]!arpeggio![F,,,F,,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]c6-|[V:2][^gc'^e'^g']6-|[V:3]!arpeggio![C,,C,]6-|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]c2 z2 z2|[V:2][gc'e'g']6|[V:3][C,,C,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]z6|[V:2][ac'f'a']6|[V:3]!arpeggio![F,,,F,,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|
+[V:1]z6|[V:2][^bf'^b']6|[V:3]!arpeggio![F,,,F,,]6|[V:4]x6|[V:5]x6|[V:6]x6|[V:7]x6|

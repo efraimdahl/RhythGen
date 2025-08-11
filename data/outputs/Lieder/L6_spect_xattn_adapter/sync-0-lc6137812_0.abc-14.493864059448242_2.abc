@@ -1,0 +1,29 @@
+%%score ( 1 2 ) { ( 3 6 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=80
+M:12/8
+K:C
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:6 treble 
+V:4 bass 
+V:5 bass 
+[V:1]!p! G,|[V:2]x1|[V:3]z1|[V:4]z1|[V:5]x1|[V:6]x1|
+[V:1]E2 E D2 C B,2 A, E2 E|[V:2]x12|[V:3](EGc) (EGc) (EAc) (EAc)|[V:4][C,C]3 [C,C]3 [A,,A,]3 [A,,A,]3|[V:5]x12|[V:6]x12|
+[V:1](G2 G) ^F2 F (A2 G) z G =F|[V:2]x12|[V:3](DGc) (D^Fc) (D=FG) (DFG)|[V:4][_A,,_A,]3 [A,,A,]3 [G,,G,]3 [G,,G,]3|[V:5]x12|[V:6]x12|
+[V:1]E2 E F2 E E2 E A2 A|[V:2]x12|[V:3](EGc) (EGc) (EAc) (EAc)|[V:4][C,C]3 [C,C]3 [A,,A,]3 [A,,A,]3|[V:5]x12|[V:6]x12|
+[V:1](GF) E D2 C C3 z2 G|[V:2]x12|[V:3](DGB) (DFG) (EGc) (EGc)|[V:4][G,,G,]3 [G,,G,]3 [C,C]3 [C,C]3|[V:5]x12|[V:6]x12|
+[V:1](F E) D (G F) E A2 G F2 G|[V:2]x12|[V:3](FAd) (FBd) (EGc) (FGd)|[V:4][F,,F,]3 [G,,G,]3 [G,,G,]3 [G,,G,]3|[V:5]x12|[V:6]x12|
+[V:1](A2 c) (B2 A) G3 z2 E|[V:2]x12|[V:3](FAc) (EGc) (EGc) (EGc)|[V:4][G,,G,]3 [G,,G,]3 [C,C]3 [C,C]3|[V:5]x12|[V:6]x12|
+[V:1]F2 F E2 E A2 G G2 G|[V:2]x12|[V:3](FAd) (FBd) (EGc) (EGc)|[V:4][F,,F,]3 [G,,G,]3 [G,,G,]3 [G,,G,]3|[V:5]x12|[V:6]x12|
+[V:1]A2 A c2 A (c2 B) A2 G|[V:2]x12|[V:3](FAc) (EGc) (FGB) (DGB)|[V:4][G,,G,]3 [G,,G,]3 [G,,G,]3 [G,,G,]3|[V:5]x12|[V:6]x12|
+[V:1]!<(! c2 c (cB) A (AG) F!<)!!mf! G2 G|[V:2]x12|[V:3](EGc) (FAd) (FAc) (DGB)|[V:4][C,C]3 [F,,F,]3 [G,,G,]3 [G,,G,]3|[V:5]x12|[V:6]x12|
+[V:1]!<(! (FE) F (Ac) B A!<)!!f! G3 z2!mf! G|[V:2]x12|[V:3](DAc) (DGB) (EGc) (EGc)|[V:4][G,,G,]3 [G,,G,]3 [C,C]3 [C,C]3|[V:5]x12|[V:6]x12|
+[V:1](F E) D (G F) E A2 G F2 G|[V:2]x12|[V:3](FAd) (FBd) (EGc) (FGd)|[V:4][F,,F,]3 [G,,G,]3 [G,,G,]3 [G,,G,]3|[V:5]x12|[V:6]x12|
+[V:1](A2 c) (B2 A) G3 z2!f! G|[V:2]x12|[V:3](FAc) (EGc) (EGc) (EGc)|[V:4][G,,G,]3 [G,,G,]3 [C,C]3 [C,C]3|[V:5]x12|[V:6]x12|
+[V:1](FE) D (GF) E A2 G F2 G|[V:2]x12|[V:3](FAd) (FBd) (EGc) (FGd)|[V:4][F,,F,]3 [G,,G,]3 [G,,G,]3 [G,,G,]3|[V:5]x12|[V:6]x12|
+[V:1](A2 c) (B2 A) G3 z2 F|[V:2]x12|[V:3](FAc) (EGc) (FGd) (FGd)|[V:4][G,,G,]3 [G,,G,]3 [G,,G,]3 [G,,G,]3|[V:5]x12|[V:6]x12|
+[V:1]E2 G (cB) A G3 A3|[V:2]x12|[V:3](EGc) (EAc) (EGc) (EAc)|[V:4][C,C]3 [A,,A,]3 [A,,A,]3 [A,,A,]3|[V:5]x12|[V:6]x12|
+[V:1]G3- G c E (E3 D2) G|[V:2]x6 D3- D2 C|[V:3](FAd) (EGc) (FAc) (DFB)|[V:4][F,,F,]3 [G,,G,]3 [G,,G,]3 [G,,G,]3|[V:5]x12|[V:6]x12|
+[V:1]C6 z6|][V:2]x12|][V:3](CEG) (CEG) [CEG]6|][V:4][C,,C,]3 [C,,C,]3 [C,,C,]6|][V:5]z3 z3 z3 !fermata!C,,3|][V:6]x3 x3 c3 x3|]

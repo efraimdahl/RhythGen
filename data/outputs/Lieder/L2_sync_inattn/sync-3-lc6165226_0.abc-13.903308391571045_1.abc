@@ -1,0 +1,32 @@
+%syncopation 4 4 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 5 4 3 3 4 3 6
+%%score ( 1 2 ) { ( 3 4 ) | 5 }
+L:1/8
+Q:1/4=120
+M:6/8
+K:Gb
+V:1 treble nm="Gesang\nVoice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:4 treble 
+V:5 bass 
+[V:1]"^Andante con moto" z6|[V:2]x6|[V:3]"^Allegro non troppo" z6|[V:4]x6|[V:5]!mp! (G,,D,B, G,,D,B,)|
+[V:1]z6:|[V:2]x6:|[V:3](!2!F,!1!G,!2!B, !5!E!2!G!4!=c):|[V:4]x6:|[V:5](G,3 =C3):|
+[V:1]z6|[V:2]x6|[V:3]d6|[V:4]z [DF][DF] [DF]3|[V:5]z [F,A,][F,A,] [F,A,]3|
+[V:1]!p! z2 B A2 G|[V:2]x6|[V:3]!p! z [DGB][DGB] [DGB]3|[V:4]x6|[V:5]z [G,,G,][G,,G,] [G,,G,]3|
+[V:1]c3 F2 F|[V:2]x6|[V:3]z [CDF][CDc] [CDFc]3|[V:4]x6|[V:5]z [G,,G,][G,,G,] [G,,G,]3|
+[V:1]G3 B A G|[V:2]x6|[V:3]z [DGB][DGB] [DGB]3|[V:4]x6|[V:5]z [G,,G,][G,,G,] [G,,G,]3|
+[V:1]d3- d2 z|[V:2]x6|[V:3]z [DGB][DGB] [DGB]3|[V:4]x6|[V:5]z [G,,G,][G,,G,] [G,,G,]3|
+[V:1]d3 d c B|[V:2]x6|[V:3]z [_FGd][FGd] [FGd]3|[V:4]x6|[V:5]z [G,,G,][G,,G,] [G,,G,]3|
+[V:1]e3- e2 A|[V:2]x6|[V:3]z [EAe][EAe] [EAe]3|[V:4]x6|[V:5]z [C,C][C,C] [C,C]3|
+[V:1]B3- B c B|[V:2]x6|[V:3]z [=DAB][DAB] [DAB]3|[V:4]x6|[V:5]z [B,,B,][B,,B,] [B,,B,]3|
+[V:1]E3- E2 z|[V:2]x6|[V:3]z [EGB][EGB] [EGB]3|[V:4]x6|[V:5]z E,E, E,3|
+[V:1]A3 A B c|[V:2]x6|[V:3]z [EGc][EGc] [EGc]3|[V:4]x6|[V:5]z [A,,A,][A,,A,] [A,,A,]3|
+[V:1]d3 B2 G|[V:2]x6|[V:3]z [DGd][DGd] [DGd]3|[V:4]x6|[V:5]z [B,,B,][B,,B,] [B,,B,]3|
+[V:1]=c3- c d e|[V:2]x6|[V:3]z [G__B=c][GBc] [GBc]3|[V:4]x6|[V:5]z [E,E][E,E] [E,E]3|
+[V:1]d3- d z z|[V:2]x6|[V:3]z [GBd][GBd] [GBd]3|[V:4]x6|[V:5]z [D,D][D,D] [G,D]3|
+[V:1]B3 B c d|[V:2]x6|[V:3]z [_FBd][FBd] [FBd]3|[V:4]x6|[V:5]z [G,,G,][G,,G,] [G,,G,]3|
+[V:1]e3 c2 A|[V:2]x6|[V:3]z [Ece][Ece] [Ece]3|[V:4]x6|[V:5]z [C,G,][C,G,] [C,G,]3|
+[V:1]f3 A B c|1,2,3,4[V:2]x6::3[V:3]z [Fcd][Fcd] [Fcd][Fcd][Fcd]:1,2,3,4,5[V:4]x6::3[V:5]z [D,A,][D,A,] [D,A,][D,A,]::3
+[V:1]O"^Coda" G3 z2 z:|[V:2]x6|1,2,3,4,5[V:3]"^TACET" G,B,D GDB,|1,2,3,4,5[V:4]x6|1,2,3,4,5[V:5]z6|1,2,3,4,5
+[V:1]G6-|[V:2]x6|[V:3]G,B,D GDB,|[V:4]x6|[V:5][G,,,G,,]6-|
+[V:1]G3 z3:|4[V:2]x6:|4[V:3]!arpeggio!!fermata![B,DG]6:|4[V:4]x6:|4[V:5]!fermata![G,,,G,,]6:|4

@@ -1,0 +1,12 @@
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=100
+M:4/4
+K:E
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+[V:1]"^Allargando"[Q:1/4=100] c2 B A G3/2 F/ E F|[V:2]"^allargando" [CEAc]2 [B,EB][A,EA] G>F EF|[V:3]"^allargando" A,,C,B,,D, E,>A,G,F,|[V:4]x4 [B,E]4|[V:5]x4 E,,4|
+[V:1]!<(! G2 (cd)!<)![Q:1/4=80] !fermata!e3!p! e|[V:2]!<(! [B,EG]2 [CEGc][DG^Bd]!<)! !fermata![EAce]3!p! [EAce]|[V:3][E,G,][D,F,][C,E,][G,,^B,,D,] !fermata![A,,C,E,]3 [A,,C,E,]|[V:4]x8|[V:5]x8|

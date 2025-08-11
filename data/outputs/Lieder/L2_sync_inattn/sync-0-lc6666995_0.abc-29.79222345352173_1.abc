@@ -1,0 +1,57 @@
+%syncopation 1 1 1 1 1 1 1 6 1 2 2 2 1 2 1 2 1 2 2 2 1 2 2 2 1 1 1 1 1 1 1 6 6 1 2 2 2 1 2 2 2 6 1 2 2 2 1 2 2 2 6 1 2 2 2 1 2 2 3
+%%score { 1 ( 2 3 ) }
+L:1/8
+Q:1/4=100
+M:2/4
+K:A
+V:1 treble nm="Voice"
+V:2 treble-8 nm="Guitar"
+V:3 treble-8 
+[V:1]"^Moderato" z4|[V:2]!f! !arpeggio![A,EAc]/>[Cc]/!wedge![Dd]/!wedge![^D^d]/ !wedge![Ee]/!wedge![Ff]/!wedge![Gg]/!wedge![Aa]/|[V:3]x4|
+[V:1]z4|[V:2]!wedge![Bb]!wedge![^B^b]!wedge![cc'] z|[V:3]x4|
+[V:1]z4|[V:2][EBd]/>[EBd]/!wedge![EBd]/>!wedge![EBd]/ !wedge![EAc]!wedge![EAc]|[V:3]x4|
+[V:1]z4|[V:2][EBd]/>[EBd]/!wedge![EBd]/>!wedge![EBd]/ !wedge![EAc]!wedge![EAc]|[V:3]x4|
+[V:1]z4|[V:2][EBd]/>[EBd]/!wedge![EBd]/>!wedge![EBd]/ !wedge![EAc]!wedge![EAc]|[V:3]x4|
+[V:1]z2 z A|:[V:2][EBd]/>[EBd]/!wedge![EBd]/>!wedge![EBd]/ !wedge![EAc] z|:[V:3]x4|:
+[V:1]c c c c|[V:2]!p! A,/[Ace]/ [Ace]/[Ace]/ A,/[Ace]/ [Ace]/[Ace]/|[V:3]x4|
+[V:1](d/e/) (d/c/) B z|[V:2]A,/[Bdf]/ [Bdf]/[Bdf]/ E/[Bde]/ [Bde]/[Bde]/|[V:3]x4|
+[V:1]B d f3/2 e/|[V:2]E/[Gde]/ [Gde]/[Gde]/ E/[Gde]/ [Gde]/[Gde]/|[V:3]x4|
+[V:1]c2 z A|[V:2]A,/[Ace]/ [Ace]/[Ace]/ E/[Ace]/ [Ace]/[Ace]/|[V:3]x4|
+[V:1]c c c c|[V:2]A,/[Ace]/ [Ace]/[Ace]/ A,/[Ace]/ [Ace]/[Ace]/|[V:3]x4|
+[V:1](d/e/) (d/c/) B z|[V:2]A,/[Bdf]/ [Bdf]/[Bdf]/ E/[Bde]/ [Bde]/[Bde]/|[V:3]x4|
+[V:1]B d f3/2 e/|[V:2]E/[Gde]/ [Gde]/[Gde]/ E/[Gde]/ [Gde]/[Gde]/|[V:3]x4|
+[V:1]c2 z c|[V:2]A,/[Ace]/ [Ace]/[Ace]/ A,/[Ace]/ [Ace]/[Ace]/|[V:3]x4|
+[V:1]c c c c|[V:2]F/[^Acf]/ [Acf]/[Acf]/ F/[Acf]/ [Acf]/[Acf]/|[V:3]x4|
+[V:1]d3/2 c/ B z|[V:2]B,/[FBd]/ [FBd]/[FBd]/ B,/[FBd]/ [FBd]/[FBd]/|[V:3]x4|
+[V:1]G c B A|[V:2]E/[GBe]/ [GBe]/[GBe]/ F,/[FAc]/ [FAc]/[FAc]/|[V:3]x4|
+[V:1]F2 z B|[V:2]B,/[FB^d]/ [FBd]/[FBd]/ B,/[FBd]/ [FBd]/[FBd]/|[V:3]x4|
+[V:1]B B B B|[V:2]E/[GBe]/ [GBe]/[GBe]/ E/[GBe]/ [GBe]/[GBe]/|[V:3]x4|
+[V:1]=c3/2 B/ A z|[V:2]A,/[EA=c]/ [EAc]/[EAc]/ A,/[EAc]/ [EAc]/[EAc]/|[V:3]x4|
+[V:1]=F B A =G|[V:2]D/[=FAd]/ [FAd]/[FAd]/ E,/[EGd]/ [EGd]/[EGd]/|[V:3]x4|
+[V:1]A2 z A|[V:2]A,/[EA=c]/ [EAc]/[EAc]/ A,/[EAc]/ [EAc]/[EAc]/|[V:3]x4|
+[V:1]A A A A|[V:2]A,/[A=c=g]/ [Acg]/[Acg]/ A,/[Acg]/ [Acg]/[Acg]/|[V:3]x4|
+[V:1](d/e/) (d/=c/) B z|[V:2]A,/[Ad=f]/ [Adf]/[Adf]/ =G,/[Gd=f]/ [Gdf]/[Gdf]/|[V:3]x4|
+[V:1]=G B =c d|[V:2]=G,/[=GB=f]/ [GBf]/[GBf]/ G,/[GBf]/ [GBf]/[GBf]/|[V:3]x4|
+[V:1]e2 z e|[V:2]=C/[=G=ce]/ [Gce]/[Gce]/ C/[Gce]/ [Gce]/[Gce]/|[V:3]x4|
+[V:1]e e e e|[V:2]E/[GBe]/ [GBe]/[GBe]/ E/[GBe]/ [GBe]/[GBe]/|[V:3]x4|
+[V:1]=f3/2 e/ d z|[V:2]D/[=FAd]/ [FAd]/[FAd]/ D/[FAd]/ [FAd]/[FAd]/|[V:3]x4|
+[V:1]G d =c B|[V:2]G,/[GB=f]/ [GBf]/[GBf]/ E/[GBe]/ [GBe]/[GBe]/|[V:3]x4|
+[V:1]A2 z2|[V:2]A,/[A=ce]/ [Ace]/[Ace]/ E/[Ace]/ [Ace]/[Ace]/|[V:3]x4|
+[V:1]z4|[V:2]!arpeggio![A,EAc]/>[Cc]/!wedge![Dd]/!wedge![^D^d]/ !wedge![Ee]/!wedge![Ff]/!wedge![Gg]/!wedge![Aa]/|[V:3]x4|
+[V:1]z4|[V:2]!wedge![Bb]!wedge![^B^b]!wedge![cc'] z|[V:3]x4|
+[V:1]z4|[V:2][EBd]/>[EBd]/!wedge![EBd]/>!wedge![EBd]/ !wedge![EAc]!wedge![EAc]|[V:3]x4|
+[V:1]z4|[V:2][EBd]/>[EBd]/!wedge![EBd]/>!wedge![EBd]/ !wedge![EAc]!wedge![EAc]|[V:3]x4|
+[V:1]z4|[V:2][EBd]/>[EBd]/!wedge![EBd]/>!wedge![EBd]/ !wedge![EAc]!wedge![EAc]|[V:3]x4|
+[V:1]z2 z A:|[V:2][EBd]/>[EBd]/!wedge![EBd]/>!wedge![EBd]/ !wedge![EAc] z:|[V:3]x4:|
+[V:1]z4|[V:2]!arpeggio![A,EAc]/>[Cc]/!wedge![Dd]/!wedge![^D^d]/ !wedge![Ee]/!wedge![Ff]/!wedge![Gg]/!wedge![Aa]/|[V:3]x4|
+[V:1]z4|[V:2]!wedge![Bb]!wedge![^B^b]!wedge![cc'] z|[V:3]x4|
+[V:1]z4|[V:2][EBd]/>[EBd]/!wedge![EBd]/>!wedge![EBd]/ !wedge![EAc]!wedge![EAc]|[V:3]x4|
+[V:1]z4|[V:2][EBd]/>[EBd]/!wedge![EBd]/>!wedge![EBd]/ !wedge![EAc]!wedge![EAc]|[V:3]x4|
+[V:1]z4|[V:2][EBd]/>[EBd]/!wedge![EBd]/>!wedge![EBd]/ !wedge![EAc]!wedge![EAc]|[V:3]x4|
+[V:1]z2 z A|:[V:2][EBd]/>[EBd]/!wedge![EBd]/>!wedge![EBd]/ !wedge![EAc] z|:[V:3]x4|:
+[V:1]c c c c|[V:2]!p! A,/[Ace]/ [Ace]/[Ace]/ A,/[Ace]/ [Ace]/[Ace]/|[V:3]x4|
+[V:1](d/e/) (d/c/) B z|[V:2]A,/[Bdf]/ [Bdf]/[Bdf]/ E/[Bde]/ [Bde]/[Bde]/|[V:3]x4|
+[V:1]B d f3/2 e/|[V:2]E/[Gde]/ [Gde]/[Gde]/ E/[Gde]/ [Gde]/[Gde]/|[V:3]x4|
+[V:1]c2 z A|[V:2]A,/[Ace]/ [Ace]/[Ace]/ E/[Ace]/ [Ace]/[Ace]/|[V:3]x4|
+[V:1]c c c c|[V:2]A,/[Ace]/ [Ace]/[Ace]/ A,/[Ace]/ [Ace]/[Ace]/|[V:3]x4|
+[V:1](d/e/) (d/c/) B z|[V:2]A,/[Bdf]/ [Bdf]/[Bdf]/ E/[Bde]/ [Bde]/[Bde]/|[V:3]x4|

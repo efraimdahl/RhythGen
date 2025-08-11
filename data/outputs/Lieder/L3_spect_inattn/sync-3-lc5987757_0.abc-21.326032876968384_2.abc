@@ -1,0 +1,34 @@
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=92
+M:9/8
+K:F
+V:1 treble nm="Gesang\nVoice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+[V:1]"^Andantino" z9|[V:2]!p! A2 d (f2 d f2 d)|[V:3][FA]3 [FA]6|[V:4]D2 A, (D2 A, D2 A,)|[V:5]D,3 D,6|
+[V:1]z9||[V:2]A2 d (f2 d f2 d)||[V:3][FA]3 [FA]6||[V:4]D2 A, (D2 A, D2 A,)||[V:5]D,3 D,6||
+[V:1][M:6/8]!mp! A3/2 B/ A A2 A|[V:2][M:6/8] A2 d (f2 d)|[V:3][M:6/8] [FA]3 [FA]3|[V:4][M:6/8] D2 A, (D2 A,)|[V:5][M:6/8] D,3 D,3|
+[V:1]A2 d ^c3|[V:2]A2 d (g2 ^c)|[V:3][FA]3 [GA]3|[V:4]D2 A, (E2 A,)|[V:5]D,3 D,3|
+[V:1]d2 A B2 A|[V:2](Ada) (BdB)|[V:3][FA]3 [GB]3|[V:4](FA,F) (G,DG,)|[V:5]D,3 D,3|
+[V:1]d3 A2 z|[V:2](Ada) (AdA)|[V:3][FA]3 [FA]3|[V:4](DA,D) (A,DA,)|[V:5]D,3 D,3|
+[V:1]!<(! G3/2 G/ G G2 G!<)!|[V:2]!<(! (cdc) (cec)!<)!|[V:3][F_A]3 [GB]3|[V:4](DFD) (CEC)|[V:5]G,3 C,3|
+[V:1]c2 f!>(! (_e2 d)|[V:2](_Acf)!>(! (G_eG)|[V:3]F3 _E3|[V:4](_A,CA,) (C_EC)|[V:5]F,3 C,3|
+[V:1]c2 =B c2 G!>)!|[V:2](cdF) (Gc_E)!>)!|[V:3]_E3 C3|[V:4](_A,CF,) (_E,G,C,)|[V:5]F,3 C,3|
+[V:1]G3 G2 z||[V:2]!<(! (_EGc) (=BGF)!<)!||[V:3]C3 D3||[V:4](_E,C,G,) (F,G,_A,)||[V:5]C,3 C,3||
+[V:1][M:9/8] z9||[V:2][M:9/8] G2 c G3 G3||[V:3][M:9/8] E3 E3 E3||[V:4][M:9/8] G,2 C (G,2 C) (G,CG,)||[V:5][M:9/8] C,3 C,6||
+[V:1][M:6/8] z6|[V:2][M:6/8] c2 d _e2 f|[V:3][M:6/8] _E2 F G2 A|[V:4][M:6/8] (CG,C) (C_EC)|[V:5][M:6/8] C,3 C,3|
+[V:1]z6|[V:2]g2 _e d2 c|[V:3]=B2 G F2 _E|[V:4](_EG,E) (CF,C)|[V:5]C,3 C,3|
+[V:1]z2 z z2!mp! G|[V:2](=B2 d) G3|[V:3]F3 F3|[V:4](DG,D) (=B,DB,)|[V:5]C,3 C,3|
+[V:1]!<(! c3/2 G/ _e d3/2 c/ B|[V:2]!<(! (Gcg) (GBg)|[V:3]_E3 D3|[V:4](CG,C) (B,G,B,)|[V:5]C,3 C,3|
+[V:1]A3/2 B/ c!<)! (d_e) c|[V:2](^FAf)!<)! (Gcg)|[V:3]_E3 E3|[V:4](A,CA,) (G,CG,)|[V:5]C,3 C,3|
+[V:1]!>(! g6!>)!|[V:2](Gdg) (Gdg)|[V:3][=B,D]3 [B,D]3|[V:4](G,,D,G,) (D,G,=B,)|[V:5]x6|
+[V:1]g3 G2 G||[V:2](Gdg) (Gdg)||[V:3][=B,D]3 [B,D]3||[V:4](G,,D,G,) (D,G,=B,)||[V:5]x6||
+[V:1][M:9/8] e3- e2 d c3||[V:2][M:9/8]!>(! (Gcg) (Gcg) (Gcg)!>)!||[V:3][M:9/8] [CE]3 [CE]3 [CE]3||[V:4][M:9/8] (C,G,C) (C,G,C) (C,G,C)||[V:5][M:9/8] x9||
+[V:1][M:6/8] c6-|[V:2][M:6/8]!p! (G2 c _e2 c)|[V:3][M:6/8] [C_E]3 [CE]3|[V:4][M:6/8] (C,G,C) (G,,G,C)|[V:5][M:6/8] x6|
+[V:1]c6-|[V:2](G2 c _e2 c)|[V:3][C_E]3 [CE]3|[V:4](C,G,C) (G,,G,C)|[V:5]x6|
+[V:1]c2 z z2 z|[V:2](G2 c _e2 c)|[V:3][C_E]3 [CE]3|[V:4](C,G,C) (G,,G,C)|[V:5]x6|
+[V:1]z6|[V:2](G2 c _e2 c)|[V:3][C_E]3 [CE]3|[V:4](C,G,C) (G,,G,C)|[V:5]x6|
+[V:1][Q:1/4=90] z6|][V:2]!arpeggio![CGc_eg]6|][V:3]x6|][V:4]!arpeggio![C,G,C_E]6|][V:5]x6|]

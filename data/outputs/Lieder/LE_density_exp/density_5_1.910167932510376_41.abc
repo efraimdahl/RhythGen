@@ -1,0 +1,12 @@
+%%score 1 { ( 2 4 6 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=92
+M:3/4
+K:F
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:4 treble 
+V:6 treble 
+V:3 bass 
+V:5 bass 
+[V:1]%distance=5[r:0/0]z6|[V:2](A,)[I:staff -1][FAf][CFc][B,FB][A,FA][G,EG])|[V:3][F,,F,]2 z2 [C,,C,]2|[V:4]%distance=5[r:0/0]x6|[V:5]%distance=5[r:0/0]x6|[V:6]%distance=5[r:0/0]x6|

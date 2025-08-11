@@ -1,0 +1,50 @@
+%syncopation 2 1 2 1 2 1 2 5 2 2 2 2 2 2 2 6 2 2 2 2 2 2 2 5 2 1 2 1 2 1 2 2 5
+%%score 1 2 { ( 3 6 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=120
+M:2/4
+K:G
+V:1 treble nm="Voice\n(verse 1)"
+V:2 treble nm="Voice\n(verse 2)"
+V:3 treble nm="Piano"
+V:6 treble 
+V:4 bass 
+V:5 bass 
+[V:1]"^Moderato" z4|:[V:2]z4|:[V:3]"^Allegro" z/ (D/[GB]/D/) z/ (D/[GB]/D/)|:[V:4]!p! [G,,G,]2 [F,,F,]2|:[V:5]x4|:[V:6]x4|:
+[V:1]z4|:[V:2]z4|:[V:3]z/ (D/[GB]/D/) z/ (D/[GB]/D/)|:[V:4][G,,G,]2 [F,,F,]2|:[V:5]x4|:[V:6]x4|:
+[V:1]!mp! B2 A A|[V:2]z4|[V:3]z/ (D/[GB]/D/) z/ (D/[FA]/D/)|[V:4][G,,G,]2 [D,,D,]2|[V:5]x4|[V:6]x4|
+[V:1]B G A A|[V:2]z4|[V:3]z/ (D/[GB]/D/) z/ (D/[FA]/D/)|[V:4][G,,G,]2 [D,,D,]2|[V:5]x4|[V:6]x4|
+[V:1]B2 z2|[V:2]z4|[V:3]z/ (D/[GB]/D/) z/ (D/[GB]/D/)|[V:4][G,,G,]2 [D,,D,]2|[V:5]x4|[V:6]x4|
+[V:1]d2 d d|[V:2]d2 d d|[V:3]z/ (D/[GB]/D/) z/ (D/[Gd]/D/)|[V:4][G,,G,]2 [B,,B,]2|[V:5]x4|[V:6]x4|
+[V:1]e2 d2|[V:2]e2 d2|[V:3]z/ (E/[Ge]/E/) z/ (D/[Gd]/D/)|[V:4][C,C]2 [B,,B,]2|[V:5]x4|[V:6]x4|
+[V:1]c2 B2|[V:2]c2 B2|[V:3]z/ (D/[Ac]/D/) z/ (D/[GB]/D/)|[V:4][F,,F,]2 [G,,G,]2|[V:5]x4|[V:6]x4|
+[V:1](Ad) (cA)|[V:2](Ad) (cA)|[V:3]z/ (D/[FA]/D/) z/ (D/[FA]/D/)|[V:4][D,,D,]2 [F,,F,]2|[V:5]x4|[V:6]x4|
+[V:1]B2 z2|[V:2]B2 z2|[V:3]z/ (D/[GB]/D/) z/ (D/[GB]/D/)|[V:4][G,,G,]2 [D,,D,]2|[V:5]x4|[V:6]x4|
+[V:1]d2 d d|[V:2]d2 d d|[V:3]z/ (D/[GB]/D/) z/ (D/[Gd]/D/)|[V:4][B,,,B,,]2 [B,,B,]2|[V:5]x4|[V:6]x4|
+[V:1]d2 ^c2|[V:2]d2 ^c2|[V:3]z/ (E/[Gd]/E/) z/ (E/[G^c]/E/)|[V:4][E,,E,]2 [A,,A,]2|[V:5]x4|[V:6]x4|
+[V:1](^ce) (dB)|[V:2](^ce) (dB)|[V:3]z/ (E/[G^c]/E/) z/ (D/[GB]/D/)|[V:4][^C,,^C,]2 [D,,D,]2|[V:5]x4|[V:6]x4|
+[V:1]A2 z2|[V:2]A2 z2|[V:3]z/ (D/[FA]/D/) z/ (^C/[GA]/C/)|[V:4][A,,,A,,]2 [A,,A,]2|[V:5]x4|[V:6]x4|
+[V:1]A2 A A|[V:2]A2 A A|[V:3]z/ (D/[FA]/D/) z/ (D/[GA]/D/)|[V:4][D,,D,]2 [F,,F,]2|[V:5]x4|[V:6]x4|
+[V:1](^c>e) d2|[V:2](^c>e) d2|[V:3]z/ (E/[G^c]/E/) z/ (D/[Fd]/D/)|[V:4][A,,A,]2 [B,,B,]2|[V:5]x4|[V:6]x4|
+[V:1]d2 d d|[V:2]d2 d d|[V:3]z/ (E/[^Gd]/E/) z/ (E/[Gd]/E/)|[V:4][E,,E,]2 [^G,,^G,]2|[V:5]x4|[V:6]x4|
+[V:1]d2 ^c2|[V:2]d2 ^c2|[V:3]z/ (E/[Ad]/E/) z/ (E/[A^c]/E/)|[V:4][A,,A,]2 [G,,G,]2|[V:5]x4|[V:6]x4|
+[V:1]d2 d d|[V:2]d2 d d|[V:3]z/ (D/[Ad]/D/) z/ (D/[Fcd]/D/)|[V:4][F,,F,]2 [A,,A,]2|[V:5]x4|[V:6]x4|
+[V:1]g2 (fe)|[V:2]g2 (fe)|[V:3]z/ (D/[Gd]/D/) z/ (E/[A^c]/E/)|[V:4][B,,B,]2 [A,,A,]2|[V:5]x4|[V:6]x4|
+[V:1](df) (e^c)|[V:2](df) (e^c)|[V:3]z/ (F/[Ad]/F/) z/ (G/[A^c]/G/)|[V:4][D,D]2 [A,,A,]2|[V:5]x4|[V:6]x4|
+[V:1]d2 z2|[V:2]d2 z2|[V:3]z/ (F/[Ad]/F/) z/ (G/[Be]/G/)|[V:4][D,D]2 [G,,G,]2|[V:5]x4|[V:6]x4|
+[V:1]z2!p! (AB)|[V:2]z2!p! (AB)|[V:3]z/ (A/[cd]/A/) z/ (F/[Ad]/D/)|[V:4][F,,F,]2 [D,,D,]2|[V:5]x4|[V:6]x4|
+[V:1]c2 B2|[V:2]c2 B2|[V:3]z/ (D/[Fc]/D/) z/ (D/[GB]/D/)|[V:4][F,,F,]2 [G,,G,]2|[V:5]x4|[V:6]x4|
+[V:1]A2 G2|[V:2]A2 G2|[V:3]z/ (D/[Fc]/D/) z/ (D/[GB]/D/)|[V:4][D,,D,]2 [G,,G,]2|[V:5]x4|[V:6]x4|
+[V:1]d2 d d|[V:2]d2 d d|[V:3]z/ (D/[Fc]/D/) z/ (D/[Fd]/D/)|[V:4][A,,A,]2 [C,C]2|[V:5]x4|[V:6]x4|
+[V:1]d2 ^d2|[V:2]d2 ^d2|[V:3]z/ (D/[Gd]/D/) z/ (D/[Gd]/D/)|[V:4][B,,B,]2 [_B,,_B,]2|[V:5]x4|[V:6]x4|
+[V:1]e2 e2|[V:2]e2 e2|[V:3]z/ (E/[Ae]/E/) z/ (E/[^Ge]/E/)|[V:4][A,,A,]2 [B,,B,]2|[V:5]x4|[V:6]x4|
+[V:1](ef) (ge)|[V:2](ef) (ge)|[V:3]z/ (E/[GA]/E/) z/ (E/[G^c]/E/)|[V:4][^C,^C]2 [A,,A,]2|[V:5]x4|[V:6]x4|
+[V:1]d4-|[V:2]d4-|[V:3]z/ (D/[Fd]/D/) z/ (D/[Fd]/D/)|[V:4][D,,D,]2 [C,,C,]2|[V:5]x4|[V:6]x4|
+[V:1]d2 d2|[V:2]d2 d2|[V:3]z/ (D/[Gd]/D/) z/ (D/[Gd]/D/)|[V:4][B,,,B,,]2 [_B,,,_B,,]2|[V:5]x4|[V:6]x4|
+[V:1](d^c) (e=c)|[V:2](d^c) (e=c)|[V:3]z/ (E/[A^c]/E/) z/ (E/[G=c]/E/)|[V:4][A,,,A,,]2 [A,,A,]2|[V:5]x4|[V:6]x4|
+[V:1](Bd) (cA)|1,2[V:2](Bd) (cA)|1,2[V:3]z/ (D/[GB]/D/) z/ (D/[Fc]/D/)|1,2[V:4]D,2 [D,,D,]2|1,2[V:5]x4|1,2[V:6]x4|1,2
+[V:1]G2 z2:|2[V:2]G2 z2:|2[V:3]z/ (D/[GB]/D/) z/ (D/[GB]/D/):|2[V:4][G,,G,]2 [F,,F,]2:|2[V:5]x4:|2[V:6]x4:|2
+[V:1]G2 z2|[V:2]G2 z2|[V:3]z/ (D/[GB]/D/) z/ (D/[GB]/D/)|[V:4][G,,G,]2 [D,,D,]2|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2]z4|[V:3]z/ (D/[GB]/D/) z/ (D/[GB]/D/)|[V:4][G,,G,]2 [D,,D,]2|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2]z4|[V:3]z/ (D/[GB]/D/) z/ (D/[GB]/D/)|[V:4][G,,G,]2 [D,,D,]2|[V:5]x4|[V:6]x4|
+[V:1]!fermata!z4|][V:2]!fermata!z4|][V:3]z/ (D/[GB]/D/) !fermata![DG]2|][V:4]!fermata![G,,G,]4|][V:5]x4|][V:6]x4|]

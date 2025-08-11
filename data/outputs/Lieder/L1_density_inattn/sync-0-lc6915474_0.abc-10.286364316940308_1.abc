@@ -1,0 +1,35 @@
+%distance 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=87
+M:6/16
+K:G
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:6 treble nm="Flute"
+V:7 treble nm="Oboe"
+V:8 treble transpose=-2 nm="B Clarinet"
+V:9 treble transpose=-2 nm="B Clarinet"
+V:10 treble transpose=-14 nm="Bass Clarinet"
+V:11 treble transpose=-9 nm="Alto Saxophone"
+V:12 treble transpose=-14 nm="Tenor Saxophone"
+V:13 treble transpose=-21 nm="Baritone Saxophone"
+V:14 treble transpose=-7 nm="Horn in F"
+V:15 treble transpose=-2 nm="B Trumpet"
+V:16 treble transpose=-2 nm="B Trumpet"
+V:17 bass nm="Trombone"
+V:18 bass nm="Euphonium"
+V:19 bass nm="Tuba"
+V:20 perc stafflines=1 nm="Concert Snare Drum"
+K:none
+I:percmap E B 38 normal
+V:21 perc stafflines=1 nm="Concert Bass Drum"
+K:none
+I:percmap E B 35 normal
+V:22 perc stafflines=1 nm="Cymbal"
+K:none
+I:percmap E B 57 normal
+[V:1]z3|][V:2]!fff! [bd'g'] z/ [gbg']/[gbg'] z/|][V:3][G,,,G,,] z/ [G,,,G,,] z/|][V:4]x3|][V:5]x3|][V:6]!ff! g' z/ g'/g' z/|][V:7]!ff! b z/ b/b z/|][V:8]!ff! [ae'] z/ [ae']/[ae']/ z/|][V:9]!ff! [ca] z/ [ca]/[ca]/ z/|][V:10]!ff! A, z/ A, z/|][V:11]!ff! b z/ b/b/ z/|][V:12]!ff! c z/ c/c/ z/|][V:13]!ff! E z/ E z/|][V:14]!ff! d z/ d/d/ z/|][V:15]!ff! e z/ e/e/ z/|][V:16]!ff! c z/ c/c/ z/|][V:17]!ff! D z/ D/D/ z/|][V:18]!ff! B, z/ B,/B,/ z/|][V:19]!ff! G,, z/ G,, z/|][V:20]!ff! E z/ E/E/ z/|][V:21]!ff! E z/ E/E/ z/|][V:22]!ff! E z/ E/E/ z/|]

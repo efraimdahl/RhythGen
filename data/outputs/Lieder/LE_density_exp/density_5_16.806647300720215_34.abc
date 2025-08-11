@@ -1,0 +1,35 @@
+%%score ( 1 2 ) { ( 3 5 ) | 4 }
+L:1/8
+Q:1/4=71
+M:6/8
+K:Ab
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:5 treble 
+V:4 bass 
+[V:1]!>(! c6-|[V:2]%distance=5[r:0/24]x6|[V:3][CFc]2 z!>(! (c2 =B!>)!|[V:4]C,,(C,F, A,F,C,)|[V:5]x3 [CF]3|
+[V:1]c2!>)! z z2!p! F|[V:2]x6|[V:3][CFc]3) ([CF]3|[V:4]C,,(C,F, A,F,C,)|[V:5]x6|
+[V:1]G3 F2 G|[V:2]x6|[V:3][DFG]3 [C=EF]2 [CEG]|[V:4]C,,(C,F, B,F,C,)|[V:5]x6|
+[V:1]!<(! A2 A A B c!<)!|[V:2]x6|[V:3][CFA]3)!<(! (ABc!<)!|[V:4]C,,(C,F, A,F,C,)|[V:5]x3 F3|
+[V:1]!>(! c3-!>)! c2 z|[V:2]x6|[V:3][=EGc]3)!>(! (c3!>)!|[V:4]C,,(C,=E, B,E,C,)|[V:5]x3 (GAB|
+[V:1]z2 z z2 F|[V:2]x6|[V:3][CFc]3) F3|[V:4]C,,(C,F, A,F,C,)|[V:5]x6|
+[V:1]G3 F2 G|[V:2]x6|[V:3][DFG]3 [C=EF]2 [CEG]|[V:4]C,,(C,F, B,F,C,)|[V:5]x6|
+[V:1]!<(! A3 B c d!<)!|[V:2]x6|[V:3][CFA]3 [B,B][Cc][Dd]|[V:4]C,,(C,F, A,F,D,)|[V:5]x3 F3|
+[V:1]e3 e3-|[V:2]x6|[V:3][EAce]3!<(! (e3!<)!|[V:4]E,,(E,A, CA,E,)|[V:5]x3 (Bcd|
+[V:1]e3- e2 z|[V:2]x6|[V:3][EAe]3)!>(! (efg!>)!|[V:4]E,,(E,A, CA,E,)|[V:5]x3) A3|
+[V:1]z6|[V:2]x6|[V:3]!>(! [Bdf]3) (fed!>)!|[V:4]E,,(E,B, DB,E,)|[V:5]x3 [GB]3|
+[V:1]z2 z z2 e|[V:2]x6|[V:3][EAc]3) (cde|[V:4]E,,(E,A, CA,E,)|[V:5]x3 E3|
+[V:1]d3- d2 c|[V:2]x6|[V:3][_GBd]3) (dcB|[V:4]E,,(E,_G, B,G,E,)|[V:5]x3 [E_G]3|
+[V:1](B=A) A (Bc) d|[V:2]x6|[V:3][E_G=A]3) (Bcd|[V:4]E,,(E,F, CF,E,)|[V:5]x3 E3|
+[V:1]c6|[V:2]x6|[V:3][CF=Ac]3)!<(! (c3!<)!|[V:4]F,,(C,F, =A,F,C,)|[V:5]x3 (FG=A|
+[V:1]F3 z2 F|[V:2]x6|[V:3][=DFB]3) (B3|[V:4]F,,(B,,=D, F,D,B,,)|[V:5]x3 (=D=EF|
+[V:1](B2 F) G2 F|[V:2]x6|[V:3][B,FB]3) ([=DG]3|[V:4]F,,(B,,=D, G,D,B,,)|[V:5]x6|
+[V:1]B3 (Bc) =d|[V:2]x6|[V:3][=DGB]3) (Bc=d|[V:4]F,,(B,,=D, G,D,B,,)|[V:5]x3 G3|
+[V:1]!<(! e3-!<)! e2!>(! =d!>)!|[V:2]x6|[V:3]!<(! [E=Ae]3)!<)!!>(! ([EGe]2 [EG=d])!>)!|[V:4]E,,(C,E, =A,E,C,)|[V:5]x6|
+[V:1](c3- c2 =d)|[V:2]x6|[V:3](c3- c2 =d)|[V:4]E,,(C,=D, ^F,D,C,)|[V:5][=D=A]6|
+[V:1]=d3- d2 z|[V:2]x6|[V:3][=DG=d]3 (d3|[V:4]=D,,(=D,G, =B,G,D,)|[V:5]x3 (G=A=B|
+[V:1]z6|[V:2]x6|[V:3][=EGc]3) (c3|[V:4]G,,(C,=E, G,E,C,)|[V:5]x3 =EFG|
+[V:1]z6|[V:2]x6|[V:3][CGc]3) ([=E=A]3|[V:4]G,,(C,=E, =A,E,C,)|[V:5]x6|
+[V:1][Q:1/4=60] z6[Q:1/4=50][Q:1/4=45]|[V:2]x6|[V:3][=E=Ac]3)!>(! (c=d=e!>)!|[V:4]G,,(C,=E, =A,E,C,)|[V:5]x3 =A3|
+[V:1][Q:1/4=50] z6|[V:2]x6|[V:3]!pp! [F=B=d]3) (f3|[V:4]G,,(F,G, =DG,F,)|[V:5]x3 (=Bc=d|

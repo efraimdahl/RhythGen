@@ -1,0 +1,47 @@
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=45
+M:4/4
+K:D
+V:1 treble nm="Voice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+V:4 bass 
+[V:1]z8|[V:2]"^Andante cantabile"!p! F4 E2 D2|[V:3]!pp! (3D,,A,,D, (3F,D,A,, (3D,,F,,A,, (3D,A,,F,,|[V:4]x8|
+[V:1]!p! F4 F2 D2|[V:2]D4 z4|[V:3]!pp! (3D,,A,,D, (3F,D,A,, (3D,,A,,D, (3F,D,A,,|[V:4]x8|
+[V:1]E4 D4|[V:2]C4 z4|[V:3]!pp! (3A,,,C,E, (3A,E,C, (3A,,,A,,C, (3G,CG,|[V:4]x8|
+[V:1]G4 G2 G2|[V:2]C2 E2 C2 E2|[V:3](3A,,,A,,E, (3G,A,G, (3A,,,A,,E, (3G,E,A,,|[V:4]x8|
+[V:1]F4 z4|[V:2]D4 z4|[V:3](3D,,F,,A,, (3D,F,D, (3D,,F,,A,, (3D,A,,F,,|[V:4]x8|
+[V:1]F4 F2 D2|[V:2]!pp! D4 z4|[V:3](3D,,F,,A,, (3D,F,D, (3D,,F,,A,, (3D,A,,F,,|[V:4]x8|
+[V:1]E4 D4|[V:2]C4 z4|[V:3](3A,,,C,E, (3G,E,C, (3A,,,A,,C, (3G,C,A,,|[V:4]x8|
+[V:1]G4 G2 G2|[V:2]C2 E2 C2 E2|[V:3](3A,,,A,,C, (3G,A,C, (3A,,,A,,C, (3G,C,A,,|[V:4]x8|
+[V:1]F4 z2 A2|[V:2]D4 z4|[V:3](3D,,F,,A,, (3D,F,D, (3D,,F,,A,, (3D,A,,F,,|[V:4]x8|
+[V:1]d4 d2 c2|[V:2]!pp! D4 z4|[V:3]!pp! (3D,,A,,D, (3F,D,A,, (3D,,F,,A,, (3D,A,,F,,|[V:4]x8|
+[V:1]B4 B4|[V:2]!p! B,4 z4|[V:3]!pp! (3D,,G,,B,, (3D,B,,G,, (3D,,G,,B,, (3D,B,,G,,|[V:4]x8|
+[V:1]A4 z4|[V:2]A,4 z4|[V:3]!pp! (3D,,F,,A,, (3D,A,,F,, (3D,,F,,A,, (3D,A,,F,,|[V:4]x8|
+[V:1]B4 B2 B2|[V:2][DGB]2 [DGB]2 [DGB]2 [DGB]2|[V:3](3D,,G,,B,, (3D,B,,G,, (3D,,G,,B,, (3D,B,,G,,|[V:4]x8|
+[V:1]c4 z2 c2|[V:2][EGAc]4 z4|[V:3](3C,,G,,A,, (3C,A,,G,, (3C,,G,,A,, (3C,A,,G,,|[V:4]x8|
+[V:1]e4 e4|[V:2][EGA]2 [EGA]2 [EGA]2 [EGA]2|[V:3](3C,,G,,A,, (3C,A,,G,, (3C,,G,,A,, (3C,A,,G,,|[V:4]x8|
+[V:1]e4 z2 A2|[V:2][DEGA]4 z4|[V:3](3C,,G,,A,, (3C,A,,G,, (3C,,G,,A,, (3C,A,,G,,|[V:4]x8|
+[V:1]e4 A4|[V:2]!<(! (3CEG (3AEC (3A,EG (3AEC!<)!|[V:3](3C,,G,,A,, (3C,A,,G,, (3C,,G,,A,, (3C,A,,G,,|[V:4]x8|
+[V:1]f4 z2 f2|[V:2]!<(! (3A,DF (3AFD (3A,DF (3AFD!<)!|[V:3](3D,,F,,A,, (3D,A,,F,, (3D,,F,,A,, (3D,A,,F,,|[V:4]x8|
+[V:1]g4 e4|[V:2](3CEG (3AGE (3CEG (3AGE|[V:3](3C,,G,,A,, (3C,A,,G,, (3C,,G,,A,, (3C,A,,G,,|[V:4]x8|
+[V:1]d4 d4|[V:2](3A,DF (3AFD (3A,DF (3AFD|[V:3](3D,,F,,A,, (3D,A,,F,, (3D,,F,,A,, (3D,A,,F,,|[V:4]x8|
+[V:1]B4 B4|[V:2](3B,EG (3BGE (3B,EG (3BGE|[V:3](3E,,G,,B,, (3E,B,,G,, (3E,,G,,B,, (3E,B,,G,,|[V:4]x8|
+[V:1]e4 z2 A2|[V:2](3^A,EG (3^AGE (3A,EG (3AGE|[V:3](3C,,G,,^A,, (3C,A,,G,, (3C,,G,,A,, (3C,A,,G,,|[V:4]x8|
+[V:1]f4 e2 e2|[V:2](3A,DF (3AFD (3^A,CE (3^AEC|[V:3](3D,,F,,A,, (3D,A,,F,, (3C,,E,,^A,, (3C,A,,E,,|[V:4]x8|
+[V:1]f2 z2 d4|[V:2](3DFA (3dAF (3DFA (3dAF|[V:3](3D,,F,,A,, (3D,A,,F,, (3D,,F,,A,, (3D,A,,F,,|[V:4]x8|
+[V:1]B2 z2 z4|[V:2](3B,DF (3BFD (3B,DF (3BFD|[V:3](3B,,,F,,B,, (3D,B,,F,, (3B,,,F,,B,, (3D,B,,F,,|[V:4]x8|
+[V:1]G4 z2 B2|[V:2](3EGB (3eBG (3EGB (3eBG|[V:3](3E,,G,,B,, (3E,B,,G,, (3E,,G,,B,, (3E,B,,G,,|[V:4]x8|
+[V:1]e4 z2 e2|[V:2](3^A,EG (3^AGE (3A,EG (3AGE|[V:3](3^A,,,E,,G,, (3^A,,G,,E,, (3A,,,E,,G,, (3A,,G,,E,,|[V:4]x8|
+[V:1]f4 f2 f2|[V:2](3^A,DF (3BFD (3B,DF (3BFD|[V:3](3B,,,D,,F,, (3B,,F,,D,, (3B,,,D,,F,, (3B,,F,,D,,|[V:4]x8|
+[V:1]g4 f4|[V:2](3CGB (3cBG (3DGB (3dBG|[V:3](3E,,G,,B,, (3E,B,,G,, (3E,,G,,B,, (3E,B,,G,,|[V:4]x8|
+[V:1]f4 z4|[V:2](3DFB (3dBF (3DFB (3dBF|[V:3](3B,,,F,,B,, (3D,B,,F,, (3B,,,F,,B,, (3D,B,,F,,|[V:4]x8|
+[V:1]g4 B4|[V:2](3EGB (3eBG (3EGB (3eBG|[V:3](3E,,B,,E, (3G,E,B,, (3E,,G,,B,, (3E,B,,G,,|[V:4]x8|
+[V:1]c4 z2 c2|[V:2](3CF^A (3ecA (3CFA (3ecA|[V:3](3F,,^A,,C, (3F,C,A,, (3F,,A,,C, (3F,C,A,,|[V:4]x8|
+[V:1]B4 G2 E2|[V:2](3B,EG (3BGE (3B,EG (3BGE|[V:3](3E,,B,,E, (3G,E,B,, (3E,,G,,B,, (3E,B,,G,,|[V:4]x8|
+[V:1]^A4 z2 A2|[V:2](3CE^A (3cAE (3CEA (3cAE|[V:3](3F,,^A,,C, (3F,C,A,, (3F,,A,,C, (3F,C,A,,|[V:4]x8|
+[V:1]B4 B4|[V:2](3B,DF (3BFD (3B,DG (3BGD|[V:3](3D,,G,,B,, (3D,B,,G,, (3D,,G,,B,, (3D,B,,G,,|[V:4]x8|
+[V:1]e4 A2 z2|[V:2](3CEG (3^AEC (3F,CF (3^AFC|[V:3](3E,,G,,^A,, (3E,C,G,, (3F,,A,,C, (3F,C,A,,|[V:4]x8|
+[V:1]B4 G2 E2|[V:2](3B,DE (3GEB, (3DEG (3BGD|[V:3](3E,,G,,B,, (3E,B,,G,, (3E,,G,,B,, (3E,B,,G,,|[V:4]x8|
+[V:1]F4 z4|][V:2](3CEF (3^AFE (3FAc (3fc^A|][V:3](3F,,^A,,C, (3E,C,A,, (3F,,A,,C, (3F,C,A,,|][V:4]x8|]

@@ -1,0 +1,19 @@
+%syncopation 5 6 4 6 4 6 4 6 6 5 4 6 5 6 5 6 5 6 4 6 5 5 5 6 5 5 5 6 4 6 4 6 6 5 4 6
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=92
+M:4/4
+K:D
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+[V:1]"^Allegretto"!p! F|[V:2]z1|[V:3]z1|[V:4]x1|[V:5]x1|
+[V:1]A3/2 D/ D A B E z B|[V:2]!p! z ([F,D-]3 [G,DE-]4|[V:3]D,,(.A,,.A,) z (A,,,.A,,).A, z|[V:4]x8|[V:5]x8|
+[V:1]A3/2 D/ D A B2 z!mp! F||[V:2][G,D-E] [F,D-]3 [G,DE]4)||[V:3]D,,(.A,,.A,) z A,,3 z||[V:4]x8||[V:5]x8||
+[V:1]A3/2 D/ D d B E z!p! F:|[V:2][F,D-E] [F,-D]3 [G,DE-]4):|[V:3]D,,(.A,,.A,) z (A,,,A,,).A, z:|[V:4]x8:|[V:5]x8:|
+[V:1][Q:4=71]"^ritard."!>(! A3/2 D/ D!>)!|:[V:2]z [F,D-E-]3|:[V:3](D,,.A,,.A,) z|:[V:4]x4|:[V:5]x4|:
+[V:1]A3/2 D/ D A B E z B|1[V:2]!p! E ([F,D-]3 (([G,DE]4|1[V:3]D,,(.A,,.A,) z (A,,,A,,).A, z|:[V:4]x8|:[V:5]x8|:
+[V:1][Q:1/4=65]"^rallent" A3/2 D/ D A B2 F||[V:2][E,G,D-E] [F,-D]3 [G,DE]4)||[V:3](D,,.A,,.A,) z (A,,,A,,).A, z:|[V:4]x8:|[V:5]x8:|
+[V:1]"^a tempo"[Q:1/4=84]^ritard."!<(! A3/2 D/ D D A B3!<)! F|[V:2]z ([F,D-E-]3 [F,D-E]4|[V:3](D,,.A,,.A,) z (A,,,A,,).A, z||[V:4]x8||[V:5]x8||

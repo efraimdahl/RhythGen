@@ -1,0 +1,33 @@
+%syncopation 4 4 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 5 4 3 3 4 3 6
+%%score ( 1 2 ) { ( 3 4 ) | 5 }
+L:1/8
+Q:1/4=120
+M:6/8
+K:Gb
+V:1 treble nm="Gesang\nVoice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:4 treble 
+V:5 bass 
+[V:1]"^Allegro vivace" z6|[V:2]x6|[V:3]!p! [DG]2 [DA] [DB]2 [DB]|[V:4]x3 (G2 _F)|[V:5][G,B,]2 [G,C] [G,D]2 [G,B,]|
+[V:1]z6|[V:2]x6|[V:3][Dc]3 [DB]2 z|[V:4]x6|[V:5](([F,A,]3 G,2)) z|
+[V:1]z6|[V:2]x6|[V:3][DF]2 [DG] [DA]2 [DGB]|[V:4]x3 F2 x|[V:5][D,A,]2 [D,B,] [D,C]2 [D,B,]|
+[V:1]z6|[V:2]x6|[V:3](([DAc]3 [DGB]2)) z|[V:4]x6|[V:5](([D,F,]3 G,2)) z|
+[V:1]D2 D G2 G|[V:2]x3 B2 B|[V:3][DG]2 [DA] [DB]2 [DB]|[V:4]x3 (G2 _F)|[V:5][G,B,]2 [G,C] [G,D]2 [G,B,]|
+[V:1]A3 G2 G|[V:2]x6|[V:3][Dc]3 [DB]2 z|[V:4]x6|[V:5](([F,A,]3 G,2)) z|
+[V:1]A2 B c2 d|[V:2]x6|[V:3][DF]2 [DG] [DA]2 [DGB]|[V:4]x6|[V:5][D,A,]2 [D,B,] [D,C]2 [D,B,]|
+[V:1](d3 B2) z|[V:2]x6|[V:3](([DAc]3 [DGB]2)) z|[V:4]x6|[V:5](([D,F,]3 G,2)) z|
+[V:1]G2 G F2 F|[V:2]x6|[V:3][EG]2 [EG] [=DF]2 [DF]|[V:4]x6|[V:5][E,B,]2 [E,B,] [A,B,]2 [A,B,]|
+[V:1]B3 A2 A|[V:2]x6|[V:3]B3 A2 A|[V:4](E2 D C2) C|[V:5]G,3 [A,,E,]2 [A,,E,]|
+[V:1]G2 G F2 F|[V:2]x6|[V:3][B,EG]2 [B,EG] [A,B,=DF]2 [A,B,DF]|[V:4]x6|[V:5]B,,2 B,, B,,2 B,,|
+[V:1]E3 z2 B|[V:2]x6|[V:3][G,B,E]3 z2 z|[V:4]x6|[V:5]E,3 z2 z|
+[V:1]B2 B B2 B|[V:2]x6|[V:3][=DFB]2 [DFB] [DFB]2 [DFB]|[V:4]x6|[V:5][B,,B,]2 [B,,B,] [B,,B,]2 [B,,B,]|
+[V:1]c3 c2 c|[V:2]x6|[V:3][__EFc]3 [EFc]2 [EFc]|[V:4]x6|[V:5][A,,A,]3 [A,,A,]2 [A,,A,]|
+[V:1]B2 B B2 B|[V:2]x6|[V:3][D_FB]2 [DFB] [DFB]2 [DFB]|[V:4]x6|[V:5][G,,G,]2 [G,,G,] [G,,G,]2 [G,,G,]|
+[V:1](c3 A2) z|[V:2]x6|[V:3]((([C_FA]3 [CFA]2))) z|[V:4]x6|[V:5][_F,,_F,]3- [F,,F,]2 z|
+[V:1]G2 G A2 A|[V:2]G2 G A2 A|[V:3][B,G]2 [B,G] [CFA]2 [CFA]|[V:4]x6|[V:5][G,,G,]2 [G,,G,] D,2 D,|
+[V:1](B2 d) c2 e|[V:2]x6|[V:3](([DGB]2 [_FGd])) [EGc]2 [Ge]|[V:4]x6|[V:5][G,,G,]3 [C,G,]3|
+[V:1]d2 d c2 F|1,2,3[V:2]x6|1,2,3[V:3][Gd]2 [Gd] [Fc]2 [CDF]|1,2,3,4[V:4]x6|1,2,3[V:5][D,B,]2 [D,B,] [D,A,]2 [D,A,]|1,2,3
+[V:1]G3 z2 z:|4[V:2]x6:|4[V:3][B,DG]3 z2 z:|4[V:4]x6:|4[V:5][G,,G,]3 z2 z:|4
+[V:1][Q:1/4=110] G3[Q:1/4=100] z2 z||[V:2]x6||[V:3]"_ritard." ([B,DG]2 [B,DG] [CDF]2 [CDF])||[V:4]x6||[V:5]([G,,G,]2 [G,,G,] [D,A,]2 [D,A,])||
+[V:1][Q:1/4=90] z2 z[Q:1/4=80] z2 z|][V:2]x6|][V:3][B,DG]3 z2 z|][V:4]x6|][V:5][G,,G,]3 z2 z|]

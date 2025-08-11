@@ -1,0 +1,17 @@
+%%score ( 1 2 ) { ( 3 5 ) | ( 4 6 ) }
+L:1/8
+Q:1/4=72
+M:3/4
+K:Ab
+V:1 treble nm="Chant\nVoice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:5 treble 
+V:4 bass 
+V:6 bass 
+[V:1]!>(! e6-|[V:2]%distance=3[r:0/5]x6|[V:3][EG])!>(![EGe] [EGe]3 [EGe]|[V:4][B,D]2 z2 [E,,E,]2|[V:5]%distance=3[r:0/5]x6|[V:6]%distance=3[r:0/5]x6|
+[V:1]e4- e!>)! z|[V:2]x6|[V:3][EGe]3!>)! [EGe][EGe][EGe]|[V:4]z2 [B,D]4|[V:5]x6|[V:6]x6|
+[V:1]"^dim." c6-|[V:2]x6|[V:3]!pp!"_dim." z [CFA] [CFA]3 [CFA]|[V:4][F,A,]2 z2 [C,,C,]2|[V:5]x6|[V:6]x6|
+[V:1]c2 F3 G|[V:2]x6|[V:3][CFA]3 [CFA][CFA][CFA]|[V:4]z2 [F,A,]4|[V:5]x6|[V:6]x6|
+[V:1]"^molto rall."[Q:1/4=70]!>(! A6-!>)!|[V:2]x6|[V:3]!pp!!>(! [A,CE]6!>)!|[V:4][A,,,A,,]6|[V:5]x6|[V:6]x6|
+[V:1]!fermata!A2 z2 z2|][V:2]x6|][V:3]!fermata![A,CE]6|][V:4]!fermata![A,,,A,,]6|][V:5]x6|][V:6]x6|]

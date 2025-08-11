@@ -1,0 +1,32 @@
+%syncopation 4 4 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 5 4 3 3 4 3 6
+%%score ( 1 2 ) { ( 3 4 ) | 5 }
+L:1/8
+Q:1/4=120
+M:6/8
+K:Gb
+V:1 treble nm="Gesang\nVoice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:4 treble 
+V:5 bass 
+[V:1]"^Allegretto giocoso" z6|[V:2]x6|[V:3]!f! [Bgb]2 [Aa] [Gg][Ff][Ee]|[V:4]x2 [Be] B2 G|[V:5][E,,E,]2 [B,EG] [B,EG]2 [B,E]|
+[V:1]z6|[V:2]x6|[V:3]([=DB]3 [FAB=d]2) z|[V:4]x6|[V:5][B,,B,]2 [F,B,=D] [F,B,D]2 [B,,B,]|
+[V:1]z6|[V:2]x6|[V:3][Beb]2 [Aa] [Gg][Ff][Ee]|[V:4]x2 [Be] B2 G|[V:5][E,,E,]2 [B,EG] [B,EG]2 [B,E]|
+[V:1]z6|:[V:2]x6|:[V:3][=DB=d]3 [B,B]2 [B,B]|:[V:4]x6|:[V:5][B,,B,]2 [F,B,=D] [F,B,D]2 [F,B,D]|:
+[V:1]B2 A G2 F|[V:2]x6|[V:3]!p! [B,EGB]2 [B,EGB] [B,EGB]2 [B,EGB]|[V:4]x6|[V:5][E,,E,]2 [E,G,] [E,G,]2 [E,G,]|
+[V:1]c2 B B2 z|[V:2]x6|[V:3][B,=DFB]2 [B,DFB] [B,DFB]2 [B,DFB]|[V:4]x6|[V:5][B,,F,]2 [B,,F,] [B,,F,]2 [B,,F,]|
+[V:1]B2 c =d2 d|[V:2]x3 =d B B|[V:3][EGB]2 [EGB] [=DAB]2 [DAB]|[V:4]x6|[V:5][E,B,]2 [E,B,] [B,,F,B,]2 [B,,F,B,]|
+[V:1]e3- e z B|[V:2]x6|[V:3][EGB]2 [EGB] [EGB]2 [EGB]|[V:4]x6|[V:5][E,G,B,]2 [E,G,B,] [E,G,B,]2 [E,G,B,]|
+[V:1]B2 A G2 F|[V:2]x6|[V:3][B,EGB]2 [B,EGB] [B,EGB]2 [B,EGB]|[V:4]x6|[V:5][E,,E,]2 [E,G,] [E,G,]2 [E,G,]|
+[V:1]c2 B B2 z|[V:2]x6|[V:3][B,=DFB]2 [B,DFB] [B,DFB]2 [B,DFB]|[V:4]x6|[V:5][B,,F,]2 [B,,F,] [B,,F,]2 [B,,F,]|
+[V:1]B2 B B2 B|[V:2]x3 =d B B|[V:3][EGB]2 [EGB] [=DAB]2 [DAB]|[V:4]x6|[V:5][E,B,]2 [E,B,] [B,,F,B,]2 [B,,F,B,]|
+[V:1]e3- e z e|[V:2]x6|[V:3][EGB]2 [EGB] [EGB]2 [EGB]|[V:4]x6|[V:5][E,G,B,]2 [E,G,B,] [E,G,B,]2 [E,G,B,]|
+[V:1]f2 f g2 f|[V:2]x6|[V:3]!p! [=DAB]2 [DAB] [DAB]2 [DAB]|[V:4]x6|[V:5][B,,F,B,]2 [B,,F,B,] [B,,F,B,]2 [B,,F,B,]|
+[V:1]e3 B2 e|[V:2]x6|[V:3][EGB]2 [EGB] [EGB]2 [EGB]|[V:4]x6|[V:5][E,G,B,]2 [E,G,B,] [E,G,B,]2 [E,G,B,]|
+[V:1]e2 e g2 e|[V:2]x3 g2 g|[V:3][EGc]2 [EGc] [EG=c]2 [EGc]|[V:4]x6|[V:5][C,G,C]2 [C,G,C] [=C,G,=C]2 [C,G,C]|
+[V:1]d3- d2 d|[V:2]x6|[V:3][FAd]2 [FAd] [FAd]2 [FAd]|[V:4]x6|[V:5][D,A,D]2 [D,A,D] [D,A,D]2 [D,A,D]|
+[V:1]d2 d g2 d|[V:2]x6|[V:3][GBd]2 [GBd] [GBd]2 [GBd]|[V:4]x6|[V:5][G,B,D]2 [G,B,D] [G,B,D]2 [G,B,D]|
+[V:1]e3- e2 d|[V:2]x6|[V:3][Gce]2 [Gce] [Gce]2 [Gd]|[V:4]x6|[V:5][C,G,C]2 [C,G,C] [C,G,C]2 [B,,G,]|
+[V:1]dc B BA =A|1[V:2]x6|1[V:3]dcB [CEB]2 [=CEF=A]|1[V:4]E2 E x3|1[V:5][C,G,]2 [C,G,] [=C,G,]2 [C,F,]|1
+[V:1]B3- B2 z:|2[V:2]x6:|2[V:3][=DFB]2 [DFB] [DFB]2 [DFB]:|2[V:4]x6:|2[V:5][B,,F,]2 [B,,F,] [B,,F,]2 [B,,F,]:|2
+[V:1][Q:3/8=70] !fermata!B3 z2 z|][V:2]x6|][V:3][=DFB]3 !arpeggio![dfb]3|][V:4]x6|][V:5][B,,F,]3 !arpeggio![B,,F,B,]3|]

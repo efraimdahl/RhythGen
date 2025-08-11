@@ -1,0 +1,51 @@
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=125
+M:6/8
+K:C
+V:1 treble nm="Hautbois"
+V:2 bass nm="Piano"
+V:4 bass 
+V:3 bass 
+V:5 bass 
+[V:1]"^Allegretto" z6|[V:2]!p! .[CEG]2 .[CEG] .[CEG]2 .[CEG]|[V:3].C,,.C,,.C,, .C,,.C,,.C,,|[V:4]x6|[V:5]x6|
+[V:1]z2 z z2!p! E|:[V:2].[CEG]2 .[CEG] .[CEG]2 .[CEG]|:[V:3].C,,.C,,.C,, .C,,.C,,.C,,|:[V:4]x6|:[V:5]x6|:
+[V:1]E2 E E2 E|[V:2][CEG]2 [CEG] [CEG]2 [CEG]|[V:3].C,,.C,,.C,, .C,,.C,,.C,,|[V:4]x6|[V:5]x6|
+[V:1]E2 D C2 z|[V:2][CEG]2 [B,DF] [CE]2 z|[V:3].C,,.C,,.C,, .C,,.C,,.C,,|[V:4]x6|[V:5]x6|
+[V:1]z2 z z2 E|[V:2]!pp! [EG]2 [EG] [EG]2 [EG]|[V:3].C,,.C,,.C,, .C,,.C,,.C,,|[V:4]x6|[V:5]x6|
+[V:1]E2 E E2 E|[V:2][EG]2 [EG] [EG]2 [EG]|[V:3].C,,.C,,.C,, .C,,.C,,.C,,|[V:4]x6|[V:5]x6|
+[V:1]E2 F G2 z|[V:2][EG]2 [DFG] [CEG]2 z|[V:3].C,,.C,,.C,, .C,,.C,,.C,,|[V:4]x6|[V:5]x6|
+[V:1]z2 z z2 G|[V:2]!pp! [EG]2 [EG] [EG]2 [EG]|[V:3].C,,.C,,.C,, .C,,.C,,.C,,|[V:4]x6|[V:5]x6|
+[V:1]G2 G ^F2 F|[V:2][EG]2 [EG] [EG]2 [EG]|[V:3].C,,.C,,.C,, .C,,.C,,.C,,|[V:4]x6|[V:5]x6|
+[V:1]E3- E2 z|[V:2]!pp! [EG]2 [EG] [EG]2 [EG]|[V:3].C,,.C,,.C,, .C,,.C,,.C,,|[V:4]x6|[V:5]x6|
+[V:1]z2 z z2!mf! ^D|[V:2][EG]2 [EG] [EG]2!mf! [^B,^D]|[V:3].C,,.C,,.C,, .C,,.C,,.^B,,,|[V:4]x6|[V:5]x6|
+[V:1]E2 ^D C2 B,|[V:2][B,E]2 [B,^D] [B,C]2 [B,D]|[V:3].B,,,.B,,,.B,,, .B,,,.B,,,.B,,,|[V:4]x6|[V:5]x6|
+[V:1]A,2 A, B,3|[V:2][B,^D]2 [A,C] [G,B,]3|[V:3].B,,,.B,,,.B,,, .B,,,.B,,,.B,,,|[V:4]x6|[V:5]x6|
+[V:1]z2 z z2!p! ^D|[V:2]!pp! [EG]2 [EG] [EG]2 [EG]|[V:3].B,,,.B,,,.B,,, .B,,,.B,,,.B,,,|[V:4]x6|[V:5]x6|
+[V:1]E2 ^D C2 B,|[V:2][EG]2 [EG] [EG]2 [EG]|[V:3].B,,,.B,,,.B,,, .B,,,.B,,,.B,,,|[V:4]x6|[V:5]x6|
+[V:1]A,3 B,3|[V:2][EG]2 [^D^F] E3|[V:3].B,,,.B,,,.B,,, .B,,,.B,,,.B,,,|[V:4]x3 G,2 B,|[V:5]x6|
+[V:1]z6|[V:2][I:staff +1] [EG]2 [EG] [EG]2 [EG]|[V:3].B,,,.B,,,.B,,, .B,,,.B,,,.B,,,|[V:4]x6|[V:5]x6|
+[V:1]z2 z z2!mf! ^D|[V:2]!pp! [EG]2 [EG] [EG]2!mf! [^B,^D]|[V:3].B,,,.B,,,.B,,, .B,,,.B,,,.^B,,,|[V:4]x6|[V:5]x6|
+[V:1]E2 ^D C2 B,|[V:2][B,E]2 [B,^D] [B,C]2 [B,D]|[V:3].B,,,.B,,,.B,,, .B,,,.B,,,.B,,,|[V:4]x6|[V:5]x6|
+[V:1]A,3 B,2 B,|[V:2][B,^D]2 [A,C] [G,B,]3|[V:3].B,,,.B,,,.B,,, .B,,,.B,,,.B,,,|[V:4]x6|[V:5]x6|
+[V:1]z2 z z2 ^D|[V:2]!pp! [EG]2 [EG] [EG]2 [EG]|[V:3].B,,,.B,,,.B,,, .B,,,.B,,,.B,,,|[V:4]x6|[V:5]x6|
+[V:1]E2 ^D C2 B,|[V:2][EG]2 [EG] [EG]2 [EG]|[V:3].B,,,.B,,,.B,,, .B,,,.B,,,.B,,,|[V:4]x6|[V:5]x6|
+[V:1]A,3 B,2 B,|[V:2][EG]2 [^D^F] E3|[V:3].B,,,.B,,,.B,,, .B,,,.B,,,.B,,,|[V:4]x3 G,2 B,|[V:5]x6|
+[V:1]z6|[V:2]!pp! [EG]2 [EG] [EG]2 [EG]|[V:3].B,,,.B,,,.B,,, .B,,,.B,,,.B,,,|[V:4]x6|[V:5]x6|
+[V:1]z2 z z2!mf! B,|[V:2]!pp! [EG]2 [EG] [EG]2 [EG]|[V:3].B,,,.B,,,.B,,, .B,,,.B,,,.B,,,|[V:4]x6|[V:5]x6|
+[V:1]!>!C2 C !>!D2 D|[V:2][CEG]2 [CEG] [B,FG]2 [B,FG]|[V:3].C,,.C,,.C,, .D,,.D,,.D,,|[V:4]x6|[V:5]x6|
+[V:1]E2 E G2 G|[V:2][CEG]2 [CEG] [CEG]2 [CEG]|[V:3].E,,.E,,.E,, .C,,.C,,.C,,|[V:4]x6|[V:5]x6|
+[V:1]z2 z z2 G|[V:2][CEG]2 [CEG] [CEG]2 [CEG]|[V:3].C,,.C,,.C,, .C,,.C,,.C,,|[V:4]x6|[V:5]x6|
+[V:1]!>!A2 A !>!_B2 B|[V:2][CFA]2 [CFA] [CEG]2 [CEG]|[V:3].F,,.F,,.F,, .G,,.G,,.G,,|[V:4]x6|[V:5]x6|
+[V:1]c3 A2 z|[V:2][CFA]2 [CFA] [CFA]2 [CFA]|[V:3].A,,.A,,.A,, .F,,.F,,.F,,|[V:4]x6|[V:5]x6|
+[V:1]z2 z z2 A|[V:2][CFA]2 [CFA] [CFA]2 [CFA]|[V:3].F,,.F,,.F,, .F,,.F,,.F,,|[V:4]x6|[V:5]x6|
+[V:1]A2 A _A2 A|[V:2][CFA]2 [CFA] [CF_A]2 [CFA]|[V:3].F,,.F,,.F,, .F,,.F,,.F,,|[V:4]x6|[V:5]x6|
+[V:1]G2 G c2 z|[V:2][CEG]2 [CEG] [CEG]2 z|[V:3].E,,.E,,.E,, .E,,.E,,.E,,|[V:4]x6|[V:5]x6|
+[V:1]z2 z z2!p! c|[V:2]!pp! [CEG]2 [CEG] [CEG]2 [CEG]|[V:3].E,,.E,,.E,, .E,,.E,,.E,,|[V:4]x6|[V:5]x6|
+[V:1]c2 c c2 c|[V:2]!pp! [CFA]2 [CFA] [CEG]2 [CEG]|[V:3].F,,.F,,.F,, .G,,.G,,.G,,|[V:4]x6|[V:5]x6|
+[V:1]c3 c2 z|[V:2][CFA]2 [CFA] [CFA]2 [CFA]|[V:3].A,,.A,,.A,, .F,,.F,,.F,,|[V:4]x6|[V:5]x6|
+[V:1]z2 z z2 F|[V:2][CFA]2 [CFA] [CFA]2 [CFA]|[V:3].F,,.F,,.F,, .F,,.F,,.F,,|[V:4]x6|[V:5]x6|
+[V:1]!<(! F2 F ^F2 F!<)!|[V:2]!<(! [CFA]2 [CFA] [C^D^FA]2 [CDFA]!<)!|[V:3].F,,.F,,.F,, .^F,,.F,,.F,,|[V:4]x6|[V:5]x6|
+[V:1]G3 G3|1,2,3[V:2][CEG]2 [CEG] [CDFG]2 [B,DFG]|1,2,3[V:3].G,,.G,,.G,, .G,,.G,,.G,,|1,2,3,4[V:4]x6|1,2,3,4[V:5]x6|1,2,3,4
+[V:1]z2 z z2!mp! E:|3[V:2]!>(! [CEG]2 [CEG] [CEG]2!>)!!p! [CEG]:|3[V:3].C,,.C,,.C,, .C,,.C,,.C,,:|3[V:4]x6:|3[V:5]x6:|3
+[V:1][Q:1/4=120]"^\n \n \n" !fermata!z6|][V:2]"^Rall."!>(! [CEG]2 [CEG] [CEG]2!>)! z|][V:3].C,,.C,,.C,, !fermata!C,,2 z|][V:4]x6|][V:5]x6|]

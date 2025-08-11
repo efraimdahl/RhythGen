@@ -1,0 +1,22 @@
+%distance 3 3 3 3 3 3 3 6 3 3 3 3 3 3 3 4 4 4 4 3 4 3 3 6 3 3 3 3 3 3 3 3 3
+%%score 1 2 { ( 3 6 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=120
+M:2/4
+K:G
+V:1 treble nm="Voice\n(verse 1)"
+V:2 treble nm="Voice\n(verse 2)"
+V:3 treble nm="Piano"
+V:6 treble 
+V:4 bass 
+V:5 bass 
+V:7 treble nm="Voice" snm="Vo."
+V:8 treble nm="Chant\nVoice" snm="Chant."
+V:9 treble nm="Chant\nVoice\nVoins" snm="Chant."
+[V:1]d e d3/2 B/|[V:2]z4|[V:3](!tenuto!.[DGB]2 !tenuto!.[B,=FB]2)|[V:4](!tenuto!.G,2 !tenuto!.^G,2)|[V:5]x4|[V:6]x4|[V:7]z4|[V:8]z4|[V:9]z4|
+[V:1]A2 A3/2 B/|[V:2]z4|[V:3](!tenuto!.[CFA]2 !tenuto!.[CFA]2)|[V:4](!tenuto!.A,2 !tenuto!.D,2)|[V:5]x4|[V:6]x4|[V:7]z4|[V:8]z4|[V:9]z4|
+[V:1]G4|[V:2]z4|[V:3][B,DG]4|[V:4][G,,G,]4|[V:5]x4|[V:6]x4|[V:7]z4|[V:8]z4|[V:9]z4|
+[V:1][Q:1/4=92] z4|[V:2]z4|[V:3]"^Tempo"!p! z .[GBd] z .[DGB]|[V:4].[G,,G,] z .D, z|[V:5]x4|[V:6]x4|[V:7]z4|[V:8]z4|[V:9]z4|
+[V:1]z4|[V:2]z4|[V:3]z .[B,DG] z .[G,B,D]|[V:4].[G,,G,] z .D, z|[V:5]x4|[V:6]x4|[V:7]z4|[V:8]z4|[V:9]z4|
+[V:1]z4|[V:2]z4|[V:3]z .[CEA] z .[A,CF]|[V:4].[A,,A,] z .D, z|[V:5]x4|[V:6]x4|[V:7]z4|[V:8]z4|[V:9]z4|
+[V:1]z4:|[V:2]z4:|[V:3][B,DG]2 [Bdg]2:|[V:4][G,,G,]2 [G,,,G,,]2:|[V:5]x4:|[V:6]x4:|[V:7]z4:|[V:8]z4:|[V:9]z4:|

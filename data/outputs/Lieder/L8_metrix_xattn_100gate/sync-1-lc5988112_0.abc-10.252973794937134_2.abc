@@ -1,0 +1,24 @@
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=92
+M:4/4
+K:F
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+[V:1]"^Artlich, doch nicrescendo" A2 A B c3 G|[V:2](C/G/C/G/ G,/B,/F/G/ G,/C/C/|[V:3]z8|[V:4]A,,4 G,,4|[V:5]x8|
+[V:1]z6|[V:2]z/ A,/z/D/ z/ F/z/B/ D/G/B/G/|[V:3](F,2 E,2 B,4)|[V:4]x6|[V:5]x6|
+[V:1]A4 z2 z G|[V:2]!<(! (A/c/G/E/ C/E/G/A/ B/ B/F/D/B,/|[V:3](A,,4 A,,2) z4|[V:4]x8|[V:5]x8|
+[V:1]B3 A B3/2 A/ A d|[V:2]z/ A,/D/F/ A/F/D/F/ z/ E/B/G/E/G/|[V:3]z8|[V:4](C,/B,/E/G/B/) (B/G/E/B,/) (B,/D/G/D/)|[V:5]x8|
+[V:1]B2 B B B3 B|[V:2]z/ A,/C/A/ D/A/F/A/ D/A/F/D/|[V:3]z4 [E,B,E]|[V:4]x8|[V:5]x8|
+[V:1]z/2!mf! D D D!>(! C D D|[V:2]z/ B,/z/B,/ z/ G,/z/E/ z/ A/E/A/E/|[V:3]!ped![I:staff +1] D,,/D,/[I:staff -1] D/A/F/) (D/F/A/F/)|[V:4]x13/2|[V:5]x13/2|
+[V:1][Q:1/4=104] F2 z2 z2|[V:2]z/ (C/E/B/ A/E/B,/C/ A/E/B,/C/E/)|[V:3]z6|[V:4]x6|[V:5]A,,2 x2 B,,, z z2|
+[V:1]!<(! B3/2 B/ (dc)!<)!!f! e d|[V:2]!<(! z/ (D/B,/D/ G/D/B,/D/B/ B,/E/G/B/|[V:3]A,,4 A,,4|[V:4]x6|[V:5]x6|
+[V:1]!<! c2!>(! B2!>)! [Dd]2|[V:2]B/G/D/ z/ z/ C/D/A/ z/ G,/|[V:3]z6|[V:4]x6|[V:5]x6|
+[V:1]z6||[V:2]!fermata![A,FA]3 !fermata!!fermata!A,3||[V:3]z6||[V:4]x6||[V:5]x6||
+[V:1]F6|][V:2]z6|][V:3]F,3- F,2 z|][V:4]x6|][V:5]x6|]
+[V:1]F4-|][V:2]z4|][V:3]!pp! !fermata!z2|][V:4]x4|][V:5]x4|]
+[V:1][Q:1/4=112]"^.5"|[V:2][K:D]!p! !fermata!z4|][V:3]F,2 z2 z2|][V:4]x0|][V:5]x0|]
+[V:1]!fermata!z8|][V:2]z8|][V:3]!pp! (E,,4 F,,4|][V:4]x8|][V:5]x8|]

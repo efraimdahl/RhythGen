@@ -1,0 +1,16 @@
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+M:2/4
+K:Bb
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+[V:1]B3 c|[V:2](3DFB (3dfb|[V:3]B,,2 z2|[V:4]x4|
+[V:1]d4|[V:2](3Bdf (3bd'f'|[V:3]B,2 z2|[V:4]x4|
+[V:1]f2 f f|[V:2]!8va(! (3d'f'b' (3d''f''b''|[V:3]B,2 z2|[V:4]!8va(! x4|
+[V:1]b4|[V:2](3f''d''b'!8va)! (3f'd'b|[V:3]B2 z2|[V:4]x2!8va)! x2|
+[V:1]d3 d|[V:2](3fdB (3fdB|[V:3]B,2 z2|[V:4]x4|
+[V:1]f4|[V:2](3FBd (3fdB|[V:3]B,2 z2|[V:4]x4|
+[V:1]F4|[V:2](3FBd (3fdB|[V:3]B,2 z2|[V:4]x4|
+[V:1]z4|][V:2](3fdB (3fdB|][V:3]B,2 z2|][V:4]x4|]

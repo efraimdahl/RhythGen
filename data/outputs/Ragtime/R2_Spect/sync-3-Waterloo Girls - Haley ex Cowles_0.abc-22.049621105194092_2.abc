@@ -1,0 +1,55 @@
+%%score ( 1 2 3 ) ( 4 5 6 )
+L:1/8
+Q:1/4=86
+M:2/4
+K:F
+V:1 treble nm="Grand Piano, Track01"
+V:2 treble 
+V:3 treble 
+V:4 treble nm="Grand Piano, Track02"
+V:5 treble 
+V:6 treble 
+[V:1]z2 z .c/.c/|[V:2]x4|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1].A/._A/=A/f/- f/ z/ .[CAc]|[V:2]x4|[V:3]x4|[V:4].[F,A,CF]2 z2|[V:5]x4|[V:6]x4|
+[V:1].A/._A/.=A/[Ff]/- [FAf]/.[Cc].[Cc]/|[V:2]x4|[V:3]x4|[V:4].[FAcf]2 .[CEGc]2|[V:5]x4|[V:6]x4|
+[V:1].f/.e/.f/[Aa]/- [Aa]/.[Cc].[=B,=B]/|[V:2]x4|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1].c/.^c/.d/[Cc]/- [Cc]/.A/._A/.=A/|[V:2]x4|[V:3]x4|[V:4]c/^c/d/C/- C/A/_A/.=A/|[V:5]x4|[V:6]x4|
+[V:1]._a/=a/[cc']/[fac'f]/- [FAcf]/.c/.A|[V:2]x4|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]z .[cfac']/._a/ .=a/.f/.c/._A/|[V:2]x4|[V:3]x4|[V:4]._a/.=af/- f/.c/.A/.c/|[V:5]x4|[V:6].[F,,F,].[C,F,_A,=B,] ._A,/.F,.C,/|
+[V:1].f/.g.f/ .[cfa].[Bc]|[V:2]x4|[V:3]x4|[V:4]z [Acfa]- [Acfa]/.f/.c/.A/|[V:5]x4|[V:6]x4|
+[V:1].c'/.=b/.c'/[cac']/- [cfc']/.a/._a/=a/|[V:2]x4|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]._a/=a[cc']/ [fac'f']/a/.[cc']/.a/||[V:2]z2 z/ ._a'3/2|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]._a/.g/.f/e/- e/.f/.[Beg]|[V:2]x4|[V:3]x4|[V:4].A/._A/.=A/._A/ =A/.B/.[B,EG]|[V:5]x4|[V:6]x4|
+[V:1]f2 z/ .[fac'f'].e/|[V:2]x4|[V:3]x4|[V:4].c/.=B/.c/f/- f/.C.=B,/|[V:5]x4|[V:6]x4|
+[V:1].A/._A/.=A/f/- f/.[CAc].[CAc]/|[V:2]x4|[V:3]x4|[V:4].A/._A/.G/f/- f/.c/.A/.c/|[V:5]x4|[V:6]x4|
+[V:1].a/_a/[cc']/[fac'f']/- [fac'f']/.c/.A|[V:2]x4|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]z .[cfac']/._a/ .=a/.f/.c/._A/|[V:2]x4|[V:3]x4|[V:4]._a/.=a/.f/c/- c/._A/.G/.F/|[V:5]x4|[V:6]x4|
+[V:1].f/.g.f/ .[cfa].[Bc]|[V:2]x4|[V:3]x4|[V:4]z [Acfa]- [Acfa]/.f/.c/.A/|[V:5]x4|[V:6].[Ff].[ac'f']- .[fac'f']/.c.A/|
+[V:1].c'/.=b/.c'/[cac']/- [cfc']/.a/._a/=a/|[V:2]x4|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]._a/=a[cc']/ [fac'f']/a/.[cc']/.a/|[V:2]x4|[V:3]x4|[V:4]z2 z/ ._a'=a'/|[V:5]x4|[V:6]x4|
+[V:1]._a/.g/.f/e/- e/.f/.[Beg]|[V:2]x4|[V:3]x4|[V:4].a/._a/.=a/_a/ .=a/.b/.[Beg]|[V:5]x4|[V:6]x4|
+[V:1]f2 z/ .[fac'f'].e/|[V:2]x4|[V:3]x4|[V:4].c/.=B/.c/f/- f/.C.=B,/|[V:5]x4|[V:6]x4|
+[V:1].A/._A/.=A/f/- f/.[CAc].[CAc]/|[V:2]x4|[V:3]x4|[V:4].a/._a/.g/f/- f/.c/.A/.c/|[V:5]x4|[V:6]x4|
+[V:1].a/_a/[cc']/[fac'f']/- [fac'f']/.c/.A|[V:2]x4|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]z .[cfac']/._a/ .=a/.f/.c/._A/|[V:2]x4|[V:3]x4|[V:4]._A.F/C/- C/._A,/[K:bass]F,|[V:5]x4|[V:6]x4|
+[V:1].f/.g.f/ .[cfa].[Bc]|[V:2]x4|[V:3]x4|[V:4]z[K:treble] [Acfa]- [Acfa].f/.c/|[V:5]x4|[V:6].[Ff].[ac'f']- [ac'f']/.c.A/|
+[V:1].c'/.=b/.c'/[cfc']/- [cfc']/.a/._a/=a/|[V:2]x4|[V:3]x4|[V:4].c/._A/.c/A/- A/.G/.F/._E/-|[V:5]x4|[V:6].F.[f_ac']/c/- c/.A.F/|
+[V:1]._a/a.[cc']/ [fac'f']/a/.[cc']/.a/|[V:2]x4|[V:3]x4|[V:4]z2 z/ ._a'3/2|[V:5]x4|[V:6]x4|
+[V:1]._a/.g/.f/e/- e/.f/.[Beg]|[V:2]x4|[V:3]x4|[V:4].A/._A/.=A/_A/ .=A/.B/.[B,EG]|[V:5]x4|[V:6]x4|
+[V:1]f2 z/ .[fac'f'].e/|[V:2]x4|[V:3]x4|[V:4].c/.=B/.c/f/- f/.C.=B,/|[V:5]x4|[V:6]x4|
+[V:1].a/._A/.=A/f/- f/.[CAc].[CAc]/|[V:2]x4|[V:3]x4|[V:4].a/._a/.g/f/- f/.c/.A/.c/|[V:5]x4|[V:6]x4|
+[V:1].a/a/[cc']/[fac'f']/- [fac'f']/.c/.A|[V:2]x4|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2]x4|[V:3]x4|[V:4]F3 C|[V:5]x4|[V:6]x4|
+[V:1]A,/B,/=B,/C/ D/C/_A,/=A,/|[V:2]x4|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]B,/=B,/C/^C/ D/C/=C/=B,/|[V:2]x4|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]A,/B,/=B,/C/ D/C/_B,/=A,/|[V:2]x4|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]A,/B,/=B,/C/ ^C/D/=C/=B,/|[V:2]x4|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]A,/B,/=B,/C/ D/C/A,/=A,/|[V:2]x4|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]B,/=B,/C/^C/ D/C/=C/=B,/|[V:2]x4|[V:3]x4|[V:4]._a/.fc/- c/._A/.F/.A/|[V:5]x4|[V:6]x4|
+[V:1]A,/B,/=B,/C/ D/C/_B,/=A,/|[V:2]x4|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]A,/B,/=B,/C/ ^C/D/=C/_B,/|[V:2]x4|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]A,/B,/=B,/C/ D/C/A,/_A,/|[V:2]x4|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]B,/=B,/C/^C/ D/C/=C/=B,/|[V:2]x4|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]A,/B,/=B,/C/ D/C/_B,/=A,/|[V:2]x4|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]A,/B,/=B,/C/ ^C/D/=C/_B,/|[V:2]x4|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]A,/B,/=B,/C/ D/C/B,/=A,/|[V:2]x4|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|

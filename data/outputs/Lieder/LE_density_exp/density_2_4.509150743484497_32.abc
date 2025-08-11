@@ -1,0 +1,13 @@
+%%score ( 1 2 ) { 3 | ( 4 5 ) }
+L:1/8
+Q:1/4=140
+M:4/4
+K:A
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:4 bass 
+V:5 bass 
+[V:1]!<(! (E8-!<)!|[V:2]%distance=2[r:0/2]x8|[V:3]!f! [EAce]2!f! [ee']>[ee']!f! [ee']2!p! [ee']>[ee']|[V:4]!ped! !arpeggio![E,A,C]2 [EAc]>[EAc]!ped-up!!ped! !arpeggio![E,B,D]2[K:treble] [EGd]>[EGd]!ped-up!|[V:5]x6[K:treble] x2|
+[V:1][Q:1/4=136] E4[Q:1/4=130][Q:1/4=126][Q:1/4=122][Q:1/4=116][Q:1/4=114] !fermata!E2)[Q:1/4=110]"^T" z2|[V:2]x8|[V:3]!f! [ee']2 [ee']>[ee']!ff! [eac'e']2 z2|[V:4]!ped! !arpeggio![EAc]2[K:bass] [E,,E,]>[E,,E,] [A,,,A,,]2 z2!ped-up!|[V:5]x2[K:bass] x6|
+[V:1][Q:1/4=100]"^T" z8[Q:1/4=90]"^T"[Q:1/4=80]"^T"|[V:2]x8|[V:3]z4 [ee']2 z3/2!ff! [ac'e'a']/|[V:4]z4 [E,,E,]2 z3/2 [C,,C,]/|[V:5]x8|

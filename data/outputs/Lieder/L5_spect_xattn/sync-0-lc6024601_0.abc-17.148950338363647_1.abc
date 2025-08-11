@@ -1,0 +1,31 @@
+%%score [ 1 2 3 4 ]
+L:1/8
+Q:1/4=130
+M:9/8
+K:A
+V:1 treble nm="Soprano"
+V:2 treble nm="Alto"
+V:3 treble-8 nm="Tenor"
+V:4 bass nm="Bass"
+[V:1]!mf!"^Allegretto ( \n)\n" E|:[V:2]z1|:[V:3]z1|:[V:4]z1|:
+[V:1]c2 c B3 A3|[V:2]!mf! A2 A G3 A3|[V:3]!mf! e2 e d3 c3|[V:4]!mf! A,2 A, E,3 A,3|
+[V:1]c3- c2 B A2 A|[V:2]A3- A2 G A2 A|[V:3]e3- e2 d c2 c|[V:4]A,3- A,2 E, F,2 E,|
+[V:1]!<(! f3 f3 e3!<)!|[V:2]!<(! A3 A3 =G3!<)!|[V:3]!<(! d3 d3 c3!<)!|[V:4]!<(! D,3 F,3 A,3!<)!|
+[V:1]!>(! d6-!>)! d z F|[V:2]!>(! F6-!>)! F z D|[V:3]!>(! d6-!>)! d z A|[V:4]!>(! D,6-!>)! D, z D,|
+[V:1]B2 B A3 G3|[V:2]F2 F F3 ^E3|[V:3]d2 d c3 B3|[V:4]B,,2 B,, C,3 C,3|
+[V:1]B3- B2 A G2 G|[V:2]^E3- E2 F E2 E|[V:3]d3- d2 c B2 B|[V:4]C,3- C,2 C, C,2 C,|
+[V:1]!<(! c3 c3 ^d3|[V:2]!<(! A3 A3 A3|[V:3]!<(! A3 e3 ^d3|[V:4]!<(! F,3 F,3 F,3|
+[V:1]e6-!<)! e z!f! E|[V:2]G6-!<)! G z!f! E|[V:3]B6-!<)! B z!f! E|[V:4]E,6-!<)! E, z!f! E,|
+[V:1]e3- e2 e e2 e|[V:2]G3- G2 G G2 G|[V:3]d3- d2 d d2 d|[V:4]E,3- E,2 E, E,2 E,|
+[V:1]e3- e2 A A2 A|[V:2]A3- A2 E E2 E|[V:3]c3- c2 c c2 c|[V:4]A,3- A,2 A, A,2 A,|
+[V:1]!ff! f3- f2 f e2 d|[V:2]!ff! A3- A2 A A2 A|[V:3]!ff! d3- d2 d c2 d|[V:4]!ff! D,3- D,2 D, E,2 F,|
+[V:1]!>(! B6-!>)! B z E|[V:2]!>(! G6-!>)! G z E|[V:3]!>(! e6-!>)! e z e|[V:4]!>(! E,6-!>)! E, z E,|
+[V:1]e3 d3 c3|[V:2]=G3 F3 G3|[V:3]e3 d3 e3|[V:4]C,3 D,3 E,3|
+[V:1]B3 A3 =G3|[V:2]=G3 F3 E3|[V:3]c3 d3 d3|[V:4]F,3 F,3 E,3|
+[V:1]F3- F2 F (GA) B|[V:2](E2 D) C3 D2 D|[V:3](A2 B) A3 F2 G|[V:4]D,3- D,3 E,2 E,|
+[V:1]A6- A2 z|1[V:2]C6- C2 z|1[V:3]A6- A2 z|1[V:4]A,,6- A,,2 z|1
+[V:1]z2 z z2 z z2 E:|2[V:2]z2 z z2 z z2 E:|2[V:3]z2 z z2 z z2 E:|2[V:4]z2 z z2 z z2 E,:|2
+[V:1][Q:1/4=108]"^Allegro con grazia" z9||[V:2]z9||[V:3]!p! (A2 B) c3 (cB) A||[V:4]!p! (A,,2 B,,) (C,2 D,) E,2 F,||
+[V:1][Q:1/4=116] z9|[V:2]z9|[V:3](d2 c) (B2 c) (d2 f)|[V:4](B,,2 C,) (D,2 E,) (F,2 G,)|
+[V:1][Q:1/4=112] z9[Q:1/4=104]|[V:2]z9|[V:3]"^rit." e2 A B3 e3|[V:4]"^rit." A,2 C, E,3 G,3|
+[V:1][Q:1/4=100] z9[Q:1/4=96][Q:1/4=92]|][V:2]z9|][V:3]c2 B (A3 !fermata!A2) z|][V:4]A,2 E, (A,,3 !fermata!A,,2) z|]

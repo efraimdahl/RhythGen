@@ -1,0 +1,16 @@
+%%score ( 1 2 ) { 3 | ( 4 5 ) }
+L:1/8
+Q:1/4=144
+M:6/8
+K:G
+V:1 treble nm="Gesang\nVoice"
+V:2 treble 
+V:3 treble nm="Klavier\nPiano"
+V:4 bass 
+V:5 bass 
+[V:1]"^Poco rit."[Q:1/4=140]"^\n \n \n\n" G3-[Q:1/4=120]"^\n \n \n\n" G2 G|[V:2]%distance=3[r:0/5]x6|[V:3][G,B,EG]3 [G,B,EG]3|[V:4][E,,B,,E,]3 [E,,B,,E,]3|[V:5]%distance=3[r:0/5]x6|
+[V:1][Q:1/4=115]"^\n \n \n \n\n" G2 E D2 G|[V:2]G2 E x3|[V:3][G,B,EG]3 [G,CEG]3|[V:4][E,,B,,E,]3 [C,,G,,C,]3|[V:5]x6|
+[V:1][Q:1/4=110]"^\n \n \n\n" B,2 C D3|[V:2]B,2 C x3|[V:3][B,DGB]3 [A,CDF]3|[V:4][G,,D,G,]3 [D,,A,,D,]3|[V:5]x6|
+[V:1][Q:1/4=105]"^\n \n \n\n" G2 E !fermata!D3|[V:2]G2 E x3|[V:3][G,B,EG]3 [A,CDF]3|[V:4][E,,B,,E,]3 [D,,A,,D,]3|[V:5]x6|
+[V:1][Q:1/4=102]"^\n \n \n\n\n" B,2 C D2 G|[V:2]x6|[V:3][B,DGB]3 [A,CDF]3|[V:4][G,,D,G,]3 [D,,A,,D,]3|[V:5]x6|
+[V:1][Q:1/4=98]"^\n \n \n\n" (B,2 A,)[Q:1/4=94]"^\n \n \n\n" G,3|][V:2]B,2 A, x3|][V:3][B,DG]2 [A,DF] [G,B,DG]3|][V:4][G,,D,G,]2 [D,,D,] [G,,D,]3|][V:5]x6|]

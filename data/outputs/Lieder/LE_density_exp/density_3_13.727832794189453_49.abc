@@ -1,0 +1,31 @@
+%%score 1 { ( 2 5 ) | ( 3 4 6 ) }
+L:1/8
+Q:1/4=114
+M:2/4
+K:Cb
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:6 bass 
+[V:1]"^Allegro moderato" z|:[V:2]!f! [CEG]|:[V:3]%distance=3[r:0/19]z1|:[V:4]%distance=3[r:0/19]x1|:[V:5]%distance=3[r:0/19]x1|:[V:6]%distance=3[r:0/19]x1|:
+[V:1]z4|[V:2]!p! .[EG]/.[EG]/.[EG] .[FA]/.[FA]/.[FA]|[V:3]C2 C2|[V:4].C,/.C,/.C, .C,/.C,/.C,|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2].[EG]/.[EG]/.[EG] .[FA]/.[FA]/.[FA]|[V:3]C2 C2|[V:4].C,/.C,/.C, .C,/.C,/.C,|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2][EGc]>.d.e.d|[V:3]C>.G,.E,.G,|[V:4]x2 CG,|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2].c/.d/.e/.d/ .c/.B/.A/.G/|[V:3]C2 z G,|[V:4].C.G,.E,.G,|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2].[EG]/.[EG]/.[EG] .[FA]/.[FA]/.[FA]|[V:3]C2 C2|[V:4].C,/.C,/.C, .C,/.C,/.C,|[V:5]x4|[V:6]x4|
+[V:1]z4|1[V:2].[EG]/.[EG]/.[EG] .[FA]/.[FA]/.[FA]|1[V:3]C2 C2|1[V:4].C,/.C,/.C, .C,/.C,/.C,|1[V:5]x4|1[V:6]x4|1
+[V:1]z4|[V:2]!pp! [EGc]>.d.e.d|[V:3]C>.G,.E,.G,|[V:4]x2 CG,|[V:5]x4|[V:6]x4|
+[V:1]z2 z G:|2[V:2].c/.d/.e/.d/ .c/.B/.[CEG]:|2[V:3]C2 z G,:|2[V:4].C.G,.E,.G,:|2[V:5]x4:|2[V:6]x4:|2
+[V:1]z4|[V:2]!pp! [EGc]>.d.e.d|[V:3]C>.G,.E,.G,|[V:4]x2 CG,|[V:5]x4|[V:6]x4|
+[V:1]z2 z G||[V:2].c/.d/.e/.d/ .c/.B/.[EGc]||[V:3]C2 z G,||[V:4].C.G,.E,.G,||[V:5]x4||[V:6]x4||
+[V:1]"^Tempo I."!f! c2 c2|[V:2][Gc]2 [Ac]2|[V:3]!f! E2 __E2|[V:4][C,C]/[C,C]/[C,C] [C,C]/[C,C]/[C,C]|[V:5]x4|[V:6]x4|
+[V:1]d d/ e/ (f/d/) B|[V:2][GBd]2 [Gd]2|[V:3][F,G,D]2 B,2|[V:4]x2 F,/F,/F,|[V:5]x4|[V:6]x2 F,2|
+[V:1]G2 g2|[V:2][Gce]2 [Gdf]2|[V:3][G,C]2 B,2|[V:4]x2 F,/F,/F,|[V:5]x4|[V:6]x2 F,2|
+[V:1]g (f/e/) (e/d/) c|[V:2][Gce]2 z2|[V:3][C,G,C]2 z2|[V:4]x4|[V:5]x4|[V:6]x4|
+[V:1]z!p! e2 e|[V:2]!p! (=G2 A2)|[V:3](E2 A,2)|[V:4]x4|[V:5]E/E/E E/E/E|[V:6]C2 C2|
+[V:1]e e/ f/ (g/e/) B|[V:2]B2 B2|[V:3]D2 E2|[V:4]=G,/G,/G, E,/E,/E,|[V:5][E=G]2 [EG]2|[V:6]x4|
+[V:1]z!p! e2 e|[V:2]!p! (=G2 A2)|[V:3](E2 A,2)|[V:4]x4|[V:5]E/E/E E/E/E|[V:6]C2 C2|
+[V:1]e e/ f/ (g/e/) B|[V:2]B2 B2|[V:3]D2 E2|[V:4]=G,/G,/G, E,/E,/E,|[V:5][E=G]2 [EG]2|[V:6]x4|
+[V:1]z!f! e2 e|[V:2]!f! [B,E=G]2 [CEA]2|[V:3]E,2 [E,,E,]2|[V:4]E,,/E,,/E,, x2|[V:5]x4|[V:6]x4|

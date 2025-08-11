@@ -1,0 +1,15 @@
+%%score ( 1 2 ) { ( 3 5 ) | 4 }
+L:1/8
+Q:1/4=92
+M:4/4
+K:Gb
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:5 treble 
+V:4 bass 
+[V:1]"^Lento" B3 B d3 B|[V:2]%distance=4[r:0/4]x8|[V:3]!f! [DGB]4 [GBd]4|[V:4][G,,D,G,]4 [G,B,D]4|[V:5]%distance=4[r:0/4]x8|
+[V:1]!f! d8-|[V:2]x8|[V:3]!f! [Fdf]4 (([cfa]4|[V:4][D,A,D]4 ([D,,D,]4|[V:5]x8|
+[V:1]d2 z2 z4|[V:2]x8|[V:3][Bg]2)) z2!p! (([DAc]4|[V:4][G,,G,]2) z2 ([D,,D,]4|[V:5]x8|
+[V:1]z8|[V:2]x8|[V:3][DGB]2)) z2!p! (([A,CD]4|[V:4][G,,G,]2) z2 ([D,,D,]4|[V:5]x8|
+[V:1]z8|][V:2]x8|][V:3][G,B,]2)) z2 z4|][V:4][G,,,G,,]2) z2 z4|][V:5]x8|]

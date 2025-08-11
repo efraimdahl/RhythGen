@@ -1,0 +1,22 @@
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=40
+M:4/8
+K:Ab
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+[V:1]"^Andante" z|[V:2][cea]|[V:3]x1|[V:4]!ff! [A,E]|[V:5]x1|
+[V:1]z3|[V:2][cea]2 z|[V:3]x3|[V:4][A,E]2 z|[V:5]x3|
+[V:1]z4|[V:2][EAc]/B/AA|[V:3][CE]4|[V:4]_G,4|[V:5]x4|
+[V:1]z4|[V:2][Af]ed/e/|[V:3]x2 B2|[V:4]F,2 _G,2|[V:5]x4|
+[V:1]z3:|[V:2]{d} [Fd]2 c:|[V:3]A3:|[V:4]A,2 A,,:|[V:5]x3:|
+[V:1]z4|[V:2][_GAc]/d/ee|[V:3]E4|[V:4]A,4|[V:5]x4|
+[V:1]z4|[V:2][A-d-_f]/e/dd/d/|[V:3]_F4|[V:4]A,4|[V:5]x4|
+[V:1]z4|[V:2][_ce]/_f/_ga|[V:3][EA]4|[V:4]_C4|[V:5]x4|
+[V:1]z3|[V:2]!arpeggio![Bea]2 g|[V:3]d3|[V:4]E3|[V:5]x3|
+[V:1]z1|[V:2]!p! A/B/|[V:3]E|[V:4]_C|[V:5]x1|
+[V:1]z3|[V:2]!p! !arpeggio![EABde]2 e/d/|[V:3]G3|[V:4]B,3|[V:5]x3|
+[V:1]z3|[V:2]!>(! !arpeggio![EA_ce]2 e/d/|[V:3]_G3-|[V:4]_C3-|[V:5]x3|

@@ -1,0 +1,32 @@
+%syncopation 6 3 3 3 3 3 3 2 3 3 3 3 3 3 3 3 3 3 4 6 2
+%%score ( 1 2 ) { 3 | ( 4 5 ) }
+L:1/8
+M:6/8
+K:Ab
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:4 bass 
+V:5 bass 
+[V:1]"^Langsam" z|[V:2]x1|[V:3]!mp! [CE]|[V:4]E,|[V:5]x1|
+[V:1]z6|[V:2]x6|[V:3]!<(! [CE][EA][Ac]!<)!!>(! [ce]2 [Bd]|[V:4]E,A,C E2 D|[V:5]x6|
+[V:1]z6|[V:2]x6|[V:3][Ac]2 [CE]!>)! [EA]2 [EA]|[V:4]C2 E, A,2 [A,C]|[V:5]x6|
+[V:1]z6|[V:2]x6|[V:3]!<(! [EA][Ac][ce]!<)!!>(! [ea]2 [eg]|[V:4][A,C][K:treble]EA c2 B|[V:5]x[K:treble] x5|
+[V:1]z6|[V:2]x6|[V:3][ce]3-!>)! [ce]2!p! [ce]|[V:4]A3- A2[K:bass] [CE]|[V:5]x5[K:bass] x|
+[V:1]z6|[V:2]x6|[V:3]!<(! [ce][Ac][EA]!<)!!>(! [Ac]2 [GB]|[V:4][CE][A,C][E,A,] [A,C]2 [G,B,]|[V:5]x6|
+[V:1]z6|[V:2]x6|[V:3][EA]2 [CE]!>)! [EA]2 [EA]|[V:4][E,A,]2 [C,E,] [E,A,]2 [A,C]|[V:5]x6|
+[V:1]z6|[V:2]x6|[V:3][EG]!<(![EG][GB] [Bg]2 [Af]!<)!|[V:4][E,B,][E,B,][E,E] [B,E]2 [B,=D]|[V:5]x6|
+[V:1]z2 z z2 E|:[V:2]x6|:[V:3]!p! [Ge]3- [Ge]2 z|:[V:4][E,E]3- [E,E]2 z|:[V:5]x6|:
+[V:1]E2 A c2 B|[V:2]x6|[V:3]z [CE][CE] [CE]2 [B,DE]|[V:4]A,,6|[V:5]x6|
+[V:1](A2 E) A2 c|[V:2]x6|[V:3]z [CE][CE] z [CE][CE]|[V:4]A,,6|[V:5]x6|
+[V:1]c2 A c2 A|[V:2]x6|[V:3]z [CE][CE] z [CE][CE]|[V:4]A,,3 A,,3|[V:5]x6|
+[V:1]B3- B2 c|[V:2]x6|[V:3]z [DE][DE] z [DE][DE]|[V:4]E,,3 E,,3|[V:5]x6|
+[V:1]B G E B2 G|[V:2]x6|[V:3]z [B,DE][B,DE] z [B,DE][B,DE]|[V:4]E,,3 E,,3|[V:5]x6|
+[V:1]B2 E A2 A|[V:2]x6|[V:3]z [CE][CE] z [CE][CE]|[V:4]A,,3 A,,3|[V:5]x6|
+[V:1]G2 B (eg) f|1,2[V:2]x3 B2 A|1,2[V:3]z [DE][DE] z [DE][DE]|1,2[V:4]E,,3 E,,3|1,2[V:5]x6|1,2
+[V:1]e3- e2 E:|3,4[V:2]x6:|3,4[V:3][CE][CE][CE] [CE]2 z:|3,4[V:4]A,,A,,A,, A,,2 z:|3,4[V:5]x6:|3,4
+[V:1]e3- e2 c||3[V:2]x6||3[V:3][CE][CE][CE] [CE]2 z||3[V:4]A,,A,,A,, A,,2 z||3[V:5]x6||3
+[V:1]c3- c2 c||3[V:2]x6||3[V:3][A,C][A,C][A,C] [A,C]2 z||3[V:4]F,,F,,F,, F,,2 z||3[V:5]x6||3
+[V:1]c3- c2 c||[V:2]x6||[V:3][A,C][A,C][A,C] [A,C]2 z||[V:4]_F,,F,,F,, F,,2 z||[V:5]x6||
+[V:1][Q:1/4=90]"^Ritard." c2 A (cB) G|[V:2]x6|[V:3]"^Rall." [A,C][CE][CE] [G,DE][DEG][DEG]|[V:4]E,,3 [E,,E,][E,,E,][E,,E,]|[V:5]x6|
+[V:1][Q:1/4=80] A3- A2|][V:2]x5|][V:3][CEA][CEA][CEA] [CEA]2|][V:4]A,,A,,A,, A,,2|][V:5]A,,3- A,,2|]

@@ -1,0 +1,24 @@
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=94
+M:4/4
+K:G
+V:1 treble nm="Gesang\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+[V:1]"^Andante"!p! B B c3/2 B/ A A B c|[V:2]!p! z [DGB] z [EGc] z [DFc] z [DFc]|[V:3]G,2 A,2 D,2 D,2|
+[V:1]A2 B2 G2 z2|[V:2]z [DAc] z [DGB] z [DGB] z [DGB]|[V:3]G,2 D,2 G,2 G,,2|
+[V:1]!f! d d e3/2 d/ d d e f|[V:2]!f! z [Fcd] z [Gce] z [Fcd] z [Fce]|[V:3]C2 C2 C2 C2|
+[V:1]d2 B2 G2 z2|[V:2]z [Fcd] z [DGB] z [DGB] z [DGB]|[V:3]G,2 D,2 G,2 G,,2|
+[V:1]B B c3/2 B/ A A B c|[V:2]z [DGB] z [EGc] z [DFc] z [DFc]|[V:3]G,2 A,2 D,2 D,2|
+[V:1]A2 B2 G2 z2|[V:2]z [DAc] z [DGB] z [DGB] z [DGB]|[V:3]G,2 D,2 G,2 G,,2|
+[V:1]!p! B B c3/2 B/ B B c e|[V:2]!p! z [^DAB] z [EAB] z [EGB] z [EGc]|[V:3]F,2 G,2 E,2 C,2|
+[V:1]!<(! A3/2 A/!<)!!>(! c3/2 B/ B2 z2!>)!|[V:2]z [EGA] z [^DFA] z [=DGB] z [DGB]|[V:3]C,2 D,2 G,2 G,,2|
+[V:1]!p! G G F3/2 E/ E F G B|[V:2]!p! z [^CGB] z [DFB] z [EGB] z [DGB]|[V:3]E,2 D,2 E,2 G,2|
+[V:1]A2 d2 A2 z2|[V:2]z [DFA] z [DFA] z [DFA] z [DFA]|[V:3]A,2 A,2 A,2 A,2|
+[V:1]!f! B B A3/2 G/ F F B d|[V:2]!f! z [EGB] z [EF^A] z [EFB] z [DFB]|[V:3]^C,2 =C,2 B,,2 D,2|
+[V:1]^c2 f2 B2 z2|[V:2]z [^CEF^A] z [CEFA] z [B,DFB] z [B,DFB]|[V:3]F,2 F,,2 B,,2 B,2|
+[V:1]!f! B B c3/2 B/ A A B c|[V:2]!f! z [DGB] z [EGc] z [DFc] z [DFc]|[V:3]G,2 A,2 D,2 D,2|
+[V:1]A2 B2 G2 z2|[V:2]z [DAc] z [DGB] z [DGB] z [DGB]|[V:3]G,2 D,2 G,2 G,,2|
+[V:1]!ff! d d e3/2 d/ d d e g|[V:2]!ff! z [Fcd] z [Gce] z [Fcd] z [Gce]|[V:3]C2 C2 C2 C2|
+[V:1]d3/2 d/ g3/2 f/ g2 !fermata!z2:|[V:2]z [Gce] z [Fcd] [Bdg]2 z2:|[V:3]D2 D,2 G,2 !fermata!z2:|

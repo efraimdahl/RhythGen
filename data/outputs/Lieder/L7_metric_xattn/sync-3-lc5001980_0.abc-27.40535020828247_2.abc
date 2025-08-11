@@ -1,0 +1,49 @@
+%%score ( 1 2 ) { 3 | ( 4 5 ) }
+L:1/8
+M:6/8
+K:Ab
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:4 bass 
+V:5 bass 
+[V:1]"^Andantino con moto" z|:[V:2]x1|:[V:3]z1|:[V:4]E|:[V:5]x1|:
+[V:1]"^Mehigend in molto lento" E|:[V:2]x1|:[V:3]z1|:[V:4]E,|:[V:5]x1|:
+[V:1]E2 E E2 F|[V:2]x6|[V:3]E,A,C E,G,B,|[V:4]E,2 E, E,2 F,|[V:5]x6|
+[V:1]E2 E E2 F|[V:2]x6|[V:3]E,A,C E,G,B,|[V:4]E,2 E, E,2 F,|[V:5]x6|
+[V:1]E2 A c2 B|[V:2]x6|[V:3]E,A,C E,G,B,|[V:4]E,3 E,3|[V:5]x6|
+[V:1]A3- A z A|[V:2]x6|[V:3]E,A,C E,A,C|[V:4]E,3 z2 z|[V:5]x6|
+[V:1]B2 B B2 c|[V:2]x6|[V:3]E,G,B, E,F,=A,|[V:4][D,,D,]2 [D,,D,] [D,,D,]2 [E,,E,]|[V:5]x6|
+[V:1]d2 c B2 A|[V:2]x6|[V:3]D,F,B, F,=A,C|[V:4][D,,D,]2 [D,,D,] [D,,D,]2 [E,,C,]|[V:5]x6|
+[V:1]G2 G (GA) F|[V:2]x6|[V:3]E,G,D E,B,D|[V:4][E,,B,,]3 [E,,G,,]3|[V:5]x6|
+[V:1]E3- E z:|[V:2]x6:|[V:3]E,A,C E,G,B,:|[V:4][A,,,A,,]3- [A,,,A,,]2 z:|[V:5]x6:|
+[V:1]"^VERSE 2 - 3 - 5 - - - - - - - - \n \n\n\n"|[V:2]x6|[V:3]!mf! [c=ec']2 [cec'] [cec']2 [cec']|[V:4]C,G,B, C,G,B,|[V:5]x6|
+[V:1]z6|[V:2]x6|[V:3][cac']2 [cac'] [cac']2 [cac']|[V:4]C,F,A, C,F,A,|[V:5]x6|
+[V:1]z6|[V:2]x6|[V:3](bc'd' e'f'e')|[V:4]B,,D,F, B,,D,F,|[V:5]x6|
+[V:1]z2 z z2 E|[V:2]x6|[V:3]d'2 c' (!^!c'2 b)|[V:4]E,G,B, E,G,B,|[V:5]x6|
+[V:1]E2 E E2 F|[V:2]x6|[V:3]E,A,C E,G,B,|[V:4]!p! A,,2 A,, E,,2 E,,|[V:5]x6|
+[V:1]E2 E E2 F|[V:2]x6|[V:3]E,A,C E,G,B,|[V:4]A,,2 A,, E,,2 E,,|[V:5]x6|
+[V:1]E2 A c2 B|[V:2]x6|[V:3]E,A,C E,G,B,|[V:4]E,,3 E,,3|[V:5]x6|
+[V:1]A3- A z A|[V:2]x6|[V:3]E,A,C E,A,C|[V:4]A,,3 z2 z|[V:5]x6|
+[V:1]B2 B B2 c|[V:2]x6|[V:3]E,G,B, E,^F,=A,|[V:4][D,,D,]2 [D,,D,] [C,,C,]2 [C,,C,]|[V:5]x6|
+[V:1](dc) B BA G|[V:2]x6|[V:3]D,F,B, F,=A,C|[V:4][B,,,B,,]2 [B,,,B,,] [D,,D,]2 [C,,C,]|[V:5]x6|
+[V:1]F2 G A2 B|[V:2]x6|[V:3]E,G,D E,B,D|[V:4][B,,,B,,]3 [E,,E,]2 [E,,E,]|[V:5]x6|
+[V:1]c3- c z!fine!||[V:2]x5||[V:3]E,A,C E, !fermata!z||[V:4][A,,,A,,]3- [A,,,A,,]2 !fermata!z||[V:5]x5||
+[V:1][M:1/4]"^Presto (1 poco agitato) _"[Q:1/4=80]"^Andantino con moto" A|[V:2]x1|[V:3][K:Ab] A,|[V:4]z1|[V:5]x1|
+[V:1][M:6/8]"^Refrain 3e sehr langsam." A2 A A2 B|[V:2][M:6/8] x6|[V:3][M:6/8]!p! A,CE A,DF|[V:4][M:6/8] [A,,E,]2 [A,,E,] [A,,E,]2 [A,,F,]|[V:5][M:6/8] x6|
+[V:1]A2 A A2 B|[V:2]x6|[V:3]A,CE A,B,D|[V:4][A,,E,]2 [A,,E,] [A,,E,]2 [A,,F,]|[V:5]x6|
+[V:1]A2 d c2 B|[V:2]x6|[V:3]A,CE G,DE|[V:4][A,,E,]2 [A,,F,] [A,,E,]2 [A,,D,]|[V:5]x6|
+[V:1]A3- A2 d|[V:2]x6|[V:3]A,CE A,DF|[V:4][A,,E,]3- [A,,E,]2 [A,,F,]|[V:5]x6|
+[V:1]e2 e e2 f|[V:2]x6|[V:3]A,CE A,B,=D|[V:4][A,,E,]2 [A,,E,] [G,,E,]2 [A,,F,]|[V:5]x6|
+[V:1]g2 f e2 c|[V:2]x6|[V:3]G,B,E A,CE|[V:4][E,,E,]2 [E,,E,] [A,,E,]2 [A,,E,]|[V:5]x6|
+[V:1]B2 B (Bc) =d|[V:2]x6|[V:3]B,EG B,=DF|[V:4][B,,G,]2 [B,,G,] [B,,F,]2 [B,,A,]|[V:5]x6|
+[V:1]e3- e2 z|[V:2]x3 e2 e|[V:3]G,B,E G,B,E|[V:4][E,,E,]3- [E,,E,]2 z|[V:5]x6|
+[V:1]d2 c B2 d|[V:2]G2 A G2 B|[V:3]E,G,E, E,G,E,|[V:4][E,,E,]2 z [E,,E,]2 z|[V:5]x6|
+[V:1]c2 B A2 A|[V:2]A2 G x3|[V:3]E,A,E, E,A,E,|[V:4][A,,,A,,]2 z [A,,,A,,]2 z|[V:5]x6|
+[V:1]A2 G F2 =E|[V:2]x6|[V:3]=D,A,B, D,A,B,|[V:4][D,,D,]2 z [D,,D,]2 z|[V:5]x6|
+[V:1]E3- E2 A|[V:2]A2 x A2 c|[V:3]C,E,A, C,E,A,|[V:4][A,,,A,,]2 z [A,,,A,,]2 z|[V:5]x6|
+[V:1]B2 =A B2 c|[V:2]G2 ^F G2 =A|[V:3]E,G,B, E,^F,=A,|[V:4][E,,E,]2 z [C,,C,]2 z|[V:5]x6|
+[V:1](ed) c (cB) A|[V:2]B2 F (FE) =D|[V:3]=D,F,B, E,F,A,|[V:4][B,,,B,,]2 [B,,,B,,] [C,,C,]2 [B,,,B,,]|[V:5]x6|
+[V:1]G2 E B2 =D|[V:2]x6|[V:3]E,G,B, F,A,B,|[V:4][B,,,B,,]3 [B,,,B,,]2 [B,,,B,,]|[V:5]x6|
+[V:1]E3- E z e|[V:2]x6|[V:3]E,G,B, E,G,B,|[V:4][E,,E,]3- [E,,E,]2 z|[V:5]x6|
+[V:1]ed c cB d|][V:2]G2 A G2 B|][V:3]E,G,B, E,G,B,|][V:4][E,,E,]2 z [E,,E,]2 z|][V:5]x6|]

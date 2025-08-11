@@ -1,0 +1,18 @@
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=172
+M:6/4
+K:Bb
+V:1 treble nm="Chant\nVoice"
+V:2 bass nm="Piano"
+V:3 bass 
+V:4 bass 
+V:5 bass 
+[V:1]"^Allegretto ( - 110)"!p! [G,B,E]3 (F[G,B,E]F) ([G,B,]EF[K:treble]B([FG]B))|[V:2]z12|[V:3][K:bass]!ped! (G,,6[K:trebup!!ped! B6)!ped! (__B2-!ped-up! B_B)!ped-up!|[V:4]x2!>)! x12|[V:5][K:bass] x6 x2 x [=B,F]3|
+[V:1]z12|[V:2](d'_ad'gad[K:treble] ad adf bdf e_aea|[V:3][K:bass] x12|[V:4]z12|[V:5][K:bass] x12|
+[V:1]z12x10[K:treble] x2Q:1/8=333[V:2]x10 f2|[V:3]x10[K:trebe] _A2|[V:4][K:bass]!mf! x10[K:treble] x9|[V:5]x10[K:trebe] _A4|
+[V:1]z10|[V:2]z10|[V:3][K:bass] x8[K:treble] x4|[V:4]c7|[V:5][K:bass] x7[K:treble] A (Ad)|
+[V:1]z0x22/3[K:bass]Q:1/8=160[V:2]z0x22/3[K:bass]Q:1/8=160[V:3]x0x22/3[K:bass]Q:1/8=160[V:4]z0x22/3[K:bass]Q:1/8=160[V:5]x0x22/3[K:bass]Q:1/8=160
+[V:1]z10x24/3[K:bass]Q:1/8=180[V:2]z10x24/3[K:bass]Q:1/8=180[V:3]x4[K:bass] B,,4- B,,3/2 C,/|[V:4]z10x24/3[K:bass]Q:1/8=180[V:5]x10x24/3[K:bass]Q:1/8=180
+[V:1]z9||[V:2]z9||[V:3]x8/3[K:bass] C,4- C, x5|[V:4]x9!8vb)!||[V:5]x9||
+[V:1]z13||[V:2]z13||[V:3]x13||[V:4]{/G,,} A,,8- A,,.G,,||[V:5]C,,8 x||

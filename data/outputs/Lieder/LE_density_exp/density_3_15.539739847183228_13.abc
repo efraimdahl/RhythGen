@@ -1,0 +1,32 @@
+%%score ( 1 2 ) { 3 | 4 }
+L:1/8
+Q:1/4=76
+M:4/4
+K:A
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:4 bass 
+[V:1]"^Moderato"!f! A2 B c d d e f|[V:2]%distance=3[r:0/22]x8|[V:3]!mf! [CA]2 [DB][Ec] [Fd][Fd][Ge][Af]|[V:4]A,,2 A,,2 D,2 C,2|
+[V:1](dc) (de) A2 z2|[V:2]x8|[V:3]([Fd][Ec][Fd][DB]) ([CA][DB][Ec][CA])|[V:4](B,,2 E,2) A,,2 z2|
+[V:1]!mp! A A A A B B B B|[V:2]x8|[V:3]!mp! ([DFA]2 [DFA]2 [DGB]2 [DGB]2|[V:4]D,4 D,4|
+[V:1](dc) (de) c2 z2|[V:2]x8|[V:3][DFB]2 [DFB]2 [EAc]2) z2|[V:4]B,,2 G,,2 A,,2 z2|
+[V:1]!f! c2 B A (cB) A F|[V:2]x8|[V:3]!f! [Cc]2 ([CE][EB]) ([Cc][EB])([CA][CF])|[V:4]A,2 A,2 A,2 A,2|
+[V:1]E2 (cB) A2 z2|[V:2]x8|[V:3][DE]2 ([DEG][DGB]) [CA]2 z2|[V:4]B,2 E,2 A,2 z2|
+[V:1]!f! c2 B A (cB) (AF)|[V:2]x8|[V:3]!f! [Cc]2 ([CE][EB]) ([Cc][EB])([CA][CF])|[V:4]A,2 A,2 A,2 A,2|
+[V:1]E2 (cB) A2 z2|[V:2]x8|[V:3][DE]2 ([DEG][DGB]) [CA]2 z2|[V:4]B,2 E,2 A,2 z2|
+[V:1]A2 B c d d e f|[V:2]x8|[V:3][CA]2 [DB][Ec] [Fd][Fd][Ge][Af]|[V:4]A,,2 A,,2 D,2 C,2|
+[V:1](dc) (de) A2 z2|[V:2]x8|[V:3]([Fd][Ec][Fd][DB]) ([CA][DB][Ec][CA])|[V:4](B,,2 E,2) A,,2 z2|
+[V:1]!mp! A A A A B B B B|[V:2]x8|[V:3]!mp! ([DFA]2 [DFA]2 [DGB]2 [DGB]2|[V:4]D,4 D,4|
+[V:1](dc) (de) c2 z2|[V:2]x8|[V:3][DFB]2 [DFB]2 [EAc]2) z2|[V:4]B,,2 G,,2 A,,2 z2|
+[V:1]!f! c2 B A (cB) A F|[V:2]x8|[V:3]!f! [Cc]2 ([CE][EB]) ([Cc][EB])([CA][CF])|[V:4]A,2 A,2 A,2 A,2|
+[V:1]E2 (cB) A2 z2|[V:2]x8|[V:3][DE]2 ([DEG][DGB]) [CA]2 z2|[V:4]B,2 E,2 A,2 z2|
+[V:1]!p! c2 B A (cB) A F|[V:2]x8|[V:3]!p! [Cc]2 ([CE][EB]) ([Cc][EB])([CA][CF])|[V:4]A,2 A,2 A,2 A,2|
+[V:1]E2 (cB) A2 z2|[V:2]x8|[V:3][DE]2 ([DEG][DGB]) [CA]2 z2|[V:4]B,2 E,2 A,2 z2|
+[V:1]!f! A2 B c d d e f|[V:2]x8|[V:3]!mf! [CA]2 [DB][Ec] [Fd][Fd][Ge][Af]|[V:4]A,,2 A,,2 D,2 C,2|
+[V:1](dc) (de) A2 z2|[V:2]x8|[V:3]([Fd][Ec][Fd][DB]) ([CA][DB][Ec][CA])|[V:4](B,,2 E,2) A,,2 z2|
+[V:1]!mp! A A A A B B B B|[V:2]x8|[V:3]!mp! ([DFA]2 [DFA]2 [DGB]2 [DGB]2|[V:4]D,4 D,4|
+[V:1](dc) (de) c2 z2|[V:2]x8|[V:3][DFB]2 [DFB]2 [EAc]2) z2|[V:4]B,,2 G,,2 A,,2 z2|
+[V:1]!f! c2 B A (cB) A F|[V:2]x8|[V:3]!f! [Cc]2 ([CE][EB]) ([Cc][EB])([CA][CF])|[V:4]A,2 A,2 A,2 A,2|
+[V:1]E2 (cB) A2 z2|[V:2]x8|[V:3][DE]2 ([DEG][DGB]) [CA]2 z2|[V:4]B,2 E,2 A,2 z2|
+[V:1]!f! c2 B A (cB) A F|[V:2]x8|[V:3]!f! [Cc]2 ([CE][EB]) ([Cc][EB])([CA][CF])|[V:4]A,2 A,2 A,2 A,2|

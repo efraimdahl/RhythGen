@@ -1,0 +1,38 @@
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+M:2/4
+K:Bb
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+[V:1]z F/ G/ F/ E/ D z|[V:2]F/ G/ F/ E/ D2 z|[V:3]B,2 B,4|[V:4]x5|
+[V:1]z/ F/ G/ F/ E z|[V:2]F/ G/ F/ E/ D2 z|[V:3]B,2 B,4|[V:4]x4|
+[V:1]z/ G/ A/ B/ c d|[V:2]z/ G/ A/ B/!f! c d|[V:3]B,2 B,[B,_A]|[V:4]x4|
+[V:1]e3/2 e/ c d|[V:2][Be]3/2 [Ge]/!p! [Gc] [Gd]|[V:3][G,G]3/2 [G,E]/ [G,E] [G,=E]|[V:4]x4|
+[V:1]e/4e/4d/ c z F/ F/|[V:2][Ae]/4 [Ae]/4 [Bd] [Ac] z|[V:3][F,F]/4 [F,F]/4 [F,F] [F,E]/ [F,E] z|[V:4]x4|
+[V:1]!fermata!f3/2 !fermata!z/4 d/4 c F|[V:2]!p! [Af]3/2 [Af]/4[Af]/4 [Ad][Ac]|[V:3][F,C]3/2 [F,C]/ [F,C]E|[V:4]x4|
+[V:1]!fermata!f3/2 !fermata!z/4 !fermata!d/4 cF|[V:2]!p! [Af]3/2 [Af]/4[Af]/4 !fermata![Ad][Ac]/>A/|[V:3][F,C]3/2 [F,C]/ !fermata![F,C]F|[V:4]x4|
+[V:1]!fermata!f3/2 !fermata!z/4 d/4 c F|[V:2]!p! !fermata![Af]3/2 !fermata![Af]/4 !ferma![Af]/4 !fermata![Ad]/4 [Ac][FA]|[V:3]!fermata!F3/2 [F,C]/4 !fermata![F,C]/4 [F,F]F|[V:4]x4|
+[V:1]!fermata!f3/2 !fermata!z/4 !fermata!d/4 cF|[V:2]!p! !fermata![Af]3/2 !fermata!z/4 !fermata!d/4 [Ac][FA]|[V:3]!fermata!F3/2 [F,C]/4 !fermata![F,C]/4 !fermata![F,C]F|[V:4]x4|
+[V:1]!fermata!f3/2 !fermata!z/4 !fermata!d/4 cF|[V:2]!p! !fermata![Af]3/2 !fermata!z/4 !fermata!a/4 [Ac][FA]|[V:3]!fermata!F3/2 [F,C]/4 !fermata![F,C]/4 !fermata![F,C]F|[V:4]x4|
+[V:1]!fermata!f3/2 !fermata!z/4 g/4 f F2|[V:2]!p! !fermata![Af]3/2 !fermata!z/4 !fermata!a/4 [Ac][FA]|[V:3]!fermata!F3/2 [F,C]/4 !fermata![F,C]/4{!fermata!C} !fermata![F,C]F|[V:4]x4|
+[V:1]!fermata!f3/2 !fermata!z/4 !fermata!g/4 !fermata!f F|[V:2]!p! !fermata![af']3/2 !fermata!z/4 !fermata!a'/4 !fermata![a'd''][ac']|[V:3]!fermata!F,,3/2 !fermata!z/4 !fermata!F/4 !fermata!FF|[V:4]x4|
+[V:1]!fermata!f3/2 !fermata!z/4 !fermata!g/4 !fermata!f F|[V:2]!p! !fermap![af']3/2 !fermata!z/4 !fermata!d''/4 !fermata![a'd''][fc']|[V:3]!fermata!F3/2 !fermata!z/4 !fermata!F/4 !fermata!FF|[V:4]x4|
+[V:1]!fermata!f3/2 !fermata!z/4 !fermata!g/4 !fermata!f F|[V:2]!p! !fermap![a'f'']3/2 !fermata!z/4 !fermata!a'/4 !fermata![a'd''][ac']|[V:3]!fermata!F,3/2 !fermata!z/4 !fermata!F/4 !fermata!FF|[V:4]x4|
+[V:1]!fermata!f3/2 !fermata!z/4 !fermata!g/4 !fermata!f F|[V:2]!p! !fermata![a'f'']3/2 !fermata!z/4 !fermata!d''/4 !fermata![ad'][Fc]|[V:3]!fermata!F,3/2 !fermata!z/4 !fermata!F/4 !fermata!FF|[V:4]x4|
+[V:1]!fermata!f3/2 !fermata!z/4 !fermata!g/4 !fermata!f F|[V:2]!p! !fermata![a'f'']3/2 !fermata!z/4 !fermata!a'/4 !fermata![a'd''][ac']|[V:3]!fermata!F,3/2 !fermata!z/4 !fermata!F/4 !fermata!FF|[V:4]x4|
+[V:1]!fermata!f3/2 !fermata!z/4 !fermata!g/4 !fermata!f F|[V:2]!p! !fermata![a'f'']3/2 !fermata!z/4 !fermata!a'/4 !fermata![a'd''][ac']|[V:3]!mp! !fermata!F,3/2 !fermata!z/4 !fermata!F/4 !fermata!FF|[V:4]x4|
+[V:1]!fermata!f3/2 !fermata!z/4 !fermata!g/4 !fermata!f F|[V:2]!p! !fermap![af']3/2 !fermata!z/4[Q:1/4=64] !fermata!a'/4 !fermata![a'd''][ad']|[V:3]!fermata!F,3/2 !fermata!z/4 !fermata!F/4 !fermata!FF|[V:4]x4|
+[V:1]!fermata!f3/2 !fermata!z/4 !fermata!g/4 !fermata!f F|[V:2]!p! !fermap![af']3/2 !fermata!z/4 !fermata![a'd'']/4 !fermata![a'd''][fc']/4|[V:3]!fermata!F3/2 !fermata!z/4 !fermata!F/4 !fermata!FF|[V:4]x4|
+[V:1]!fermata!f3/2 !fermata!z/4 !fermata!g/4 !fermata!f F|[V:2]!p! !fermap![a'f'']3/2 !feermata!z/4 !fermata![a'f'']/4 !fermata![a'd''][ad']|[V:3]!fermata!F,3/2 !fermata!z/4 !fermata!F/4 !fermata!FF|[V:4]x4|
+[V:1]!fermata!f3/2 !fermata!z/4 !fermata!g/4 !fermata!f F2|[V:2]!p! !fermapate"[a'f'']3/2 !fermata!z/4 !fenuto!a'/4 !fermata![a'd''][ad']|[V:3]!fermata!F3/2 !fermata!z/4 !fermata!F/4 !fermata!FF|[V:4]x5|
+[V:1]!fermata!f3/2 !fermata!z/4 !fermata!g/4 !fermata!f F|[V:2]!p! !fermap![a'f'']3/2!fermata!z/4 !fermata!a'/4 !fermata![a'd''][ad']|[V:3]!fermata!F3/2 !fermata!z/ !fermata!F/4 !fermata!FF|[V:4]x4|
+[V:1]!ff! !fermata!f3/2 !fermata!z/4 !fermata!g/4 !fermata!f F|[V:2]!p! !fermata![a'f'']3/2 !fermata!z/4 !fermata!a'/4 !fermata![a'd''][ad']|[V:3]!fermata!F3/2 !fermata!z/4 !fermata!F/4 !fenuto!!fermata!F !fermata!FF|[V:4]x4|
+[V:1]!fermata!f3/2 !fermata!z/4 !fermata!g/4 !fermata!f F|[V:2]!p! !fermata![a'f'']3/2 !fermata!z/4 !fermata!a'/4 !fermata![a'd'']!fermata![ad']|[V:3]!fermata!F3/2 !fermata!z/4 !fermata!F/4 !fermata!FF|[V:4]x4|
+[V:1]!ff! !fermata!f3/2 !fermata!z/4 !fermata!g/4 !fermata!f F|[V:2]!fermata![a'f'']3/2!fermata!z/4 !fermata!z/16 !fermata!a'/4 !fermata![a'd''][ad']|[V:3]!fermata!F3/2 !fermata!z/4 !fermata!F/4 !fermata!FF|[V:4]x4|
+[V:1]!fermata!f3/2 !fermata!z/4 !fermata!g/4 !fermata!f F F|[V:2]!fermata![a'f'']3/2 !fermata!z/4 !fermata!a'/4 !fermata!d''[a'd'']|[V:3]!fermata!F3/2 !fermata!z/4 !fermata!F/4 !fermata!FF|[V:4]x4|
+[V:1]!ff! !fermata!f3/2 !fermata!z/4 !fermata!g/4 !fermata!f F|[V:2]!fermata![a'f'']3/2!mf! !fermata!z/4 !fermata!a''/4 !fermata![a''d'''][a'd'']|[V:3]!fermata!F3/2 !fermata!z/4 !fermata!F/4 !fermata!FF|[V:4]x4|
+[V:1]!fff! !fermata!f3/2 !fermata!z/4 !fenuto!g/4 !fermata!f F|[V:2]!fermata![a'f'']3/2 !fermata!z/4 !fermata!a''/4 !fermata!d'''[a'd'']|[V:3]!fermata!F3/2 !fermata!z/4 !fermata!F/4 !fermata!FF|[V:4]x4|
+[V:1]!fff! !fermata!f3/2 !fermata!z/4 !fenuto!g/4 !fermata!f F|[V:2]!fermata![a'f'']3/2 !fermata!z/4 !fermata!a''/4 !fermata!d''!fermata![a'd'']|[V:3]!fermata!F3/2 !fermata!z/4 !fermata!F/4 !fenuto!!fermata!F !fermata!F|[V:4]x4|
+[V:1]!fermata!f3/2 !fermata!z/4 !fermata!g/4 !fermata!f|][V:2]!fermata![a'f'']3/2 !fermemata!z/4 !fermata!a'/4 !fermata![a'd'']!fermata![c'a']|][V:3]!fermata!D,,3/2 !fermata!z/4 !fermata!F/4 !fermata!FF||[V:4]x4||

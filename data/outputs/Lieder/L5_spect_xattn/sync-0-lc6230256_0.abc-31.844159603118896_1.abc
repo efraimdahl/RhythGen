@@ -1,0 +1,43 @@
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=80
+M:4/4
+K:C
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:5 treble 
+V:3 treble 
+V:4 treble 
+[V:1]"^Sanft bewegt" z8|[V:2]!pp! [c'e'a']2 z (a' g'2) (g'a')|[V:3]!ped! (c'gac') (e'gac')!ped-up!|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]!<(! (c''2 b'>c''!<)!!>(! d''3) (c''/d''/!>)!|[V:3]!ped! ([ac'e']gac')!ped-up!!ped! ([c'e']gac')!ped-up!|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]!p! [c'e'a']2 [gb]2 [ac']2 d'2)|[V:3]!ped! (c'ega) ([ce]gac')!ped-up!|[V:4]x8|[V:5]x8|
+[V:1]z4 z2 z!pp! G|[V:2]([c'e'a']2 [gb]2 [ac']2 d'2)|[V:3]!ped! (c'ega) ([ce]gac')!ped-up!|[V:4]x8|[V:5]x8|
+[V:1]c B c3/2 c/ d c d3/2 c/|[V:2][c'e'a']2 z (g' g'2) (a'c'')|[V:3]!ped! (c'ega) (c'ega)!ped-up!|[V:4]x8|[V:5]x8|
+[V:1]c d e c d2- d G|[V:2](c''2 b'>c'' d''3) (c''/d''/|[V:3]!ped! ([ac'e']gac')!ped-up!!ped! ([c'e']gac')!ped-up!|[V:4]x8|[V:5]x8|
+[V:1]c B c d c3/2 d/ e3/2 c/|[V:2][c'e'a']2 [gb]2 [ac']2 d'e')|[V:3]!ped! (c'ega) ([ce]gac')!ped-up!|[V:4]x8|[V:5]x8|
+[V:1]A B c e d2- d z|[V:2]([c'e'a']2 [gb]2 [ac']2 d'2)|[V:3]!ped! (c'ega) ([ce]gac')!ped-up!|[V:4]x8|[V:5]x8|
+[V:1]!mp! d d e d (f/e/) (d/e/) c3/2 A/|[V:2]!p! (d'e'f'd' e'c'ac')|[V:3]!ped! (f2 a2 g2 e2)!ped-up!|[V:4][Ac]8|[V:5]x8|
+[V:1]d c (A/G/) A/ B/ c3 G|[V:2](ac'd'b c'e'g'c'')|[V:3]!ped! f2 a2 c'4!ped-up!|[V:4][Ac]4 e2 dc|[V:5]x8|
+[V:1]!mf! c B c d (e/d/) (c/d/) e3/2 c/|[V:2]!mp! (c'd'e'c' d'e'c'e')|[V:3](e2 f2 g4)|[V:4][Ac]8|[V:5]x8|
+[V:1](g/f/) (e/d/) (c/A/) B/ c/ d2- d z|[V:2](e'g'e'c') d'4|[V:3]g4 (g2 f2)|[V:4][ce]4 c2 B2|[V:5]x8|
+[V:1]z8|[V:2]!f!!8va(! ([g'e'']>[f'd''] [e'c'']/[d'b']/[c'a']/[bg']/ [af']2- [af']/[bg']/[c'a'])!8va)!|[V:3][K:bass]!ped! [C,,C,]2 [EG]2!ped-up!!ped! [F,,F,]2 [A,CF]2!ped-up!|[V:4][K:bass] x8|[V:5]!8va(! x8!8va)!|
+[V:1]z8|[V:2]!f!!8va(! ([ge']>[fd'] [ec']/[db]/[ca]/[Bg]/ [Af]2- [Af]/[Bg]/[ca])!8va)!|[V:3]!ped! [C,,C,]2 [G,CE]2!ped-up!!ped! [F,,F,]2 [A,CF]2!ped-up!|[V:4]x8|[V:5]!8va(! x8!8va)!|
+[V:1]z8|[V:2]!mf!!8va(! (g/c'/g/c'/ a/c'/a/c'/ g/c'/g/c'/ a/c'/a/c'/)|[V:3](G2 E2 D2 EF|[V:4]C8|[V:5]!8va(! e8|
+[V:1]z8|[V:2]!>(! (g/c'/g/c'/ a/c'/a/c'/ g/c'/g/c'/ a/c'/a/!p!c'/)!>)!|[V:3]G2 E2 D2 EF)|[V:4]C8|[V:5]e8|
+[V:1]!mp! G A c c d3/2 c/ d3/2 c/|[V:2][cea]2 z (g g2) (ac')|[V:3](CEGA) (CEGA)|[V:4]x8|[V:5]x8|
+[V:1]c d e c d2- d G|[V:2](c'2 b>c' d'3) (c'/d'/|[V:3]([CEG]A,CE) ([CEG]A,CE)|[V:4]x8|[V:5]x8|
+[V:1]c B c d c d e3/2 c/|[V:2][c'e'a']2 [gb]2 [ac']2 d'e')|[V:3]([CE]G,A,C) ([CE]G,A,C)|[V:4]x8|[V:5]x8|
+[V:1]A B c e d2- d z|[V:2]([c'e'a']2 [gb]2 [ac']2 d'2)|[V:3]([CE]G,A,C) ([CE]G,A,C)|[V:4]x8|[V:5]x8|
+[V:1]!mf! d d e d (f/e/) (d/e/) c3/2 A/|[V:2]!mf! (d'e'f'd' e'c'ac')|[V:3]!ped! (F2 A2 G2 E2)!ped-up!|[V:4][A,C]8|[V:5]x8|
+[V:1]d c (A/G/) A/ B/ c2 c z|[V:2](ac'd'b c'e'g'c'')|[V:3]!ped! F2 A2 c4!ped-up!|[V:4][A,C]4 E2 DC|[V:5]x8|
+[V:1]!mf! c B c d (e/d/) (c/d/) e3/2 c/|[V:2]!mf! (c'd'e'c' d'e'c'e')|[V:3](E2 F2 G4)|[V:4][A,C]8|[V:5]x8|
+[V:1](g/f/) (e/d/) (c/A/) B/ c/ d2- d z|[V:2](e'g'e'c') d'4!8va)!|[V:3]G4 (G2 F2)|[V:4][CE]4 C2 B,2|[V:5]x8!8va)!|
+[V:1]z8|[V:2]!f!!8va(! ([g'e'']>[f'd''] [e'c'']/[d'b']/[c'a']/[bg']/ [af']2- [af']/[bg']/[c'a'])!8va)!|[V:3]!ped! [C,,C,]2 [EG]2!ped-up!!ped! [F,,F,]2 [A,CF]2!ped-up!|[V:4]x8|[V:5]!8va(! x8!8va)!|
+[V:1]z8|[V:2]!f!!8va(! ([ge']>[fd'] [ec']/[db]/[ca]/[Bg]/ [Af]2- [Af]/[Bg]/[ca])!8va)!|[V:3]!ped! [C,,C,]2 [G,CE]2!ped-up!!ped! [F,,F,]2 [A,CF]2!ped-up!|[V:4]x8|[V:5]!8va(! x8!8va)!|
+[V:1]z8|[V:2]!mf!!8va(! (g/c'/g/c'/ a/c'/a/c'/ g/c'/g/c'/ a/c'/a/c'/)|[V:3](G2 E2 D2 EF|[V:4]C8|[V:5]!8va(! e8|
+[V:1]z8|[V:2](g/c'/g/c'/ a/c'/a/c'/ g/c'/g/c'/ a/c'/a/!p!c'/)|[V:3]G2 E2 D2 EF)|[V:4]C8|[V:5]e8|
+[V:1]z8|[V:2]!mp!!8va(! (c'/g'/c'/g'/ a/g'/a/g'/ c'/g'/c'/g'/ d'/g'/d'/g'/)|[V:3](G2 E2 D2 EF)|[V:4]C8|[V:5]!8va(! (e'4 d'4)|
+[V:1][Q:1/4=75] z8[Q:1/4=70][Q:1/4=65][Q:1/4=60][Q:1/4=55][Q:1/4=50]|[V:2](c'/g'/c'/g'/ a/g'/a/g'/ g/c'/g/c'/!pp! d'/f'/e'/d'/)!8va)!|[V:3]!ped! (G2 E2 D2 EF)!ped-up!|[V:4]C8|[V:5](e'4 d'4)!8va)!|
+[V:1][Q:1/4=70] z8|[V:2](c'/g/e/c/) (a/e/c/A/) (g/e/c/A/) (g/e/c/A/)|[V:3][K:treble] (G2 A2 c2 d2)|[V:4][K:treble] [CE]8-|[V:5]x8|
+[V:1]z8|[V:2]!pp! !arpeggio![cegac']2 z2 !arpeggio![cegac']2 z2|[V:3]!arpeggio![CEG]2 z2 !arpeggio![CEG]2 z2|[V:4]x8|[V:5]x8|
+[V:1]z8|][V:2][CE]8|][V:3][K:bass] [C,G,]8|][V:4][K:bass] x8|][V:5]x8|]

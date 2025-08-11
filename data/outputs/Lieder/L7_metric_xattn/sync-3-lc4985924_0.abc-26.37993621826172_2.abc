@@ -1,0 +1,37 @@
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=125
+M:6/8
+K:C
+V:1 treble nm="Hautbois"
+V:2 bass nm="Piano"
+V:4 bass 
+V:3 bass 
+V:5 bass 
+[V:1]"^Allegretto grazioso" z6|[V:2]z!mf!!<(! (E,A,!<)! CE[I:staff -1]A)|[V:3][A,,,A,,]3 [E,,,E,,]3|[V:4]x6|[V:5]x6|
+[V:1]z2 z z2 E|[V:2]([Ece]2 [DBd] [CAc]2 [B,^GB])|[V:3][A,,,A,,]3 [E,,,E,,]3|[V:4]x6|[V:5]x6|
+[V:1]c3/2 B/ A B2 ^G|[V:2](c2 A) (^G2 E)|[V:3]A,,,3 [E,,,E,,]3|[V:4]z [CE]2 z [DE]2|[V:5]x6|
+[V:1]E3/2 ^D/ E z2 z|[V:2]z/[I:staff +1] E,/A,/B,/C z/ D,/E,/^G,/B,|[V:3][A,,,A,,]3- [A,,,A,,]3|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2]!p! z/ (E,/A,/B,/C) z/ (D,/E,/^G,/B,)|[V:3]C,,2 A,, E,,,2 E,,|[V:4]x6|[V:5]x6|
+[V:1]z/ C/ B,/ C/ E z/ A/ ^G/ A/ E|[V:2]z/ (E,/A,/B,/C) z/ (C,/E,/^G,/A,)|[V:3]C,,2 A,, E,,,2 E,,|[V:4]x6|[V:5]x6|
+[V:1]z/ A/ ^G/ A/ c/ B/ z/ A/ G/ A/ B|[V:2]z/ (E,/A,/B,/C) z/ (C,/D,/E,/^G,/B,/)|[V:3]C,,2 A,, E,,,2 E,,|[V:4]x6|[V:5]x6|
+[V:1]c2 c- c z z|[V:2]z/ (E,/A,/B,/C) z/ (C,/E,/^G,/A,)|[V:3]C,,2 A,, E,,,2 E,,|[V:4]x6|[V:5]x6|
+[V:1]z/ C/ D/ E/ F/ G/ !fo!A/ G/ ^F/ G/ e/ G/|[V:2]z/ (E,/G,/C/G,/E,/) z/ (E,/G,/C/G,/E,/)|[V:3]C,,3 ^C,,3|[V:4]x6|[V:5]x6|
+[V:1]A2 z z2 A|[V:2](F,/A,/D/E/F) z/ (F,/A,/D/E/F)|[V:3]D,,,3 F,,3|[V:4]x6|[V:5]x6|
+[V:1]d3/2 B/ G/ E/ D3/2 G/ B/ d/|[V:2]z/ (G,/B,/^C/D) z/ (G,/B,/C/D)|[V:3]G,,,3 G,,3|[V:4]x6|[V:5]x6|
+[V:1]g2 e z2 e|[V:2]z/ (G,/C/E/F/G) z/ (G,/C/E/F/G)|[V:3]C,,3 C,,3|[V:4]x6|[V:5]x6|
+[V:1]f d/ B/ G/ F/ D z/ G/ B/ d/|[V:2]z/ (B,/D/F/G) z/ (G,/B,/D/F)|1[V:3]B,,,3 G,,,3|1[V:4]x6|1[V:5]x6|1
+[V:1]g2 e z2 e|[V:2]z/ (G,/C/E/F/G) z/ (G,/C/E/F/G):|2[V:3]C,,3 C,3,:|2,4[V:4]x6|2,4[V:5]x6|2,4
+[V:1]g2 e/ c/ (ge) c|[V:2](E/F/E/D/C/D/) (E/F/E/D/C/E/)|[V:3]C,2 z C,2 z|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2](G/A/G/F/E/F/) (E/F/G/A/G/F/)|[V:3]B,,2 C, A,,2 B,,|[V:4]x6|[V:5]E,,3 E,,3|
+[V:1][Q:1/4=110] z6[Q:1/4=110]|[V:2]!p![Q:1/4=120]"^T" E>(DC/D/ E)(F/E/D):|2[V:3]C,2 A,, B,,2 ^G,,:|2[V:4]x6:|2[V:5]x6:|2
+[V:1]z6:|2,4[V:2]!>(! (C/E/D/C/D/E/) E(F/E/D)!>)!:|3[V:3]C,2 A,, B,,2 ^G,,:|2,4[V:4]x6:|2,4[V:5]x6:|2,4
+[V:1]z6|1[V:2]!p![I:staff +1] A,2 E,- E,/A,/CA,|[V:3]C,,2 E,,- [C,,E,,]2 E,,-|1[V:4]x6|1[V:5]x6|1
+[V:1][Q:1/4=120]"^T" z2 z[Q:1/4=115]"^T""^\n \n\n \n\n \n\n":|3,4]"^ritenuto"[Q:1/4=100]"^T" z6[Q:1/4=96]"^T  bempante"|[V:2]z/ E,/A,/C,/E, z/ ^D,/A,/B,|[V:3]!p! [C,,E,,]2 C,, B,,,2 x|[V:4]x11/2|[V:5]x11/2|
+[V:1]z/!pp! C/ B,/ C/ E/ z/ ^G/ A/ E|[V:2]!p! z/ (E,/A,/B,/C) z/ (C,/E,/^G,/A,)|[V:3]C,,2 A,, E,,,2 E,,|[V:4]x3 A,3-|[V:5]x6|
+[V:1][Q:1/4=124] z c3/2 B/[Q:1/4=110] A/[Q:1/4=100]"^ritenuto rit."B/A/[Q:1/4=110]"^Tempr Britenuto\n"A/|[V:2]"_dimin." z/ (E,/A,/B,/C) z/"^rit."[Q:1/4=90]!pp! (D,/E,/^G,)||[V:3]C,,2 A,, E,,,2 z||[V:4]x5||[V:5]x5||
+[V:1][K:bass][Q:1/4=95] z6|[V:2]"^a tempo""_animato espressione" z/ (E,/A,/B,/C) z/ (C,/E,/^G,/A,)|[V:3]!pp! C,,2 A,,, E,,,2 E,,|[V:4]x6|[V:5]x6|
+[V:1][Q:1/4=120]"^T" z2 z z2[K:treble][Q:1/4=110]"^T  \nna feeling e a ssehsser\n" E|[V:2]z/ (E,/A,/B,/C) z/ (C,/E,/"^ritenuto"^G,/A,/C):|[V:3]C,,2 A,, E,,,2 E,,:|[V:4]x6:|[V:5]x6:|
+[V:1]c3/2 B/ A B2 ^G|[V:2]z/ (E,/A,/B,/C) z/ (C,/E,/^G,/A,)|[V:3]C,,2 A,, E,,,2 E,,|[V:4]x6|[V:5]x6|
+[V:1][Q:1/4=100]"^T"!p! !breath!E3[Q:1/4=90]"_dimin." !fermata!C2[Q:1/4=90] !tenuto!B,||[V:2]z/ (E,/!ped!A,/B,/!fermata!C/E/) !fermata![EAe]2!ped-up! !fermata![^G,B,E]||[V:3]"_rit." C,,3 !arpeggio!!fermata![E,A,C]2 !fermata![E,B,]||[V:4]x6||[V:5]x6||
+[V:1][K:A][M:3/4][Q:1/4=80] !fermata!z6|][V:2][K:A][M:3/4]!pp! !arpeggio!!fermata![A,CEA]6|][V:3][K:A][M:3/4] !arpeggio![A,,,E,,C,]6|][V:4][K:A][M:3/4] x6|][V:5][K:A][M:3/4] x6|]

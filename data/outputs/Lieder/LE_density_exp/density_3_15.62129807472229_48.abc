@@ -1,0 +1,28 @@
+%%score ( 1 2 ) { ( 3 6 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=90
+M:4/4
+K:C#
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:6 treble 
+V:4 bass 
+V:5 bass 
+[V:1][Q:1/4=89]"^Adagio""^(in 3rd Tempo)"!f!"^(3 )" E F G G (A2 c2)|[V:2]%distance=3[r:0/16]x8|[V:3]!f!"_\n \n \n\n" [CE][CE][B,G][B,G] [A,CA]2 [CAc]2|[V:4]G,,,G,,G,,,G,, G,,,G,, [G,,,G,,]2|[V:5]%distance=3[r:0/16]x8|[V:6]%distance=3[r:0/16]x8|
+[V:1]d2 c2 z4||[V:2]x8||[V:3][DFGd]2 [CEc] ([ege']/[faf']/ .[ge'g']) z z2||[V:4][G,,,G,,]2 [C,,,C,,] ([G,,C,E,G,]/[A,,F,A,]/ .[C,G,C]) z z2||[V:5]x8||[V:6]x8||
+[V:1][K:F#]!mp! A4 c4|[V:2][K:F#] x8|[V:3][K:F#]!mp! ([A,FA]4 [CAc]4)|[V:4][K:F#]!ped! z (C,F,C,) (C,C,F,C,)!ped-up!|[V:5][K:F#] F,,4 F,,4|[V:6][K:F#] x8|
+[V:1](c4 G4)|[V:2]x8|[V:3]([CEc]4 [G,EG]4)|[V:4]!ped! z (C,E,C,) (C,C,E,C,)!ped-up!|[V:5]G,,4 G,,4|[V:6]x8|
+[V:1]B4 E4|[V:2]x8|[V:3]([B,EB]4 [E,CE]4)|[V:4]!ped! z (C,E,C,) (C,C,E,C,)!ped-up!|[V:5]C,,4 C,,4|[V:6]x8|
+[V:1]A4 z4|[V:2]x8|[V:3][A,FA]4 z!mp! (cac)|[V:4]!ped! z (C,F,C,) (C,C,F,C,)!ped-up!|[V:5]F,,4 F,,4|[V:6]x8|
+[V:1]c2 c c c2 d2|[V:2]x8|[V:3]([Afa]4 [Afa]2 [Bdb]2)|[V:4]!ped! z (C,F,C,)!ped-up!!ped! (F,C,) [B,,,B,,]2!ped-up!|[V:5]F,,4 F,,2 x2|[V:6]x8|
+[V:1]A3 F c4|[V:2]x8|[V:3]([Afa]3 [Fcf] [cac']4)|[V:4]!ped! z (C,F,C,) (C,C,F,C,)!ped-up!|[V:5]F,,4 F,,4|[V:6]x8|
+[V:1]d2 d d (dc) (BA)|[V:2]x8|[V:3]([dbd']2 [dbd'][dbd']) ([dbd'][cac'][Bgb][Afa])|[V:4]!ped! z (D,B,D,) (D,D,B,D,)!ped-up!|[V:5]B,,4 B,,4|[V:6]x8|
+[V:1]G3 E c4|[V:2]x8|[V:3]([Geg]3 [Ece] [cac']4)|[V:4]!ped! z (C,E,C,) (C,C,E,C,)!ped-up!|[V:5]C,,4 C,,4|[V:6]x8|
+[V:1]c4 c4|[V:2]x8|[V:3]([CAc]4 [CAc]4)|[V:4]!ped! z (C,F,C,)!ped-up!!ped! (C,C,F,C,)!ped-up!|[V:5]F,,4 F,,4|[V:6]x8|
+[V:1]f4 c4|[V:2]x8|[V:3]([Fcf]4 [CAc]4)|[V:4]!ped! z (C,F,C,)!ped-up!!ped! (C,C,F,C,)!ped-up!|[V:5]A,,4 A,,4|[V:6]x8|
+[V:1]"^cresc." F2 G2 A3 G|[V:2]x8|[V:3]"_cresc." ([F,DF]2 [G,DFG]2 [A,CFA]3 [G,CEG])|[V:4]!ped! z (D,F,D,)!ped-up!!ped! z (C,E,C,)!ped-up!|[V:5]B,,4 C,4|[V:6]x8|
+[V:1]F4 z4||[V:2]x8||[V:3]([F,CF]4 [cfac']4)||[V:4]!ped! z (C,F,C,) (C,C,F,C,)!ped-up!||[V:5]F,,4 F,,4||[V:6]x8||
+[V:1][K:C#]"^a tempo" z8|[V:2][K:C#] x8|[V:3][K:C#]"_\n \n\n" [ce][ce][Bg][Bg] [Aca]2 [cac']2|[V:4][K:C#] G,,G,G,,G, G,,G, [G,,G,]2|[V:5][K:C#] x8|[V:6][K:C#] x8|
+[V:1]z8|[V:2]x8|[V:3][dfgd']2 [cec']2 z!8va(! ([e'g'e'']/[f'a'f'']/ .[g'e''g''])!8va)! z|[V:4][G,,G,]2 [C,,C,]2 z ([G,,E,G,]/[A,,F,A,]/ .[C,G,C]) z|[V:5]x8|[V:6]x5!8va(! x2!8va)! x|
+[V:1]z8|][V:2]x8|][V:3]z8|][V:4]"_(long)" !>!!fermata![C,,,C,,]8|][V:5]x8|][V:6]x8|]

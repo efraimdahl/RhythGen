@@ -1,0 +1,45 @@
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=50
+M:2/2
+K:Db
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+[V:1]"^Maestoso"!f! A d|[V:2]!f! [Adf]2 z2 z2|[V:3][DF]2 [A,D]2 [A,D]2|[V:4]x6|[V:5]x6|
+[V:1]f2 d A2 F|[V:2][DFA]2 [DFA] [DFA]2 [DFA]|[V:3]D,2 F,2 A,2|[V:4]x6|[V:5]x6|
+[V:1]G2 B A2 d|[V:2][DGB]2 [DGB] [DAc]2 [DAc]|[V:3][D,G,B,]2 [D,G,B,] [D,A,]2 [D,A,]|[V:4]x6|[V:5]x6|
+[V:1]f2 e f e d|[V:2][FAd]2 [FAd] [EAc]2 [EAc]|[V:3]D,2 F,2 A,2|[V:4]x6|[V:5]x6|
+[V:1]d2 c c B c|[V:2][FAd]2 [FAd] [FAd]2 [FAd]|[V:3]D,2 F,2 A,2|[V:4]x6|[V:5]x6|
+[V:1]d2 c B2 A|[V:2][FAd]2 [FAd] [EAc]2 [EAc]|[V:3]D,2 F,2 A,2|[V:4]x6|[V:5]x6|
+[V:1]A3 z d d|[V:2][FAd]2 [FAd] [EAc]2 [EAc]|[V:3]D,2 F,2 A,2|[V:4]x6|[V:5]x6|
+[V:1]d2 c d2 A|[V:2][FAd]2 [FAd] [FAd]2 [FAd]|[V:3]D,2 F,2 A,2|[V:4]x6|[V:5]x6|
+[V:1]d2 B G2 B|[V:2][DGB]2 [DGB] [DGB]2 [DGB]|[V:3]G,,2 G,2 B,2|[V:4]x6|[V:5]x6|
+[V:1]d2 B G2 B|[V:2][DGB]2 [DGB] [DGB]2 [DGB]|[V:3]G,,2 G,2 B,2|[V:4]x6|[V:5]x6|
+[V:1]d2 G B2 B|[V:2][DGB]2 [DGB] [DGB]2 [DGB]|[V:3]G,,2 G,2 G,2|[V:4]x6|[V:5]x6|
+[V:1]d2 d e2 d|[V:2][DGB]2 [DGB] [DGB]2 [DGB]|[V:3]G,,2 G,2 G,2|[V:4]x6|[V:5]x6|
+[V:1]d2 B B2 d|[V:2][DGB]2 [DGB] [DGB]2 [DGB]|[V:3]G,,2 G,2 G,,2|[V:4]x6|[V:5]x6|
+[V:1]f2 d d2 A|[V:2][DFA]2 [DFA] [DFA]2 [DFA]|[V:3]D,2 F,2 A,2|[V:4]x6|[V:5]x6|
+[V:1]d2 B B2 B|[V:2][DFB]2 [DFB] [DFB]2 [DFB]|[V:3]B,,2 B,2 B,,2|[V:4]x6|[V:5]x6|
+[V:1]d2 B d2 d|[V:2][DGB]2 [DGB] [DGB]2 [DGB]|[V:3]G,,2 G,2 G,2|[V:4]x6|[V:5]x6|
+[V:1]d2 d d2 B|[V:2][DGB]2 [DGB] [DGB]2 [DGB]|[V:3]G,,2 G,2 G,2|[V:4]x6|[V:5]x6|
+[V:1]c2 c c2 A|[V:2][EGc]2 [EGc] [EGc]2 [EGc]|[V:3]C,2 G,2 G,2|[V:4]x6|[V:5]x6|
+[V:1]d2 B d2 B|[V:2][DGB]2 [DGB] [DGB]2 [DGB]|[V:3]G,,2 G,2 G,2|[V:4]x6|[V:5]x6|
+[V:1]d2 d d2 d|[V:2][DGB]2 [DGB] [DGB]2 [DGB]|[V:3]G,,2 G,2 G,2|[V:4]x6|[V:5]x6|
+[V:1]g2 d c2 c|[V:2][CGA]2 [CGA] [CGA]2 [CGA]|[V:3]C,2 G,2 G,2|[V:4]x6|[V:5]x6|
+[V:1]d2 d B2 G|[V:2][DGB]2 [DGB] [DGB]2 [DGB]|[V:3]G,,2 G,2 G,2|[V:4]x6|[V:5]x6|
+[V:1]A2 A A2 A|[V:2][CGA]2 [CGA] [CGA]2 [CGA]|[V:3]A,,2 A,2 A,2|[V:4]x6|[V:5]x6|
+[V:1]f2 d A2 A|[V:2][DFA]2 [DFA] [DFA]2 [DFA]|[V:3]D,2 A,2 A,,2|[V:4]x6|[V:5]x6|
+[V:1]f2 d A2 A|[V:2][DFA]2 [DFA] [DFA]2 [DFA]|[V:3]D,2 F,2 A,2|[V:4]x6|[V:5]x6|
+[V:1]B2 G B2 G|[V:2][DGB]2 [DGB] [DGB]2 [DGB]|[V:3]G,,2 G,2 G,2|[V:4]x6|[V:5]x6|
+[V:1]G3 G d B|[V:2][DGB]2 [DGB] [DGB]2 [DGB]|[V:3]G,,2 G,2 G,2|[V:4]x6|[V:5]x6|
+[V:1]A3 F A d|[V:2][DFA]2 [DFA] [DFA]2 [DFA]|[V:3]D,2 F,2 A,2|[V:4]x6|[V:5]x6|
+[V:1]f3 d2 A|[V:2][DFA]2 [DFA] [DFA]2 [DFA]|[V:3]D,2 F,2 A,2|[V:4]x6|[V:5]x6|
+[V:1]A3 A B d|[V:2][CGA]2 [CGA] [CGA]2 [CGA]|[V:3]A,,2 A,2 A,,2|[V:4]x6|[V:5]x6|
+[V:1]f2 d A2 A|[V:2][DFA]2 [DFA] [DFA]2 [DFA]|[V:3]D,2 A,2 F,2|[V:4]x6|[V:5]x6|
+[V:1]d2 A A2 A|[V:2][DFA]2 [DFA] [DFA]2 [DFA]|[V:3]D,2 F,2 A,2|[V:4]x6|[V:5]x6|
+[V:1]d3 d A F|[V:2][DFA]2 [DFA] [DFA]2 [DFA]|[V:3]D,2 F,2 A,2|[V:4]x6|[V:5]x6|
+[V:1]D3 z2 z|[V:2][DFA]2 [DFA] [DFA]2 [DFA]|[V:3]D,2 F,2 A,2|[V:4]x6|[V:5]x6|
+[V:1]z5|][V:2][DF]3 z z|][V:3]D,3 z2|][V:4]x5|][V:5]x5|]

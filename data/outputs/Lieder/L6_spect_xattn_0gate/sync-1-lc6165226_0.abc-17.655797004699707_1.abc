@@ -1,0 +1,35 @@
+%%score ( 1 2 ) { ( 3 4 ) | 5 }
+L:1/8
+Q:1/4=120
+M:6/8
+K:Gb
+V:1 treble nm="Gesang\nVoice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:4 treble 
+V:5 bass 
+[V:1]"^Sehr langsam" D|[V:2]x1|[V:3]z1|[V:4]x1|[V:5]z1|
+[V:1]B2 G d2 c|[V:2]x6|[V:3][GB]D[GB] [Ac]D[Ac]|[V:4]G,3 G,3|[V:5][G,,,G,,]3 [G,,,G,,]3|
+[V:1]B2 A G2 G|[V:2]x6|[V:3][GB]D[FA] [B,G]D[B,G]|[V:4]G,3 G,3|[V:5][G,,,G,,]3 [G,,,G,,]3|
+[V:1]A2 A B2 =c|[V:2]x6|[V:3][FA]D[FA] [GB]D[G=c]|[V:4]D3 D3|[V:5][D,,D,]3 [D,,D,]3|
+[V:1]d3 z2 d|[V:2]x6|[V:3][Fd]D[Fd] DF[DA]|[V:4]D3 D3|[V:5][D,,D,]3 [D,,D,]3|
+[V:1]d2 B B =A B|[V:2]x6|[V:3]B,D[GB] B,D[=GB]|[V:4]G,3 =G,3|[V:5][G,,,G,,]3 [=G,,,=G,,]3|
+[V:1]c2 A E2 A|[V:2]x6|[V:3]CE[Ac] CE[Ac]|[V:4]A,3 A,3|[V:5][A,,,A,,]3 [A,,,A,,]3|
+[V:1]G2 D E2 F|[V:2]x6|[V:3]B,D[GB] CD[Fc]|[V:4]D,3 D,3|[V:5][D,,,D,,]3 [D,,,D,,]3|
+[V:1]G3 z2 D|[V:2]x6|[V:3]B,D[GB] B,D[FA]|[V:4]G,3 D,3|[V:5][G,,,G,,]3 [D,,,D,,]3|
+[V:1]A2 A A B A|[V:2]x6|[V:3]DF[Ad] D[Ad]F|[V:4]D,3 D,3|[V:5][D,,,D,,]3 [D,,,D,,]3|
+[V:1]G3 D2 G|[V:2]x6|[V:3]DG[Bd] D[GB]D|[V:4]G,3 G,3|[V:5][G,,,G,,]3 [G,,,G,,]3|
+[V:1]G2 G G2 A|[V:2]x6|[V:3]=CE[G__B] C[EGB]C|[V:4]G,3 G,3|[V:5][G,,,G,,]3 [G,,,G,,]3|
+[V:1]A3 z2 F|[V:2]x6|[V:3]DF[Ad] D[FA]D|[V:4]D,3 D,3|[V:5][D,,,D,,]3 [D,,,D,,]3|
+[V:1]G2 G F2 G|[V:2]x6|[V:3]CEG CEG|[V:4]C,3 C,3|[V:5][C,,,C,,]3 [C,,,C,,]3|
+[V:1]B3 BA B|[V:2]x6|[V:3]B,DG B,DG|[V:4]G,3 G,3|[V:5][G,,,G,,]3 [G,,,G,,]3|
+[V:1]c2 B A2 G|[V:2]x6|[V:3]CDG CDG|[V:4]D,3 D,3|[V:5][D,,,D,,]3 [D,,,D,,]3|
+[V:1]d3 z2 D|[V:2]x3 x2 d|[V:3]B,DG B,DF|[V:4]G,3 D,3|[V:5][G,,,G,,]3 [D,,,D,,]3|
+[V:1]G A B Bc d|[V:2]x6|[V:3]B,DG B,DG|[V:4]G,3 G,3|[V:5][G,,,G,,]3 [G,,,G,,]3|
+[V:1]d3 c3|[V:2]x6|[V:3]CDF CDF|[V:4]D,3 D,3|[V:5][D,,,D,,]3 [D,,,D,,]3|
+[V:1]A B c de c|[V:2]x6|[V:3]CDF CDF|[V:4]D,3 D,3|[V:5][D,,,D,,]3 [D,,,D,,]3|
+[V:1]B3 z2 D|[V:2]x3 x2 d|[V:3]B,DG B,DG|[V:4]G,3 G,3|[V:5][G,,,G,,]3 [G,,,G,,]3|
+[V:1]G A B Bc d|[V:2]x6|[V:3]B,DG B,DG|[V:4]G,3 G,3|[V:5][G,,,G,,]3 [G,,,G,,]3|
+[V:1]d3 c3|[V:2]x6|[V:3]CDF CDF|[V:4]D,3 D,3|[V:5][D,,,D,,]3 [D,,,D,,]3|
+[V:1]A B c d2 F|[V:2]x6|[V:3]CDF CDF|[V:4]D,3 D,3|[V:5][D,,,D,,]3 [D,,,D,,]3|
+[V:1]G3 z2:|[V:2]x5:|[V:3]B,DG z2:|[V:4]G,3 z2:|[V:5][G,,,G,,]3 z2:|

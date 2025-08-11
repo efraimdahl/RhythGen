@@ -1,0 +1,43 @@
+%%score ( 1 2 ) { ( 3 6 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=80
+M:12/8
+K:C
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:6 treble 
+V:4 bass 
+V:5 bass 
+[V:1]"^Langsam und und poco string." z12|[V:2]x12|[V:3]z (G,C ECG,) z (G,C ECG,)|[V:4]!pp! [C,,C,]3 z3 [C,,C,]3 z3|[V:5]x12|[V:6]x12|
+[V:1]z12|[V:2]x12|[V:3]z (A,C FCA,) z (A,C FCA,)|[V:4][C,,C,]3 z3 [C,,C,]3 z3|[V:5]x12|[V:6]x12|
+[V:1]z12|[V:2]x12|[V:3]z (G,C ECG,) z (G,B, DB,G,)|[V:4][C,,C,]3 z3 [G,,,G,,]3 z3|[V:5]x12|[V:6]x12|
+[V:1]z12|:[V:2]x12|:[V:3]z (G,C ECG,) z (G,C ECG,)|:[V:4][C,,C,]3 z3 [C,,C,]3 z3|:[V:5]x12|:[V:6]x12|:
+[V:1]"^dolce e schnellicato" z2 G (GA) B c3 d3|[V:2]x12|[V:3]z (G,C ECG,) z (G,C FB,G,)|[V:4][C,,C,]3 z3 [G,,,G,,]3 z3|[V:5]x12|[V:6]x12|
+[V:1](e3 c2) A G3 z3|[V:2]x12|[V:3]z (G,C ECG,) z (G,C ECG,)|[V:4][C,,C,]3 z3 [C,,C,]3 z3|[V:5]x12|[V:6]x12|
+[V:1]z2 G (GA) B c3 d3|[V:2]x12|[V:3]z (G,C ECG,) z (G,C FB,G,)|[V:4][C,,C,]3 z3 [G,,,G,,]3 z3|[V:5]x12|[V:6]x12|
+[V:1](e3 c2) A G2 z (A2 B)|[V:2]x12|[V:3]z (G,C ECG,) z (G,C FCG,)|[V:4][C,,C,]3 z3 [C,,C,]3 z3|[V:5]x12|[V:6]x12|
+[V:1]c3 e3 g3 (gf) e|[V:2]x12|[V:3]z (G,C ECG,) z (G,_B, EB,G,)|[V:4][C,,C,]3 z3 [C,,C,]3 z3|[V:5]x12|[V:6]x12|
+[V:1](f6 A3) z2 A|[V:2]x12|[V:3]z (F,A, FA,F,) z (F,A, FA,F,)|[V:4][F,,,F,,]3 z3 [F,,,F,,]3 z3|[V:5]x12|[V:6]x12|
+[V:1](G2 c) (e2 g) (f2 d) (B2 d)|[V:2]x12|[V:3]z (G,C ECG,) z (G,B, FB,G,)|[V:4][G,,,G,,]3 z3 [G,,,G,,]3 z3|[V:5]x12|[V:6]x12|
+[V:1]c3 z2 z z2 z4|[V:2]x12|[V:3]z (G,C ECG,) z (G,C ECG,)|[V:4][C,,C,]3 z3 [C,,C,]3 z3|[V:5]x12|[V:6]x12|
+[V:1]z2 G (GA) B c3 d3|[V:2]x12|[V:3]z (G,C ECG,) z (G,C FB,G,)|[V:4][C,,C,]3 z3 [G,,,G,,]3 z3|[V:5]x12|[V:6]x12|
+[V:1](e3 c2) A G3 z2 G|[V:2]x12|[V:3]z (G,C ECG,) z (G,C ECG,)|[V:4][C,,C,]3 z3 [C,,C,]3 z3|[V:5]x12|[V:6]x12|
+[V:1]z2 G (GA) B c3 d3|[V:2]x12|[V:3]z (G,C ECG,) z (G,C FB,G,)|[V:4][C,,C,]3 z3 [G,,,G,,]3 z3|[V:5]x12|[V:6]x12|
+[V:1](e3 c2) A G2 z (A2 B)|[V:2]x12|[V:3]z (G,C ECG,) z (G,C FCG,)|[V:4][C,,C,]3 z3 [C,,C,]3 z3|[V:5]x12|[V:6]x12|
+[V:1]c3 e3 g3 (gf) e|[V:2]x12|[V:3]z (G,C ECG,) z (G,_B, EB,G,)|[V:4][C,,C,]3 z3 [C,,C,]3 z3|[V:5]x12|[V:6]x12|
+[V:1](f6 A3) z2 A|[V:2]x12|[V:3]z (F,A, FA,F,) z (F,A, FA,F,)|[V:4][F,,,F,,]3 z3 [F,,,F,,]3 z3|[V:5]x12|[V:6]x12|
+[V:1](G2 c) (e2 g) (f2 d) (B2 d)|[V:2]x12|[V:3]z (G,C ECG,) z (G,B, FB,G,)|[V:4][G,,,G,,]3 z3 [G,,,G,,]3 z3|[V:5]x12|[V:6]x12|
+[V:1]c3 z2 z z2 z c2 c|[V:2]x12|[V:3]z (G,C ECG,) z (G,C ECG,)|[V:4][C,,C,]3 z3 [C,,C,]3 z3|[V:5]x12|[V:6]x12|
+[V:1]c3 (B2 d) (g2 f) (d2 B)|[V:2]x12|[V:3]z (G,B, FB,G,) z (G,B, FB,G,)|[V:4][C,,C,]3 z3 [C,,C,]3 z3|[V:5]x12|[V:6]x12|
+[V:1]c3 e2 z z2 z c2 c|[V:2]x12|[V:3]z (G,C ECG,) z (G,C ECG,)|[V:4][C,,C,]3 z3 [C,,C,]3 z3|[V:5]x12|[V:6]x12|
+[V:1]c3 (B2 d) (g2 f) (d2 B)|[V:2]x12|[V:3]z (G,B, FB,G,) z (G,B, FB,G,)|[V:4][C,,C,]3 z3 [C,,C,]3 z3|[V:5]x12|[V:6]x12|
+[V:1]c6 z2 z (ed) c|[V:2]x12|[V:3]z (G,C ECG,) z (G,C ECG,)|[V:4][C,,C,]3 z3 [C,,C,]3 z3|[V:5]x12|[V:6]x12|
+[V:1]B3 (c2 A) A3 (BA) B|[V:2]x12|[V:3]z (G,B, EB,G,) z (A,C ^FCA,)|[V:4][E,,E,]3 z3 [E,,E,]3 z3|[V:5]x12|[V:6]x12|
+[V:1]e6 z2 z e2 d|[V:2]x12|[V:3]z (^G,B, EB,G,) z (G,B, EB,G,)|[V:4][E,,E,]3 z3 [E,,E,]3 z3|[V:5]x12|[V:6]x12|
+[V:1]c3 c3 B3 B3|[V:2]x12|[V:3]z (A,C ECA,) z (^G,D EDG,)|[V:4][A,,,A,,]3 z3 [E,,E,]3 z3|[V:5]x12|[V:6]x12|
+[V:1]A3 z2 z z2 z c2 c|[V:2]x12|[V:3]z (A,C ECA,) z (A,C ECA,)|[V:4][A,,,A,,]3 z3 [A,,,A,,]3 z3|[V:5]x12|[V:6]x12|
+[V:1]e3 e3 d3 e3|[V:2]x6 d3 ^c3|[V:3]z (G,^C ECG,) z (G,C ECG,)|[V:4][A,,,A,,]3 z3 [A,,,A,,]3 z3|[V:5]x12|[V:6]x12|
+[V:1](g3 f3) z2 z f2 f|[V:2]x12|[V:3]z (A,D FDA,) z (A,D FDA,)|[V:4][D,,D,]3 z3 [D,,D,]3 z3|[V:5]x12|[V:6]x12|
+[V:1]e3 c3 d3 B3|[V:2]x12|[V:3]z (G,C ECG,) z (G,B, FB,G,)|[V:4]G,,3 z3 G,,3 z3|[V:5]G,,,3 z3 G,,,3 z3|[V:6]x12|
+[V:1]c3 z2 z z2 z4:|[V:2]x12:|[V:3]z (G,C ECG,) z (G,C ECG,):|[V:4]C,3 z3 C,3 z3:|[V:5]C,,3 z3 C,,3 z3:|[V:6]E,6 x6:|

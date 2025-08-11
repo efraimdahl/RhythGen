@@ -1,0 +1,32 @@
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=87
+M:2/4
+K:Bb
+V:1 treble nm="Singstimme"
+V:2 bass nm="Pianoforte"
+V:3 bass 
+[V:1]Dx3|:[V:2]z1x3|:[V:3]z1x3|:
+[V:1]D D D D|[V:2](3(G,/B,/D/)           .G (3(G,/B,/D/) (3(G/B/d/)|[V:3].G,,2 .G,,2|
+[V:1]E2 E G|[V:2](3(G,/C/E/) .G         (3(E,/G,/C/) (3(E/G/c/)|[V:3].G,,2 .G,,2|
+[V:1]^F F F F|[V:2](3F,/A,/C/F(3d/c/B/x|[V:3].^F,,2 .F,,2|
+[V:1]G D z     D|[V:2](3(A/G/^F/) (3(A/G/F/)     (3(G/A/B/) (3(A/=G/=F/)|[V:3].D,2 .D,,2|
+[V:1]D D D D|[V:2](3(G,/B,/D/           .G)         (3(G,/B,/D/)           .G|[V:3].G,,2 .G,,2|
+[V:1]D/>=E/ ^F/>G/ A     D|[V:2](3F,/A,/D/.D(3F,/A,/D/x|[V:3].[F,,,F,,]2     .[F,,,F,,]2|
+[V:1]D D D D|[V:2](3(G,/B,/D/ .G)         (3(B,,/F,/B,/)           .F|[V:3]z4|
+[V:1]F D z     F|[V:2](3(B,/D/F/ .B)            (3(B,,/F,/B,/           .F)|[V:3]z2 z F,|
+[V:1]F F F F|[V:2](3(F,/A,/E/)            .F    (3(F,/C/E/) .F|[V:3].F,, z .F, z|
+[V:1]A2 B F|[V:2](3(F,/B,/F/)           .B         (3(B,,/F,/B,/           .F)|[V:3]z2 z D,|
+[V:1]F F F F|[V:2](3(F,/A,/E/)    .F (3(F,/C/E/) .F,|[V:3].F,, z .F,, z|
+[V:1]F2 z    F|[V:2](3(F,/B,/D/           .F)[dfb] z|[V:3]z2 B,,D,|
+[V:1]F F F F|[V:2](3(B,/D/F/) .[Bdfb]            (3(B,,/F,/B,/)           .[fbf']|[V:3][D,,D,]3    .[F,B,D]|
+[V:1]F F F F|[V:2](3(A/c/f/) .[ac'f'a']         (3(F,/A,/C/) .[fac'f']|[V:3][C,,C,]3 .[A,CF]|
+[V:1]F F F F|[V:2](3(B,/D/F/) .[bd'f']         (3(D,/F,/B,/)             .[fbf']|[V:3][B,,,B,,]3    .[F,B,D]|
+[V:1]B3    F|[V:2](3D/F/B/.[dfb][F,B,DF]x|[V:3].[B,,D,F,B,]3x|
+[V:1]F B c e|[V:2](3(B,/D/F/) .[Bfb]         (3(F,/A,/E/)                .[FAef]|[V:3][F,,F,]3    .[F,CE]|
+[V:1]d d d d|[V:2](3(B/d/f/) .[bd'f']            (3(B,/D/F/)           .[Bfb]|[V:3][B,,D,]3 .[B,DF]|
+[V:1]f f f d|[V:2](3c/d/f/.[bd'f'b'][dfbd']x|[V:3][A,,A,]3 .[B,,F,B,]|
+[V:1]e d z     F|[V:2][cfac'][Bfb] z     (F/>B/|[V:3][A,,F,A,].[F,A,E]F,,/F,/x|
+[V:1]B c _d B|[V:2]A/>B/A/>B/ _dB)|[V:3][CE][CE] [B,_D][B,D]|
+[V:1]A B c _A|[V:2](A/>B/A/>B/ _c_A|[V:3][A,C][A,C]/[G,C]/ [F,C]/>E,/F,/>_C,/|
+[V:1]_G2 F2|][V:2]_G/>_A/G/>A/ F_D)|][V:3][B,,_D,][B,,D,]/[B,,D,]/ [_A,,D,F,]/>F,/[A,,D,F,]|]

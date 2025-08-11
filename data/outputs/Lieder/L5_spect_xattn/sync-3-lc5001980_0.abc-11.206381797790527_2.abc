@@ -1,0 +1,27 @@
+%%score ( 1 2 ) { 3 | ( 4 5 ) }
+L:1/8
+M:6/8
+K:Ab
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:4 bass 
+V:5 bass 
+[V:1]"^Andante con moto" z6|[V:2]x6|[V:3]!mf! z [EAc][EAc] z [DGd][DGd]|[V:4]E,3 E,3|[V:5]x6|
+[V:1]z6::[V:2]x6::[V:3]z [EAc][EAc] z [DGB][DGB]::[V:4]E,3 E,3::[V:5]E,,3- E,,F,,G,,::
+[V:1]SSS c3 d2 B|[V:2]x6|[V:3]z [EAc][EAc] z [EGd][EGd]|[V:4]A,,3 E,3|[V:5]x6|
+[V:1]B3 A c A|[V:2]x6|[V:3]z [EBd][EBd] z [EAc][EAc]|[V:4]E,3 E,3|[V:5]x6|
+[V:1]e3 (ed) c|[V:2]x6|[V:3]z [EAc][EAc] z [EAc][EAc]|[V:4]E,3 E,3|[V:5]x6|
+[V:1](e2 d) c2 z|[V:2]x6|[V:3]z [EGd][EGd] z [EAc][EAc]|[V:4]E,3 A,E,C,|[V:5]x6|
+[V:1]B3 B2 B|[V:2]x6|[V:3]z [=EB][EB] z [EB][EB]|[V:4]C3 C,3|[V:5]x6|
+[V:1]A3- A B c|[V:2]x6|[V:3]z [FA][FA] z [FA][FA]|[V:4]D,3 =D,3|[V:5]x6|
+[V:1]c3- cB c|[V:2]x6|[V:3]z [EAc][EAc] z [DGB][DGB]|[V:4]E,3 E,,3|[V:5]x6|
+[V:1]((c3 A)) z z!fine!::[V:2]x6::[V:3]z [CA][CA] z!mf! [Acea][Acea]::[V:4]A,,3 z [CE][CE]::[V:5]x5 A::
+[V:1][Q:3/8=66] z6|[V:2]x6|[V:3]!f! z [EGBe][EGBe] z [EGBe][EGBe]|[V:4]E,3 D,3|[V:5]x6|
+[V:1]z2 z z2 e|[V:2]x6|[V:3]z [EAce][EAce] z [EAce][EAce]|[V:4]C,E,A, CA,E,|[V:5]C,3 A,,3|
+[V:1](ed) (c c) B c|[V:2]x6|[V:3]!p! z [CEA][CEA] z [CEA][CEA]|[V:4](A,,6|[V:5]x6|
+[V:1]d2 d z d d|[V:2]x6|[V:3]z [B,EG][B,EG] z [B,EG][B,EG]|[V:4]B,,3) D,3|[V:5]x6|
+[V:1](dc) c B A B|[V:2]x6|[V:3]z [CEA][CEA] z [CEA][CEA]|[V:4](C,6|[V:5]x6|
+[V:1]B2 B z2 c|[V:2]x6|[V:3]z [D=EG][DEG] z [CEG][CEG]|[V:4]B,,3) A,,3|[V:5]x6|
+[V:1]d3- d e f|[V:2]x6|[V:3]z [D_F][DF] z [DF][DF]|[V:4](B,,6|[V:5]x6|
+[V:1]_g3- gf e||[V:2]x6:|[V:3]z [CE_G][CEG] z [CEG][CEG]!dacoda!:|[V:4]A,,6):|[V:5]x6:|

@@ -1,0 +1,58 @@
+%%score ( 1 2 ) { 3 | ( 4 5 ) }
+L:1/8
+M:6/8
+K:Ab
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:4 bass 
+V:5 bass 
+[V:1]z6|[V:2]x6|[V:3]z2 A a3|[V:4]!ped! A,,A,E A,,A,E!ped-up!|[V:5]x6|
+[V:1]z6|[V:2]x6|[V:3]z2 A a3|[V:4]!ped! A,,A,E A,,A,E!ped-up!|[V:5]x6|
+[V:1]z6|[V:2]x6|[V:3]z2 A a3|[V:4]!ped! A,,A,E A,,A,E!ped-up!|[V:5]x6|
+[V:1]!f! z6|:[V:2]x6|:[V:3]z2 A a3|:[V:4]!ped! A,,A,E A,,A,E!ped-up!|:[V:5]x6|:
+[V:1]"Ab""^Allegretto (c. 116)" c2 c cBA|[V:2]x6|[V:3]!mp! z2 A a3|[V:4]!ped! A,,A,E A,,A,E!ped-up!|[V:5]x6|
+[V:1](GF) E E3|[V:2]x6|[V:3]z2 A a3|[V:4]!ped! A,,A,E A,,A,E!ped-up!|[V:5]x6|
+[V:1]E2 E (EF)G|[V:2]x6|[V:3]z2 A a3|[V:4]!ped! A,,A,E A,,A,E!ped-up!|[V:5]x6|
+[V:1]"Db" F2 F"F7" F2 z|[V:2]x6|[V:3]z2 F f3|[V:4]!ped! A,,A,D A,,A,D!ped-up!|[V:5]x6|
+[V:1]"Bb7/D" d2 d dcB|[V:2]x6|[V:3]z2 F f3|[V:4]!ped! A,,B,F A,,B,F!ped-up!|[V:5]x6|
+[V:1](AG) F F3|[V:2]x6|[V:3]z2 F f3|[V:4]!ped! A,,A,F A,,A,F!ped-up!|[V:5]x6|
+[V:1]F2 F (FG)A|[V:2]x6|[V:3]z2 F f3|[V:4]!ped! A,,A,F A,,A,F!ped-up!|[V:5]x6|
+[V:1]"C7" (G3 G2) z|[V:2]x6|[V:3]z2 =E =e3|[V:4]!ped! C,,C,C C,,C,C!ped-up!|[V:5]x6|
+[V:1]"C7" G2 A BAG|[V:2]x6|[V:3]z2 =E =e3|[V:4]!ped! C,,C,C C,,C,C!ped-up!|[V:5]x6|
+[V:1](F3 F2) G|[V:2]x6|[V:3]z2 F f3|[V:4]!ped! F,,F,C F,,F,C!ped-up!|[V:5]x6|
+[V:1]"Db" A2 B (cB)A|[V:2]x6|[V:3]z2 F f3|[V:4]!ped! F,,F,D F,,F,D!ped-up!|[V:5]x6|
+[V:1]"Ab" E3- E2 z|[V:2]x6|[V:3]z2 E e3|[V:4]!ped! E,,E,E E,,E,E!ped-up!|[V:5]x6|
+[V:1]"Bbm" d2 d ded|[V:2]x6|[V:3]z2 F f3|[V:4]!ped! D,,D,D D,,D,D!ped-up!|[V:5]x6|
+[V:1](cB) A A2 c|[V:2]x6|[V:3]z2 E e3|[V:4]!ped! C,,C,C C,,C,C!ped-up!|[V:5]x6|
+[V:1]B2 c d2 F|[V:2]x6|[V:3]z2 D d3|[V:4]!ped! D,,D,D D,,D,D!ped-up!|[V:5]x6|
+[V:1](E3 E2) z|[V:2]x6|[V:3]z2 E e3|[V:4]!ped! E,,E,E E,,E,E!ped-up!|[V:5]x6|
+[V:1]"Ab" c2 c cBA|[V:2]x6|[V:3]!mf! z2 A a3|[V:4]!ped! A,,A,E A,,A,E!ped-up!|[V:5]x6|
+[V:1](GF) E E3|[V:2]x6|[V:3]z2 A a3|[V:4]!ped! A,,A,E A,,A,E!ped-up!|[V:5]x6|
+[V:1]E2 E (EF)G|[V:2]x6|[V:3]z2 A a3|[V:4]!ped! A,,A,E A,,A,E!ped-up!|[V:5]x6|
+[V:1]"Db" F2 F"F7" F2 z|[V:2]x6|[V:3]z2 F f3|[V:4]!ped! A,,A,D A,,A,D!ped-up!|[V:5]x6|
+[V:1]"Bb7/D" d2 d dcB|[V:2]x6|[V:3]z2 F f3|[V:4]!ped! A,,B,F A,,B,F!ped-up!|[V:5]x6|
+[V:1](AG) F F3|[V:2]x6|[V:3]z2 F f3|[V:4]!ped! A,,A,F A,,A,F!ped-up!|[V:5]x6|
+[V:1]F2 F (FG)A|[V:2]x6|[V:3]z2 F f3|[V:4]!ped! A,,A,F A,,A,F!ped-up!|[V:5]x6|
+[V:1]"C7" (G3 G2) z|[V:2]x6|[V:3]z2 =E =e3|[V:4]!ped! C,,C,C C,,C,C!ped-up!|[V:5]x6|
+[V:1]"C7" G2 A BAG|[V:2]x6|[V:3]z2 =E =e3|[V:4]!ped! C,,C,C C,,C,C!ped-up!|[V:5]x6|
+[V:1](F3 F2) G|[V:2]x6|[V:3]z2 F f3|[V:4]!ped! F,,F,C F,,F,C!ped-up!|[V:5]x6|
+[V:1]"Db" A2 B (cB)A|[V:2]x6|[V:3]z2 F f3|[V:4]!ped! F,,F,D F,,F,D!ped-up!|[V:5]x6|
+[V:1]"Ab" E3- E2 z|[V:2]x6|[V:3]z2 E e3|[V:4]!ped! E,,E,E E,,E,E!ped-up!|[V:5]x6|
+[V:1]"Bbm" d2 d ded|[V:2]x6|[V:3]z2 F f3|[V:4]!ped! D,,D,D D,,D,D!ped-up!|[V:5]x6|
+[V:1](cB) A A2 c|[V:2]x6|[V:3]z2 E e3|[V:4]!ped! C,,C,C C,,C,C!ped-up!|[V:5]x6|
+[V:1]B2 c d2 F|[V:2]x6|[V:3]z2 D d3|[V:4]!ped! D,,D,D D,,D,D!ped-up!|[V:5]x6|
+[V:1](E3 E2) z|[V:2]x6|[V:3]z2 E e3|[V:4]!ped! E,,E,E E,,E,E!ped-up!|[V:5]x6|
+[V:1]"Ab" c2 c cBA|[V:2]x6|[V:3]z2 A a3|[V:4]!ped! A,,A,E A,,A,E!ped-up!|[V:5]x6|
+[V:1](GF) E E3|[V:2]x6|[V:3]z2 A a3|[V:4]!ped! A,,A,E A,,A,E!ped-up!|[V:5]x6|
+[V:1]E2 E (EF)G|[V:2]x6|[V:3]z2 A a3|[V:4]!ped! A,,A,E A,,A,E!ped-up!|[V:5]x6|
+[V:1]"Db" F2 F"F7" F2 z|[V:2]x6|[V:3]z2 F f3|[V:4]!ped! A,,A,D A,,A,D!ped-up!|[V:5]x6|
+[V:1]"Bb7/D" d2 d dcB|[V:2]x6|[V:3]z2 F f3|[V:4]!ped! A,,B,F A,,B,F!ped-up!|[V:5]x6|
+[V:1](AG) F F3|[V:2]x6|[V:3]z2 F f3|[V:4]!ped! A,,A,F A,,A,F!ped-up!|[V:5]x6|
+[V:1]F2 F (FG)A|[V:2]x6|[V:3]z2 F f3|[V:4]!ped! A,,A,F A,,A,F!ped-up!|[V:5]x6|
+[V:1]"C7" (G3 G2) z|[V:2]x6|[V:3]z2 =E =e3|[V:4]!ped! C,,C,C C,,C,C!ped-up!|[V:5]x6|
+[V:1]"C7" G2 A BAG|[V:2]x6|[V:3]z2 =E =e3|[V:4]!ped! C,,C,C C,,C,C!ped-up!|[V:5]x6|
+[V:1](F3 F2) G|[V:2]x6|[V:3]z2 F f3|[V:4]!ped! F,,F,C F,,F,C!ped-up!|[V:5]x6|
+[V:1]"Db" A2 B (cB)A|[V:2]x6|[V:3]z2 F f3|[V:4]!ped! F,,F,D F,,F,D!ped-up!|[V:5]x6|
+[V:1]"Ab" E3- E2 z|[V:2]x6|[V:3]z2 E e3|[V:4]!ped! E,,E,E E,,E,E!ped-up!|[V:5]x6|
+[V:1]"Ab" c2 c cBA|][V:2]A3- A G F|][V:3]z2 A a3|][V:4]!ped! A,,A,E A,,A,E!ped-up!|][V:5]A,,6|]

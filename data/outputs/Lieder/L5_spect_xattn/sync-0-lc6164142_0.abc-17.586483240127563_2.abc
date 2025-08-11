@@ -1,0 +1,33 @@
+%%score 1 { 2 | ( 3 4 5 ) }
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+V:4 bass 
+V:5 bass 
+[V:1]"^Allegretto" F2|[V:2][DF]2|[V:3]!p! z2|[V:4]x2|[V:5]x2|
+[V:1]F3 ^A c2 d2|[V:2][DF]3 [D^A] [Ac]2 [Bd]2|[V:3]z2 B,2 ^A,2 B,2|[V:4]x8|[V:5]x8|
+[V:1]{d} c4 z2 B2|[V:2]{d} [^Ac]4 z2 B2|[V:3]z2 E2 D2 C2|[V:4]F,6 E,2|[V:5]x8|
+[V:1]B3 d ^e2 f2|[V:2][FB]3 [Bd] [B^e]2 [Bf]2|[V:3]B,2 F,2 D,2 B,,2|[V:4]x8|[V:5]x8|
+[V:1]{f} e4 z2 c2|[V:2]{f} [^Ae]4 z2 c2|[V:3]F,2 ^G,2 ^A,2 F,2|[V:4]x8|[V:5]x8|
+[V:1](dc) (cB) B2 ^A2|[V:2](dc) (cB) B2 ^A2|[V:3]B,2 D,2 D,2 C,2|[V:4]F,4 F,4|[V:5]F,4 F,4|
+[V:1](B2 d4) B2|[V:2](B2 d4) B2|[V:3]B,,2 B,2 A,2 G,2|[V:4][I:staff -1] [B,D]2 F4 E2|[V:5]x8|
+[V:1](^A3 B) c2 F2|[V:2](^A3 B) c2 F2|[V:3]F,4 ^A,,4|[V:4]F4[I:staff +1] [EF]4|[V:5]x8|
+[V:1]{F} E4 D2 z2|[V:2]{F} E4 D2 z2|[V:3]z2 F,,2 B,,2 z2|[V:4][I:staff -1] [^A,C]4 B,2 z2|[V:5]x8|
+[V:1](B^A) (Bc) d2 B2|[V:2](B^A) (Bc) d2 B2|[V:3]z4 B,2 B,,2|[V:4]x4 [DF]2 [DF]2|[V:5]x8|
+[V:1](c^B) (cd) e2 c2|[V:2](c^B) (cd) e2 c2|[V:3]z4 ^A,2 ^A,,2|[V:4]x4 [EF]2 [EF]2|[V:5]x8|
+[V:1](dc) (de) f2 g2|[V:2](dc) (de) f2 g2|[V:3]z4 B,2 E,2|[V:4]x4 [DF]2 [EB]2|[V:5]x8|
+[V:1]f2 e2 d2 c2|[V:2]f2 e2 d2 c2|[V:3]^A,,4 B,,2 E,,2|[V:4][E^A]4 F2 E2|[V:5]x8|
+[V:1]B4 ^A4|[V:2]B4 ^A4|[V:3]F,,2 F,2 F,,2 F,2|[V:4][DF]4 [CF]4|[V:5]x8|
+[V:1]B2 z2 z2||[V:2]B2 z2 z2||[V:3][B,,D,F,]2 z2 z2||[V:4][DF]2[I:staff +1] x2 x2||[V:5]x6||
+[V:1]F2|[V:2][DF]2|[V:3]!p! z2|[V:4]x2|[V:5]x2|
+[V:1]F3 ^A c2 d2|[V:2][DF]3 [D^A] [Ac]2 [Bd]2|[V:3]z2 B,2 ^A,2 B,2|[V:4]x8|[V:5]x8|
+[V:1]{d} c4 z2 B2|[V:2]{[Bd]} [^Ac]4 z2 B2|[V:3]z2 E2 D2 C2|[V:4]F,6 E,2|[V:5]x8|
+[V:1]B3 d ^e2 f2|[V:2][FB]3 [Bd] [B^e]2 [Bf]2|[V:3]B,2 F,2 D,2 B,,2|[V:4]x8|[V:5]x8|
+[V:1]{f} e4 z2 c2|[V:2]{[^Ae]} [Ae]4 z2 c2|[V:3]F,2 ^G,2 ^A,2 F,2|[V:4]x8|[V:5]x8|
+[V:1](dc) (cB) B2 ^A2|[V:2](dc) (cB) B2 ^A2|[V:3]B,2 D,2 D,2 C,2|[V:4]F,4 F,4|[V:5]F,4 F,4|
+[V:1](B2 d4) B2|[V:2](B2 d4) B2|[V:3]B,,2 B,2 A,2 G,2|[V:4][I:staff -1] [B,D]2 F4 E2|[V:5]x8|
+[V:1](^A3 B) c2 F2|[V:2](^A3 B) c2 F2|[V:3]F,4 ^A,,4|[V:4]F4[I:staff +1] [EF]4|[V:5]x8|
+[V:1]{F} E4 D2 z2|][V:2]{F} E4 D2 z2|][V:3]z2 F,,2 B,,2 z2|][V:4][I:staff -1] [^A,C]4 B,2 x2|][V:5]x8|]

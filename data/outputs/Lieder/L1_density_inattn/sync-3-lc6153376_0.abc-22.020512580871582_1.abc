@@ -1,0 +1,34 @@
+%distance 3 3 3 3 3 3 3 3 3 3 3 3 3 4 3 3
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=94
+M:4/4
+K:G
+V:1 treble nm="Gesang\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+V:4 treble nm="Volont" snm="Vo." snm="Sourd."
+K:noreble+15 
+:
+[V:1]z8::[V:2]z8::[V:3]z8::[V:4].!3!E.E.!2!E.!3!E .E.E.E.E::
+[V:1]z8:|[V:2]z8:|[V:3]!1!E!1!F!2!^^F!1!G !1!A!3!^A!2!B!3!c:|[V:4]!2!!1![DE]!5!F!4!!1![DE^F]!2!!4![DEFG] !12![DEFA]!31![DEFA][DEF^A][DEFA]:|
+[V:1]z8::[V:2]z8::[V:3].!2!B2 .!2!B2 .!1!B2 .B2::[V:4]!245![DEGB][DEGB][DEGB][DEGB][DEGB] !13!![DEGB][DEGB][DEGB][DEGB]::
+[V:1].!1!G2 .!2!G2 .!1!G2 .G2|[V:2]z8|[V:3].!5!B.!4!A.!2!G.!1!F .!2!E.!1!^D.!2!E.!1!G|[V:4]!245![DEGB][DEGB][DEGB][DEGB] [DEGB][DEGB][DEGB][DEGB]|
+[V:1].!1!G2 .!2!G2 .!1!G2 .G2|[V:2]z8|[V:3].!521!B.!4!A.!2!G.!1!F .!2!E.!1!^D.!2!E.!1!G|[V:4][DEGB][DEGB][DEGB][DEGB] [DEGB][DEGB][DEGB][DEGB]|
+[V:1].!1!G2 .!2!G2 .!1!G2 .G2|[V:2]z8|[V:3].!12!B.!4!A.!2!G.!1!F .!2!E.!1!^D.!2!E.!1!G|[V:4][DEGB][DEGB][DEGB][DEGB] [DEGB][DEGB][DEGB][DEGB]|
+[V:1].!1!G2 .!2!G2 .!1!G2 .G2|[V:2]z8|[V:3].!21!B.!4!A.!2!G.!1!F .!2!E.!12!^D.!2!E.!1!G|[V:4][DEGB][DEGB][DEGB][DEGB] [DEGB][DEGB][DEGB][DEGB]|
+[V:1].!1!G2 .!2!G2 .!1!G2 .G2|[V:2]z8|[V:3].!12!B.!4!A.!2!G.!1!F .!2!E.!14!^D.!2!E.!1!G|[V:4][DEGB][DEGB][DEGB][DEGB] [DEGB][DEGB][DEGB][DEGB]|
+[V:1].!1!G2 .!2!G2 .!1!G2 .G2|[V:2]z8|[V:3].!12!B.!4!A.!2!G.!1!F .!2!E.!14!^D.E.!2!G|[V:4][DEGB][DEGB][DEGB][DEGB] [DEGB][DEGB][DEGB][DEGB]|
+[V:1].!1!G2 .!2!G2 .!2!G2 .G2|[V:2]z8|[V:3].!12!B.!4!A.!2!G.!1!F .!2!E.!41!^D.!2!E.!1!G|[V:4][DEGB][DEGB][DEGB][DEGB] [DEGB][DEGB][DEGB][DEGB]|
+[V:1].!1!G2 .!2!G2 .!1!G2 .G2|[V:2]z8|[V:3].!12!B.!4!A.!2!G.!1!F .!2!E.!14!^D.E.!2!G|[V:4][DEGB][DEGB][DEGB][DEGB] [DEGB][DEGB][DEGB][DEGB]|
+[V:1].!1!G2 .!2!G2 .!1!G2 .G2|[V:2]z8|[V:3].!12!B.!4!A.!2!G.!1!F .!2!E.!14!^D.E.!12!G|[V:4][DEGB][DEGB][DEGB][DEGB] [DEGB][DEGB][DEGB][DEGB]|
+[V:1]z8|[V:2][I:staff +1] [C,D,A,][C,D,A,][C,D,A,][C,D,A,] [C,D,G,B,]2 [C,D,F,A,]2|[V:3]z8|[V:4]z8|
+[V:1].G .G .G .G .G .G .G .G|[V:2][B,,D,G,][B,,D,G,][B,,D,G,][B,,D,G,] [B,,D,G,][B,,D,G,][B,,D,G,][B,,D,G,]|[V:3]G,,8|[V:4]z8|
+[V:1].G .G .G .G .G .G .G .G|[V:2][B,,D,G,][B,,D,G,][B,,D,G,][B,,D,G,] [B,,D,G,][B,,D,G,][B,,D,G,][B,,D,G,]|[V:3]G,,8|[V:4]z8|
+[V:1].G .G .G .G .G .G .G .G|[V:2][B,,D,G,][B,,D,G,][B,,D,G,][B,,D,G,] [B,,D,G,][B,,D,G,][B,,D,G,][B,,D,G,]|[V:3]G,,8|[V:4]z8|
+[V:1].G .G .G .G .G .G .G .G|[V:2][B,,D,G,][B,,D,G,][B,,D,G,][B,,D,G,] [B,,D,G,][B,,D,G,][B,,D,G,][B,,D,G,]|[V:3]G,,8|[V:4]z8|
+[V:1].!1!G .!2!G .!1!G .!2!G .!1!G .!2!G .!1!G .!2!G|[V:2]!3!B,,!2!C,!1!D,!2!E, !1!=F,!2!^F,!3!G,!2!B,|[V:3][G,,,G,,][A,,,A,,][B,,,B,,,][C,,C,] [D,,D,][E,,E,][=F,,=F,][G,,G,]|[V:4]z8|
+[V:1].!1!G .!2!G .!1!G .!2!G .!1!G .!2!G .!1!G .!2!G|[V:2]!2!E!3!=F!2!^F!1!G !2!A!1!^A!2!B!1!c|[V:3][C,C][D,D][E,E][=F,=F] [^F,^F][G,G][A,A][B,B]|[V:4]z8|
+[V:1].!1!G .!2!G .!2!G .!1!G .!2!G .!1!G .!1!G .!2!G|[V:2]!3!e!2!=f!2!^f!1!g !2!a!1!^a!2!b!1!c'|[V:3][K:treble] [Cc][Dd][Ee][=F=f] [^F^f][Gg][Aa][Bb]|[V:4]z8|
+[V:1].!1!G .!2!G .!1!G .!2!G .!1!G .!2!G .!1!G .!2!G:|[V:2].!5!e'.!3!=f'.!2!^f'.!1!g' .!2!a'.!3!b'.!3!c''.!1!g':|[V:3][cc'][dd'][ee'][=f=f'] [^f^f'][gg'][aa'][bb']:|[V:4]z8:|
+[V:1]SO"^1. Refrain" z8||[V:2]z8:|[V:3]z8:|[V:4].!3!C2 .C,2 .C,2 .C,2:|

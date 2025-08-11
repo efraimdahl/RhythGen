@@ -1,0 +1,34 @@
+%%score ( 1 2 ) { ( 3 4 ) | 5 }
+L:1/8
+Q:1/4=120
+M:6/8
+K:Gb
+V:1 treble nm="Gesang\nVoice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:4 treble 
+V:5 bass 
+[V:1]"^Sanftly und langser" z6|[V:2]x6|[V:3]!p! B>Bd/e/ dBG|[V:4]D3 D3|[V:5][G,,G,]>[B,,B,][D,D] [G,,G,]>[B,,B,][D,D]|
+[V:1]z6|[V:2]x6|[V:3]{AB} A/=G/A/B/c/d/ e2 f|[V:4]D2 D E2 D|[V:5][F,,F,]>[A,,A,][D,D] [G,,G,]>[C,C][D,D]|
+[V:1]z6|[V:2]x6|[V:3]g>dB/d/ A>ed/c/|[V:4]G3 F2 C|[V:5][B,,B,]>[D,D][G,B,] [D,,D,]>[D,F,C][D,F,C]|
+[V:1]z5::[V:2]x5::[V:3][CDA]3 [B,G]2::[V:4]x5::[V:5]D,,>D,D,, [G,,G,]2::
+[V:1]"^A" D B3/2 c/|[V:2]x3|[V:3]!p! [B,D] z2|[V:4]x3|[V:5]z3|
+[V:1]d3 d2 d|[V:2]x6|[V:3][DGB]>[DGB][DGB] [DGB]>[DGB][DGB]|[V:4]x6|[V:5]G,,>G,G, G,,>G,G,|
+[V:1]e3 c2 e|[V:2]x6|[V:3][EGc]>[EGc][EGc] [EGc]>[EGc][EGc]|[V:4]x6|[V:5]C,>G,G, C,>G,G,|
+[V:1]d3 B2 G|[V:2]x6|[V:3][DGB]>[DGB][DGB] [DGB]>[DGB][DGB]|[V:4]x6|[V:5]G,,>G,G, G,,>G,G,|
+[V:1]{B} A3 z A A|[V:2]x6|[V:3][DFA]>[DFA][DFA] [DFA]>[DFA][DFA]|[V:4]x6|[V:5]D,>A,A, D,>A,A,|
+[V:1]A3 A2 B|[V:2]x6|[V:3][CFA]>[CFA][CFA] [CFA]>[CFA][CFA]|[V:4]x6|[V:5]D,>A,A, D,>A,A,|
+[V:1]c3 c2 c|[V:2]x6|[V:3][CFA]>[CFA][CFA] [CFA]>[CFA][CFA]|[V:4]x6|[V:5]D,>A,A, D,>A,A,|
+[V:1]d3{c} B>A B|[V:2]x3 d3|[V:3][DGB]>[DGB][DGB] [DGB]>[DGB][DGB]|[V:4]x6|[V:5]G,,>G,G, G,,>G,G,|
+[V:1]G3 z2 z|:[V:2]x6|:[V:3][B,DG]>[B,DG][B,DG] [B,DG]>B,C|:[V:4]x6|:[V:5]G,,>G,G, G,>B,,C,|:
+[V:1]"^B" z2 z G3/2 G/ G|[V:2]x6|[V:3]!p! D>DD D>DD|[V:4]x6|[V:5]D,>B,G, D,>B,G,|
+[V:1]A3/2 B/ A A2 d|[V:2]x6|[V:3]D>DD D>DD|[V:4]x6|[V:5]D,>CF, D,>CF,|
+[V:1]d3 z G G|[V:2]x6|[V:3]D>DD D>DD|[V:4]x6|[V:5]D,>B,G, D,>B,G,|
+[V:1]{B} A3 z d c|[V:2]x6|[V:3]D>DD D>DD|[V:4]x6|[V:5]D,>CF, D,>CF,|
+[V:1]B3 z2 z|[V:2]x6|[V:3]B,>DG/B/ d>cB|[V:4]x6|[V:5]G,,>G,G, B,,>G,G,|
+[V:1]z6|[V:2]x6|[V:3]c/B/c/d/e/f/ g2 e|[V:4]x6|[V:5]C,>G,G, C,>G,G,|
+[V:1]z6|1[V:2]x6|1[V:3]d>gd/B/ A>ed/c/|1[V:4]G3 F3|1[V:5]D,>B,B, D,>CC|1
+[V:1]z6:|2[V:2]x6:|2[V:3][CDA]3 [B,G]2 z:|2[V:4]x6:|2[V:5]D,,>D,D,, G,,2 z:|2
+[V:1]z6!D.S.!|][V:2]x6|][V:3][CDA]3 [B,G]3|][V:4]x6|][V:5]D,,>D,D,, G,,3|]
+[V:1]z6|[V:2]x6|[V:3]"^E"!p! [B,DG]2 z!p! [DFAc]2 z|[V:4]x6|[V:5][G,,G,]2 z [D,,D,]2 z|
+[V:1]z3|][V:2]x3|][V:3]!p! [B,DG]2 z|][V:4]x3|][V:5][G,,G,]2 z|]

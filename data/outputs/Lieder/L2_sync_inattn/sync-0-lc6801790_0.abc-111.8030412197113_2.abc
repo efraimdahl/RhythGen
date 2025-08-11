@@ -1,0 +1,76 @@
+%syncopation 5 3 6 6 2 3 6 2 2 1 6 6 2 2 2 2 2 2 3 2 6 5 3 6 6 2 6 1 1 1 1 1 1 2 2 2 2 2 2 2 3 2 6 5 3 6 6 2 6 1 1 1 1 1 1 6 2 2 2 2 2 2 3 2
+%%score ( 1 2 ) { ( 3 5 ) | ( 4 6 ) }
+L:1/8
+Q:1/4=63
+M:2/4
+K:Db
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:5 treble 
+V:4 bass 
+V:6 bass 
+[V:1]"^Langsam" z4|[V:2]x4|[V:3]!p! (6:4:6([Af]/[Bg]/[Ge]/[Af]/[Fd]/[Ge]/ (6:4:6[Fd]/[Af]/[Ge]/[Ge]/[Fd]/[Ge]/)|[V:4](6:4:6(D,/A,/D/[I:staff -1]F/[I:staff +1]A,/F,/)[I:staff -1] (6:4:6(D/[I:staff +1]A,/D/[I:staff -1]F/[I:staff +1]A,/F,/)|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2]x4|[V:3](6:4:6([Af]/[Bg]/[Bg]/[ca]/[Af]/[Bg]/) (6:4:6([ca]/[db]/[db]/[ec']/[db]/[ec']/)|[V:4](6:4:6(D,/A,/D/[I:staff -1]F/[I:staff +1]A,/F,/)[I:staff -1] (6:4:6(D/F/A/G/[I:staff +1]A,/G,/)|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2]x4|[V:3](6:4:6([fd']/[ge']/[ge']/[fd']/[fd']/[ge']/) (6:4:6([af']/[bg']/[bg']/[af']/[af']/[af']/)|[V:4](6:4:6(D,/A,/D/[I:staff -1]F/[I:staff +1]A,/F,/)[I:staff -1] (6:4:6(D/A/d/A/[I:staff +1]F/D/)|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2]x4|[V:3](6:4:6([af']/[ge']/[ge']/[fd']/[fd']/[fd']/) (6:4:6([fd']/[ec']/[ec']/[db]/[db]/[db]/)|[V:4](6:4:6(D,/A,/D/[I:staff -1]F/[I:staff +1]A,/F,/)[I:staff -1] (6:4:6(D/F/A/G/[I:staff +1]D/G,/)|[V:5]x4|[V:6]x4|
+[V:1]z2 z A|[V:2]x4|[V:3](6:4:6([db]/[ca]/[ca]/[Bg]/[Bg]/[Bg]/) (6:4:6([Bg]/[Af]/[Af]/[Ge]/[Ge]/[Ge]/)|[V:4](6:4:6(A,,/A,/C/[I:staff -1]E/[I:staff +1]C/A,/)[I:staff -1] (6:4:6(D/A,/D/E/C/A,/)|[V:5]x4|[V:6]x4|
+[V:1]f3 d|[V:2]x4|[V:3](6:4:6([Fd]/[Fd]/[Af]/[Af]/[Fd]/[Fd]/) (6:4:6([Fd]/[Af]/[Af]/[Fd]/[Fd]/[Af]/)|[V:4][I:staff +1] (6:4:6(D,/A,/D/[I:staff -1]F/[I:staff +1]A,/F,/) (6:4:6(D,/A,/D/[I:staff -1]F/[I:staff +1]A,/F,/)|[V:5]x4|[V:6]x4|
+[V:1]A d f3/2 d/|[V:2]x4|[V:3](6:4:6([Fd]/[Fd]/[Af]/[Af]/[Fd]/[Fd]/) (6:4:6([Fd]/[Af]/[Af]/[Fd]/[Fd]/[Af]/)|[V:4](6:4:6(D,/A,/D/[I:staff -1]F/[I:staff +1]A,/F,/) (6:4:6(D,/A,/D/[I:staff -1]F/[I:staff +1]A,/F,/)|[V:5]x4|[V:6]x4|
+[V:1]c3 c|[V:2]x4|[V:3](6:4:6([=Ec]/[Ec]/[B=e]/[Be]/[Ec]/[Ec]/) (6:4:6([Ec]/[Be]/[Be]/[Ec]/[EB]/[Be]/)|[V:4](6:4:6(C,/=G,/C/[I:staff -1]=E/[I:staff +1]C/G,/) (6:4:6(C,/G,/C/[I:staff -1]E/[I:staff +1]C/G,/)|[V:5]x4|[V:6]x4|
+[V:1]=d2 z d|[V:2]x4|[V:3](6:4:6([F=d]/[Fd]/[Bf]/[Bf]/[Fd]/[Fd]/) (6:4:6([Fd]/[Bf]/[Bf]/[Fd]/[Fd]/[Bf]/)|[V:4](6:4:6(_C,/F,/_C/[I:staff -1]=D/[I:staff +1]C/F,/) (6:4:6(B,,/F,/B,/[I:staff -1]D/[I:staff +1]B,/F,/)|[V:5]x4|[V:6]x4|
+[V:1]f2 e d|[V:2]x4|[V:3](6:4:6([F=d]/[Fd]/[Bf]/[Bf]/[Fd]/[Fd]/) (6:4:6([Fd]/[Bf]/[Bf]/[Fd]/[Fd]/[Bf]/)|[V:4](6:4:6(B,,/F,/B,/[I:staff -1]=D/[I:staff +1]B,/F,/) (6:4:6(B,,/F,/B,/[I:staff -1]D/[I:staff +1]B,/F,/)|[V:5]x4|[V:6]x4|
+[V:1]c c e3/2 d/|[V:2]x4|[V:3](6:4:6([Gc]/[Gc]/[cg]/[cg]/[Gc]/[Gc]/) (6:4:6([Gc]/[Gc]/[cg]/[cg]/[Gc]/[Gc]/)|[V:4](6:4:6(B,,/E,/G,/[I:staff -1]C/[I:staff +1]G,/E,/) (6:4:6(B,,/E,/G,/[I:staff -1]C/[I:staff +1]G,/E,/)|[V:5]x4|[V:6]x4|
+[V:1]c3 f|[V:2]x4|[V:3](6:4:6([Gc]/[Gc]/[cg]/[cg]/[Gc]/[Gc]/) (6:4:6([Fc]/[Fc]/[cf]/[cf]/[Fc]/[Fc]/)|[V:4](6:4:6(=A,,/E,/G,/[I:staff -1]C/[I:staff +1]G,/E,/) (6:4:6(_A,,/E,/F,/[I:staff -1]C/[I:staff +1]F,/E,/)|[V:5]x4|[V:6]x4|
+[V:1]f2 z d|[V:2]x4|[V:3](6:4:6([Fd]/[Fd]/[Bf]/[Bf]/[Fd]/[Fd]/) (6:4:6([Fd]/[Fd]/[Bf]/[Bf]/[Fd]/[Fd]/)|[V:4](6:4:6(B,,/F,/B,/[I:staff -1]D/[I:staff +1]B,/F,/) (6:4:6(B,,/F,/B,/[I:staff -1]D/[I:staff +1]B,/F,/)|[V:5]x4|[V:6]x4|
+[V:1]c d e3/2 d/|[V:2]x4|[V:3](6:4:6([Ec]/[Ec]/[Be]/[Be]/[Ec]/[Ec]/) (6:4:6([Ec]/[Ec]/[Be]/[Be]/[Ec]/[Ec]/)|[V:4](6:4:6(A,,/E,/=G,/[I:staff -1]C/[I:staff +1]G,/E,/) (6:4:6(A,,/E,/G,/[I:staff -1]C/[I:staff +1]G,/E,/)|[V:5]x4|[V:6]x4|
+[V:1]c e A3/2 A/|[V:2]x4|[V:3](6:4:6([Ec]/[Ec]/[Ae]/[Ae]/[Ec]/[Ec]/) (6:4:6([Ec]/[Ec]/[Ae]/[Ae]/[Ec]/[Ec]/)|[V:4](6:4:6(A,,/E,/A,/[I:staff -1]C/[I:staff +1]A,/E,/) (6:4:6(A,,/E,/A,/[I:staff -1]C/[I:staff +1]A,/E,/)|[V:5]x4|[V:6]x4|
+[V:1]c3 c|[V:2]x4|[V:3](6:4:6([Ec]/[Ec]/[Be]/[Be]/[Ec]/[Ec]/) (6:4:6([Ec]/[Ec]/[B=e]/[Be]/[Ec]/[EB]/)|[V:4](6:4:6(=G,,/=E,/=G,/[I:staff -1]C/[I:staff +1]G,/E,/) (6:4:6(B,,/E,/G,/[I:staff -1]C/[I:staff +1]G,/E,/)|[V:5]x4|[V:6]x4|
+[V:1]e2 d c|[V:2]x4|[V:3](6:4:6([Ec]/[Ec]/[Ae]/[Ae]/[Ec]/[Ec]/) (6:4:6([Ec]/[Ec]/[=Ae]/[Ae]/[Ec]/[Ec]/)|[V:4](6:4:6(=A,,/E,/G,/[I:staff -1]C/[I:staff +1]G,/E,/) (6:4:6(G,,/E,/G,/[I:staff -1]C/[I:staff +1]G,/E,/)|[V:5]x4|[V:6]x4|
+[V:1]B c d3/2 B/|[V:2]x4|[V:3](6:4:6([DB]/[DB]/[Bd]/[Bd]/[DB]/[DB]/) (6:4:6([DB]/[DB]/[Bd]/[Bd]/[DB]/[DB]/)|[V:4](6:4:6(F,,/D,/F,/[I:staff -1]B,/[I:staff +1]F,/D,/) (6:4:6(_F,,/D,/_F,/[I:staff -1]B,/[I:staff +1]F,/D,/)|[V:5]x4|[V:6]x4|
+[V:1]=A2 c f|[V:2]x4|[V:3](6:4:6([C=A]/[CA]/[Ac]/[Ac]/[CA]/[CA]/) (6:4:6([EA]/[EA]/[Ae]/[Ae]/[EA]/[EA]/)|[V:4](6:4:6(F,,/C,/F,/[I:staff -1]=A,/[I:staff +1]F,/C,/) (6:4:6(F,,/C,/F,/[I:staff -1]A,/[I:staff +1]F,/C,/)|[V:5]x4|[V:6]x4|
+[V:1]f3 e|[V:2]x4|[V:3](6:4:6([DB]/[DB]/[Fd]/[Fd]/[DB]/[DB]/) (6:4:6([Ec]/[Ec]/[Ge]/[Ge]/[Ec]/[Ec]/)|[V:4](6:4:6(B,,/F,/B,/[I:staff -1]D/[I:staff +1]B,/F,/) (6:4:6(=A,,/E,/G,/[I:staff -1]C/[I:staff +1]G,/E,/)|[V:5]x4|[V:6]x4|
+[V:1]d2 z d|[V:2]x4|[V:3](6:4:6([DB]/[DB]/[Gd]/[Gd]/[DB]/[DB]/) (6:4:6([DB]/[DB]/[Gd]/[Gd]/[DB]/[DB]/)|[V:4](6:4:6(G,,/D,/G,/[I:staff -1]B,/[I:staff +1]G,/D,/) (6:4:6(G,,/D,/G,/[I:staff -1]B,/[I:staff +1]G,/D,/)|[V:5]x4|[V:6]x4|
+[V:1]c d e3/2 d/|[V:2]x4|[V:3](6:4:6([Ec]/[Ec]/[Be]/[Be]/[Ec]/[Ec]/) (6:4:6([Ec]/[Ec]/[Be]/[Be]/[Ec]/[Ec]/)|[V:4](6:4:6(A,,/E,/=G,/[I:staff -1]C/[I:staff +1]G,/E,/) (6:4:6(A,,/E,/G,/[I:staff -1]C/[I:staff +1]G,/E,/)|[V:5]x4|[V:6]x4|
+[V:1]c e A3/2 A/|[V:2]x4|[V:3](6:4:6([Ec]/[Ec]/[Ae]/[Ae]/[Ec]/[Ec]/) (6:4:6([Ec]/[Ec]/[Ae]/[Ae]/[Ec]/[Ec]/)|[V:4](6:4:6(A,,/E,/A,/[I:staff -1]C/[I:staff +1]A,/E,/) (6:4:6(A,,/E,/A,/[I:staff -1]C/[I:staff +1]A,/E,/)|[V:5]x4|[V:6]x4|
+[V:1]c3 c|[V:2]x4|[V:3](6:4:6([Ec]/[Ec]/[Be]/[Be]/[Ec]/[Ec]/) (6:4:6([Ec]/[Ec]/[B=e]/[Be]/[Ec]/[EB]/)|[V:4](6:4:6(=G,,/=E,/=G,/[I:staff -1]C/[I:staff +1]G,/E,/) (6:4:6(B,,/E,/G,/[I:staff -1]C/[I:staff +1]G,/E,/)|[V:5]x4|[V:6]x4|
+[V:1]e2 d c|[V:2]x4|[V:3](6:4:6([Ec]/[Ec]/[Ae]/[Ae]/[Ec]/[Ec]/) (6:4:6([Ec]/[Ec]/[=Ae]/[Ae]/[Ec]/[Ec]/)|[V:4](6:4:6(=A,,/E,/G,/[I:staff -1]C/[I:staff +1]G,/E,/) (6:4:6(G,,/E,/G,/[I:staff -1]C/[I:staff +1]G,/E,/)|[V:5]x4|[V:6]x4|
+[V:1]B c d3/2 B/|[V:2]x4|[V:3](6:4:6([DB]/[DB]/[Bd]/[Bd]/[DB]/[DB]/) (6:4:6([DB]/[DB]/[Bd]/[Bd]/[DB]/[DB]/)|[V:4](6:4:6(F,,/D,/F,/[I:staff -1]B,/[I:staff +1]F,/D,/) (6:4:6(_F,,/D,/_F,/[I:staff -1]B,/[I:staff +1]F,/D,/)|[V:5]x4|[V:6]x4|
+[V:1]=A2 c f|[V:2]x4|[V:3](6:4:6([C=A]/[CA]/[Ac]/[Ac]/[CA]/[CA]/) (6:4:6([EA]/[EA]/[Ae]/[Ae]/[EA]/[EA]/)|[V:4](6:4:6(F,,/C,/F,/[I:staff -1]=A,/[I:staff +1]F,/C,/) (6:4:6(F,,/C,/F,/[I:staff -1]A,/[I:staff +1]F,/C,/)|[V:5]x4|[V:6]x4|
+[V:1]f3 e|[V:2]x4|[V:3](6:4:6([DB]/[DB]/[Fd]/[Fd]/[DB]/[DB]/) (6:4:6([Ec]/[Ec]/[Ge]/[Ge]/[Ec]/[Ec]/)|[V:4](6:4:6(B,,/F,/B,/[I:staff -1]D/[I:staff +1]B,/F,/) (6:4:6(=A,,/E,/G,/[I:staff -1]C/[I:staff +1]G,/E,/)|[V:5]x4|[V:6]x4|
+[V:1]d2 z2|[V:2]x4|[V:3](6:4:6([DB]/[DB]/[Gd]/[Gd]/[DB]/[DB]/) (6:4:6([DB]/[DB]/[Gd]/[Gd]/[DB]/[DB]/)|[V:4](6:4:6(G,,/D,/G,/[I:staff -1]B,/[I:staff +1]G,/D,/) (6:4:6(G,,/D,/G,/[I:staff -1]B,/[I:staff +1]G,/D,/)|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2]x4|[V:3](6:4:6([DB]/[DB]/[Gd]/[Gd]/[DB]/[DB]/) (6:4:6([C=A]/[CA]/[Ac]/[Ac]/[CA]/[CA]/)|[V:4](6:4:6(F,,/D,/G,/[I:staff -1]B,/[I:staff +1]G,/D,/) (6:4:6(F,,/D,/G,/[I:staff -1]=A,/[I:staff +1]G,/D,/)|[V:5]x4|[V:6]x4|
+[V:1]z2 z B|[V:2]x4|[V:3](6:4:6([DB]/[DB]/[Gd]/[Gd]/[DB]/[DB]/) (6:4:6([DB]/[DB]/[Gd]/[Gd]/[DB]/[DB]/)|[V:4](6:4:6(G,,/D,/G,/[I:staff -1]B,/[I:staff +1]G,/D,/) (6:4:6(G,,/D,/G,/[I:staff -1]B,/[I:staff +1]G,/D,/)|[V:5]x4|[V:6]x4|
+[V:1]__e d _c3/2 __B/|[V:2]x4|[V:3](6:4:6([__E_c]/[Ec]/[__B__e]/[Be]/[Ec]/[Ec]/) (6:4:6([Ec]/[Ec]/[Be]/[Be]/[Ec]/[Ec]/)|[V:4](6:4:6(__G,,/__E,/__G,/[I:staff -1]__C/[I:staff +1]G,/E,/) (6:4:6(G,,/E,/G,/[I:staff -1]C/[I:staff +1]G,/E,/)|[V:5]x4|[V:6]x4|
+[V:1]A2 _c3/2 __e/|[V:2]x4|[V:3](6:4:6([__E_c]/[Ec]/[A__e]/[Ae]/[Ec]/[Ec]/) (6:4:6([Ec]/[Ae]/[Ae]/[Ec]/[Ec]/)|[V:4](6:4:6(_F,,/__E,/A,/[I:staff -1]_C/[I:staff +1]A,/E,/) (6:4:6(F,,/E,/A,/[I:staff -1]C/[I:staff +1]A,/E,/)|[V:5]x4|[V:6]x4|
+[V:1]_f3 __e|[V:2]x4|[V:3](6:4:6([_Fd]/[Fd]/[__B_f]/[Bf]/[Fd]/[Fd]/) (6:4:6([__E_c]/[Ec]/[Ae]/[Ae]/[Ec]/[Ec]/)|[V:4](6:4:6(__B,,/_F,/__B,/[I:staff -1]D/[I:staff +1]B,/F,/) (6:4:6(A,,/F,/A,/[I:staff -1]__E/[I:staff +1]A,/F,/)|[V:5]x4|[V:6]x4|
+[V:1]d2 z d|[V:2]x4|[V:3](6:4:6([D__B]/[DB]/[B_f]/[Bf]/[_Fd]/[Fd]/) (6:4:6([Fd]/[Fd]/[Bf]/[Bf]/[Fd]/[Fd]/)|[V:4](6:4:6(G,,/D,/G,/[I:staff -1]__B,/[I:staff +1]G,/D,/) (6:4:6(G,,/D,/G,/[I:staff -1]B,/[I:staff +1]G,/D,/)|[V:5]x4|[V:6]x4|
+[V:1]_c d __e3/2 c/|[V:2]x4|[V:3](6:4:6([E_c]/[Ec]/[Ae]/[Ae]/[Ec]/[Ec]/) (6:4:6([Ec]/[Ec]/[Ae]/[Ae]/[Ec]/[Ec]/)|[V:4](6:4:6(__A,,/__E,/__A,/[I:staff -1]_C/[I:staff +1]A,/E,/) (6:4:6(A,,/E,/A,/[I:staff -1]C/[I:staff +1]A,/E,/)|[V:5]x4|[V:6]x4|
+[V:1]__B _c d3/2 B/|[V:2]x4|[V:3](6:4:6([D__B]/[DB]/[B_f]/[Bf]/[_Fd]/[Fd]/) (6:4:6([Fd]/[Fd]/[Bf]/[Bf]/[Fd]/[Fd]/)|[V:4](6:4:6(G,,/D,/G,/[I:staff -1]__B,/[I:staff +1]G,/D,/) (6:4:6(G,,/D,/G,/[I:staff -1]B,/[I:staff +1]G,/D,/)|[V:5]x4|[V:6]x4|
+[V:1]_c3 c|[V:2]x4|[V:3](6:4:6([__E_c]/[Ec]/[__Ae]/[Ae]/[Ec]/[Ec]/) (6:4:6([Ec]/[Ec]/[Ae]/[Ae]/[Ec]/[Ec]/)|[V:4](6:4:6(__A,,/__E,/__A,/[I:staff -1]_C/[I:staff +1]A,/E,/) (6:4:6(A,,/E,/A,/[I:staff -1]C/[I:staff +1]A,/E,/)|[V:5]x4|[V:6]x4|
+[V:1]d2 z d|[V:2]x4|[V:3](6:4:6([D_c]/[Dc]/[Af]/[Af]/[Fd]/[Fd]/) (6:4:6([Fd]/[Fd]/[ca]/[ca]/[Fd]/[Fd]/)|[V:4](6:4:6(__A,,/D,/__A,/[I:staff -1]D/[I:staff +1]A,/F,/) (6:4:6(__A,,/D,/A,/[I:staff -1]D/[I:staff +1]A,/F,/)|[V:5]x4|[V:6]x4|
+[V:1]__e _f e3/2 _c/|[V:2]x4|[V:3](6:4:6([G__e]/[Ge]/[_cg]/[cg]/[Ge]/[Ge]/) (6:4:6([Ge]/[Ge]/[cg]/[cg]/[Ge]/[Ge]/)|[V:4](6:4:6(__G,,/__E,/__A,/[I:staff -1]__E/[I:staff +1]A,/G,/) (6:4:6(G,,/E,/A,/[I:staff -1]E/[I:staff +1]A,/G,/)|[V:5]x4|[V:6]x4|
+[V:1]__B _c __e3/2 e/|[V:2]x4|[V:3](6:4:6([G__e]/[Ge]/[__cg]/[cg]/[Ge]/[Ge]/) (6:4:6([Ge]/[Ge]/[cg]/[cg]/[Ge]/[Ge]/)|[V:4](6:4:6(__G,,/__E,/__A,/[I:staff -1]__E/[I:staff +1]A,/G,/) (6:4:6(G,,/E,/A,/[I:staff -1]E/[I:staff +1]A,/G,/)|[V:5]x4|[V:6]x4|
+[V:1]g3 __e|[V:2]x4|[V:3](6:4:6([G__e]/[Ge]/[__Bg]/[Bg]/[Ge]/[Ge]/) (6:4:6([Ge]/[Ge]/[Bg]/[Bg]/[Ge]/[Ge]/)|[V:4](6:4:6(__B,,/G,/__B,/[I:staff -1]__E/[I:staff +1]B,/G,/) (6:4:6(B,,/G,/B,/[I:staff -1]E/[I:staff +1]B,/G,/)|[V:5]x4|[V:6]x4|
+[V:1]g2 _f __e|[V:2]x4|[V:3](6:4:6([G__e]/[Ge]/[_cg]/[cg]/[Ge]/[Ge]/) (6:4:6([Ge]/[Ge]/[cg]/[cg]/[Ge]/[Ge]/)|[V:4](6:4:6(__C,/G,/__B,/[I:staff -1]__E/[I:staff +1]B,/G,/) (6:4:6(C,/G,/B,/[I:staff -1]E/[I:staff +1]B,/G,/)|[V:5]x4|[V:6]x4|
+[V:1]d __e _f3/2 d/|[V:2]x4|[V:3](6:4:6([_Fd]/[Fd]/[__B_f]/[Bf]/[Fd]/[Fd]/) (6:4:6([Fd]/[Fd]/[Bf]/[Bf]/[Fd]/[Fd]/)|[V:4](6:4:6(__B,,/_F,/__B,/[I:staff -1]D/[I:staff +1]B,/F,/) (6:4:6(B,,/F,/B,/[I:staff -1]D/[I:staff +1]B,/F,/)|[V:5]x4|[V:6]x4|
+[V:1]c d e3/2 e/|[V:2]x4|[V:3](6:4:6([Ec]/[Ec]/[Be]/[Be]/[Ec]/[Ec]/) (6:4:6([Ec]/[Ec]/[Be]/[Be]/[Ec]/[Ec]/)|[V:4](6:4:6(A,,/E,/G,/[I:staff -1]C/[I:staff +1]G,/E,/) (6:4:6(A,,/E,/G,/[I:staff -1]C/[I:staff +1]G,/E,/)|[V:5]x4|[V:6]x4|
+[V:1]a3 f|[V:2]x4|[V:3](6:4:6([Fd]/[Fd]/[Af]/[Af]/[Fd]/[Fd]/) (6:4:6([Fd]/[Af]/[Af]/[Fd]/[Fd]/[Af]/)|[V:4](6:4:6(D,/A,/D/[I:staff -1]F/[I:staff +1]A,/F,/) (6:4:6(D,/A,/D/[I:staff -1]F/[I:staff +1]A,/F,/)|[V:5]x4|[V:6]x4|
+[V:1]d A A3/2 F/|[V:2]x4|[V:3](6:4:6([Fd]/[Fd]/[Af]/[Af]/[Fd]/[Fd]/) (6:4:6([Fd]/[Af]/[Af]/[Fd]/[Fd]/[Af]/)|[V:4](6:4:6(D,/A,/D/[I:staff -1]F/[I:staff +1]A,/F,/) (6:4:6(D,/A,/D/[I:staff -1]F/[I:staff +1]A,/F,/)|[V:5]x4|[V:6]x4|
+[V:1]B3 A|[V:2]x4|[V:3](6:4:6([EB]/[EB]/[Ae]/[Ae]/[EB]/[EB]/) (6:4:6([EB]/[EB]/[Ae]/[Ae]/[EB]/[EB]/)|[V:4](6:4:6(G,,/D,/G,/[I:staff -1]D/[I:staff +1]G,/D,/) (6:4:6(G,,/D,/G,/[I:staff -1]D/[I:staff +1]G,/D,/)|[V:5]x4|[V:6]x4|
+[V:1]G2 z2|[V:2]x4|[V:3](6:4:6([CB]/[CB]/[Be]/[Be]/[CB]/[CB]/) (6:4:6([CB]/[CB]/[Be]/[Be]/[CB]/[CB]/)|[V:4](6:4:6(G,,/E,/G,/[I:staff -1]C/[I:staff +1]G,/E,/) (6:4:6(G,,/E,/G,/[I:staff -1]C/[I:staff +1]G,/E,/)|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2]x4|[V:3](6:4:6([C=A]/[CA]/[Ae]/[Ae]/[CA]/[CA]/) (6:4:6([CA]/[CA]/[Ae]/[Ae]/[CA]/[CA]/)|[V:4](6:4:6(F,,/C,/F,/[I:staff -1]=A,/[I:staff +1]F,/C,/) (6:4:6(F,,/C,/F,/[I:staff -1]A,/[I:staff +1]F,/C,/)|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2]x4|[V:3](6:4:6([DB]/[DB]/[Fd]/[Fd]/[DB]/[DB]/) (6:4:6([Ec]/[Ec]/[Ge]/[Ge]/[Ec]/[Ec]/)|[V:4](6:4:6(B,,/F,/B,/[I:staff -1]D/[I:staff +1]B,/F,/) (6:4:6(=A,,/E,/G,/[I:staff -1]C/[I:staff +1]G,/E,/)|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2]x4|[V:3](6:4:6([DB]/[DB]/[Gd]/[Gd]/[DB]/[DB]/) (6:4:6([DB]/[DB]/[Gd]/[Gd]/[DB]/[DB]/)|[V:4](6:4:6(G,,/D,/G,/[I:staff -1]B,/[I:staff +1]G,/D,/) (6:4:6(G,,/D,/G,/[I:staff -1]B,/[I:staff +1]G,/D,/)|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2]x4|[V:3](6:4:6([DB]/[DB]/[Gd]/[Gd]/[DB]/[DB]/) (6:4:6([C=A]/[CA]/[Ac]/[Ac]/[CA]/[CA]/)|[V:4](6:4:6(F,,/D,/G,/[I:staff -1]B,/[I:staff +1]G,/D,/) (6:4:6(F,,/D,/G,/[I:staff -1]=A,/[I:staff +1]G,/D,/)|[V:5]x4|[V:6]x4|
+[V:1]z2 z d|[V:2]x4|[V:3](6:4:6([DB]/[DB]/[Gd]/[Gd]/[DB]/[DB]/) (6:4:6([DB]/[DB]/[Gd]/[Gd]/[DB]/[DB]/)|[V:4](6:4:6(G,,/D,/G,/[I:staff -1]B,/[I:staff +1]G,/D,/) (6:4:6(G,,/D,/G,/[I:staff -1]B,/[I:staff +1]G,/D,/)|[V:5]x4|[V:6]x4|
+[V:1]e3/2 d/ c3/2 B/|[V:2]x4|[V:3](6:4:6([Ec]/[Ec]/[Be]/[Be]/[Ec]/[Ec]/) (6:4:6([Ec]/[Ec]/[Be]/[Be]/[Ec]/[Ec]/)|[V:4](6:4:6(A,,/E,/=G,/[I:staff -1]C/[I:staff +1]G,/E,/) (6:4:6(A,,/E,/G,/[I:staff -1]C/[I:staff +1]G,/E,/)|[V:5]x4|[V:6]x4|
+[V:1]A2 c3/2 e/|[V:2]x4|[V:3](6:4:6([Ec]/[Ec]/[Ae]/[Ae]/[Ec]/[Ec]/) (6:4:6([Ec]/[Ec]/[Ae]/[Ae]/[Ec]/[Ec]/)|[V:4](6:4:6(A,,/E,/A,/[I:staff -1]C/[I:staff +1]A,/E,/) (6:4:6(A,,/E,/A,/[I:staff -1]C/[I:staff +1]A,/E,/)|[V:5]x4|[V:6]x4|
+[V:1]g3 e|[V:2]x4|[V:3](6:4:6([Ec]/[Ec]/[Be]/[Be]/[Ec]/[Ec]/) (6:4:6([Ec]/[Ec]/[B=e]/[Be]/[Ec]/[EB]/)|[V:4](6:4:6(=G,,/=E,/=G,/[I:staff -1]C/[I:staff +1]G,/E,/) (6:4:6(B,,/E,/G,/[I:staff -1]C/[I:staff +1]G,/E,/)|[V:5]x4|[V:6]x4|
+[V:1]c2 z c|[V:2]x4|[V:3](6:4:6([Ec]/[Ec]/[Ae]/[Ae]/[Ec]/[Ec]/) (6:4:6([Ec]/[Ec]/[=Ae]/[Ae]/[Ec]/[Ec]/)|[V:4](6:4:6(=A,,/E,/G,/[I:staff -1]C/[I:staff +1]G,/E,/) (6:4:6(G,,/E,/G,/[I:staff -1]C/[I:staff +1]G,/E,/)|[V:5]x4|[V:6]x4|
+[V:1]d e f3/2 d/|[V:2]x4|[V:3](6:4:6([DB]/[DB]/[Bd]/[Bd]/[DB]/[DB]/) (6:4:6([DB]/[DB]/[Bd]/[Bd]/[DB]/[DB]/)|[V:4](6:4:6(F,,/D,/F,/[I:staff -1]B,/[I:staff +1]F,/D,/) (6:4:6(_F,,/D,/_F,/[I:staff -1]B,/[I:staff +1]F,/D,/)|[V:5]x4|[V:6]x4|
+[V:1]c d e3/2 e/|[V:2]x4|[V:3](6:4:6([Ec]/[Ec]/[Be]/[Be]/[Ec]/[Ec]/) (6:4:6([Ec]/[Ec]/[Be]/[Be]/[Ec]/[Ec]/)|[V:4](6:4:6(A,,/E,/G,/[I:staff -1]C/[I:staff +1]G,/E,/) (6:4:6(A,,/E,/G,/[I:staff -1]C/[I:staff +1]G,/E,/)|[V:5]x4|[V:6]x4|
+[V:1]a3 f|[V:2]x4|[V:3](6:4:6([Fd]/[Fd]/[Af]/[Af]/[Fd]/[Fd]/) (6:4:6([Fd]/[Af]/[Af]/[Fd]/[Fd]/[Af]/)|[V:4](6:4:6(D,/A,/D/[I:staff -1]F/[I:staff +1]A,/F,/) (6:4:6(D,/A,/D/[I:staff -1]F/[I:staff +1]A,/F,/)|[V:5]x4|[V:6]x4|
+[V:1]d A A3/2 F/|[V:2]x4|[V:3](6:4:6([Fd]/[Fd]/[Af]/[Af]/[Fd]/[Fd]/) (6:4:6([Fd]/[Af]/[Af]/[Fd]/[Fd]/[Af]/)|[V:4](6:4:6(D,/A,/D/[I:staff -1]F/[I:staff +1]A,/F,/) (6:4:6(D,/A,/D/[I:staff -1]F/[I:staff +1]A,/F,/)|[V:5]x4|[V:6]x4|
+[V:1]B3 A|[V:2]x4|[V:3](6:4:6([EB]/[EB]/[Ae]/[Ae]/[EB]/[EB]/) (6:4:6([EB]/[EB]/[Ae]/[Ae]/[EB]/[EB]/)|[V:4](6:4:6(G,,/D,/G,/[I:staff -1]D/[I:staff +1]G,/D,/) (6:4:6(G,,/D,/G,/[I:staff -1]D/[I:staff +1]G,/D,/)|[V:5]x4|[V:6]x4|
+[V:1]G2 z2|[V:2]x4|[V:3](6:4:6([CB]/[CB]/[Be]/[Be]/[CB]/[CB]/) (6:4:6([CB]/[CB]/[Be]/[Be]/[CB]/[CB]/)|[V:4](6:4:6(G,,/E,/G,/[I:staff -1]C/[I:staff +1]G,/E,/) (6:4:6(G,,/E,/G,/[I:staff -1]C/[I:staff +1]G,/E,/)|[V:5]x4|[V:6]x4|

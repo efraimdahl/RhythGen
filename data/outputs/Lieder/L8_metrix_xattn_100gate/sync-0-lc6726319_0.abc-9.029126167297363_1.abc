@@ -1,0 +1,21 @@
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+Q:1/4=60
+M:2/4
+K:C
+V:1 treble nm="Gesang\nVoice"
+V:2 treble nm="Klavier\nPiano"
+V:4 treble 
+V:3 bass 
+[V:1]"^Lebhaft" z|[V:2]!p! (3(B,DB) (3(B,DB)|[V:3]z1|[V:4]x1|
+[V:1]z4|[V:2](3(B,DF (3B,DF)|[V:3]!ped! (3(B,,F,B, (3DB,F,)!ped-up!|[V:4]x4|
+[V:1]z6|[V:2](3(B,DF (3B,DF (3B,DF)|[V:3]!ped! (3(B,,F,B, (3DB,F,) z!ped-up!|[V:4]x6|
+[V:1]z6|[V:2](3((B,DF (3B,DF) (3(B,DF)|[V:3]!ped! (3(B,,F,B, (3DB,F,) (3(B,,D,F,)|[V:4]x6|
+[V:1]z6|[V:2](3(B,DF (3B,DF (3B,DF)|[V:3]!ped! (3(B,,F,B, (3DB,F,) (3(B,,F,B,)|[V:4]x6|
+[V:1]z6|[V:2](3(G,B,E (3G,B,E (3G,B,E)|[V:3]!ped! (3(G,,B,E (3G,B,E (3G,B,E)!ped-up!|[V:4]x6|
+[V:1]z6|[V:2](3(F,^A,C (3F,A,C (3F,A,C)|[V:3]!ped! (3(F,,C,F, (3^A,C[I:staff -1] (3FAc)|[V:4][F,^A,]4 [F,A,]2|
+[V:1]z6|[V:2](3(F,^A,C (3FCA, (3F,A,C)|[V:3]!ped! (3(F,,F,^A, (3C[I:staff -1]F^A (3cAF)!ped-up!|[V:4]x6|
+[V:1]z6|[V:2](3(F,^A,C (3FCA, (3F,A,C)|[V:3]!ped! (3(F,,C,^A, (3CA,F, (3CA,F,)!ped-up!|[V:4][F,,F,]4 [F,,F,]2|
+[V:1]z6|[V:2](3(F,^A,C (3FCA, (3FCA,)|[V:3]!ped! (3(F,,^A,C[I:staff -1] (3F^Ac) (3(fcA (3FC[I:staff +1] (3A,CF, (3A,,F,A,)!ped-up!|[V:4]x6|
+[V:1]z6|[V:2](3(F,A,C (3FCA, (3F,A,C)|[V:3]!ped! (3(F,,C,F, (3A,[I:staff -1]CF[I:staff +1] (3A,C,F,,)!ped-up!|[V:4]x6|
+[V:1]!fermata!z6|][V:2]!fermata![F,B,D]6)|][V:3]!ped! (3(B,,,F,,B,, (3D,F,B,)!ped-up! !fermata![B,,D,F,B,]6!ped-up!|][V:4]x6|]

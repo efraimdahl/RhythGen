@@ -1,0 +1,35 @@
+%%score ( 1 2 ) { ( 3 4 ) | 5 }
+L:1/8
+Q:1/4=120
+M:6/8
+K:Gb
+V:1 treble nm="Gesang\nVoice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:4 treble 
+V:5 bass 
+[V:1]"^Allegro ma non troppo" z|[V:2]x1|[V:3](B/c/)|[V:4]G|[V:5][G,D]|
+[V:1]z6|[V:2]x6|[V:3].[Bd].[Ac].[GB] .[FA]2 (G/A/)|[V:4]x5 D|[V:5].[G,D].[G,D].[G,D] .[D,D]2 (B,/C/)|
+[V:1]z6|[V:2]x6|[V:3].[GB].[FA].[EG] .D2 (G/A/)|[V:4]x5 D|[V:5].[G,D].[G,D].[G,D] .[G,B,]2 [G,B,]|
+[V:1]z6|[V:2]x6|[V:3].[GB].[Ac].[Bd] .[ce].[Ad].[Fc]|[V:4]x6|[V:5].[G,D].[G,D].[G,D] .[C,C].[C,C].[C,C]|
+[V:1]z6|[V:2]x6|[V:3].[GB].[Bd].[G=c] !fermata![Fd]2 (A/_c/)|[V:4]x5 F|[V:5].[D,B,].[D,B,].[E,B,] !fermata![D,A,]2 [D,D]|
+[V:1]z6|[V:2]x6|[V:3].[GB].[Ac].[Bd] [ce]2 [ce]|[V:4]x6|[V:5].[G,D].[G,D].[G,D] [G,C]2 [G,C]|
+[V:1]z6|[V:2]x6|[V:3].[ca].[Bg].[Af] [Ge]2 [FA]|[V:4]x6|[V:5].[C,C].[C,C].[C,C] [C,C]2 [C,C]|
+[V:1]z6|[V:2]x6|[V:3].[GB].[Bg].[GB] .[FA].[cf].[FA]|[V:4]x6|[V:5].[D,D].[D,D].[D,D] .[D,D].[D,D].[D,D]|
+[V:1]z2 z z2 G|[V:2]x6|[V:3].G.[Bd].[GB] G2 z|[V:4]x x x G2 x|[V:5].[G,D].[G,D].[G,B,] [G,B,]2 z|
+[V:1]d2 d (dc) A|[V:2]x6|[V:3][Bd]D[Bd] [Ac]D[FA]|[V:4]x6|[V:5]G,2 z F,2 z|
+[V:1]B2 d G2 G|[V:2]x6|[V:3][GB]D[GB] [Gd]D[Gd]|[V:4]x6|[V:5]G,2 z B,2 z|
+[V:1]e d c c2 B|[V:2]x6|[V:3][ce][Bd][Ac] [Gc]D[GB]|[V:4]x6|[V:5]C2 z C,2 z|
+[V:1](B3 A2) z|[V:2]x6|[V:3][GB]D[GB] [FA]2 z|[V:4]x6|[V:5]D,3 D,2 z|
+[V:1]B2 B B2 B|[V:2]x6|[V:3][AB]=D[AB] [GB]E[GB]|[V:4]x6|[V:5]B,,3 E,3|
+[V:1]B =c =d e3|[V:2]x6|[V:3][FB][G=c][F=d] [Ge]2 z|[V:4]x6|[V:5]B,,3 E,2 z|
+[V:1]d =c d e2 d|[V:2]x6|[V:3][Bd][=A=c][Bd] [Gce]2 [F_Ad]|[V:4]x6|[V:5]D,3 D,3|
+[V:1]g3- g z d|[V:2]x6|[V:3][GBg]3- [GBg]2 z|[V:4]x6|[V:5][G,,G,]3- [G,,G,]2 z|
+[V:1]c2 c c2 c|[V:2]x6|[V:3]z D[Fc] z D[Fc]|[V:4]x6|[V:5]D,2 z D,2 z|
+[V:1](cB) A G3|[V:2]x6|[V:3]z D[GB] z D[GB]|[V:4]x6|[V:5]G,2 z G,2 z|
+[V:1]B c d e2 c|[V:2]x6|[V:3]z [DB][Gd] [Ge]2 [Ec]|[V:4]x6|[V:5]G,2 z C,2 z|
+[V:1](B3 A2) z|[V:2]x6|[V:3][GB]D[GB] [FA]2 z|[V:4]x6|[V:5]D,3 D,2 z|
+[V:1]B2 B B2 B|[V:2]x6|[V:3][AB]=D[AB] [GB]E[GB]|[V:4]x6|[V:5]B,,3 E,3|
+[V:1]B =c =d e3|[V:2]x6|[V:3][FB][G=c][F=d] [Ge]2 z|[V:4]x6|[V:5]B,,3 E,2 z|
+[V:1]d =c d e2 d|[V:2]x6|[V:3][Bd][=A=c][Bd] [Gce]2 [F_Ad]|[V:4]x6|[V:5]D,3 D,3|
+[V:1]g3- g z|][V:2]x5|][V:3][GBg]3- [GBg] z|][V:4]x5|][V:5][G,,G,]3- [G,,G,] z|]

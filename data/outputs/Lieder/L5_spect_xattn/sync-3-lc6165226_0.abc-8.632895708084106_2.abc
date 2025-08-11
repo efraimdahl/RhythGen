@@ -1,0 +1,29 @@
+%%score ( 1 2 ) { ( 3 4 ) | 5 }
+L:1/8
+Q:1/4=120
+M:6/8
+K:Gb
+V:1 treble nm="Gesang\nVoice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:4 treble 
+V:5 bass 
+[V:1]"^Allegretto grazioso" z|[V:2]x1|[V:3]!p! D|[V:4]x1|[V:5]G,,-|
+[V:1]z6|[V:2]x6|[V:3]B2 A G2 F|[V:4]x6|[V:5]G,,G,G,, G,D,C,|
+[V:1]z6|[V:2]x6|[V:3](FE).=D (EFG)|[V:4]x6|[V:5]B,,E,B,, G,,B,,G,,|
+[V:1]z6|[V:2]x6|[V:3]!>(! (A2 B,) (DCA,)!>)!|[V:4]x6|[V:5]C,,E,,C,, D,,2 D,,,|
+[V:1]z5::[V:2]x5::[V:3](A,3 G,) z::[V:4]x5::[V:5][D,,C,D,]3 [G,,B,,] z::
+[V:1]!p! D|[V:2]x1|[V:3]z1|[V:4]x1|[V:5]z1|
+[V:1]B2 A G2 F|[V:2]x6|[V:3]!p! B,DG GDB,|[V:4]x6|[V:5][G,,G,]6|
+[V:1](FE) =D E2 z|[V:2]x6|[V:3]B,EG GEB,|[V:4]x6|[V:5][E,,E,]6|
+[V:1]E2 F G2 C|[V:2]x6|[V:3]G,CE ECG,|[V:4]x6|[V:5][C,,C,]6|
+[V:1]D3- D z D|[V:2]x6|[V:3]F,CD DCF,|[V:4]x6|[V:5][D,,D,]6|
+[V:1]B2 A G2 F|[V:2]x6|[V:3]D,G,B, B,G,D,|[V:4]x6|[V:5]G,,3 B,,3|
+[V:1]!>(! (EG) B B2 A!>)!|[V:2]x6|[V:3]C,G,C CG,E,|[V:4]x6|[V:5]C,3 A,,3|
+[V:1]D2 G F2 A|[V:2]x6|[V:3]F,CD CA,F,|[V:4]x6|[V:5]D,3 D,,3|
+[V:1]G3- G z:|[V:2]x5:|[V:3]D,G,B, B,G,:|[V:4]x5:|[V:5][G,,,G,,]3- [G,,,G,,]3:|
+[V:1]!p! D|[V:2]x1|[V:3]z1|[V:4]x1|[V:5]z1|
+[V:1]B2 A G2 F|[V:2]x6|[V:3]B,DG GDB,|[V:4]x6|[V:5][G,,G,]6|
+[V:1](FE) =D E2 z|[V:2]x6|[V:3]B,EG GEB,|[V:4]x6|[V:5][E,,E,]6|
+[V:1]E2 F G2 C|[V:2]x6|[V:3]G,CE ECG,|[V:4]x6|[V:5][C,,C,]6|
+[V:1]D3- D z D|[V:2]x6|[V:3]F,CD DCF,|[V:4]x6|[V:5][D,,D,]6|

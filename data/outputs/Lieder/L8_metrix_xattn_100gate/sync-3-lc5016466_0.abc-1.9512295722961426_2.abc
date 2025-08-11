@@ -1,0 +1,14 @@
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=70
+M:3/4
+K:E
+V:1 treble nm="Singstimme\n\n          Voice"
+V:2 treble nm="Pianoforte"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+[V:1]"^Andantino" z4 z2 C2|[V:2]z8|[V:3]z2 G,2 G,2|[V:4]x8|[V:5]x8|
+[V:1]z6||[V:2]G,6-||[V:3]z6||[V:4]x6||[V:5]C,,6||
+[V:1]d3 c|[V:2]z4|[V:3]z4|[V:4]!arpeggio![D,,G,,D,B,]6|[V:5]x4|
+[V:1]z6|][V:2]!fermata![C,G,C]4 z2|][V:3]z6|][V:4]x6|][V:5]x6|]

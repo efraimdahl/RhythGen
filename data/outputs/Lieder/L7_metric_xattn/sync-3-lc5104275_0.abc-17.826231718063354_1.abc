@@ -1,0 +1,28 @@
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=45
+M:4/4
+K:D
+V:1 treble nm="Voice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+V:4 bass 
+[V:1]"^Andante con moto" F F|[V:2]d d|[V:3]z2|[V:4]x2|
+[V:1]D3 F A3 d|[V:2](3A F D (3FD A, (3AFD (3AFD|[V:3]z8|[V:4]x8|
+[V:1]A3 F"^dim."!<(! E4!<)!|[V:2]z8|[V:3]z8|[V:4]x8|
+[V:1]A3 F"^.7""^dim. _" E4!>)!|[V:2](3BG D (3BFD!<(! (3^GED!<)!|[V:3](3F,A,F, (6:4:6F,A,F, !3!E,G,E,|[V:4](3D,F,D,!>(! (6:4:6F,A,F, C,A,C, (3A,C,A,|
+[V:1]F3 B!>(! d3 A!>)!|[V:2](3A F D (3AF D (3AF D (3dA F (3dA|[V:3](3F,A,F, (3D,A,F, (3DA,F, (3D,DF,|[V:4]x8|
+[V:1]G3 F!>(! c3 d!>)!|[V:2](3G CA, (3GCA, (3AEA, (3AFA,|[V:3](3E,A,E, (3F,A,F, (3!3!G,CG,)!>(! (3F,A,!>)!F,|[V:4]E,4 F,4|
+[V:1]G3 B[Q:1/4=37]!>(! A3[Q:1/4=42] C!>)!|[V:2](3GD A, (3FD A, (3GEA, (3GEA,|[V:3](3!5!A,,!25!D,A,, (3G,C,A,, (3G,C,A,, (3G,A,,G,|[V:4]D,4 E,4|
+[V:1]D3 F!<(! E3 A!<)!|[V:2](3GE C (3GEA, (3GEA, (3GEA,|[V:3](3A,,G,A,, (3F,G,!5!A,, (3G,A,,A, (3G,A,A,,|[V:4]x8|
+[V:1]F3 B!>(! d3 A!>)!|[V:2]d2 c2 e2 c|[V:3]!ped!!>(! (3A,,G,A,, (3A,G,A,, (3G,C,A,, (3!2!G,C,G,!ped-up!|[V:4]x8|
+[V:1]d3!<(! f (a3 g)!<)!|[V:2](3fd A (3ge A (3aeA (3geA|[V:3](3A,,F,G, (3!3!F,A,G, (3!3!G,A,G, (3!3!G,A,G,|[V:4](3D,F,D, (3F,A,F, (3G,A,G, (3F,A,G,|
+[V:1]f3!<(! B d3 A!<)!|[V:2](3f d A (3fd A (3geA (3age (3geA|[V:3]z8|[V:4](3F,,A,,F,, (3D,A,F,[I:staff -1] (3CG,A, (3GCG,|
+[V:1]F3 B d3 A|[V:2](3fd A (3geA ge (3aeA|[V:3](3FA,F, (3DA,F, (3GCA, (3GEA,|[V:4](3F,A,F, (3D,F,A,, (3G,C,A, (3G,CA,|
+[V:1]F3 B!<(! d3 A!<)!|[V:2](3f d A (3geA (3geA (3aeA|[V:3](3F,A,F, (3DA,F,[I:staff -1] (3DG,C (3GA,G,|[V:4]D,4 C,4|
+[V:1]G3!>(! B A3 c!>)!|[V:2](3gc A (3geA (3geA (3geA|[V:3]A,,2 [A,C]2 [_B,C]2 [CE]2|[V:4]x8|
+[V:1]F3 B d3 A|[V:2](3f d A (3z gA (3z gA (3z eAG|[V:3][DF]2 [FA]2 [EG]2 [A,GA]2|[V:4]x8|
+[V:1]D8|][V:2](3fdA d (3geA (3geA (3geA)||[V:3][FA]2 [DF]2 [EG]2 [A,CG]2!ped!!ped-up!|1[V:4]x8|1
+[V:1]F3 B d3 A|[V:2](3f dA (3gdA (3geA (3geA|[V:3][DF]2 [FA]2 [EG]2 [A,GA]2|[V:4]x8|
+[V:1]d3 f a3 g|[V:2](3fd A (3gdA (3gcA (3gcA|[V:3][DF]2 [FA]2 [EG]2 [GA]2|[V:4]x8|
+[V:1]F3 B d3 A|[V:2](3f dA (3geA (3geA (3aeA|[V:3][FA]2 [FA]2 [EG]2 [A,GA]2|[V:4]x8|

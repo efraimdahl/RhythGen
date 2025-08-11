@@ -1,0 +1,40 @@
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=100
+M:2/4
+K:D
+V:1 treble nm="Canto\nVoice"
+V:2 treble nm="Piano"
+V:3 bass 
+[V:1]!>!e d B G|[V:2]!>!e'>d' bg|[V:3]!>!E>D B,G,|
+[V:1]!>!A G F E|[V:2]!>!a>g fe|[V:3]!>!A,>G, F,E,|
+[V:1]D z z2|[V:2][FAd] z !>![DFAd]2|[V:3][D,F,] z !>![D,,D,]2|
+[V:1]!mf! A F/ G/ A A|[V:2]!p! AF/G/ AA|[V:3]D,[F,A,] A,,[F,A,]|
+[V:1]B A F D|[V:2]BA FD|[V:3]D,[F,A,] A,,[F,A,]|
+[V:1]A F G B|[V:2]AF GB|[V:3]D,[F,A,] G,,[D,G,B,]|
+[V:1]A2- A z|[V:2]A2- A z|[V:3]A,,[F,A,] [F,A,] z|
+[V:1]B A G E|[V:2]BA GE|[V:3]E,,[E,G,A,] A,,[E,G,A,]|
+[V:1]A G F E|[V:2]AG FE|[V:3]C,[E,G,A,] A,,[E,G,A,]|
+[V:1]D C D B|[V:2]DC DB|[V:3]B,,[E,G,] E,,[E,^G,]|
+[V:1]A2- A z|[V:2]A2- A z|[V:3]A,,[C,E,A,] [C,E,A,] z|
+[V:1]A F/ G/ A A|[V:2]AF/G/ AA|[V:3]D,[F,A,] A,,[F,A,]|
+[V:1]B A F D|[V:2]BA FD|[V:3]D,[F,A,] A,,[F,A,]|
+[V:1]A F G B|[V:2]AF GB|[V:3]D,[F,A,] G,,[D,G,B,]|
+[V:1]A2- A z|[V:2]A2- A z|[V:3]A,,[F,A,] [F,A,] z|
+[V:1]!p! G G E E|[V:2]!p! GG EE|[V:3]E,,[E,G,A,] A,,[E,G,A,]|
+[V:1]F F D2|[V:2]FF D2|[V:3]D,[F,A,] A,,[D,F,A,]|
+[V:1]B, E C E|[V:2]B,E CE|[V:3]G,,[E,G,] A,,[E,G,]|
+[V:1]D2- D z|[V:2]D2- D z|[V:3]D,[F,A,] D, z|
+[V:1]!mf! A A E E|[V:2]!mf! AA EE|[V:3]A,,[C,E,A,] E,,[C,E,A,]|
+[V:1]F D E2|[V:2]FD E2|[V:3]D,[F,A,] A,,[C,E,A,]|
+[V:1]D C B, E|[V:2]DC B,E|[V:3]D,,[D,F,A,] E,,[D,E,^G,]|
+[V:1]A,2- A, z|[V:2]A,2- A, z|[V:3]A,,[C,E,A,] [C,E,A,] z|
+[V:1]!p! A F/ G/ A A|[V:2]AF/G/ AA|[V:3]D,[F,A,] A,,[F,A,]|
+[V:1]B A F D|[V:2]BA FD|[V:3]D,[F,A,] A,,[F,A,]|
+[V:1]A F G B|[V:2]AF GB|[V:3]D,[F,A,] G,,[D,G,B,]|
+[V:1]A2- A z|[V:2]A2- A z|[V:3]A,,[F,A,] [F,A,] z|
+[V:1]!mf! G G E E|[V:2]!mf! GG EE|[V:3]E,,[E,G,A,] A,,[E,G,A,]|
+[V:1]F F D2|[V:2]FF D2|[V:3]D,[F,A,] A,,[D,F,A,]|
+[V:1]B, E C E|[V:2]B,E CE|[V:3]G,,[E,G,] A,,[E,G,]|
+[V:1]D2- D z|[V:2]D2- D z|[V:3]D,[F,A,] D, z|
+[V:1]z4|[V:2]!f! !>![DGB] z !>![CEA] z|[V:3]!>![G,,G,] z !>![A,,A,] z|

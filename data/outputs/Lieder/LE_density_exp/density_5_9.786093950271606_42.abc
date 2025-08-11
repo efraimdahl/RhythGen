@@ -1,0 +1,29 @@
+%%score 1 { ( 2 5 ) | ( 3 4 6 ) }
+L:1/8
+Q:1/4=116
+M:2/4
+K:Eb
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:6 bass 
+[V:1][Q:1/4=114] c2 B B|[V:2]([CE][DF] [EG]2)|[V:3](G,A, B,2)|[V:4]E,4|[V:5]%distance=5[r:0/17]x4|[V:6]%distance=5[r:0/17]x4|
+[V:1][Q:1/4=116] c2 e2|[V:2]([EA][FB] [Gc]2)|[V:3](CD E2)|[V:4]E,4|[V:5]x4|[V:6]x4|
+[V:1](c2 B2)|[V:2]([EA][FB] [Gc]2)|[V:3](CD E2)|[V:4]E,4|[V:5]x4|[V:6]x4|
+[V:1]c4|[V:2]([EA][FB] [Gc]2)|[V:3](CD E2)|[V:4]E,4|[V:5]x4|[V:6]x4|
+[V:1]z2 e2|[V:2]([Gc][Bd] [ce]2)|[V:3][I:staff -1] (EF G2)|[V:4]E,4|[V:5]x4|[V:6]x4|
+[V:1]c4|[V:2]([Gc][Bd] [ce]2)|[V:3][I:staff +1][K:treble] (EF G2)|[V:4][K:treble] x4|[V:5]x4|[V:6][K:treble] x4|
+[V:1]c4|[V:2]([Gc][Bd] [ce]2)|[V:3](EF G2)|[V:4]x4|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2]([Gc][Bd] [ce]2)|[V:3](EF G2)|[V:4]x4|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2]([Ac][B_d] [ce]2)|[V:3](FG A2)|[V:4]x4|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2]([Ac][B_d] [ce]2)|[V:3](FG A2)|[V:4]x4|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2]([GB][Ac] [B_d]2)|[V:3](EF G2)|[V:4]x4|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2]([GB][Ac] [B_d]2)|[V:3](EF G2)|[V:4]x4|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2]([FA][GB] [Ac]2)|[V:3](DE F2)|[V:4]x4|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2]([FA][GB] [Ac]2)|[V:3](DE F2)|[V:4]x4|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2]([DF][EG] [FA]2-)|[V:3](B,C D2-)|[V:4]x4|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2]!>(! [FA]4|[V:3][K:bass] D4|[V:4][K:bass] z2!pp! [A,B,]2|[V:5]x4|[V:6][K:bass] x4|
+[V:1]z4|[V:2][EG]4-|[V:3][E,B,]4-|[V:4]x4|[V:5]x4|[V:6]x4|
+[V:1]z4|][V:2][EG]2!>)! z2|][V:3][E,B,]2 z2|][V:4]x4|][V:5]x4|][V:6]x4|]

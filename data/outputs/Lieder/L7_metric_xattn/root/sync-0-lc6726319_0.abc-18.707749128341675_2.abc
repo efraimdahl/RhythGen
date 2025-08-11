@@ -1,0 +1,41 @@
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+Q:1/4=60
+M:2/4
+K:C
+V:1 treble nm="Gesang\nVoice"
+V:2 treble nm="Klavier\nPiano"
+V:4 treble 
+V:3 bass 
+[V:1]"^Sans refrain" z4|[V:2]!p! [CEAc]2 [DEBd]2|[V:3][A,,E,A,]2 [E,^G,]2|[V:4]x4|
+[V:1]z2!mp! E3/2 E/|[V:2][CEAc]2 [DEBd]2|[V:3][A,,E,A,]2 [E,^G,]2|[V:4]x4|
+[V:1]A3/2 A/ B3/2 B/|[V:2][CEAc]2 [DEBd]2|[V:3][A,,E,A,]2 [E,^G,]2|[V:4]x4|
+[V:1]c3/2 c/ d3/2 d/|[V:2][CEAc]2 [DEBd]2|[V:3][A,,E,A,]2 [E,^G,]2|[V:4]x4|
+[V:1]e2 e3/2 e/|[V:2][CEAc]2 [E^Gde]2|[V:3][A,,E,A,]2 B,2|[V:4]x4|
+[V:1]a3 g/ f/|[V:2][Acea]2 z2|[V:3][A,CE]2 z2|[V:4]x4|
+[V:1]e d c B|[V:2]z2 [DE^Gd]2|[V:3]z2 B,2|[V:4]x4|
+[V:1]A A z2|[V:2][CEAc]2!f! !^![Bfb]2|[V:3]A,2 !^![D,A,B,F]2|[V:4]x4|
+[V:1]z4|[V:2]!^![Aca]2!p! !^![Bfb]2|[V:3]!^![C,A,E]2 !^![D,A,B,F]2|[V:4]x4|
+[V:1]z2!p! e2|[V:2][Acea]2 z2|[V:3][C,A,E]2 z2|[V:4]x4|
+[V:1]f2 f f|[V:2]!pp! [ABf]2 [ABf]2|[V:3][K:treble] D2 D2|[V:4]x4|
+[V:1]f3/2 e/ d d|[V:2][ABf]2 [ABf]2|[V:3]D2 D2|[V:4]x4|
+[V:1]d3/2 d/ f e/ d/|[V:2][^GBf]2 [GBf]2|[V:3]D2 D2|[V:4]x4|
+[V:1]c2 z2|[V:2][Ace]2!mf! !^![^Gd^g]2|[V:3]C2[K:bass] !^![B,,E,D]2|[V:4]x4|
+[V:1]z2 e2|[V:2]!^![Aca]2 z2|[V:3]!^![A,,E,C]2 z2|[V:4]x4|
+[V:1]f3/2 f/ f3/2 f/|[V:2]!pp! [ABf]2 [ABf]2|[V:3][K:treble] D2 D2|[V:4]x4|
+[V:1]f3/2 e/ d3/2 d/|[V:2][ABf]2 [ABf]2|[V:3]D2 D2|[V:4]x4|
+[V:1]d3/2 d/ f e/ d/|[V:2][^GBf]2 [GBf]2|[V:3]D2 D2|[V:4]x4|
+[V:1]c2 z2|[V:2][Ace]2!mf! !^![^Gd^g]2|[V:3]C2[K:bass] !^![B,,E,D]2|[V:4]x4|
+[V:1]z2 e2|[V:2]!^![Aca]2 z2|[V:3]!^![A,,E,C]2 z2|[V:4]x4|
+[V:1]f3/2 f/ f f|[V:2]!pp! [ABf]2 [ABf]2|[V:3][K:treble] D2 D2|[V:4]x4|
+[V:1]f e d3/2 d/|[V:2][ABf]2 [ABf]2|[V:3]D2 D2|[V:4]x4|
+[V:1]d3/2 d/ f3/2 e/|[V:2][^GBf]2 [GBf]2|[V:3]D2 D2|[V:4]x4|
+[V:1]c2 z2|[V:2][Ace]2!mf! !^![^Gd^g]2|[V:3]C2[K:bass] !^![B,,E,D]2|[V:4]x4|
+[V:1]z2!p! e2|[V:2]!^![Aca]2 z2|[V:3]!^![A,,E,C]2 z2|[V:4]x4|
+[V:1]f3/2 f/ f f|[V:2]!pp! [ABf]2 [ABf]2|[V:3][K:treble] D2 D2|[V:4]x4|
+[V:1]f e d3/2 d/|[V:2][ABf]2 [ABf]2|[V:3]D2 D2|[V:4]x4|
+[V:1]d3/2 d/ f3/2 e/|[V:2][^GBf]2 [GBf]2|[V:3]D2 D2|[V:4]x4|
+[V:1]c2 z2|[V:2][Ace]2!mf! !^![^Gd^g]2|[V:3]C2[K:bass] !^![B,,E,D]2|[V:4]x4|
+[V:1]z4|[V:2]!^![Aca]2 !^![Aca]2|[V:3]!^![A,,E,C]2 !^![A,,E,C]2|[V:4]x4|
+[V:1]z4|[V:2]!p! [Aca]2 z2|[V:3][A,,E,C]2 z2|[V:4]x4|
+[V:1]!fermata!z4|][V:2]!fermata![CEAc]4|][V:3]!fermata![A,,E,A,]4|][V:4]x4|]

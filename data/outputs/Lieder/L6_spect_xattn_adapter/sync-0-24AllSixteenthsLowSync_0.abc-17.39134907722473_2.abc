@@ -1,0 +1,34 @@
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=87
+M:2/4
+K:Bb
+V:1 treble nm="Singstimme"
+V:2 bass nm="Pianoforte"
+V:3 bass 
+[V:1]"^Moderato"!mf! D3/2 D/ E/ F/ G/ A/|[V:2]!mf! [F,B,D] z [E,F,A,] z|[V:3][B,,,B,,] z F,, z|
+[V:1](B>F) F2|[V:2][D,F,B,] z [C,F,A,] z|[V:3]B,,, z F,, z|
+[V:1](E/G/) (F/A/) (G/B/) (A/c/)|[V:2][B,,E,G,] z [C,E,G,] z|[V:3]E,, z F,, z|
+[V:1](B>F) F2|[V:2][D,F,B,] z [C,F,A,] z|[V:3]B,,, z F,, z|
+[V:1](B/d/) (c/B/) (A/G/) (F/E/)|[V:2][D,F,B,] z [E,F,A,] z|[V:3]B,,, z F,, z|
+[V:1](D3/2 E/) F2|[V:2][D,F,B,] z [C,F,A,] z|[V:3]B,,, z F,, z|
+[V:1]!pp! (B/d/) (c/B/) (A/G/) (F/E/)|[V:2][D,F,B,] z [E,F,A,] z|[V:3]B,,, z F,, z|
+[V:1](D3/2 E/) F2|[V:2][D,F,B,] z [C,F,A,] z|[V:3]B,,, z F,, z|
+[V:1]!p! (D/E/) (F/G/) (A/B/) (c/d/)|[V:2]!p! [F,B,] z [F,A,C] z|[V:3]D, z C, z|
+[V:1]c2 c z|[V:2][=E,G,C] z [F,G,D] z|[V:3]B,, z =B,, z|
+[V:1]!<(! (B/c/) (A/B/) (G/A/) (F/G/)!<)!|[V:2][K:treble]!<(! [=E,B,C] z [E,B,C] z|[V:3]C, z C,, z|
+[V:1]!mf! F2 F z|[V:2][F,A,C]!<)! z [A,CF] z|[V:3]F,, z C, z|
+[V:1](F/G/) (F/E/) (D/E/) (F/G/)|[V:2]!mf! [A,EF] z [B,F] z|[V:3][F,,C,] z [G,,C,] z|
+[V:1]F2 F z|[V:2][A,CF] z [G,DF] z|[V:3][F,,C,] z [=E,,=B,,] z|
+[V:1]!<(! (F/G/) (A/B/) (c/d/) (e/f/)!<)!|[V:2]!<(! [A,EF] z [A,EF] z!<)!|[V:3][F,,C,] z [F,,C,] z|
+[V:1]!mf! (e>c) d z|[V:2]!mf! [A,CE] z [B,D] z|[V:3][F,,C,] z B,, z|
+[V:1]!ff! d2 c3/2 B/|[V:2]!ff! (3z DF (3z [CE]G|[V:3][B,,F,]2 [B,,G,]2|
+[V:1]A3/2 G/ F2|[V:2](3z CF (3z CF|[V:3][A,,F,]2 [A,,F,]2|
+[V:1](B/d/) (c/B/) (A/G/) (F/E/)|[V:2](3z B,D (3z G,C|[V:3][G,,D,]2 [E,,B,,]2|
+[V:1](D3/2 E/) F2|[V:2](3z F,B, (3z F,C|[V:3][F,,B,,]2 [F,,A,,]2|
+[V:1](B/d/) (c/B/) (A/G/) (F/E/)|[V:2](3z B,D (3z G,C|[V:3][G,,D,]2 [E,,B,,]2|
+[V:1](D3/2 E/) F2|[V:2](3z F,B, (3z F,C|[V:3][F,,B,,]2 [F,,A,,]2|
+[V:1]!pp! (B/d/) (c/B/) (A/G/) (F/E/)|[V:2]!pp! (3z B,D (3z G,C|[V:3][G,,D,]2 [E,,B,,]2|
+[V:1]D4|[V:2](3z F,B, (3z F,B,|[V:3][F,,B,,]2 [F,,B,,]2|
+[V:1]!>(! (D>C) (B,>C)|[V:2](3z F,B, (3z G,B,|[V:3][F,,B,,]2 [F,,B,,]2|
+[V:1]B,2!>)! z2|][V:2](3z F,B, (3z F,B,|][V:3][F,,B,,]2 [F,,B,,]2|]

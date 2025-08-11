@@ -1,0 +1,18 @@
+%%score ( 1 2 ) { ( 3 4 ) | ( 5 6 7 ) }
+L:1/8
+Q:1/4=60
+M:2/4
+K:C
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:4 treble 
+V:5 bass 
+V:6 bass 
+V:7 bass 
+[V:1]"^Andantino" c3/2 G/ c3/2 G/|[V:2](c G) (c G)|[V:3]!pp! (.[EGc].[CEG]) (.[EGc].[CEG])|[V:4]%distance=4[r:0/5]x4|[V:5][C,,C,] [C,E,G,] [C,,C,] [C,E,G,]|[V:6]%distance=4[r:0/5]x4|[V:7]%distance=4[r:0/5]x4|
+[V:1]e2 d z|[V:2]x4|[V:3](.[Gce]2 .[FBd]2)|[V:4]x4|[V:5][G,,G,] [G,B,] [G,,G,] [G,B,]|[V:6]x4|[V:7]x4|
+[V:1]d3/2 B/ e3/2 B/|[V:2]d B e B|[V:3](.[GBd].[DGB]) (.[GBe].[EGB])|[V:4]x4|[V:5][G,,G,] [G,B,] [G,,G,] [G,B,]|[V:6]x4|[V:7]x4|
+[V:1]g2 ^f2|[V:2]x4|[V:3](.[Beg]2 .[A^d^f]2)|[V:4]x4|[V:5][B,,B,] [B,^D] [B,,B,] [B,D]|[V:6]x4|[V:7]x4|
+[V:1]g3/2 d/ g3/2 d/|[V:2]g d g d|[V:3](.[Bdg].[GBd]) (.[Bdg].[GBd])|[V:4]x4|[V:5][G,,G,] [G,B,D] [G,,G,] [G,B,D]|[V:6]x4|[V:7]x4|
+[V:1]b4|[V:2]x4|[V:3](.[dfb]4|[V:4]x4|[V:5](G,,D,G,G,,)|[V:6]x4|[V:7]x4|

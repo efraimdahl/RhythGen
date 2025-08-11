@@ -1,0 +1,34 @@
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=92
+M:9/8
+K:F
+V:1 treble nm="Gesang\nVoice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+[V:1]"^Andante moderato" z9|[V:2]"^animato"!pp! (c3!<(! AB=B!<)!!>(! c>_B!>)!G)|[V:3]A3 G3 G2 E|[V:4][F,C]3 [F,D]3 [F,E]2 [F,C]|[V:5]x9|
+[V:1]z9|[V:2](A3 B2 =B d>c_B)|[V:3]F3 G3 G2 E|[V:4][F,C]3 [F,D]3 [F,E]2 [F,C]|[V:5]x9|
+[V:1]z9|[V:2](A2 c!>(! e2 d!>)! f2 c)|[V:3]F2 G A3 B3|[V:4][F,C]3 [F,C]3 [F,D]2 [F,D]|[V:5]x9|
+[V:1]z9|[V:2]!>(! (c3 d3!>)! e3)|[V:3]B6 B3|[V:4][F,E]6 [F,D]3|[V:5]x9|
+[V:1]!mp!!<(! c3!<)!!>(! A B =B!>)! c3/2!<(! _B/ G|[V:2]!pp!!<(! (c3!<)! AB=B!>(! c>_B!>)!G)|[V:3]A3 G3 G2 E|[V:4][F,C]3 [F,D]3 [F,E]2 [F,C]|[V:5]x9|
+[V:1]A3!<)!!>(! B2!>)! =B (d>c _B)|[V:2](A3 B2 =B d>c_B)|[V:3]F3 G3 G2 E|[V:4][F,C]3 [F,D]3 [F,E]2 [F,C]|[V:5]x9|
+[V:1]A2 c (e3 d3/2) f/ c|[V:2]!<(! (A2 c!<)!!>(! e2 d f2 c)!>)!|[V:3]F2 G A3 B3|[V:4][F,C]3 [F,C]3 [F,D]2 [F,D]|[V:5]x9|
+[V:1]c3- c d z e3|[V:2](c3 d3 e3)|[V:3]B6 B3|[V:4][F,E]6 [F,D]3|[V:5]x9|
+[V:1]f3/2!>(! e/ c!>)! (f3- f e) d|[V:2]!mf! (f>e!>(!c)!>)!!pp! (f3- fed)|[V:3]B3 B6|[V:4][G,D]3 [G,D]6|[V:5]x9|
+[V:1]c3/2 B/ A B3- B z B|[V:2](c>BA) B3- B2 z|[V:3]F3 F3- F2 z|[V:4]([A,C]3 [G,D]3- [G,D]2) z|[V:5]x9|
+[V:1]!pp! (B3/2 A/ B (d3 (3d)c) B (3A B =B|[V:2](B>AB) (d3- (3dcB) z|[V:3]F3 (F3 E3)|[V:4][G,D]3 (B,3 C3)|[V:5]x3 G,6|
+[V:1]c3- c z z z2 z|[V:2]!pp!!<(! (c3!<)! AB=B!>(! c>_B!>)!G)|[V:3]A3 G3 G2 E|[V:4][F,C]3 [F,D]3 [F,E]2 [F,C]|[V:5]x9|
+[V:1]z9|[V:2](A3 B2 =B d>c_B)|[V:3]F3 G3 G2 E|[V:4][F,C]3 [F,D]3 [F,E]2 [F,C]|[V:5]x9|
+[V:1]!p! f2 c!<(! (d3 f) e d!<)!|[V:2](A2 c!<(! e2 d f>ed)!<)!|[V:3]F2 G A3 B3|[V:4][F,C]3 [F,C]3 [F,D]2 [F,D]|[V:5]x9|
+[V:1]c3- c2 c d3|[V:2](c3 c3 d3)|[V:3]G6 ^G3|[V:4][F,_E]6 [F,=B,]3|[V:5]x9|
+[V:1]!mf! f3/2 e/ d!>(! (f3-!>)! f e) d|[V:2]!mf! (f>ed)!>(! (f3- fed)!>)!|[V:3]A3 G6|[V:4][F,C]3 [E,=B,]6|[V:5]x9|
+[V:1]c3/2 B/ A B3- B z!pp! B|[V:2](c>BA) B3- B2 z|[V:3]F3 F3- F2 z|[V:4]([A,C]3 [G,D]3- [G,D]2) z|[V:5]x9|
+[V:1]B3/2 A/ B (d3 (3dc) B (3A B =B|[V:2]!p! (B>AB) (d3- (3dcB) z|[V:3]F3 (F3 E3)|[V:4][G,D]3 (B,3 C3)|[V:5]x3 G,6|
+[V:1]c3- c z z z2 z|[V:2]!pp!!<(! (c3!<)! AB=B!>(! c>_B!>)!G)|[V:3]A3 G3 G2 E|[V:4][F,C]3 [F,D]3 [F,E]2 [F,C]|[V:5]x9|
+[V:1]z9|[V:2](A3 B2 =B d>c_B)|[V:3]F3 G3 G2 E|[V:4][F,C]3 [F,D]3 [F,E]2 [F,C]|[V:5]x9|
+[V:1]z9|[V:2]!pp!!<(! (A2 c!<)!!>(! e2 d f2!>)! c)|[V:3]F2 G A3 B3|[V:4][F,C]3 [F,C]3 [F,D]2 [F,D]|[V:5]x9|
+[V:1]z9|[V:2]!>(! (c3 d3!>)! e3)|[V:3]B6 B3|[V:4][F,E]6 [F,D]3|[V:5]x9|
+[V:1]z9|[V:2]!pp! [FAcf]6- [FAcf]3|[V:3]x9|[V:4](F,,2 C, A,2 C, B,2 C,)|[V:5]x9|
+[V:1]z2 z z2 z !fermata!z2 z|][V:2]!fermata![FAcf]6- [FAcf]3|][V:3]x9|][V:4]!fermata![F,,C,A,]6- [F,,C,A,]3|][V:5]x9|]

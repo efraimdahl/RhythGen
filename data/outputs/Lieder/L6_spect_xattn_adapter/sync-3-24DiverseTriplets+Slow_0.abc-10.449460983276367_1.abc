@@ -1,0 +1,24 @@
+%%score ( 1 2 ) { ( 3 5 ) | ( 4 6 ) }
+L:1/8
+Q:1/4=63
+M:2/4
+K:Db
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:5 treble 
+V:4 bass 
+V:6 bass 
+[V:1]"^molto espress." z2 f2||[V:2]x4|[V:3]!fermata!z|[V:4]!p!!p!"^co-agitato"!ped! z4|:[V:5]=A,2 _A,2|:[V:6]=A,,2 _A,,2|
+[V:1]z4|:[V:2]x4|:[V:3]"^andante espressiv] _A,,2|:[V:4]z4|:[V:5]x4|:[V:6]x4|:
+[V:1]z4|:[V:2]x4|:[V:3]"^A" z =DEE|:[V:4]z4|:[V:5]x4|:[V:6]x4|:
+[V:1]z4||[V:2]x4||[V:3]z4||[V:4]"^Page -" A,,2 __A,,2|:[V:5]B,,2 C,2|:[V:6]A,,,2 F,,2||
+[V:1]f2|[V:2]x2|[V:3]z2|[V:4]z2|[V:5]x2|[V:6]A,,,4|
+[V:1]G,2 =G,2|[V:2]x4||[V:3]z4||[V:4]A,,,2 =G,,,2|:[V:5]=A,,,2 B,,2 =A,,,2||[V:6]x4||
+[V:1]z4|:[V:2]x4|:[V:3]z4|:[V:4]z4|:[V:5]x4|:[V:6]__A,,,2- A,,,>G,,,|:
+[V:1][K:Gb] d2 d2|:[V:2]x4|:[V:3]z4|:[V:4]z4|:[V:5]x4|:[V:6]x4|:
+[V:1]z4||[V:2]x4||[V:3]z4||[V:4]"^Allegro" =G,,2 A,,2|:[V:5]=A,,,2 B,,,2||[V:6]x4||
+[V:1][K:A][Q:1/4=40] E2|[V:2]x4||[V:3]z4||[V:4]=A,,,2 B,,,2|[V:5]=A,,,2 B,,,2||[V:6]x4||
+[V:1]B,2 B,>C|[V:2]x4|[V:3]z4|[V:4]=A,,,2 B,,,2|[V:5]=A,,,2 B,,,2|[V:6]x4|
+[V:1][K:Db] D2 D2|[V:2]x4|:[V:3]"^accel." =A,,2 =B,,2|:[V:4]=A,,,2 B,,2|[V:5]x4|:[V:6]x4|:
+[V:1]z0[K:E][V:2]x0[K:E][V:3]z0[K:E][V:4]z0[K:E][V:5][K:E][V:6]x0[K:E]

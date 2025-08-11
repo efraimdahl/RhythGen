@@ -1,0 +1,19 @@
+%%score ( 1 2 ) { ( 3 5 ) | 4 }
+L:1/8
+Q:1/4=140
+M:3/4
+K:Bb
+V:1 treble nm="Canto\nVoice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:5 treble 
+V:4 bass 
+[V:1]"^Allegretto espressivo" z2|[V:2]x2|[V:3]!mf! [GBd]2|[V:4]G,2|[V:5]x2|
+[V:1]z2 z2!mf! g2|[V:2]x6|[V:3]!>(! [Acf]2 [Ac]2!>)!!mf! [Bd]2|[V:4]F,2 F,2 G,2|[V:5]x6|
+[V:1]f2 f2 e2|[V:2]x6|[V:3]!>(! ([Af]4!>)! [Ge]2)|[V:4]D,2 D2 E2|[V:5]x6|
+[V:1]d4 c2|[V:2]x6|[V:3]!p! ([Bd]4 [Ac]2)|[V:4]B,4 F,2|[V:5]F6|
+[V:1]B2 z2!mp! d2|[V:2]x6|[V:3][GB]4 [Gd]2|[V:4]G,2 E,2 B,2|[V:5](F2 E2) x2|
+[V:1]c2 B2 A2|[V:2]x6|[V:3](c2 B2 A2)|[V:4]C2 D2 D,2|[V:5]G4 ^F2|
+[V:1]B6|1,2,3[V:2]x6|1,2,3[V:3][GB]6|1,2,3[V:4]G,6|1,2,3[V:5]x6|1,2,3
+[V:1]z2:|3[V:2]x2:|3[V:3]!mf! [GBd]2:|3,4[V:4]G,2:|3[V:5]x2:|3
+[V:1]z2:|[V:2]x2:|[V:3]!mf! !fermata![GBd]2:|[V:4]!fermata!G,2:|[V:5]x2:|

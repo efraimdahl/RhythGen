@@ -1,0 +1,23 @@
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=76
+M:3/4
+K:C
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+V:4 bass 
+[V:1]"^Lento con moto" z6|[V:2]!p! (G2 c2 e2|[V:3]!ped! (3z (G,C (3ECG, (3E,CG,)!ped-up!|[V:4]x6|
+[V:1]z6|[V:2]g4- g) z|[V:3]!ped! (3z (^G,D (3FDG, (3EC_G,)!ped-up!|[V:4]F,,4- F,, x|
+[V:1]z6|[V:2](_A2 c2 _e2|[V:3]!ped! (3z (F,_A, (3_DA,F, (3CA,F,)!ped-up!|[V:4]_B,,6|
+[V:1]z6|[V:2]g4- g) z|[V:3]!ped! (3z (G,_D (3EDG, (3EDG,)!ped-up!|[V:4]C,6|
+[V:1]z6|[V:2]!p! (G2 c2 _e2|[V:3]!ped! (3z (F,_A, (3DA,F, (3CA,F,)!ped-up!|[V:4]_D,,6|
+[V:1]z6|[V:2]g6-)|[V:3]!ped! (3z (G,_D (3EDG, (3EDG,)!ped-up!|[V:4]C,,6|
+[V:1]z6|[V:2]!pp! (g2 _e2 c2)|[V:3]!ped! (3z (F,_A, (3CA,F, (3CA,F,)!ped-up!|[V:4]_B,,,6|
+[V:1]z6|[V:2](_a4 _e) z|[V:3]!ped! (3z (G,C (3ECG, (3E,CG,)!ped-up!|[V:4]A,,,6|
+[V:1]!ff!!>(! (c4 _e>d)|[V:2]!mf! (_A4 _c2)|[V:3]!ped! (3z (G,_C (3_ECG, (3ECG,)!ped-up!|[V:4]G,,,6|
+[V:1](c4 _e)!>)! z|[V:2]([c_e]4- [ce]) z|[V:3]!ped! (3z (A,_E (3FEA, (3FEA,)!ped-up!|[V:4]C,,6|
+[V:1](c4 _e>d)|[V:2](_A4 _c2)|[V:3]!ped! (3z (F,_A, (3_CA,F, (3CA,F,)!ped-up!|[V:4]_D,,6|
+[V:1]!>(! (c2 _e2)!>)! z2|[V:2]!>(! (_e4- [ce])!>)! z|[V:3]!ped! (3z (G,C (3ECG, (3E,CG,)!ped-up!|[V:4]C,,6|
+[V:1]z6|[V:2]!p! (G4 c2)|[V:3]!ped! (3z (G,C (3ECG, (3CG,E,)!ped-up!|[V:4]C,,6|
+[V:1]z6:|[V:2]!>(! (_e4 d)!>)!!ppp!c:|[V:3]!ped! (3z (_A,C (3_ECA, (3ECA,)!ped-up!:|[V:4]_E,,6:|

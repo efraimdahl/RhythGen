@@ -1,0 +1,26 @@
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=92
+M:9/8
+K:F
+V:1 treble nm="Gesang\nVoice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+[V:1]"^Andante non troppo" z2 z z2 z z2!mf! C|[V:2]!p!"^con anima" A3 (G2 F) (A2 B)|[V:3]C6 C3|[V:4]"^dolce"!p!!ped! (F,,2 C, F,2 A,)!ped-up!!ped! (F,,2 C,)!ped-up!|[V:5]x9|
+[V:1]!<(! (A2 c!<)! (BA) c)!>(! B2 A!>)!|[V:2]c3 d3 c3|[V:3][CA]3 (BDC) (AB,G)|[V:4]!ped! F,2 C,!ped-up!!ped! (G,2 C,)!ped-up!!ped! (F,2 C,)!ped-up!|[V:5]x9|
+[V:1]G F F F3 F2 F|[V:2]A3 (A2 c) (B2 G)|[V:3](CFE) (CEF) (B,FE)|[V:4]!ped! (F,,2 C,)!ped-up!!ped! (G,2 C,)!ped-up!!ped! (G,2 C,)!ped-up!|[V:5]x9|
+[V:1](GF) F (F A3/2) A/ A A|[V:2]A3 (A2 c) (c2 B)|[V:3](CFE) (CFE) (B,FE)|[V:4]!ped! (F,,2 C,)!ped-up!!ped! (G,2 C,)!ped-up!!ped! (G,2 C,)!ped-up!|[V:5]x9|
+[V:1]!<(! (GF)!<)! E D2 C C2 C|[V:2](A3 B2 A c2 B)|[V:3](CFE) (CFE) (B,FE)|[V:4]!ped! (F,,2 C,)!ped-up!!ped! (G,2 C,)!ped-up!!ped! (G,2 C,)!ped-up!|[V:5]x9|
+[V:1]!>(! (A2 B)!>)!!<(! c2 d (B2!<)! A)|[V:2]c3 d3 c3|[V:3](CFC) (B,DB) (CEA)|[V:4]!ped! (F,,2 C,)!ped-up!!ped! (G,2 C,)!ped-up!!ped! (F,2 C,)!ped-up!|[V:5]x9|
+[V:1]G F F F3- F2 F|[V:2]!<(! (A2 A)!<)!!>(! (c2 d) (c2 B)!>)!|[V:3](CFE) (CEB) (CEB)|[V:4]!ped! (F,,2 C,)!ped-up!!ped! (G,2 C,)!ped-up!!ped! (G,2 C,)!ped-up!|[V:5]x9|
+[V:1]"^piu lento"!<(! (GF) F (F!<)! A3/2)!>(! A/ A2!>)! A|[V:2]!<(! A3 (A2!<)! c)!>(! (c2 B)!>)!|[V:3](CFC) (CFC) (CEB)|[V:4]!ped! (F,,2 C,)!ped-up!!ped! (G,2 C,)!ped-up!!ped! (G,2 C,)!ped-up!|[V:5]x9|
+[V:1]!<(! (GF) E D2!<)!!>(! C C2!>)! z|[V:2]!<(! (A3 B2 d) (c2!<)!!>(! B)!>)!|[V:3](CFC) (CEB) (CEB)|[V:4]!ped! (F,,2 C,)!ped-up!!ped! (G,2 C,)!ped-up!!ped! (G,2 C,)!ped-up!|[V:5]x9|
+[V:1]!<(! (A B) c!<)!!>(! (AB) c!>)! d2!<(! d|[V:2](A2 c)!<(! (BAB) (A!<)!df)|[V:3](CFC) (CEC) (FAF)|[V:4]!ped! (F,,2 C,)!ped-up!!ped! (G,2 C,)!ped-up!!ped! (D,2 A,)!ped-up!|[V:5]x9|
+[V:1]c2 A G2 A!<)!!>(! F F2!>)!|[V:2](efc) (BcG) (AGF)|[V:3](GBG) (EGE) (CFC)|[V:4]!ped! (C,2 G,)!ped-up!!ped! (C2 C,)!ped-up!!ped! (F,2 C,)!ped-up!|[V:5]x9|
+[V:1]!<(! A B c!<)! (A!>(! B) c!>)! d2 d|[V:2](A2 c) (BcB) (Adf)|[V:3](CFC) (CEC) (FAF)|[V:4]!ped! (F,,2 C,)!ped-up!!ped! (G,2 C,)!ped-up!!ped! (D,2 A,)!ped-up!|[V:5]x9|
+[V:1]c2 A G2 A F2 F|[V:2](efc) (BcG) (AGF)|[V:3](GBG) (EGE) (CFC)|[V:4]!ped! (C,2 G,)!ped-up!!ped! (C2 C,)!ped-up!!ped! (F,2 C,)!ped-up!|[V:5]x9|
+[V:1]!>(! (G2 A)!>)!!<(! (BA) B!<)!!>(! (Bc) B!>)!|[V:2](G2 A) (BAB) (Bcd)|[V:3](CFC) (EGE) (EBE)|[V:4]!ped! (C,2 G,)!ped-up!!ped! (B,2 C,)!ped-up!!ped! (G,2 C,)!ped-up!|[V:5]x9|
+[V:1](A2 G) F2 G (F2 C)|[V:2](efc) (BcG) (AGF)|[V:3](AcA) (GBG) (CFC)|[V:4]!ped! (F,,2 C,)!ped-up!!ped! (B,2 C,)!ped-up!!ped! (F,2 C,)!ped-up!|[V:5]x9|
+[V:1]"^poco allargando"!<(! (GA)!<)! B (AB) c!>(! !fermata!G2!>)! F|][V:2](G2 A) (BAB) c2 c|][V:3](CFC) (EGE) (EBE)|][V:4]!ped! (C,2 G,)!ped-up!!ped! (B,2 C,)!ped-up!!ped! (G,2 C,)!ped-up!|][V:5]C,3- C, x5|]

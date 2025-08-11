@@ -1,0 +1,42 @@
+%%score ( 1 2 ) { 3 | ( 4 5 ) }
+L:1/8
+Q:1/4=100
+M:2/4
+K:B
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:4 bass 
+V:5 bass 
+[V:1]d3 d|[V:2]%distance=1[r:0/31]x4|[V:3]z [GB] [Bd][GB]|[V:4][D,D]4|[V:5]%distance=1[r:0/31]x4|
+[V:1]e2 e2|[V:2]x4|[V:3]z [Gc] [ce][Gc]|[V:4][D,D]4|[V:5]x4|
+[V:1](g2 f2)|[V:2]x4|[V:3]z [GB] [Bd][GB]|[V:4][D,D]4|[V:5]x4|
+[V:1]z2 e2|[V:2]x4|[V:3]z [Gc] [ce][Gc]|[V:4][D,D]4|[V:5]x4|
+[V:1](d3 B)|[V:2]x4|[V:3]z [GB] [Bd][GB]|[V:4][D,D]4|[V:5]x4|
+[V:1]A2 d2|[V:2]x4|[V:3]z [^^FA] [Ad][FA]|[V:4][D,D]4|[V:5]x4|
+[V:1]G4-|[V:2]x4|[V:3]z [GB] [Bd][GB]|[V:4][D,D]4|[V:5]x4|
+[V:1]G2 z2|[V:2]x4|[V:3]z [GB] [Bd][GB]|[V:4][G,,G,]4|[V:5]x4|
+[V:1]z2 z!mp! d|[V:2]x4|[V:3]!mf! z [^^FA] [Ad][FA]|[V:4][D,D]4|[V:5]x4|
+[V:1]d2 d2|[V:2]x4|[V:3]z [^^FA] [Ad][FA]|[V:4][D,D]4|[V:5]x4|
+[V:1]d3 d|[V:2]x4|[V:3]z [^^FA] [Ad][FA]|[V:4][D,D]4|[V:5]x4|
+[V:1]d2 d2|[V:2]x4|[V:3]z [^^FA] [Ad][FA]|[V:4][D,D]4|[V:5]x4|
+[V:1]e4|[V:2]x4|[V:3]z [Gc] [ce][Gc]|[V:4][D,D]4|[V:5]x4|
+[V:1]d2 c2|[V:2]x4|[V:3]z [GB] [ce][GB]|[V:4][D,D]4|[V:5]x4|
+[V:1]B2 G2|[V:2]x4|[V:3]z [GB] [Bd][GB]|[V:4][D,D]4|[V:5]x4|
+[V:1]G2 ^^F2|[V:2]x4|[V:3]z [^^FA] [Ad][FA]|[V:4][D,D]4|[V:5]x4|
+[V:1]G4|[V:2]x4|[V:3]z [GB] [Bd][GB]|[V:4][G,,G,]4|[V:5]x4|
+[V:1]z4|[V:2]x4|[V:3]z [^^FA] [Ad][FA]|[V:4][D,D]4|[V:5]x4|
+[V:1]z4|[V:2]x4|[V:3]z [^^FA] [Ad][FA]|[V:4][D,D]4|[V:5]x4|
+[V:1]z2 z!mf! d|[V:2]x4|[V:3]z [^^FA] [Ad][FA]|[V:4][D,D]4|[V:5]x4|
+[V:1]d2 d2|[V:2]x4|[V:3]!mf! z [GB] [Bd][GB]|[V:4][D,D]4|[V:5]x4|
+[V:1]d2 d2|[V:2]x4|[V:3]z [GB] [Bd][GB]|[V:4][D,D]4|[V:5]x4|
+[V:1]e3 e|[V:2]x4|[V:3]z [Gc] [ce][Gc]|[V:4][D,D]4|[V:5]x4|
+[V:1]d2 c2|[V:2]x4|[V:3]z [GB] [ce][GB]|[V:4][D,D]4|[V:5]x4|
+[V:1]B2 G2|[V:2]x4|[V:3]z [GB] [Bd][GB]|[V:4][D,D]4|[V:5]x4|
+[V:1]G3 G|[V:2]x4|[V:3]z [^^C^E] [EG][CE]|[V:4][A,,A,]4|[V:5]x4|
+[V:1]A4-|[V:2]x4|[V:3]z [D^^F] [FA][DF]|[V:4][A,,A,]4|[V:5]x4|
+[V:1]A2 z2|[V:2]x4|[V:3]z [D^^F] [FA][DF]|[V:4][A,,A,]4|[V:5]x4|
+[V:1]!f! d4|[V:2]x4|[V:3]!f! z [^^FA] [Ad][FA]|[V:4][D,D]4|[V:5]x4|
+[V:1]d2 d2|[V:2]x4|[V:3]z [^^FA] [Ad][FA]|[V:4][D,D]4|[V:5]x4|
+[V:1]d2 d2|[V:2]x4|[V:3]z [^^FA] [Ad][FA]|[V:4][D,D]4|[V:5]x4|
+[V:1]e3 e|[V:2]x4|[V:3]z [Gc] [ce][Gc]|[V:4][D,D]4|[V:5]x4|

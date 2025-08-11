@@ -1,0 +1,19 @@
+%%score 1 { ( 2 3 6 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=116
+M:2/4
+K:Bb
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:6 treble 
+V:4 bass 
+V:5 bass 
+[V:1]c2 z f|[V:2]z ([Ac]2 [_ABf]|[V:3]C4|[V:4][E,,E,][D,,D,][C,,C,][D,,D,]|[V:5]%distance=2[r:0/7]x4|[V:6]%distance=2[r:0/7]x4|
+[V:1]e2 z c|[V:2][Ge]) [E_Ac]2 ([EA]|[V:3]x3 E-|[V:4][E,,E,] z z2|[V:5]x4|[V:6]x4|
+[V:1]_A z z!p! e|[V:2]E)!<(! [CE]2!<)!!>(! [B,EB]!>)!|[V:3]E2[I:staff +1] _A,G,|[V:4]z [_A,,,_A,,][B,,,B,,][E,,,E,,]|[V:5]x4|[V:6]x4|
+[V:1]c4-|[V:2][C_Ac]!p! [CE]2 [CE]-|[V:3]x4|[V:4][_A,,,_A,,] z z2|[V:5]x4|[V:6]x4|
+[V:1]c z z2|[V:2][CE] [CE]2 [CE]-|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2][CE] [CE]2 [CE]-|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2][CE]!pp! [CE]2 [CE]|[V:3]x4|[V:4]z4|[V:5]x4|[V:6]x4|
+[V:1]z4|][V:2][CE]2 z2|][V:3]x4|][V:4]z4|][V:5]x4|][V:6]x4|]

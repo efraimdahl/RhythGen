@@ -1,0 +1,31 @@
+%syncopation 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 6
+%%score 1 { ( 2 5 ) | ( 3 4 6 ) }
+L:1/8
+Q:1/4=72
+M:4/4
+K:A
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:6 bass 
+[V:1]"^Andante" z8|[V:2]!p! z/[I:staff +1] (E,/A,/[I:staff -1]C/)[I:staff +1] z/ (E,/A,/[I:staff -1]C/)[I:staff +1] z/ (=F,/[I:staff -1]A,/D/)[I:staff +1] z/ (F,/A,/[I:staff -1]D/)|[V:3]!p! A,,4 [A,,,A,,]4|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]z2 z!p!!<(! c!<)!!>(! c3!>)! B|[V:2][I:staff +1] z/ (E,/A,/[I:staff -1]C/)[I:staff +1] z/ (E,/A,/[I:staff -1]C/)[I:staff +1] z/ (D,/G,/[I:staff -1]D/)[I:staff +1] z/ (D,/G,/[I:staff -1]D/)|[V:3]!p! [A,,,A,,]4 [E,,,E,,]4|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]A2 z A A2 =G =F|[V:2][I:staff +1] z/ (E,/A,/[I:staff -1]C/)[I:staff +1] z/ (E,/A,/[I:staff -1]C/)[I:staff +1] z/ (D,/=F,/[I:staff -1]B,/)[I:staff +1] z/ (D,/F,/[I:staff -1]B,/)|[V:3][A,,,A,,]4 [D,,,D,,]4|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]E2 E =c (cB) (AG)|[V:2][I:staff +1] z/ (D,/=G,/[I:staff -1]B,/)[I:staff +1] z/ (C,/G,/[I:staff -1]A,/)[I:staff +1] z/ (B,,/^D,/F,/)[I:staff -1] z/[I:staff +1] (B,,/E,/[I:staff -1]^G,/)|[V:3][E,,,E,,]4 [^D,,,^D,,]2 [=D,,,=D,,]2|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]A2 A2 z4|[V:2]z/[I:staff +1] (C,/E,/[I:staff -1]A,/)[I:staff +1] z/ (C,/E,/[I:staff -1]A,/)[I:staff +1] z/ (D,/=F,/[I:staff -1]B,/)[I:staff +1] z/ (D,/E,/[I:staff -1]B,/)|[V:3][C,,,C,,]2 [A,,,,A,,,]2 [D,,,D,,]2 [E,,,E,,]2|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]z2 z!<(! c c3 B!<)!|[V:2]z/[I:staff +1] (C,/E,/A,/)[I:staff -1] z/ (C,/E,/A,/)[I:staff +1] z/ (D,/=F,/[I:staff -1]B,/)[I:staff +1] z/ (D,/E,/[I:staff -1]B,/)|[V:3][A,,,A,,]4 [D,,,D,,]4|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]A2 z A A2 =G =F|[V:2]z/[I:staff +1] (C,/E,/A,/[I:staff -1] C/)[I:staff +1] (E,/A,/[I:staff -1]C/)[I:staff +1] z/ (D,/=F,/[I:staff -1]B,/)[I:staff +1] z/ (D,/F,/[I:staff -1]B,/)|[V:3][A,,,A,,]4 [D,,,D,,]4|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]E2 E E =c c (BA)|[V:2][I:staff +1] z/ (D,/=G,/[I:staff -1]B,/)[I:staff +1] z/ (C,/G,/[I:staff -1]A,/)[I:staff +1] z/ (B,,/^D,/F,/)[I:staff -1] z/[I:staff +1] (B,,/E,/[I:staff -1]^G,/)|[V:3][E,,,E,,]4 [^D,,,^D,,]2 [=D,,,=D,,]2|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]A2 A2 z4|[V:2]z/[I:staff +1] (C,/E,/[I:staff -1]A,/)[I:staff +1] z/ (C,/E,/[I:staff -1]A,/)[I:staff +1] z/ (=F,/[I:staff -1]A,/D/)[I:staff +1] z/ (F,/A,/[I:staff -1]D/)|[V:3][C,,,C,,]2 [A,,,,A,,,]2 [D,,,D,,]4|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]z2 z E E2 D =C|[V:2]z/[I:staff +1] (E,/A,/[I:staff -1]=C/)[I:staff +1] z/ (E,/A,/[I:staff -1]C/)[I:staff +1] z/ (E,/A,/[I:staff -1]C/)[I:staff +1] z/ (F,/[I:staff -1]A,/D/)|[V:3][A,,,A,,]4 [F,,,F,,]4|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]B,2 z =G G2 F E|[V:2]z/[I:staff +1] (D,/=G,/[I:staff -1]B,/)[I:staff +1] z/ (D,/G,/[I:staff -1]B,/)[I:staff +1] z/ (C,/E,/[I:staff -1]G,/)[I:staff +1] z/ (C,/E,/[I:staff -1]G,/)|[V:3][=G,,,=G,,]4 [A,,,A,,]4|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]D2 D D B3 A|[V:2]z/[I:staff +1] (D,/F,/[I:staff -1]B,/)[I:staff +1] z/ (D,/F,/[I:staff -1]B,/)[I:staff +1] z/ (=C,/F,/[I:staff -1]A,/)[I:staff +1] z/ (B,,/^D,/F,/)|[V:3][B,,,B,,]4 [^D,,,^D,,]4|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]=G2 G2 z4|[V:2]z/[I:staff -1] (B,/[I:staff +1]E,/[I:staff -1]B,/)[I:staff +1] z/ (E,/[I:staff -1]B,/[I:staff +1]E,/)[I:staff -1] (C/ =G2 FE/)|[V:3][E,,,E,,]4 ^A,4|[V:4]x4 [F,,E,]4|[V:5]x4 [^A,C]4|[V:6]x8|
+[V:1]z2 z!p! B B B A =G|[V:2]([B,D]2 [A,B,-DF]2) [B,D=G]4|[V:3][B,,F,]2 F,2 [E,,E,]4|[V:4]x8|[V:5]x4 D2 CB,|[V:6]x8|
+[V:1]F2 z F F2 E D|[V:2]([B,D]2[I:staff +1] [D,F,A,D]2) [D,G,D]4|[V:3][F,,,F,,]4 [E,,,E,,]4|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1](C2 E) A c3 B|[V:2][C,A,C]2[I:staff -1] x2 [D,G,C]2 [D,G,B,]2|[V:3][A,,,A,,]2 x2 [E,,,E,,]4|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]A2 z2 z4|[V:2][I:staff +1] z/ (C,/E,/A,/)[I:staff -1] z/ (E,/A,/C/) z/[I:staff +1] (D,/=F,/[I:staff -1]B,/)[I:staff +1] z/ (D,/E,/[I:staff -1]B,/)|[V:3][A,,,A,,]2 [A,,,,A,,,]2 [D,,,D,,]2 [E,,,E,,]2|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1][Q:1/4=64] z8[Q:1/4=60][Q:1/4=56][Q:1/4=52][Q:1/4=48][Q:1/4=46][Q:1/4=44][Q:1/4=40]|[V:2][I:staff +1] z/ (C,/E,/A,/)[I:staff -1] z/ (E,/A,/C/)[I:staff +1] z/ (D,/=F,/[I:staff -1]B,/)[I:staff +1] z/ (D,/E,/[I:staff -1]B,/)|[V:3][A,,,A,,]2 [A,,,,A,,,]2 [D,,,D,,]2 [E,,,E,,]2|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]z8|][V:2]!arpeggio![C,E,A,]8|][V:3]!arpeggio![A,,,A,,]8|][V:4]x8|][V:5]x8|][V:6]x8|]

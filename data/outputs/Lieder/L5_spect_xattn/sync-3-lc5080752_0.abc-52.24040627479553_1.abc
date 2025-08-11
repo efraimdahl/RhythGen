@@ -1,0 +1,38 @@
+%%score 1 { ( 2 5 ) | ( 3 4 6 ) }
+L:1/8
+Q:1/4=72
+M:4/4
+K:A
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+V:6 bass 
+[V:1]"^Andante" z8|[V:2]!mf! [CE]2 [B,D][A,C] [A,B,D]2 [A,C][A,B,DF]|[V:3]A,2 E,A, A,2 A,A,|[V:4]x4 A,/G,/F,/E,/ E,/^D,/=D,/E,/|[V:5]x8|[V:6]x8|
+[V:1]z8|[V:2][A,B,DF]2 [G,B,DE][B,DEG] [CEA]2 [B,DEG][DFA]|[V:3]A,2 A,A, A,2 A,A,|[V:4]E,2 ^D,=D, C,=C,B,,A,,|[V:5]x8|[V:6]x8|
+[V:1]"^A" z8|[V:2][DFA]2 [DEG][B,DEB] [CEA]2 [B,DEG][DFA]|[V:3]A,2 A,A, A,2 A,A,|[V:4]E,2 ^D,=D, C,=C,B,,A,,|[V:5]x8|[V:6]x8|
+[V:1]"^En mosso" z8|[V:2]!mf! [DFA]2 [DEG][DEB]!>(! [CEA]2 [DEG][DFAB]!>)!|[V:3]A,2 A,A, A,2 A,A,|[V:4]E,2 ^D,=D, C,=C,B,,^A,,|[V:5]x8|[V:6]x8|
+[V:1]z8|[V:2]!>(! [DFA]2 [DEGB][DEGB] [CEA]2!>)! [DEG][DFA]|[V:3]A,2 A,A, A,2 A,A,|[V:4]E,2 ^D,=D, C,=C,B,,^A,,|[V:5]x8|[V:6]x8|
+[V:1]z8|[V:2]!pp! (a/f/e/d/) (d/c/c/d/) (a/f/f/d/) (=c/B/B/d/)|[V:3]F/^E/F/G/ F/=E/^E/F/ D/C/D/=E/!>(! ^E/F/=E/!>)!D/)|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1]z8||[V:2](b/g/f/e/) (e/d/d/b/) (c'/b/a/f/) (=c/B/B/d/)|[V:3]F/^E/F/=G/ F/=E/^E/F/ D/C/^D/=E/ ^E/F/=E/=D/||[V:4]x8||[V:5]x8||[V:6]x8||
+[V:1]"^Cantabile"!p!"^a bener moderezen" (B/c/) (B/A/) (G/B/)|[V:2]!mp! B,/E/G/E/ B,/E/G/E/ B,/E/G/E/ B,/E/G/E/|[V:3]!mp! E, z E, z E, z E, z|[V:4]x/ B,/ x7|[V:5]x8|[V:6]x8|
+[V:1](F/A/) (G/B/) (A/c/) (G/B/) (A/c/) (G/B/) (A/c/) (B/d/c/e/)|[V:2]B,/E/G/E/ B,/E/G/E/ B,/E/G/E/|[V:3]E, z E, z E, z|[V:4]x/ B,/ x7|[V:5]x6|[V:6]x6|
+[V:1](B/d/) (c/B/) (A/c/) (G/B/) e3 c|[V:2]B,/E/G/E/ B,/E/G/E/ C/E/A/E/ C/E/A/E/|[V:3]E, z E, z E, z E, z|[V:4]x/ B,/ x7|[V:5]x8|[V:6]x8|
+[V:1]B d c (c/B/) B4|[V:2]D/E/G/E/ D/E/G/E/ D/E/G/E/ D/E/G/E/|[V:3]E, z E, z E, z E, z|[V:4]x/ B,/ x7|[V:5]x8|[V:6]x8|
+[V:1]"^(mezz)""^( mouvu) molto" (B/c/) (B/A/) (G/B/) (A/B/) (F/A/) (G/A/) (B/d/) (c/e/) d/ c/|[V:2]B,/E/G/E/ B,/E/G/E/ C/E/A/E/ C/E/A/E/|[V:3]E, z E, z E, z E, z|[V:4]x/ B,/ x7/2 C/ x7/2|[V:5]x8|[V:6]x8|
+[V:1](B/d/) (c/B/) (A/c/) (G/B/) e3 z|[V:2]D/E/G/E/ D/E/G/E/ D/E/G/E/ D/E/G/E/|[V:3]E, z E, z E, z E, z|[V:4]x/ B,/ x7|[V:5]x8|[V:6]x8|
+[V:1]"^(ma volin)"!p! (B/c/) (B/A/) (G/B/) (F/A/) (G/B/) (A/c/) (B/d/) e c/ A/|[V:2]B,/E/G/E/ B,/E/G/E/ C/E/A/E/ C/E/A/E/|[V:3]E, z E, z E, z E, z|[V:4]x/ B,/ x7|[V:5]x8|[V:6]x8|
+[V:1]B d c3/2 B/ B2 z e|[V:2]D/E/G/E/ D/E/G/E/ D/E/G/E/ D/E/G/E/|[V:3]E, z E, z E, z E, z|[V:4]x/ B,/ x7|[V:5]x8|[V:6]x8|
+[V:1]"^( 3 ma / 1"[Q:1/4=72]"^\n \n \n \n \n\n"[Q:1/4=70]"^\n \n \n\n"[^\n \n \n\n"[Q:1:1/4=65]"^\n \n \n\n"[Q:1/4=60]"^\n\n \n\n""^\n \n\n\n"[Q:1/4=65]"^\n \n\n\n""^\\n"[Q:1/4=71]"^\\n""^\n \n"[Q:1/4=75]"^\n \n \n\n\n"[Q:1/4=71]"^\n \n\n""^\n \n \n"[Q:1/4=71]"^\)""^\n \n \n\n"[^\n \n \n\n"[Q:1/4=70]"^\n \n \n""^\n \n \n\n"[Q:1/4=70]"^\n \n 9\n\n\n""^\n \n (\n\n""^\n \n \n""^\n \n\n\n"[Q:1""_\n \n\n\n\n""^\n \n \n\n"[Q:1/4=73]"^\n \n \n\n""^\n \n \n\n\n""^\n \n\n"[Q:1/4=85]"_\n \n \n\n""^\n \n \n\n\n""^\n \n \n\n""^\n \n\n\n""^\n\n""^\n \n \n \n\n\n\n\n""^\n \n\n""^\n \n \n \n\n\n""^\n \n \n\n\n\n""^\n \n \n\n\n""^\n \n \n\n \n\n\n""^\n \n\n"[Q:1/4=71]"^\""^\n \n \n\n"[Q:1/4=80]"^\n \n \n""^\n \n \n\n""^\n \n \n\n""^\n \n"[Q:1/4=71]"_\n \n\n""^\n \n""^\n \n \n\n""^\n""^\n \n \n \n\n""^\n \n \n\n" (d/c/) (B/A/) (A/G/) (G/F/)||[V:2]z4||[V:3]z4||[V:4]x4||[V:5]x4||[V:6]x4||
+[V:1][Q:1/4=72]"^\n \n \n\n\n\n""^\n \n\n" (B/ A/) (G/F/) (G/B/) (A/c/) (G/B/)|[V:2]!mp! B,/E/G/E/ B,/E/G/E/ B,/E/G/E/ B,/E/G/E/|[V:3]!mp! E, z E, z E, z E, z|[V:4]z/ B,/ x7|[V:5]x8|[V:6]x8|
+[V:1](F/A/) (G/B/) (A/c/) (G/B/) (A/c/) (G/B/) (A/c/) (B/d/) (c/e/)|[V:2]B,/E/G/E/ B,/E/G/E/ B,/E/G/E/ B,/E/G/E/|[V:3]E, z E, z E, z E, z|[V:4]x8|[V:5]x8|[V:6]x8|
+[V:1][Q:1/4=78]"^\n \n \n\n""^\n \n \n \n (\n" (B/d/) (c/B/) (A/c/) (B/d/) (G/B/) e3 c|[V:2]B,/E/G/E/ B,/E/G/E/ C/E/A/E/ C/E/A/E/|[V:3]E, z E, z E, z E, z|[V:4]x/ B,/ x7|[V:5]x8|[V:6]x8|
+[V:1]B d c (c/B/) B3 z|[V:2]D/E/G/E/ D/E/G/E/ D/E/G/E/ D/E/G/E/|[V:3]E, z E, z E, z E, z|[V:4]x/ B,/ x7|[V:5]x8|[V:6]x8|
+[V:1][Q:1/4=72]"^\  \n \\n\n""^\n \n \n\n \n\n" (B/A/) (G/F/) (G/B/) (A/B/) (F/A/) (G/B/) (A/d/) (c/e/) d/ c/|[V:2]B,/E/G/E/ B,/E/G/E/ C/E/A/E/ C/E/A/E/|[V:3]E, z E, z E, z E, z|[V:4]x/ B,/ x7/2 C/ x7/2|[V:5]x8|[V:6]x8|
+[V:1][Q:1/4=70]"_\  \n \n\n""^\n \n \n \n\n"[Q:1/4=72]"^\n \n \n \n\n"[Q:1/4=71]"^\n \n =80]"^\n \n \n \n\n"[Q:1/4=72]"^[  = 7 ]""^\ \n =70]"^\ \n \n"[Q:1/4=70]"_\  (\n\n)""^\n \n \n"[^\n \n \n""^\n \n\n""^\n \n \n"[^""_\n \n \n\n"[^\n \n \n""^\n \n\n \n\n"[Q:1/4=70]"^\n \n \n \n\n"[Q:1/4=71]"^\ \n""^\n \n"[Q:1/4=75]"_\n \n \n[ ]""^\n \n \n\n\n \n\n""^\n \n \n \n\n"[Q:1/4=70]"^\n \n \n\n""^\n \n \n\n"[Q:1/4=79]"^\n \n \n""^\n \n \n\n"[Q:1/4=75]"_\n \n (\n)""^\n \n \n\n\n \n \n\n""^\n[ \n \n\n""^\n \n\n \n\n"[Q:1/4=75]"^\n \n \n \n(\n\n""^\n \n \n"[Q:1/4=70]"^\n \n \n \n\n""^\n [ ( )\n\n\n"[Q:1/4=77]"^\n \n \n)" (d/ c/) (B/A/)|[V:2]D/E/G/E/ D/E/G/E/ D/E/G/E/ D/E/G/E/|[V:3]E, z E, z E, z E, z|[V:4]x/ B,/ x7|[V:5]x8|[V:6]x8|
+[V:1][Q:1/4=72]"^\n \n \n"[Q:1/4=71]"^\n (\n\n \n""^\n \n\n""^\n \n \n \n\n"[Q:1/4=76]"^quasi (\n \n"[Q:1/4=77]"_\n ( ) (\n""^\n ( )"[Q:1/4=75]"^\n ( \n)""^\n \n \n \n" (d/c/) (B/A/) (G/B/) (A/c/) (B/d/)|[V:2]B,/E/G/E/ B,/E/G/E/ B,/E/G/E/ B,/E/G/E/|[V:3]!mp! E, z E, z E, z E, z|[V:4]x/ B,/ x7|[V:5]x8|[V:6]x8|
+[V:1][Q:1/4=72]"^\n \n \n\n"[Q:1/4=72]"^\n ( \n \n \n""^\n \n \n\n"[Q:1/=71]"^\n \n \n \n \n\n""^\n \n \n"[Q:1/4=71]"^\n""^\n \n \n""^\n""^\n \n \n\n"[Q:1/4=70]"^\n \n ""_\n \n \n \n\n\n""^\n \n \n \n\n""^\n \n \n\n""^\n \n \n \n"[Q:1/4=75]"_\n \n \n""^\n \n \n"[Q:1/4=75]"_\n \n =80]"^\n \n \n \n\n\n""^\n \n \n\n \n\n"[Q:1/4=7""^\n \n \n \n\n\n\n\n""^\n \n \n\n""^\n \n \n\n\n\n\n"[Q:1/4=80]"^\n \n\n \n\n""^\n \n \n \n\n \n\n\n"[Q:1/4=71]"^\n \n \n \n""^\n \n \n\n"[Q:1/4=75]"^\n \n \n[ = ]""^\n \n \n\n\n""^\n \n\n \n\n""^\n \n \n\n\n\n"[Q:1/4=78]"^\n \n\n""^\n \n""^\n \n \n \n\n\n \n\n""^\n \n \n"[Q:1/4=71]"^\ \n\n"[Q:1/4=80]"^\n \n \n\n""^\n \n\n"[Q:1/4=74]"_\n ( \n \n\n""_\n \n \n \n\n""^\n \n \n\n"[Q:1/4=75]"^\n \n \n\n""^\n \n \n"[^\n \n\n""^\n \n""^\n \n \n\n" (d/c/) (B/A/) (G/B/)|[V:2]!p! B,/E/G/E/ B,/E/G/E/ B,/E/G/E/ B,/E/G/E/|[V:3]E, z E, z E, z|[V:4]z/ B,/ x7|[V:5]x8|[V:6]x8|
+[V:1](F/A/) (G/B/) (A/c/) (G/B/) (A/c/) (G/B/) (A/c/) (B/d/) (c/e/)|[V:2]B,/E/G/E/ B,/E/G/E/ B,/E/G/E/ B,/E/G/E/|[V:3]E, z E, z E, z E, z|[V:4]x/ B,/ x7|[V:5]x8|[V:6]x8|
+[V:1][Q:1/4=73]"^\n \n \n\n"[Q:1/4=72]"^\n \n (\n \n"[Q:1/4=71]"^\n \n \n \n""^\n \n \n""^\n \n \n\n"[Q:1/4=71]"^\n \n \n\n"[Q:1/4=71]"^"^\ \n \n\n"[Q:1/4=70]"^\n \n \n\n \n\n""^\n \n \n \n\n""^\n \n \n \n"[Q:1/4=71]"^\n \n \n \n"[Q:1/4=71]"^\n \n \n \n"[Q:1/4=71]"^\n \n \n"[Q:1/_""^\n \n \n\n""^\n \n \n \n"[Q:1/4=71]"^\n \n \n \n""^\n \n \n\n \n\n""^\n \n \n\n""^\n \n \n"[^""^\n \n \n\n""_\n \n \n\n"[Q:1/4=70]"^\n \n \n)\n \n\n""^\n \n\n \n\n"[Q:1/4=70]"^\n \n \n\n""^\n \n \n\n"[Q:1/4=71]"^\n \n \n)\n""^\n \n \n"[^\n \n \n \n\n""_\n \n \n \n\n"[^\n \n \n\n \n \n \n\n"[Q:1/4=70]"^\n \n \n\n""^\n \n \n\n" B4 B|[V:2]A,/D/F/D/ A,/D/F/D/ B,/D/E/D/ B,/D/E/D/|[V:3]!mp! F, z F, z E, z E, z|[V:4]x/ D,7/2- x/ D,7/2-|[V:5]x8|[V:6]x/ A,/ x7|
+[V:1][Q:1/4=77]"_\n \n \n)"[Q:1/4=75]"_\[]"_\n \n"[Q:1/4=75]"_\n \n \n \n""_\n \n \n \n""_\n \n \n \n"[Q:1/4=75]"_\n \n _\n \n \n"[Q:1/4=75]"_\n \n \n \n""_\n \n \n"[Q:=75]"_\n \n \n \n[ \n \n \n \n"[=75]"_\n \n \n \n \n"[Q:1/4=75]"^\n _ \n"[Q:1/4=73]"_\n \n \n \n\n""_\n \n \n \n\n\n""_\n \n \n""_\n \n \n \n"[Q:1/4=75]"_\n \n _\n \n\n \n""_\n_\n \n \n \n"[Q:=75]"_\n \n \n \n \n"[Q:1/4=75]"_\n \n \n"[Q:1/4=75]"_\n \n \n \n \n \n"[Q:1/4=7=72]"_\n \n \n \n \n\n""^\n \n \n \n\n""_\n \n \n \n \n"[Q:1/4=7=71]"_\n \n \n""_\n _ \n\n"[Q:1/4=75]"^\n \n"[Q:1/4=71]"_\n \n\n)\n""_\n \n \n \n \n\n""_\n \n \n \n \n"|[V:2]_B,/D/=G/D/ B,/D/G/D/ A,/D/=F/D/ A,/D/F/D/|[V:3]=G, z =F, z =F,, z ^F,, z|[V:4]x8|[V:5]x8|[V:6]x8|

@@ -1,0 +1,17 @@
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=92
+M:3/4
+K:E
+V:1 treble nm="Chant\nVoice"
+V:2 treble nm="Piano"
+V:3 bass 
+V:4 bass 
+[V:1]c z!pp! E2 A2-|[V:2]!pp! [eac'e']6|[V:3]!ped! [CEAc]6!ped-up!|[V:4]%distance=4[r:0/7]x6|
+[V:1]A4 A2|[V:2][c'f'a'c'']4- [c'f'a'c''] z|[V:3]!ped! [CEFAc]4- [CEFAc] z!ped-up!|[V:4]x6|
+[V:1](A3 G) F2|[V:2][a=d'f'a']4- [ad'f'a'] z|[V:3]!ped! [=DFA=d]4- [DFAd]!ped-up! z|[V:4]x6|
+[V:1]E6-|[V:2]!p!!8va(! [e'a'c''e'']4- [e'a'c''e''] z!8va)!|[V:3]!ped! [CEAc]4- [CEAc] z!ped-up!|[V:4]x6|
+[V:1]E4- E z|[V:2]!8va(! [be'g'b']4- [be'g'b'] z!8va)!|[V:3]!ped! [B,EGB]4- [B,EGB]!ped-up! z|[V:4]x6|
+[V:1]z6|1[V:2]!pp!!8va(! [c'e'a'c'']4- [c'e'a'c''] z!8va)!|1[V:3]!ped! [B,DAB]4- [B,DAB] z!ped-up!|1[V:4]x6|1
+[V:1]z6:|2[V:2]!8va(! [be'g'b']4- [be'g'b']!8va)! z:|2[V:3]!ped! [EGBe]4- [EGBe] z!ped-up!:|2[V:4]x6:|2
+[V:1]z6|][V:2][e'g'b'e'']4- [e'g'b'e''] !fermata!z|][V:3]!ped! [EGBe]4- [EGBe]!ped-up! !fermata!z|][V:4]x6|]

@@ -1,0 +1,48 @@
+%syncopation 5 6 2 3 2 3 4 3 3 3 4 3 4 3 4 4 4 3 3 2 2 4 5 2 2 3 2 2 2 3 3 3 3 3 4 4 3 3 5 6 4 5 5 5 5 6 5 3 3 4 3 4 3 3 3 3 4 3 3 3 3 3 3 6
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=80
+M:4/4
+K:C
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:5 treble 
+V:3 treble 
+V:4 treble 
+[V:1]"^Andante con moto""^Innig, calain"!p! A|[V:2]z1|[V:3]z1|[V:4]x1|[V:5]x1|
+[V:1]z8|[V:2]A6 A z|[V:3]z (E,A,E, B,A,[I:staff -1]CE)|[V:4]A,,8|[V:5](FEFE A4)|
+[V:1]e3 B c2 d e|[V:2]z8|[V:3]z8|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]([Aa][ee'][dd'][ee'] [bb']2 [c'c'']) z|[V:3](CEDE A2) z2|[V:4]A,6 x2|[V:5]x8|
+[V:1]d3 d d2 c d|[V:2]([Aa][ee'][dd'][ee'] [Bb]2) z2|[V:3][K:bass] [E,-C]4 [E,B,]2 z2|[V:4][K:bass] x8|[V:5]x8|
+[V:1]B4 E E ^G B|[V:2]([dd'][ee'][Bb][dd'] [ee']2) z2|[V:3][K:treble] (E^GEG E2) z2|[V:4][K:treble] x2 x (B, E,2) x2|[V:5]x8|
+[V:1]e3 e e2 d e|[V:2]([Aa][ee'][dd'][ee'] [Bb]2) z2|[V:3][E-c]4 [EB]2 z2|[V:4]A,6 x2|[V:5]x8|
+[V:1]c3 c c2 B c|[V:2]([Ee][cc'][Bb][cc'] [Aa]2) z2|[V:3][E-B]4 [EA]2 z2|[V:4]A,6 x2|[V:5]x8|
+[V:1]d3 d d2 c d|[V:2]([Gg][dd'][cc'][dd'] [Bb]2) z2|[V:3][D-A]4 [DB]2 z2|[V:4]G,6 x2|[V:5]x8|
+[V:1]B4 B B A B|[V:2]([dd'][gb][dd'][gb] [dd']2) z2|[V:3](BdBc B2) z2|[V:4]G,6 x2|[V:5]x8|
+[V:1]B4 z2 B c|[V:2]([Dd][Bb][Aa][Bb] [Gg]2) z2|[V:3](ABAc [DB]2) z2|[V:4]G4- G2 x2|[V:5]x8|
+[V:1]c4-- c[Q:1/4=90]"^T 0" c B A|[V:2]([Cc][Ec][Cc][EA] [Cc]2-) [Cc] z|[V:3](A,CA,C A,2-) A, z|[V:4]E,4- E,2 x2|[V:5]x8|
+[V:1]d3 d d c d e|[V:2]([Ff][cc'][Bb][cc'] [Ff]2) z2|[V:3][K:bass] ([F,-C]4 [F,F]) z z2|[V:4][K:bass] x6 x2|[V:5]x8|
+[V:1][Q:1/4=70]"^rit." (!tenuto!.B4[Q:1/4=60]"^Langsam""^a tempo"[Q:1/4=80]"^T" c2 d c|1[V:2]"_ritard." ([B,B][DB][B,B][Dd] !tenuto![B,B]4)|1[V:3][K:bass] (^F,B,F,B, B,,4)|1[V:4][K:bass] B,,8|1[V:5]x8|1
+[V:1][Q:1/4=80] B4) z4|[V:2](BdBd e^geg)|[V:3](B,,D,B,,D,) (B,,E,B,,E,)|[V:4]E,,4 E,,4|[V:5]x8|
+[V:1]!fermata!z4[Q:1/4=100]"^Tempo I"[Q:1/4=120]"^Vivace"!mf![Q:1/4=116]"^allegretto" c c|[V:2]a4"^a tempo" z4|[V:3](A,,E,A,C)[I:staff -1] (EAce)|[V:4]A,,4 x4|[V:5]x8|
+[V:1]^c2 A2 B A B c|[V:2][E^G]4- [EG]([E^G][^FA][GB]|[V:3](d4 ^c2 B2)|[V:4]B,4- B,2 x2|[V:5]x8|
+[V:1]d2 B2 B ^c d B|[V:2][Ad]4-) [Ad]([Ad][Bd][^ce]|[V:3](^F2 A2 d4)|[V:4]B,4- B,2 x2|[V:5]x8|
+[V:1]^f2- f f[Q:1/4=128] ^e f ^g a|[V:2]^f4- fefg|[V:3](dede d4-|[V:4](B2 A2 G^F^GA|[V:5]x8|
+[V:1]b4- b[Q:1/4=110] B ^c d|[V:2]^g8|[V:3]d^cde d2) (e2|[V:4]^G8)|[V:5]x8|
+[V:1][Q:1/4=110]"^rit." e2 e2 ^f3 e|[V:2][e^gb]4 [^dab]4|[V:3](.[EB]4) .[B,B]4|[V:4]x8|[V:5]x8|
+[V:1][Q:1/4=110]"^ritar." !tenuto!.e2 !tenuto!.^f2[Q:1/4=80]"^ritard." !tenuto!.^g2 !breath!.e2||[V:2]!tenuto!.e2 !tenuto!.^f2 !tenuto!.^g2 !fermata!z2||[V:3][I:staff +1] [E,,E,]6)) z2||[V:4]x8||[V:5]x8||
+[V:1][Q:1/4=80]"^a tempo" e3 B c2 d e|[V:2]z8|[V:3]z8|[V:4]x8|[V:5]x8|
+[V:1][Q:1/4=60] f4- f[Q:1/4=84]"^a tempo" A||[V:2]([Aa][ee'][dd'][ee'] [bb']2 [c'c'']) z||[V:3][K:treble] (CEDE A2) z2||[V:4][K:treble] A,6 x2||[V:5]x8||
+[V:1]e3 e B2 c d|[V:2]([Aa][ee'][dd'][ee'] [Bb]2) z2|[V:3][E-c]4 [EB]2 z2|[V:4]A,6 x2|[V:5]x8|
+[V:1]e f4- f A|[V:2]([Aa][ee'][dd'][ee'] [bb']2 [c'c'']) z||[V:3](CEDE A2) z2||[V:4]A,6 x2||[V:5]x8||
+[V:1]e3 B B c d e|[V:2]([Aa][ee'][dd'][ee'] [bb']2 [c'c'']) z|[V:3](CEDE A2) z2|[V:4]A,6 x2|[V:5]x8|
+[V:1]B4 E E ^G B|[V:2]([dd'][ee'][Bb][dd'] [ee']2) z2|[V:3](E^GGE G2) z2|[V:4]^G,6 x2|[V:5]x8|
+[V:1]e2 e e f2 e d|[V:2]([Aa][ee'][dd'][ee'] [Bb]2) z2|[V:3][E-c]4 [EB]2 z2|[V:4]^G,2 A,2 B,2 x2|[V:5]x8|
+[V:1]c3 c c2 B c|[V:2]([Ee][cc'][Bb][cc'] [Aa]2) z2|[V:3][E-B]4 [EA]2 z2|[V:4]A,6 x2|[V:5]x8|
+[V:1]d3 d d2 cd|[V:2]([Gg][dd'][cc'][dd'] [Bb]2) z2|[V:3][D-A]4 [DB]2 z2|[V:4]G,6 x2|[V:5]x8|
+[V:1]B3 B B2 Bc|[V:2]([Dd][Bb][Aa][Bb] [Gg]2) z2|[V:3](ABAc [DB]2) z2|[V:4]G4- G2 x2|[V:5]x8|
+[V:1]d3 d d c d e|1,2[V:2]([Ff][cc'][Bb][cc'] [Ff]2) z2|1,2[V:3][K:bass] ([F,-C]4 [F,F]) z z2|1,3[V:4][K:3/2][K:bass] F,6 x2|1,3[V:5]x8|1,3
+[V:1]"^riten."[Q:1/4=70]"^riten." (!tenuto!.B4[Q:1/4=75]"^T"[Q:1/4=70]"^a tempo"[Q:1/4=76]"^T" c2 dc||1,2[V:2]([B,B][Dd][B,B][Dd] !tenuto![B,B]4)||1,2[V:3](^F,B,F,B, B,,4)|1,2[V:4]B,,8|2[V:5]x8|2
+[V:1][Q:1/4=80] B4) z4|[V:2](BdBd e^geg)|[V:3](B,,D,B,,D,) (B,,E,B,,E,)|[V:4]E,,4 E,,4|[V:5]x8|
+[V:1][Q:8=79]"^rall." e3[Q:1/4=75] c[Q:1/4=74] d[Q:1/4=72] e[Q:1/4=69] B c:|3,4[V:2]([Aa][ee'][dd'][ee'] [bb']2) z2:|4[V:3][K:treble] (CEDE A2) z2:|4[V:4][K:treble] A,6 x2:|2[V:5]x8:|2
+[V:1][Q:4=85] e4[Q:1/4=98] z4|][V:2]([Aa][ee'][dd'][ee'] [Bb]2) z2|][V:3](CECD A2) z2|][V:4]A,6 x2|][V:5]x8|]

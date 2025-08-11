@@ -1,0 +1,24 @@
+%distance 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 1
+%%score ( 1 2 ) { 3 | ( 4 5 ) }
+L:1/8
+M:6/8
+K:Ab
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:4 bass 
+V:5 bass 
+[V:1]A z z z2 z|[V:2]x6|[V:3]z [EAc][EAc] z [EAc][EAc]|[V:4][A,,A,] z z [A,,A,] z z|[V:5]x6|
+[V:1]A A A (Bc) B|[V:2]x6|[V:3]z [EAc][EAc] z [EGB][EGB]|[V:4][A,,A,] z z [E,,E,] z z|[V:5]x6|
+[V:1]A2 E E3|[V:2]x6|[V:3]z [EAc][EAc] z [EAc][EAc]|[V:4][A,,A,] z z [A,,A,] z z|[V:5]x6|
+[V:1]A2 A (AB) c|[V:2]x6|[V:3]z [EAc][EAc] z [EAc][EAc]|[V:4][A,,A,] z z [A,,A,] z z|[V:5]x6|
+[V:1]B2 z z2 E|[V:2]x6|[V:3]z [EGB][EGB] z [EGB][EGB]|[V:4][E,,E,] z z [E,,E,] z z|[V:5]x6|
+[V:1]B2 B B2 B|[V:2]x6|[V:3]z [EGB][EGB] z [EGB][EGB]|[V:4][E,,E,] z z [E,,E,] z z|[V:5]x6|
+[V:1]c2 c c3|[V:2]x6|[V:3]z [EAc][EAc] z [EAc][EAc]|[V:4][A,,A,] z z [A,,A,] z z|[V:5]x6|
+[V:1]d2 c B2 A|[V:2]x6|[V:3]z [EBd][EAc] z [EGB][EFA]|[V:4][G,,G,] z z [D,,D,] z z|[V:5]x6|
+[V:1]B3- B2 E|[V:2]x6|[V:3]z [EGB][EGB] z [EGB][EGB]|[V:4][E,,E,] z z [E,,E,] z z|[V:5]x6|
+[V:1]B2 B B2 B|[V:2]x6|[V:3]z [EGB][EGB] z [EGB][EGB]|[V:4][E,,E,] z z [E,,E,] z z|[V:5]x6|
+[V:1]c2 c c2 c|[V:2]x6|[V:3]z [EAc][EAc] z [EAc][EAc]|[V:4][A,,A,] z z [A,,A,] z z|[V:5]x6|
+[V:1]d2 c B2 A|[V:2]d2 c x3|[V:3]z [EBd][EAc] z [EGB][EFA]|[V:4][G,,G,] z z [D,,D,] z z|[V:5]x6|
+[V:1]B3- B2 E|[V:2]x6|[V:3]z [EGB][EGB] z [EGB][EGB]|[V:4][E,,E,] z z [E,,E,] z z|[V:5]x6|
+[V:1]A2 A B2 B|[V:2]x6|[V:3]z [CEA][CEA] z [DEB][DEB]|[V:4][A,,A,] z z [G,,G,] z z|[V:5]x6|

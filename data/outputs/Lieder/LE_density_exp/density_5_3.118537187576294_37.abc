@@ -1,0 +1,13 @@
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=76
+M:2/4
+K:Eb
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+[V:1]"^Sentenuto" B|[V:2]!mf! [B,EGB]|[V:3]E,|[V:4]%distance=5[r:0/2]x1|[V:5]%distance=5[r:0/2]x1|
+[V:1]B3/2 B/ (c/B/) (A/G/)|[V:2][B,EGB]3/2 [B,EGB]/!>(! ([CEAc]/[EB]/[CA]/!>)![B,EG]/)|[V:3]E,>E, A,,A,,|[V:4]x4|[V:5]x4|
+[V:1]{G} F3/2 E/ !fermata!E|][V:2]!p!{G} [A,DF]>[G,B,E] !fermata![G,B,E]|][V:3]B,,>E,, !fermata!E,,|][V:4]x3|][V:5]x3|]

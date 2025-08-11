@@ -1,0 +1,42 @@
+%%score 1 { 2 | ( 3 4 5 ) }
+L:1/8
+Q:1/4=92
+M:4/4
+K:Bb
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 bass 
+V:4 bass 
+V:5 bass 
+[V:1]"^Langsam und langsam und leise" z8|[V:2]!pp!!<(! ([DF]3 [DF]!<)!!>(! [EG][EG][FA][FA])!>)!|[V:3](B,3 B, CCF,F,)|[V:4]%distance=2[r:0/31]x8|[V:5]%distance=2[r:0/31]x8|
+[V:1]z8|[V:2]!<(! ([DF]3 [DF]!<)!!>(! [EG][EG][FA][FA])!>)!|[V:3](B,3 B, CCF,F,)|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]!pp!!<(! ([FBd]3 [FBd] [Bcf][Bcf][Ace]!<)!!>(![Ace])!>)!|[V:3]([B,D]3 [B,D] [F,CF][F,CF][F,CF][F,CF])|[V:4]x8|[V:5]x8|
+[V:1]!p! B2 B2 c2 d2|[V:2]([FBd]3 [FBd] [Bcf][Bcf][Ace][Ace])|[V:3]([B,D]3 [B,D] [F,CF][F,CF][F,CF][F,CF])|[V:4]x8|[V:5]x8|
+[V:1](f2 e2 c2 B2)|[V:2]([FBd]3 [FBd] [Bcf][Bcf][Ace][Ace])|[V:3]([B,D]3 [B,D] [F,CF][F,CF][F,CF][F,CF])|[V:4]x8|[V:5]x8|
+[V:1]d3 d c2 B2|[V:2]([FBd]3 [FBd] [Bcf][Bcf][Bdf][Bdf])|[V:3]([B,D]3 [B,D] [B,D][B,D][_A,B,D][A,B,D])|[V:4]x8|[V:5]x8|
+[V:1](f2 e2) z4|[V:2]([Bdf]3 [Bef] [Bdg][Bdg][Bdf][Bdf])|[V:3]([G,B,]3 [G,B,] [F,B,D][F,B,D][F,B,D][F,B,D])|[V:4]x8|[V:5]x8|
+[V:1]!f! e2 e e e2 B2|[V:2]!mf! ([GBe]3 [GBe] [GBe][GBe][GBe][GBe])|[V:3]([E,B,E]3 [E,B,E] [E,B,E][E,B,E][E,B,E][E,B,E])|[V:4]x8|[V:5]x8|
+[V:1]_g2 f2 _d2 _c2|[V:2]([F_cf]3 [Fcf] [F_df][Fdf][Fef][Fef])|[V:3]([_A,_CE]3 [A,CE] [A,B,_D][A,B,D][A,CE][A,CE])|[V:4]x8|[V:5]x8|
+[V:1]f4 B4|[V:2]([F_Af]3 [FAf] [FBf][FBf][FAf][FAf])|[V:3]([F,B,D]3 [F,B,D] [D,B,D][D,B,D][D,B,D][D,B,D])|[V:4]x8|[V:5]x8|
+[V:1]e2 e e e2 B2|[V:2]([Geg]3 [Geg] [Geg][Geg][Geg][Geg])|[V:3]([E,B,E]3 [E,B,E] [E,B,E][E,B,E][E,B,E][E,B,E])|[V:4]x8|[V:5]x8|
+[V:1]f3 e d2 c2|[V:2]([Bdf]3 [Bdf] [Aef][Aef][Aef][Aef])|[V:3]([F,DF]3 [F,DF] [F,CF][F,CF][F,CF][F,CF])|[V:4]x8|[V:5]x8|
+[V:1]B2 z2 z4|[V:2]!f! ([Bdf]3 [Bdf] [Bcf][Bcf][Acf][Acf])|[V:3]([B,DF]3 [B,DF] [F,CF][F,CF][F,CF][F,CF])|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]!>(! ([FBd]3 [FBd] [FBc][FBc][Acf][Acf])!>)!|[V:3]([B,D]3 [B,D] [F,CF][F,CF][F,CF][F,CF])|[V:4]x8|[V:5]x8|
+[V:1]!p! B2 B2 c2 d2|[V:2]!p! ([FBd]3 [FBd] [Bcf][Bcf][Ace][Ace])|[V:3]([B,D]3 [B,D] [F,CF][F,CF][F,CF][F,CF])|[V:4]x8|[V:5]x8|
+[V:1](f2 e2 c2 B2)|[V:2]([FBd]3 [FBd] [Bcf][Bcf][Ace][Ace])|[V:3]([B,D]3 [B,D] [F,CF][F,CF][F,CF][F,CF])|[V:4]x8|[V:5]x8|
+[V:1]d3 d c2 B2|[V:2]([FBd]3 [FBd] [Bcf][Bcf][Bdf][Bdf])|[V:3]([B,D]3 [B,D] [B,D][B,D][_A,B,D][A,B,D])|[V:4]x8|[V:5]x8|
+[V:1](f2 e2) z4|[V:2]([Bdf]3 [Bef] [Bdg][Bdg][Bdf][Bdf])|[V:3]([G,B,]3 [G,B,] [F,B,D][F,B,D][F,B,D][F,B,D])|[V:4]x8|[V:5]x8|
+[V:1]!f! e2 e e e2 B2|[V:2]!mf! ([GBe]3 [GBe] [GBe][GBe][GBe][GBe])|[V:3]([E,B,E]3 [E,B,E] [E,B,E][E,B,E][E,B,E][E,B,E])|[V:4]x8|[V:5]x8|
+[V:1]_g2 f2 _d2 _c2|[V:2]([F_cf]3 [Fcf] [F_df][Fdf][Fef][Fef])|[V:3]([_A,_CE]3 [A,CE] [A,B,_D][A,B,D][A,CE][A,CE])|[V:4]x8|[V:5]x8|
+[V:1]f4 B4|[V:2]([F_Af]3 [FAf] [FBf][FBf][FAf][FAf])|[V:3]([F,B,D]3 [F,B,D] [D,B,D][D,B,D][D,B,D][D,B,D])|[V:4]x8|[V:5]x8|
+[V:1]e2 e e e2 B2|[V:2]([Geg]3 [Geg] [Geg][Geg][Geg][Geg])|[V:3]([E,B,E]3 [E,B,E] [E,B,E][E,B,E][E,B,E][E,B,E])|[V:4]x8|[V:5]x8|
+[V:1]f3 e d2 c2|[V:2]([Bdf]3 [Bdf] [Aef][Aef][Aef][Aef])|[V:3]([F,DF]3 [F,DF] [F,CF][F,CF][F,CF][F,CF])|[V:4]x8|[V:5]x8|
+[V:1]B2 z2 z4|[V:2]!f! ([Bdf]3 [Bdf] [Bcf][Bcf][Acf][Acf])|[V:3]([B,DF]3 [B,DF] [F,CF][F,CF][F,CF][F,CF])|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]!>(! ([FBd]3 [FBd] [FBc][FBc][Acf][Acf])!>)!|[V:3]([B,D]3 [B,D] [F,CF][F,CF][F,CF][F,CF])|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]!<(! ([Bdf]3 [Bdf]!<)! [Be_g][Beg][Be_a][Bea])|[V:3]([B,D]3 [B,D] [E,E][E,E][F,E][F,E])|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]!>(! ([B_df]3 [Bdf] [Be_g][Beg][Be_a][Bea])!>)!|[V:3]([B,_D]3 [B,D] [E,E][E,E][F,E][F,E])|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]!mf!!<(! ([B_df]3 [Bdf] [Be_g][Beg][Be_a]!<)![Bea])|[V:3]([B,_D]3 [B,D] [E,E][E,E][F,E][F,E])|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]!>(! ([B_df]3 [Bdf]!>)!!<(! [Be_g][Beg][Be_a]!<)![Bea])|[V:3]([B,_D]3 [B,D] [E,E][E,E][F,E][F,E])|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]!>(! ([B_df]3 [Bdf]!>)!!<(! [Be_g][Beg][Be_a]!<)![Bea])|[V:3]([B,_D]3 [B,D] [E,E][E,E][F,E][F,E])|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]([B_df]3 [Bdf] [Be_g][Beg][Be_a][Bea])|[V:3]([B,_D]3 [B,D] [E,E][E,E][F,E][F,E])|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]([B_df]3 [Bdf] [Be_g][Beg][Be_a][Bea])|[V:3]([B,_D]3 [B,D] [E,E][E,E][F,E][F,E])|[V:4]x8|[V:5]x8|

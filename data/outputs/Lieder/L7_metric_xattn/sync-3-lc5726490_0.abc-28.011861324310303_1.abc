@@ -1,0 +1,42 @@
+%%score ( 1 2 ) { 3 | ( 4 5 6 ) }
+L:1/8
+Q:1/4=135
+M:6/8
+K:F
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:4 bass 
+V:5 bass 
+V:6 bass 
+[V:1]"^Allegro moderato" C|[V:2]x1|[V:3]!mf! C|[V:4]!mf! C,|[V:5]C|[V:6]x1|
+[V:1]A2 A c2 c|[V:2]x6|[V:3]A2 A c2 c|[V:4]F,,C,F, F,,F,A,|[V:5]x6|[V:6]x6|
+[V:1]_e2 e _d3|[V:2]x5 _d|1[V:3]b2 b __a3/2 _g/ _f|2[V:4]__E,,__E,E E,EE|1[V:5]x6|1[V:6]x6|1
+[V:1]!mf! _g2 g f3|[V:2]x6|[V:3]!f! [B_d_gb]2 [Bdgb] [Af_ac'_f']2 [__Bdf]|[V:4]_G,,/_D,/_G,/B,/_D C,/_A,/_D/F/D|[V:5]x6|[V:6]x6|
+[V:1]z11/2|[V:2]x11/2|[V:3]!pp! _G/B/_d/_g/d/B/ _F/_c/_f/__a/f'/|[V:4]!p! _G,__D/_G/D CD/_F/__A|[V:5]x11/2|[V:6]x11/2|
+[V:1]z6|[V:2]x6|[V:3]!pp! B/_d/_g/d/B/_G/ _F/_c/_f/_a/f/g/|[V:4]z6|[V:5]x6|[V:6]x6|
+[V:1]z6|[V:2]x6|[V:3]!mp!!>(! B/_d/_g/d/B/G/ _F/_c/d/_a/f/d/)!>)!|[V:4][K:treble] _G,/__D/_F/__B/__d C/F/_A/d/A|[V:5][K:treble] x6||[V:6][K:treble] __d x2 __A3|
+[V:1]z2 z z2!f! A|[V:2]x6|[V:3]!>(! _E/_G/__B/__e/B/G/!p! _F/_c/_d/_a/d/A/)|[V:4][K:bass]!p! __E,/__B,/__E E _C/E/_A z|[V:5][K:bass] x6|[V:6][K:bass] x6|
+[V:1]_f2 f f2 f|[V:2]x6|[V:3]!p! z/ _D/_F/__B/F/D/ z/ D/E/B/E/D/|[V:4][K:bass] __D,/__B,/__D_D _E,/__B,/__D__G|[V:5]x6|[V:6]x6|
+[V:1]f3 f2 z|[V:2]x6|[V:3]z/ _D/E/B/E/D/ z/ D/E/B/E/D/|[V:4]__C,__G,__G C,G,G|[V:5]x6|[V:6]x6|
+[V:1]z6|[V:2]x6|[V:3][B,_D_FB]/_G/_d/B/G/D/ _C/F/_A/d/A/F/|[V:4]__D,/__G,/__B,__D _C,/_D/_F/A/F|[V:5]x6|[V:6]x6|
+[V:1]e3- e2 A|[V:2]x3 A,3|[V:3]C/E/c/A/E/A/ C/_E/A/E/C/E/|[V:4]C,/A,/C__G A,,/C,/_G,A,|[V:5]x6|[V:6]x6|
+[V:1]!mf! __g2 g __e3|[V:2]x6|[V:3]!f! [_D_GB_d]2 [Bd__g__b] [Ad_fa]2 [__Bdf]/d/!>)!|[V:4]!mf! __G,,/__D,/G,/__B,/__D _C,/_F,/A,/_D|p!_D/__G|[V:5]x6|[V:6]x6|
+[V:1]{f} __e3- e z!f! __c|[V:2]x6|[V:3]!f! [_G_ceg]2 [Gceg] [__Ac_d_fa]2 [__Bc__eg]|[V:4]E,,/_C,/E,__A, _C,/E,/_G,/__C/E|[V:5]x6|[V:6]x6|
+[V:1]B2 B _A2 _G|[V:2]x6|[V:3]!f! [_D_GB]2 [DGB] [__A__cea]2 [__Bceg]|[V:4][K:bass] _G,,/__D,/_G,__B,_D C,/__G,/__B,D/|[V:5][K:bass] x6|[V:6]x6|
+[V:1](_G3 G) z!f! __B|[V:2]x6||[V:3]!f! [_D_GB]2 [GBd_g] [_ce__a]2 [__Bceg]||[V:4]E,,/__C,/_G,__B, _C,/E,/G,/_C/E||[V:5]x6||[V:6]x5 _g||
+[V:1][M:6/8]!f! _g2 g _c'3|[V:2]x6|[V:3][K:F]!f! [__B_d_g__b]2 [Bdgb] [_c__e__a_c'e']2 [Bcegb]|[V:4][K:F]!f! _G,,/_D,/_G,/__B,/_D _C,/G,/__B,/E/_G|[V:5]x6|[V:6]x6|
+[V:1]_f2 _e _d _a2-|[V:2]x6|[V:3]!f! [_a__c'__e'__a']2 [gc'e'g'] [a=c'_f'a'']2 [__a__c'__f'a'])|[V:4][_F,,,_F,,]/_C,/__F,/__A,/C _C,/__F,/A,/__C/__F|[V:5]x6|[V:6]x6|
+[V:1]a/_g/ g _f __e __a g|[V:2]x4 __A A|[V:3]!f! [__b__d'_g'b']2 [gbd'g'] [__a_c'__e'a']2|[V:4]__G,,/__D,/_G,/__B,/__D _C,/__A,/_C/E/_G|[V:5]x6|[V:6]x6|
+[V:1]__f3- f2!ff! f|][V:2]__D2 D D2|][V:3]z6|]][V:4]!pp! (.[_G,,_G,]__D/__F/__B C,/G,/ _C2)|]][V:5]x6|]][V:6]x6|]]
+[V:1]z6|[V:2]x6|[V:3]!f! [B_d_gb]2 [Bdgb] [_ce__a_c']2 [Bcegb]|[V:4][K:bass] _G,,/_D,/_G,/__B,/_D _C,/G,/__B,/E/_G|[V:5]x6|[V:6]x6|
+[V:1]z5|1[V:2]x5|1[V:3][_A_c_f_a]2 [_GA_c_eg] [__A__c__fa]2|[V:4][_F,,,_F,,]/__C,/_F,/__A,/C _C,/_F,/A,/__F/).A,|1[V:5]x5|1[V:6]x5|1
+[V:1]"^dolce"!mp! __a3 a2 a|[V:2]_A2 A A2 A|[V:3]!p! [_F__A_c_f]2 [FAcf] [FAcf]2 [_F,A,CF]|[V:4]_F,,/_C,/_A,_C _C,/_F,/A,C|[V:5]x6|[V:6]x6|
+[V:1]!pp! g2 _g (__ag) _f|[V:2]x6|[V:3]!pp! [G__B__d__g]2 [GBdg] [__A_c__e__a]2 [FA__c_f]|[V:4]_F,,/__C,/__A,__C _C,/__F,/A,/_C/__F|[V:5]x6|[V:6]x6|
+[V:1](__f2 f) z z!f! f|[V:2]x6|[V:3]!p! [__G__B__d__g]2 [GBdg] [__A_c__e__a]2 [__FAc_f]|[V:4]__F,,/__C,/__A,_C C,/_F,/!pp!A,/_C/_F|[V:5]x6|[V:6]x6|
+[V:1]"^dolce" _g2 g _f3-|[V:2]x6|[V:3]!ff!"_dim." [_B_d_g__b]2 [gbd'g'] [__c__e_ac'e'__a']2 [Bc_egb]|[V:4]__G,,/__D,/__G,__B, _C,/__A,/_C/E/__G|[V:5]x6|[V:6]x6|
+[V:1]f/_e/ _f e __d f _d'|[V:2]x6|[V:3][__A_c_f__a]2 [_G__c__e__g] [Acea]2 [_FA__B__d_f]|[V:4]__F,,/__C,/__A,_C C,/_F,/A,/__C/_F|[V:5]x6|[V:6]x6|
+[V:1]"^sostenuto"!ff!!<(! _g3-!<)! (g_f _e|[V:2]x6|[V:3]"_dim." [__B__d_g__b]2 [gbg'] [_cegb_c']2 [Ac_f__a])||[V:4]"^aus gencressif." __F,/__G,/__B,__D _C,/G,/_C/E/__G|[V:5]x6|[V:6]x6|
+[V:1]!>!_d3-) d!f! d e|[V:2]x6|[V:3]!f! [_GB_dg]2 [Bdgb] [_c__eg_ac']2 [__Bceg]|[V:4](.[__F,,,__D,,__G,,]3!pp! [_C,__G,__C]2 [E,G,CE])|[V:5]x6|[V:6]x6|
+[V:1][Acf]2 z z2 z:|[V:2]x6|][V:3]!ff! [_A_c_f]3- [Acf]2|][V:4]_F,,/_C,/A,__C!pp! [F,A,__F]3|][V:5]x6|][V:6]x6|]
+[V:1]z5:|[V:2]x5:|[V:3]!ff! !fermata![F__A_c__f]3- !fermat!f2:|[V:4]z5:|[V:5]x5:|[V:6]x5:|

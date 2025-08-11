@@ -1,0 +1,22 @@
+%%score ( 1 2 ) { ( 3 6 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=110
+M:6/8
+K:Db
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:6 treble 
+V:4 bass 
+V:5 bass 
+[V:1]F2 z z2 z|[V:2]%distance=6[r:0/10]x6|[V:3]([Bdf]>F[Bdf] [Bdf][Bdf][Bdf])|[V:4][B,,,B,,]2 ([B,,F,B,] [D,B,F]3)|[V:5]%distance=6[r:0/10]x6|[V:6]%distance=6[r:0/10]x6|
+[V:1]z2 z z2 F|[V:2]x6|[V:3]!p! ([Bdf]>F[Bdf] [Bdf][Bdf][Bdf])|[V:4][B,,,B,,]2 ([B,,F,B,] [D,B,F]3)|[V:5]x6|[V:6]x6|
+[V:1]F2 F F G F|[V:2]x6|[V:3]([Bdf]>F[Bdf] [Bdf][Bdf][Bdf])|[V:4][B,,,B,,]2 ([B,,F,B,] [D,B,F]3)|[V:5]x6|[V:6]x6|
+[V:1]F2 F F =E F|[V:2]x6|[V:3]([Bdf]>F[Bdf] [Bdf][Bdf][Bdf])|[V:4][B,,,B,,]2 ([B,,F,B,] [D,B,F]3)|[V:5]x6|[V:6]x6|
+[V:1](A>B) A (AB) A|[V:2]x6|[V:3]([Adf]>F[Adf] [Adf][Adf][Adf])|[V:4][D,,D,]2 ([D,A,] [F,D]3)|[V:5]x6|[V:6]x6|
+[V:1]A2 z z2 A|[V:2]x6|[V:3]([Adf]>F[Adf] [Adf][Adf][Adf])|[V:4][D,,D,]2 ([D,A,] [F,D]3)|[V:5]x6|[V:6]x6|
+[V:1]d3- d2 c|[V:2]x6|[V:3]([df]>F[df] [df][df][df])|[V:4][B,,,B,,]2 ([B,,F,B,] [D,B,]3)|[V:5]x6|[V:6]x2 B B2 B|
+[V:1]c3- c2 F|[V:2]x6|[V:3]([cef]>F[cef] [cef][cef][cef])|[V:4][B,,,B,,]2 ([B,,F,B,] [E,=A,]3)|[V:5]x6|[V:6]x2 B B2 B|
+[V:1]B3- B2 F|[V:2]x6|[V:3]([Bdf]>F[Bdf] [Bdf][Bdf][Bdf])|[V:4][B,,,B,,]2 ([B,,F,B,] [D,B,]3)|[V:5]x6|[V:6]x2 B x3|
+[V:1]F6-|[V:2]x6|[V:3][=Acf]6|[V:4][F,,F,]6|[V:5]x6|[V:6]x6|
+[V:1]F2 z !fermata!z2 z|][V:2]x6|][V:3]!arpeggio!!fermata![DB]3 !fermata!z2 z|][V:4]!arpeggio!!fermata![B,,F,]3 !fermata!z2 z|][V:5]x6|][V:6]x6|]

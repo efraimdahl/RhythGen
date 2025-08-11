@@ -1,0 +1,30 @@
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=92
+M:6/8
+K:D
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+[V:1]"^Andante" z6|[V:2][fa]2 [df] [fa]2 [df]|[V:3](dAF) (dAF)|[V:4]z6|[V:5]x6|
+[V:1]z6|[V:2][fa]2 [df] [fa]2 [df]|[V:3]x6|[V:4]z6|[V:5]x6|
+[V:1]A2 A (Bc)d|[V:2][fa]2 [df] [fa]2 [df]|[V:3]x6|[V:4]z6|[V:5]x6|
+[V:1]!>(! f2 f fe z!>)!|[V:2]!>(! [fa]2 [df] [ga]2 [df]|[V:3]x6|[V:4]z6|[V:5]x6|
+[V:1]!>(! ffe dec!>)!|[V:2][ab]2 [fa] [bc']2 [fa]!>)!|[V:3](fdB) (fcA)|[V:4]z6|[V:5]x6|
+[V:1]B3 B2 z|[V:2][bc']2 [fb] [bc']2 [fb]|[V:3](fcB) (fcB)|[V:4]z6|[V:5]x6|
+[V:1]d2 d e2 e|[V:2][bd']2 [fb] [bd']2 [fb]|[V:3](fdB) (fdB)|[V:4]z6|[V:5]x6|
+[V:1]f3 d2 z|[V:2][bd']2 [fb] [bd']2 [fb]|[V:3](fdB) (fdB)|[V:4]z6|[V:5]x6|
+[V:1]e2 f g2 g|[V:2][c'e']2 [gc'] [c'e']2 [gc']|[V:3](gec) (gec)|[V:4]z6|[V:5]x6|
+[V:1]a3 f2 z|[V:2][d'f']2 [ad'] [d'f']2 [ad']|[V:3](afd) (afd)|[V:4]z6|[V:5]x6|
+[V:1]!mf! f>ef fdB|[V:2][fd']2 [db] [fd']2 [db]|[V:3](dBF) (dBF)|[V:4]z6|[V:5]x6|
+[V:1]B2 c d2 c|[V:2][gc']2 [eb] [gc']2 [eb]|[V:3](cBG) (cBG)|[V:4]z6|[V:5]x6|
+[V:1]f3- f3|[V:2][^ac']2 [fc'] [ac']2 [fc']|[V:3](c^AF) (cAF)|[V:4]z6|[V:5]x6|
+[V:1]!fermata!f6::[V:2]!fermata![^db]6::[V:3]!fermata!B6::[V:4]z6::[V:5]x6::
+[V:1][M:6/8]!mf! e3/2 e/ f/ g/ (a/g/) (f/e/) (f/g/)|[V:2][M:6/8]!mf! [=c'e']>[ac'][bd']/[c'e']/ [bd'][ac']/[gb]/[ac']/[bd']/|[V:3][M:6/8] e>de/f/ gf/e/f/d/|[V:4][M:6/8] x6|[V:5][M:6/8][K:treble] =C/D/E/C/D/E/ B,/E/F/E/ A,/E/|
+[V:1](f/e/) (f/g/) a/g/ (f/e/) f z|[V:2][a=c']/[gb]/[fa]/[gb]/ [fa]/[eg]/ [df][eg]/[fa]/[gb]/[ac']/|[V:3]e/d/e/f/ e/d/ x d/e/f/g/|[V:4]z6|[V:5]=C/D/E/C/ D/E/ B,/C/D/B,/ C/D/|
+[V:1]e e/ f/ g/ a/ (g/f/) (e/f/) (g/a/)|[V:2][=c'e'] [ac']/[bd']/[c'e']/[bd']/ [ac'][gb]/[fa]/[gb]/[ac']/|[V:3]e de/f/ gf/e/f/d/|[V:4]z6|[V:5]=C/D/E/C/ D/E/ B,/E/F/E/ A,/E/|
+[V:1]!<(! (f/e/) f/ g/ (a/g/) (f/e/) f z!<)!|[V:2]!<(! [a=c']/[gb]/[fa]/[gb]/ [fa]/[eg]/ [df][eg]/[fa]/[gb]/[ac']/!<)!|[V:3]e/d/e/f/ e/d/ x d/e/f/g/|[V:4]z6|[V:5]=C/D/E/C/ D/E/ B,/C/D/B,/ C/D/|
+[V:1]!f! a2 a a f d|[V:2]!f! [d'f'][af'][fd'] [da][Af][Fd]|[V:3]x6|[V:4][K:treble] D/E/F/A/F/D/[K:bass] A,/G,/F,/G,/F,/G,/|[V:5][K:treble] x3[K:bass] x3|
+[V:1]A6:|[V:2]!fermata![FAd]6:|[V:3]x6:|[V:4]!fermata![D,A,]6:|[V:5]x6:|

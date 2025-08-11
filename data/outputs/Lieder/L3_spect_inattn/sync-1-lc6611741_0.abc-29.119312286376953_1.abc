@@ -1,0 +1,44 @@
+%%score ( 1 2 ) { ( 3 5 ) | 4 }
+L:1/8
+Q:1/4=140
+M:3/4
+K:Bb
+V:1 treble nm="Canto\nVoice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:5 treble 
+V:4 bass 
+[V:1]"^Innig und bewegt" z6|[V:2]x6|[V:3]!mf!!ped! (3(DFd cd (3Bd!ped-up!B|[V:4]!ped! (3([B,,,B,,]F,B, CB, (3F,B,F,!ped-up!|[V:5]x6|
+[V:1]z6|[V:2]x6|[V:3]!>(! (3DFd (3cdc (3BdB!ped-up!|[V:4]!ped! (3B,,F,B, (3CB,F, (3B,F,B,,!ped-up!|[V:5]x6|
+[V:1]z6|[V:2]x6|[V:3]!p! (3E!ped!Ac (3AcA (3G!ped-up!BG!ped-up!|[V:4]!ped! (3F,,C,F, (3CF,C, (3F,CF,!ped-up!|[V:5]x6|
+[V:1]z2 z2!p! F2|[V:2]x6|[V:3](3E!ped!Ac (3AcA (3G!ped-up!BG|[V:4]!ped! (3F,,C,F, (3CF,C, (3F,CF,)!ped-up!|[V:5]x6|
+[V:1](F2 d2) c2|[V:2]x6|[V:3]!<(! (3DFc (3dc!<)!B!>(! (3FdF)!>)!|[V:4]!ped! (3(B,,F,B, (3CB,F, (3B,,F,B,,!ped-up!|[V:5]x6|
+[V:1](B2 F2) B2|[V:2]x6|[V:3]!<(! (3(DFc (3dc!<)!!>(!B (3FdF)!>)!|[V:4]!ped! (3D,,B,,F, (3B,F,B,, (3F,B,,F,,)!ped-up!|[V:5]x6|
+[V:1]c4 c2|[V:2]x6|[V:3]!<(! (3(EAc!>(! (3Bc!<)!B!>)! (3AfA)|[V:4]!ped! (3(F,,C,F, (3CF,C, (3F,CF,!ped-up!|[V:5]x6|
+[V:1]z2 z2 F2|[V:2]x6|[V:3](3(EAc!<(! (3Bc!<)!B!>(! (3AfA!>)!|[V:4]!ped! (3F,,C,F, (3CF,C, (3F,CF,!ped-up!|[V:5]x6|
+[V:1](F2 d2) c2|[V:2]x6|[V:3]!<(! (3DFc (3dc!<)!B!>(! (3FdF)!>)!|[V:4]!ped! (3B,,F,B, (3CB,F, (3B,,F,B,,!ped-up!|[V:5]x6|
+[V:1](B2 F2) B2|[V:2]x6|[V:3]!<(! (3(DFc (3dc!<)!!>(!B (3FdF)!>)!|[V:4]!ped! (3D,,B,,F, (3B,F,B,, (3F,B,,F,,)!ped-up!|[V:5]x6|
+[V:1]c4 c2|[V:2]x6|[V:3]!<(! (3(EAc!>(! (3Bc!<)!B!>)! (3AfA)|[V:4]!ped! (3(F,,C,F, (3CF,C, (3F,CF,!ped-up!|[V:5]x6|
+[V:1]z2 z2 c2|[V:2]x6|[V:3](3(EAc!<(! (3Bc!<)!B!>(! (3AfA)!>)!|[V:4]!ped! (3F,,C,F, (3CF,C, (3F,CF,!ped-up!|[V:5]x6|
+[V:1]c4 c2|[V:2]x6|[V:3]!p!!<(! (3(EAc (3BcB (3AcA!<)!|[V:4]!ped! (3F,,C,F, (3CF,C, (3F,CF,!ped-up!|[V:5]x6|
+[V:1]d4 d2|[V:2]x6|[V:3](3DAd (3cdc (3BdB|[V:4]!ped! (3B,,F,B, (3DB,F, (3B,,F,B,,!ped-up!|[V:5]x6|
+[V:1]=e4 e2|[V:2]x6|[V:3]!<(! (3=EB=e (3de!<)!d!>(! (3cec)!>)!|[V:4]!ped! (3G,,C,G, (3CG,C, (3G,CG,!ped-up!|[V:5]x6|
+[V:1]f4 z2|[V:2]x6|[V:3]!<(! (3(Fcf (3=ef!<)!e!>(! (3dfd!>)!|[V:4]!ped! (3D,,A,,D, (3F,D,A,, (3D,A,,D,,!ped-up!|[V:5]x6|
+[V:1]z6|[V:2]x6|[V:3]!p! (3c!<(!=eb (3aba (3gbg!<)!|[V:4]!ped! (3C,,G,,C, (3G,C,G,, (3C,G,,C,,!ped-up!|[V:5]x6|
+[V:1]z2 z2!p! f2|[V:2]x6|[V:3]!mp!!>(! (3fac' (3bc'b (3ac'!>)!a|[V:4]!ped! (3F,,C,F, (3CF,C, (3F,CF,!ped-up!|[V:5]x6|
+[V:1]=e4 e2|[V:2]x6|[V:3]!p!!<(! (3(=EB=e (3ded (3BeB!<)!|[V:4]!ped! (3C,,G,,C, (3G,C,G,, (3C,G,,C,,!ped-up!|[V:5]x6|
+[V:1]e4 e2|[V:2]x6|[V:3]!mp!!>(! (3Ece (3ded (3ce!>)!c|[V:4]!ped! (3F,,C,F, (3CF,C, (3F,C,F,,!ped-up!|[V:5]x6|
+[V:1]d2 e2 d2|[V:2]x6|[V:3]!<(! (3FBd!<)!!>(! (3cdc (3BdB!>)!|[V:4]!ped! (3B,,F,B, (3CB,F, (3B,F,B,,!ped-up!|[V:5]x6|
+[V:1]c4 f2|[V:2]x6|[V:3]!<(! (3EAc!<)!!>(! (3BcB!>)! (3AfA)|[V:4]!ped! (3F,,C,F, (3CF,C, (3F,CF,!ped-up!|[V:5]x6|
+[V:1]=e4 e2|[V:2]x6|[V:3]!<(! (3(=EB=e (3ded (3BeB!<)!|[V:4]!ped! (3C,,G,,C, (3G,C,G,, (3C,G,,C,,!ped-up!|[V:5]x6|
+[V:1]e4 e2|[V:2]x6|[V:3]!mp!!>(! (3Ece (3ded (3ce!>)!c|[V:4]!ped! (3F,,C,F, (3CF,C, (3F,C,F,,!ped-up!|[V:5]x6|
+[V:1]d2 e2 d2|[V:2]x6|[V:3]!<(! (3FBd!<)!!>(! (3cdc (3BdB!>)!|[V:4]!ped! (3B,,F,B, (3CB,F, (3B,F,B,,!ped-up!|[V:5]x6|
+[V:1]c4 B2|[V:2]x6|[V:3]!<(! (3EAc!<)!!>(! (3BcB!>)! (3_AdA|[V:4]!ped! (3F,,C,F, (3CF,C, (3B,,F,B,,!ped-up!|[V:5]x6|
+[V:1]B2 g2 g2|[V:2]x6|[V:3]!<(! (3GBg!<)!!>(! (3fgf (3ege!>)!|[V:4]!ped! (3E,,B,,E, (3B,E,B,, (3E,B,,E,,!ped-up!|[V:5]x6|
+[V:1]f4 d2|[V:2]x6|[V:3]!<(! (3Fdf!<)!!>(! (3efe (3dfd!>)!|[V:4]!ped! (3B,,,F,,B,, (3D,B,,F,, (3B,,F,,B,,,!ped-up!|[V:5]x6|
+[V:1]c4 c2|[V:2]x6|[V:3]!<(! (3(EAc (3Bc!<)!B!>(! (3AcA!>)!|[V:4]!ped! (3F,,C,F, (3CF,C, (3F,CF,!ped-up!|[V:5]x6|
+[V:1]B4 z2|[V:2]x6|[V:3]!<(! (3DFd!<)!!>(! (3cdc (3BdB!>)!|[V:4]!ped! (3B,,,F,,B,, (3F,B,F, (3B,,F,,B,,,!ped-up!|[V:5]x6|
+[V:1]z6|[V:2]x6|[V:3]!pp!!>(! (3DFB (3ABA (3GBG!>)!|[V:4]!ped! (3F,,C,F, (3CF,C, (3F,CF,!ped-up!|[V:5]x6|
+[V:1]!fermata!z6:|[V:2]x6:|[V:3](3EFA (3FGF !fermata!D2):|[V:4]!ped! (3F,,C,F, (3CF,C, !fermata!F,2!ped-up!:|[V:5]x4 !fermata!B,2:|
+[V:1]z6|[V:2]x6|[V:3]"_dim."!>(! (3DFB (3ABA (3GBG|[V:4]!ped! (3F,,C,F, (3CF,C, (3F,CF,!ped-up!|[V:5]x6|
+[V:1]z6|][V:2]x6|][V:3](3EFA (3FGF !fermata!D2!>)!|][V:4]!ped! (3F,,C,F, (3CF,C, !fermata!F,2!ped-up!|][V:5]x4 !fermata!B,2|]

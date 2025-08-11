@@ -1,0 +1,22 @@
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=75
+M:4/4
+K:E
+V:1 treble nm="Voice"
+V:2 treble nm="Pianoforte"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+[V:1]"^Sanft und innig, molto assai." z|[V:2]!p!"^Andante ma non troppo" z|[V:3](!tenuto!.B,|[V:4]x1|[V:5]x1|
+[V:1]z8|[V:2]z4 z2 z (!tenuto!.B|[V:3]!tenuto!.G,2) z (!tenuto!.B, !tenuto!.E,2) z (!tenuto!.G,|[V:4]x8|[V:5]x8|
+[V:1]z4 z2 z!p! B|[V:2]!tenuto!.G2) z (!tenuto!.B !tenuto!.E2) z (!tenuto!.[B,EG]|[V:3]!tenuto!.E,2) z (!tenuto!.G, !tenuto!.B,,2) z (!tenuto!.B,,|[V:4]x8|[V:5]x8|
+[V:1]G3 G E E F G|[V:2]!tenuto!.[B,EG]2) z (!tenuto!.[B,EG] !tenuto!.[B,E]2) z (!tenuto!.[B,EG]|[V:3]!tenuto!.E,2) z (!tenuto!.G,, !tenuto!.C,2) z (!tenuto!.B,,|[V:4]x8|[V:5]x8|
+[V:1](G E) z E G2 B2|[V:2]!tenuto!.[B,E]2) z (!tenuto!.[B,EG] !tenuto!.[B,EG]2) z (!tenuto!.[B,EG]|[V:3]!tenuto!.G,,2) z (!tenuto!.B,, !tenuto!.E,,2) z (!tenuto!.B,,|[V:4]x8|[V:5]x8|
+[V:1]!<(! e4- e!<)! c B G|[V:2]!tenuto!.[B,EG]2) z (!tenuto!.[B,EG] !tenuto!.[B,EG]2) z (!tenuto!.[B,EG]|[V:3]!tenuto!.E,,2) z (!tenuto!.G,, !tenuto!.C,2) z (!tenuto!.B,,|[V:4]x8|[V:5]x8|
+[V:1]B3 E F2 z2|[V:2]!tenuto!.[B,EG]2) z (!tenuto!.[B,EG] !tenuto!.[B,DF]2) z (!tenuto!.[B,FB]|[V:3]!tenuto!.G,,,2) z (!tenuto!.B,,, !tenuto!.B,,2) z (!tenuto!.D,|[V:4]x8|[V:5]x8|
+[V:1]z4 z2 z!pp! B|[V:2]!tenuto!.[B,EB]2) z (!tenuto!.[B,EB] !tenuto!.[B,FA]2) z (!tenuto!.[B,FB]|[V:3]!tenuto!.G,,2) z (!tenuto!.=G,, !tenuto!.F,,2) z (!tenuto!.D,,|[V:4]x8|[V:5]x8|
+[V:1]G3 G E E F G|[V:2]!tenuto!.[B,EB]2) z (!tenuto!.[B,EB] !tenuto!.[B,E]2) z (!tenuto!.[B,EG]|[V:3]!tenuto!.G,,,2) z (!tenuto!.G,, !tenuto!.C,2) z (!tenuto!.B,,|[V:4]x8|[V:5]x8|
+[V:1](G E) z E G2 B2|[V:2]!tenuto!.[B,E]2) z (!tenuto!.[B,EG] !tenuto!.[B,EG]2) z (!tenuto!.[B,EG]|[V:3]!tenuto!.G,,2) z (!tenuto!.B,, !tenuto!.E,,2) z (!tenuto!.B,,|[V:4]x8|[V:5]x8|
+[V:1]e4- e c B G|[V:2]!tenuto!.[B,EG]2) z (!tenuto!.[B,EG] !tenuto!.[B,EG]2) z (!tenuto!.[B,EG]|[V:3]!tenuto!.E,,2) z (!tenuto!.G,, !tenuto!.C,2) z (!tenuto!.B,,,|[V:4]x8|[V:5]x8|
+[V:1](B3 E) E2 z2|][V:2]!tenuto!.[B,EG]2) z (!tenuto!.[B,DG] !tenuto!.E2) z2|][V:3]!tenuto!.E,,,2) z (!tenuto!.B,,, !tenuto!.E,,2) z2|][V:4]x2 [A,B,]2 [G,B,]2 x2|][V:5]x8|]

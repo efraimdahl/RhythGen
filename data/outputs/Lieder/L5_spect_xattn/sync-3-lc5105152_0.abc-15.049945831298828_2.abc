@@ -1,0 +1,34 @@
+%%score ( 1 2 ) { ( 3 4 ) | ( 5 6 ) }
+L:1/8
+Q:1/4=55
+M:2/4
+K:E
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Pianoforte."
+V:4 treble 
+V:5 bass 
+V:6 bass 
+[V:1]"^Adagio" z4|[V:2]x4|[V:3]!f! [G,B,E]4|[V:4]x4|[V:5][E,,B,,E,]4|[V:6]x4|
+[V:1]z4|[V:2]x4|[V:3](3[B,DA][B,DG][B,DF] (3[B,DA][B,DG][B,DF]|[V:4]x4|[V:5][E,,B,,F,]4|[V:6]x4|
+[V:1]!p! E3 F|[V:2]x4|[V:3][B,DA]4|[V:4]x4|[V:5][B,,,B,,]4|[V:6]x4|
+[V:1]!mp! A G F E|[V:2]x4|[V:3]AGFE|[V:4]B,4|[V:5][E,,E,]4|[V:6]x4|
+[V:1]D F/ F/ F2|[V:2]x4|[V:3]DF F2|[V:4]B,4|[V:5][E,,E,]4|[V:6]x4|
+[V:1]G3/2 F/ E2|[V:2]x4|[V:3]G>F E2|[V:4]B,4|[V:5][E,,E,]4|[V:6]x4|
+[V:1]!mp!!<(! F3/2 E/!p!!mp!!<(! D!mp! E|[V:2]x4|[V:3]F2 EF!<)!|[V:4][A,B,]4|[V:5]D,2 C,D,|[V:6]x4|
+[V:1]!mp! c3/2 A/!mp!!>)!!p!!p! G F|[V:2]x4|[V:3]G>F ED|[V:4]G,3 [F,G,]|[V:5]E,3 D,|[V:6]x4|
+[V:1]E E F F|[V:2]x4|[V:3]!mp!!<(! [CE][CE]!mp![CF][I:staff +1][F,^A,EF]!<)!|[V:4]x4|[V:5]C,C,C,C,|[V:6]x4|
+[V:1]G F z2|[V:2]x4|[V:3]!p![I:staff +1] [G,CG]!pp![F,B,F][E,^A,E]!pp![F,A,C]|[V:4]x4|[V:5]C,4|[V:6]x4|
+[V:1]F3/2 E/ D E|[V:2]x4|[V:3][^A,F]>[A,E][B,D][G,CE]|[V:4]x4|[V:5]F,3 E,|[V:6]x4|
+[V:1]G2!p! F2|[V:2]x4|[V:3][I:staff -1] G2 F[I:staff +1]!p![I:staff -1]F|[V:4]x4|[V:5][CE]2 [B,D]2|[V:6]x4|
+[V:1]B3/2 B/ B!mf!!f! B,3/4 C/4|[V:2]x4|[V:3]!mf! B>!>(!FD>F!>)!|[V:4]B,3 C|[V:5]D,3 C,|[V:6]x4|
+[V:1]!<(! E2 D!mf!!>)!!p!!p!!>(! C!>)!|[V:2]x4|[V:3](G2 F)E|[V:4]x4|[V:5]!p! (^A,2 B,) z|[V:6]x4|
+[V:1]!<(! D D!p! E G!>)!E|[V:2]x4|[V:3]!pp! D2 E2|[V:4]x4|[V:5]B,2 [G,C]2|[V:6]x4|
+[V:1]D2 z!p! C|[V:2]x4|[V:3]F,2 z!p! C|[V:4]x4|[V:5][A,C]2 z2|[V:6]x4|
+[V:1]!<(! F F B ^A!<)!|[V:2]x4|[V:3]!<(! B,B,[^A,E]E!<)!|[V:4]x4|[V:5][K:bass][I:staff -1] EECC|[V:6][K:bass] x4|
+[V:1]B z!p! C2|[V:2]x4|[V:3]D z!p! C2|[V:4]x4|[V:5]B, z[I:staff +1] ^A,2|[V:6]x4|
+[V:1]!<(! F F B!<)! ^A|[V:2]x4|[V:3]!mf!!<(! [DF][DF][B,B][E^A]!<)!|[V:4]x4|[V:5][I:staff +1] B,F,G,C,|[V:6]x4|
+[V:1]!mf! B2 z!mp!!<(! F/>F/!<)!|[V:2]x4|[V:3][DFB]2!mf! z F|[V:4]x4|[V:5]F,2 z2|[V:6]x4|
+[V:1]!f! d d!>(! c ^A!>)!|[V:2]x4|[V:3]!>(! d2 c2!>)!|[V:4]E4|[V:5]F,4|[V:6]x4|
+[V:1]B2 z2|[V:2]x4|[V:3]B!f! z[K:bass] (3D,F,B,|[V:4](3z B,-D-[K:bass] x2|[V:5]B,,4-|[V:6]x4|
+[V:1]!fermata!d4|][V:2]x4|][V:3][I:staff -1] (3DFB- !fermata!d2|][V:4]x2 [B,D]2|][V:5]!fermata!B,,4|][V:6]x4|]

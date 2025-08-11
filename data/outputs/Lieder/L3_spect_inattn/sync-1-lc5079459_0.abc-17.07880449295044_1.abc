@@ -1,0 +1,27 @@
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=52
+M:4/4
+K:A
+V:1 treble nm="Chant\nVoice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+[V:1]"^Lento" z8|[V:2]"^Lento etwas langsam"!p! z/"_leggiero" (C/E/A/-) A2- A(E/G/ c)c|[V:3]x2 C2- C x E2|[V:4]"_legato"!ped! (A,,E,- E,2-) E,2!ped-up! z2|[V:5]x8|
+[V:1]z4 z2!p! c e|[V:2]!>(! (c3 B GE!>)! C2)|[V:3](GECD- D2) x2|[V:4]!ped! E,,2 [E,B,]4 (A,,,2!ped-up!|[V:5]x8|
+[V:1]c2- c/ z/ c/ e/ B2- B/ z/ G/ B/|[V:2]z/ (C/E/A/) A2- A(B,/E/ G2)|[V:3]x2 C2 x2 D2|[V:4]!ped! E,2)!ped-up!!ped! z2!ped-up!!ped! E,2!ped-up!!ped! z2!ped-up!|[V:5]x8|
+[V:1]B3/2 A/ A2- A z!mf! A3/2 c/|[V:2]z/ (C/E/A/) (c/A/e/A/) c4|[V:3]x2 E2 x4|[V:4]!ped! A,,2 A,2!ped-up!!ped! z2 (E,,2!ped-up!|[V:5]x8|
+[V:1]B2- B/ z/ B/ d/ B2- B/ z/ B/ d/|[V:2]z/ (B,/D/A/) A2 z/ (B,/E/G/) G2|[V:3]x2 B,2 x2 D2|[V:4]!ped! F,2)!ped-up!!ped! z2!ped-up!!ped! F,2!ped-up!!ped! z2!ped-up!|[V:5]x8|
+[V:1]d3/2 c/ c2- c z!f! c3/2 f/|[V:2]z/ (C/E/A/) (c/A/e/c/) e4|[V:3]x2 E2 x4|[V:4]!ped! A,,2 A,2!ped-up!!ped! z2!ped-up! (F,,2|[V:5]x8|
+[V:1]e2- e/ z/ e/ d/ c2- c/ z/ c/ d/|[V:2]z/ (D/=F/B/) d2 z/ (E/A/c/) c2|[V:3]x2 D2 x2 E2|[V:4]!ped! G,2)!ped-up!!ped! z2!ped-up!!ped! A,2!ped-up!!ped! z2!ped-up!|[V:5]x8|
+[V:1]B3/2 B/ B2- B z!f! A3/2 c/|[V:2]z/ (B,/D/B/) (d/B/g/e/) a2 z2|[V:3]x8|[V:4]!ped! (E,,2 [G,DE]2)!ped-up!!ped! A,,,2 z2!ped-up!|[V:5]x8|
+[V:1]B2- B/ z/ B/ d/ c2- c/ z/ c/ e/|[V:2]z/ (B,/D/G/) G2 z/ (C/E/A/) A2|[V:3]x2 B,2 x2 C2|[V:4]!ped! F,2 z2!ped-up!!ped! F,2!ped-up! z2|[V:5]x8|
+[V:1]!>(! d3/2 B/ c2- c!>)! z z2|[V:2]z/ (B,/D/G/) c2- c2- c z|[V:3]x2 E2- E2- E x|[V:4]!ped! E,,2 A,2- A,2- A,!ped-up! z|[V:5]x8|
+[V:1]z8|[V:2]!p! z/ (C/E/A/-) A2- A(E/G/ c)c|[V:3]x2 C2- C x E2|[V:4]!ped! (A,,E,- E,2-) E,2!ped-up! z2|[V:5]x8|
+[V:1]z8|[V:2]!>(! (c3 B G!>)!E !fermata!C2)|[V:3](GECD- D2) x2|[V:4]!ped! E,,2 [E,B,]4 A,,,2!ped-up!|[V:5]x8|
+[V:1]z8|[V:2]!p! z/ (C/E/A/-) A2- A(E/G/ c)c|[V:3]x2 C2- C x E2|[V:4]!ped! (A,,E,- E,2-) E,2!ped-up! z2|[V:5]x8|
+[V:1]z8|[V:2]!>(! (c3 B G!>)!E !fermata!C2)|[V:3](GECD- D2) x2|[V:4]!ped! E,,2 [E,B,]4 A,,,2!ped-up!|[V:5]x8|
+[V:1]z8|[V:2]z/ (C/E/A/-) A2- A(E/G/ c)c|[V:3]x2 C2- C x E2|[V:4]!ped! (A,,E,- E,2-) E,2!ped-up! z2|[V:5]x8|
+[V:1]z8|[V:2]!>(! (c3 B G!>)!E !fermata!C2)|[V:3](GECD- D2) x2|[V:4]!ped! E,,2 [E,B,]4 A,,,2!ped-up!|[V:5]x8|
+[V:1]!fermata!z8|][V:2]!ppp! !fermata!C8|][V:3]x8|][V:4]!fermata!E,8|][V:5]A,,,8|]

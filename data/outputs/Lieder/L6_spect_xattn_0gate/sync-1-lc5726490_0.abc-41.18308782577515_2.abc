@@ -1,0 +1,75 @@
+%%score ( 1 2 ) { 3 | ( 4 5 6 ) }
+L:1/8
+Q:1/4=135
+M:6/8
+K:F
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:4 bass 
+V:5 bass 
+V:6 bass 
+[V:1]"^Lebhaft" z|[V:2]x1|[V:3]"_con moto" !>!A|[V:4]z1|[V:5]x1|[V:6]x1|
+[V:1]z6|[V:2]x6|[V:3]!p! (fe).d (cB).A|[V:4]([D,A,]3 [E,G,]2 [F,A,]|[V:5]x6|[V:6]x6|
+[V:1]z6|[V:2]x6|[V:3]{c} (B>AB) G2 A|[V:4][G,B,]3) z2 [^C,A,]|[V:5]x6|[V:6]x6|
+[V:1]z6|[V:2]x6|[V:3]{G} (F>EF) (D>EF)|[V:4][D,A,]2 z [B,,D,]2 z|[V:5]x6|[V:6]x6|
+[V:1]z2 z z2 A|[V:2]x6|[V:3]E2 z z2 A,|[V:4](^C,>=B,,).C, A,,2 z|[V:5]A,,2 x4|[V:6]x6|
+[V:1](fe) (d cB) A|[V:2]x6|[V:3](FED CB,A,)|[V:4]([D,,A,,]3 [E,,G,,]2 [F,,A,,]|[V:5]x6|[V:6]x6|
+[V:1]{c} (B>AB) G2 A|[V:2]x6|[V:3](B,>A,B, G,2 A,)|[V:4][G,,B,,]3) z2 [^C,,A,,]|[V:5]x6|[V:6]x6|
+[V:1]{G} (F>EF) D2 F|[V:2]x6|[V:3](A,>G,A, F,>G,A,)|[V:4](A,,3 B,,3|[V:5]D,,3 (B,,,2 D,,)|[V:6]x6|
+[V:1]E2 z z2 E|[V:2]x6|[V:3]A,2 z z2 z|[V:4]A,,>=B,,).^C, A,,2 z|[V:5]A,,,2 x4|[V:6]x6|
+[V:1]E2 E (EF) G|[V:2]x6|[V:3][I:staff +1] .^G,[I:staff -1].D[I:staff +1].G,[I:staff -1] .D[I:staff +1].G,[I:staff -1].D|[V:4]([E,,=B,,]6|[V:5]x6|[V:6]x6|
+[V:1]{F} E2 E A2 A|[V:2]x6|[V:3].A,.[CE].A, .C.[EA].C|[V:4]A,,6|[V:5]x6|[V:6]x6|
+[V:1](=Bc) d d c B|[V:2]x6|[V:3].=B,.[D^G].B, .B,.[DG].B,|[V:4]E,,6|[V:5]x6|[V:6]x6|
+[V:1]c2 z z2 c|[V:2]x6|[V:3].C.[EA].C .C.[EA].C|[V:4]A,,6)|[V:5]x6|[V:6]x6|
+[V:1](c=B) A (ed) c|[V:2]x6|[V:3].A,.[EA].C .A,.[CA].E|[V:4]([C,,C,]3 [F,,,F,,]3|[V:5]x6|[V:6]x6|
+[V:1](c=B) B (ed) c|[V:2]x6|[V:3].=B,.[E^G].=B, .C.[EA].C|[V:4][^G,,,^G,,]3 [A,,,A,,]3|[V:5]x6|[V:6]x6|
+[V:1]c3{c} =B3|[V:2]x6|[V:3].A,.[EA].C .^G,.[DE].=B,|[V:4][E,,E,]3 [E,,,E,,]3)|[V:5]x6|[V:6]x6|
+[V:1]A2 z z2 A|[V:2]x6|[V:3][A,C] z [CE] [CA] z [A,C]|[V:4](A,,,A,,A,,, A,,A,,,A,,)|[V:5]x6|[V:6]x6|
+[V:1]B2 B B2 B|[V:2]x6|[V:3][GB] z [GB] [GB] z [GB]|[V:4](C,,C,C,, C,C,,C,)|[V:5]x6|[V:6]x6|
+[V:1](AG) F F z f|[V:2]x6|[V:3]([GB][FA])[EG] [FA] z [fa]|[V:4](F,,F,F,, F,F,,F,)|[V:5]x6|[V:6]x6|
+[V:1](fe) d (dc) B|[V:2]x6|[V:3]([fa][eg])[df] ([df][ce])[Bd]|[V:4](B,,B,B,, G,,G,G,,)|[V:5]x6|[V:6]x6|
+[V:1]{B} A2 G z2 G|[V:2]x6|[V:3]([Bd]2 [Ac]) [GB] z [B,E]|[V:4](C,,C,C,, C,C,,C,)|[V:5]x6|[V:6]x6|
+[V:1](GF) G A2 A|[V:2]x6|[V:3][B,E] z z [A,F] z [A,F]|[V:4](C,,C,C,, C,C,,C,|[V:5]x6|[V:6]x6|
+[V:1](GF) G A2 c|[V:2]x6|[V:3][B,E] z z [A,F] z [CFA]|[V:4]C,,C,C,, F,,F,F,,)|[V:5]x6|[V:6]x6|
+[V:1]d2 d f2 d|[V:2]x6|[V:3][DFB] z [DFB] [FBd] z [FBd]|[V:4](B,,B,B,, =B,,=B,B,,)|[V:5]x6|[V:6]x6|
+[V:1]c3- c z c|[V:2]x6|[V:3][EGc] z [EGc] [CEG] z [CE]|[V:4](C,,C,C,, C,C,,C,)|[V:5]x6|[V:6]x6|
+[V:1]c2 B (AB) G|[V:2]x6|[V:3].[B,E] z .[B,E] .[A,E] z .[A,E]|[V:4](C,,C,C,, C,C,,C,|[V:5]x6|[V:6]x6|
+[V:1]F2 z z2 c|[V:2]x6|[V:3][A,F] z [A,F] [CF] z [CF]|[V:4]F,,,F,,F,,, A,,F,,A,,)|[V:5]x6|[V:6]x6|
+[V:1]c2 B (AB) G|[V:2]x6|[V:3][B,E] z [B,E] [A,E] z [A,E]|[V:4](C,,C,C,, C,C,,C,|[V:5]x6|[V:6]x6|
+[V:1]F3 z z2|[V:2]x6|[V:3][A,F] z z z z .c|[V:4]F,,,F,,F,,, F,,) z z|[V:5]x6|[V:6]x6|
+[V:1]z6|[V:2]x6|[V:3]!f! ([Ff]e).d ([Cc]B).A|[V:4]([D,A,]3 [E,G,]2 [F,A,]|[V:5]x6|[V:6]x6|
+[V:1]z6|[V:2]x6|[V:3]{c} (B>AB) G2 A|[V:4][G,B,]3) z2 [^C,A,]|[V:5]x6|[V:6]x6|
+[V:1]z6|[V:2]x6|[V:3]{G} (F>EF) (D>EF)|[V:4][D,A,]2 z [B,,D,]2 z|[V:5]x6|[V:6]x6|
+[V:1]z2 z z2 A|[V:2]x6|[V:3]E2 z z2 A,|[V:4](^C,>=B,,).C, A,,2 z|[V:5]A,,2 x4|[V:6]x6|
+[V:1](fe) (d cB) A|[V:2]x6|[V:3](FED CB,A,)|[V:4]([D,,A,,]3 [E,,G,,]2 [F,,A,,]|[V:5]x6|[V:6]x6|
+[V:1]{c} (B>AB) G2 A|[V:2]x6|[V:3](B,>A,B, G,2 A,)|[V:4][G,,B,,]3) z2 [^C,,A,,]|[V:5]x6|[V:6]x6|
+[V:1]{G} (F>EF) D2 F|[V:2]x6|[V:3](A,>G,A, F,>G,A,)|[V:4](A,,3 B,,3|[V:5]D,,3 (B,,,2 D,,)|[V:6]x6|
+[V:1]E2 z z2 E|[V:2]x6|[V:3]A,2 z z2 z|[V:4]A,,>=B,,).^C, A,,2 z|[V:5]A,,,2 x4|[V:6]x6|
+[V:1]E2 E (EF) G|[V:2]x6|[V:3][I:staff +1] .^G,[I:staff -1].D[I:staff +1].G,[I:staff -1] .D[I:staff +1].G,[I:staff -1].D|[V:4]([E,,=B,,]6|[V:5]x6|[V:6]x6|
+[V:1]{F} E2 E A2 A|[V:2]x6|[V:3].A,.[CE].A, .C.[EA].C|[V:4]A,,6|[V:5]x6|[V:6]x6|
+[V:1](=Bc) d d c B|[V:2]x6|[V:3].=B,.[D^G].B, .B,.[DG].B,|[V:4]E,,6|[V:5]x6|[V:6]x6|
+[V:1]c2 z z2 c|[V:2]x6|[V:3].C.[EA].C .C.[EA].C|[V:4]A,,6)|[V:5]x6|[V:6]x6|
+[V:1](c=B) A (ed) c|[V:2]x6|[V:3].A,.[EA].C .A,.[CA].E|[V:4]([C,,C,]3 [F,,,F,,]3|[V:5]x6|[V:6]x6|
+[V:1](c=B) B (ed) c|[V:2]x6|[V:3].=B,.[E^G].=B, .C.[EA].C|[V:4][^G,,,^G,,]3 [A,,,A,,]3|[V:5]x6|[V:6]x6|
+[V:1]c3{c} =B3|[V:2]x6|[V:3].A,.[EA].C .^G,.[DE].=B,|[V:4][E,,E,]3 [E,,,E,,]3)|[V:5]x6|[V:6]x6|
+[V:1]A2 z z2 A|[V:2]x6|[V:3][A,C] z [CE] [CA] z [A,C]|[V:4](A,,,A,,A,,, A,,A,,,A,,)|[V:5]x6|[V:6]x6|
+[V:1]B2 B B2 B|[V:2]x6|[V:3][GB] z [GB] [GB] z [GB]|[V:4](C,,C,C,, C,C,,C,)|[V:5]x6|[V:6]x6|
+[V:1](AG) F F z f|[V:2]x6|[V:3]([GB][FA])[EG] [FA] z [fa]|[V:4](F,,F,F,, F,F,,F,)|[V:5]x6|[V:6]x6|
+[V:1](fe) d (dc) B|[V:2]x6|[V:3]([fa][eg])[df] ([df][ce])[Bd]|[V:4](B,,B,B,, G,,G,G,,)|[V:5]x6|[V:6]x6|
+[V:1]{B} A2 G z2 G|[V:2]x6|[V:3]([Bd]2 [Ac]) [GB] z [B,E]|[V:4](C,,C,C,, C,C,,C,)|[V:5]x6|[V:6]x6|
+[V:1](GF) G A2 A|[V:2]x6|[V:3][B,E] z z [A,F] z [A,F]|[V:4](C,,C,C,, C,C,,C,|[V:5]x6|[V:6]x6|
+[V:1](GF) G A2 c|[V:2]x6|[V:3][B,E] z z [A,F] z [CFA]|[V:4]C,,C,C,, F,,F,F,,)|[V:5]x6|[V:6]x6|
+[V:1]d2 d f2 d|[V:2]x6|[V:3][DFB] z [DFB] [FBd] z [FBd]|[V:4](B,,B,B,, =B,,=B,B,,)|[V:5]x6|[V:6]x6|
+[V:1]c3- c z c|[V:2]x6|[V:3][EGc] z [EGc] [CEG] z [CE]|[V:4](C,,C,C,, C,C,,C,)|[V:5]x6|[V:6]x6|
+[V:1]c2 B (AB) G|[V:2]x6|[V:3].[B,E] z .[B,E] .[A,E] z .[A,E]|[V:4](C,,C,C,, C,C,,C,|[V:5]x6|[V:6]x6|
+[V:1]F2 z z2 c|[V:2]x6|[V:3][A,F] z [A,F] [CF] z [CF]|[V:4]F,,,F,,F,,, A,,F,,A,,)|[V:5]x6|[V:6]x6|
+[V:1]c2 B (AB) G|[V:2]x6|[V:3][B,E] z [B,E] [A,E] z [A,E]|[V:4](C,,C,C,, C,C,,C,|[V:5]x6|[V:6]x6|
+[V:1]F3 z z2|[V:2]x6|[V:3][A,F] z z z z .c|[V:4]F,,,F,,F,,, F,,) z z|[V:5]x6|[V:6]x6|
+[V:1]z6|[V:2]x6|[V:3]([Ff]e).d ([Cc]B).A|[V:4]([D,A,]3 [E,G,]2 [F,A,]|[V:5]x6|[V:6]x6|
+[V:1]z6|[V:2]x6|[V:3]{c} (B>AB) G2 A|[V:4][G,B,]3) z2 [^C,A,]|[V:5]x6|[V:6]x6|
+[V:1]z6|[V:2]x6|[V:3]{G} (F>EF) (D>EF)|[V:4][D,A,]2 z [B,,D,]2 z|[V:5]x6|[V:6]x6|
+[V:1]z6|[V:2]x6|[V:3]E2 z z2 z|[V:4](^C,>=B,,).C, A,,2 z|[V:5]A,,2 x4|[V:6]x6|
+[V:1]z6|[V:2]x6|[V:3]z2 z !arpeggio![EGBe] z z|[V:4]z2 z [A,,^C,E,A,] z z|[V:5]x6|[V:6]x6|
+[V:1]z6|[V:2]x6|[V:3]!arpeggio![FAdf]2 z !arpeggio![GA^ce]2 z|[V:4][D,,F,,A,,D,]2 z [A,,,A,,]2 z|[V:5]x6|[V:6]x6|
+[V:1]z6|][V:2]x6|][V:3]!arpeggio![FAdf]2 z z2 z|][V:4][D,,,D,,]2 z z2 z|][V:5]x6|][V:6]x6|]

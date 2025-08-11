@@ -1,0 +1,14 @@
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=90
+M:2/4
+K:A
+V:1 treble nm="Chant\nVoice"
+V:2 treble nm="Piano"
+V:3 bass 
+V:4 bass 
+[V:1]!p! (c2 B) B|[V:2]!p! (6:4:6z/ (.[CE]/.A,/.[CE]/.A,/.[CE]/) (6:4:6z/ (.[B,E]/.E,/.[B,E]/.E,/.[B,E]/)|[V:3](.A,,,.A,,) (.E,,,.E,,)|[V:4]%distance=1[r:0/4]x4|
+[V:1](A2 E) E|[V:2](6:4:6z/ (.[A,C]/.E,/.[A,C]/.E,/.[A,C]/) (6:4:6z/ (.[B,E]/.E,/.[B,E]/.E,/.[B,E]/)|[V:3](.A,,,.A,,) (.E,,,.E,,)|[V:4]x4|
+[V:1]!pp! (A2 E) E|1[V:2](6:4:6z/ (.[A,C]/.E,/.[A,C]/.E,/.[A,C]/) (6:4:6z/ (.[B,E]/.E,/.[B,E]/.E,/.[B,E]/)|1[V:3](.A,,,.A,,) (.E,,,.E,,)|1[V:4]x4|1
+[V:1]A,2 z2:|2[V:2][A,CE]!pp!!8va(!(.[ee'].[ff'].[gg']!8va)!:|2[V:3][A,,,A,,][K:treble] (.[A,C].[A,D].[A,B,]):|2[V:4]x[K:treble] x3:|2
+[V:1]A,2 z2|][V:2][Ace] z !fermata![ac'a']2|][V:3][K:bass] [A,,,A,,] z[K:treble] !fermata![Ace]2|][V:4][K:bass] x2[K:treble] x2|]

@@ -1,0 +1,43 @@
+%%score 1 { ( 2 3 ) | ( 4 5 6 ) }
+L:1/8
+Q:1/4=88
+M:2/4
+K:Eb
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:6 bass 
+[V:1]"^Moderato con moto Allegro" z4|[V:2]!f! (E/G/A/B/)!>(! (c>B|[V:3]x2 G>D|[V:4](G,/A,/B,/C/) (C>B,|[V:5]x2 E,>B,,|[V:6]%distance=1[r:0/31]x4|
+[V:1]z4|[V:2]A/G/F/E/)!>)!!p! (D/C/D/F/|[V:3]x4|[V:4]C/B,/A,/G,/ F,/E,/F,/A,/|[V:5]C,>C, B,,B,,|[V:6]x4|
+[V:1]z4|[V:2]E2) z (C|[V:3]x4|[V:4]G,2) z ([F,A,]|[V:5]E,2 x B,,|[V:6]x4|
+[V:1]z4|[V:2]B,) z z (C|[V:3]x4|[V:4]G,) z z ([F,A,]|[V:5]E,2 x B,,|[V:6]x4|
+[V:1]z4|[V:2]B,) z z (C|[V:3]x4|[V:4]G,) z z ([F,A,]|[V:5]E,2 x B,,|[V:6]x4|
+[V:1]z2 z!mp! B|:[V:2]B,) z z ([B,B]|:[V:3]x4|:[V:4]G,) z z2|:[V:5]E,2 x2|:[V:6]x4|:
+[V:1]G3/2 E/ C F|[V:2]G>ECF)|[V:3]B,2 B,2|[V:4](E,>D, E,2)|[V:5](G,,2 A,,2)|[V:6]x4|
+[V:1](D/C/) (B,/C/) D F|[V:2](D/C/B,/C/) ([B,D][B,F])|[V:3]F,2 x2|[V:4]D,2 D,2|[V:5]B,,2 A,,2|[V:6]x4|
+[V:1]B3/2 G/ A B|[V:2]B>GAB|[V:3][B,E]2 [B,F]2|[V:4]E,2 D,2|[V:5]G,,2 F,,2|[V:6]x4|
+[V:1]G2 z!mp! B|[V:2]G2 z!mp! ([B,B]|[V:3]B,2 x2|[V:4]E,2 z2|[V:5]E,,2 x2|[V:6]x4|
+[V:1]G3/2 E/ C F|[V:2]G>ECF)|[V:3]B,2 B,2|[V:4]E,2 E,2|[V:5](G,,2 A,,2)|[V:6]x4|
+[V:1](D/C/) (B,/C/) D F|[V:2](D/C/B,/C/) ([B,D][B,F])|[V:3]F,2 x2|[V:4]D,2 D,2|[V:5]B,,2 A,,2|[V:6]x4|
+[V:1]B3/2 G/ A B|[V:2]B>GAB|[V:3][B,E]2 [B,F]2|[V:4]E,2 D,2|[V:5]G,,2 F,,2|[V:6]x4|
+[V:1]G2 z G|[V:2]G2 z!mf! (G|[V:3]B,2 x G|[V:4]E,2 z G,|[V:5]E,,2 x G,|[V:6]x4|
+[V:1]=B c d3/2 c/|[V:2]=Bcd>c|[V:3]G2 G2|[V:4](DC) (C2|[V:5]G,F,E,>F,|[V:6]x4|
+[V:1]=B3/2 G/ G G|[V:2]=B>GGG|[V:3]G>F =E2|[V:4][G,D]>)[G,D] ([G,C]2|[V:5]x4|[V:6]x4|
+[V:1]c c d3/2 e/|[V:2]ccd>e|[V:3]G2 A2|[V:4]C)C [F,C]2|[V:5]E,2 x2|[V:6]x4|
+[V:1]d2 z d|[V:2][Gd]2) z!p! ([Gd]|[V:3]x4|[V:4][G,=B,]2 z ([B,,G,]|[V:5]x4|[V:6]x4|
+[V:1]d3/2 c/ B =A|[V:2]d>cB=A|[V:3]G2 ^F2|[V:4][C,=A,]2 [D,C]2|[V:5]x4|[V:6]x4|
+[V:1](BG) G G|[V:2]BGGG|[V:3]D2 D2|[V:4][G,B,]2 [B,,G,]2|[V:5]x4|[V:6]x4|
+[V:1]=A A B3/2 A/|[V:2]=AA [DB]>[CA]|[V:3]D2 x2|[V:4][C,^F,]2 [D,F,]2|[V:5]x4|[V:6]x4|
+[V:1]G2 z2|[V:2][B,G]2) z!p! ([B,B]|[V:3]x4|[V:4][G,,G,]2) z2|[V:5]x4|[V:6]x4|
+[V:1]z4|[V:2]G>ECF)|[V:3]B,2 B,2|[V:4](E,>D, E,2)|[V:5](G,,2 A,,2)|[V:6]x4|
+[V:1]z4|[V:2](D/C/B,/C/) (DF)|[V:3]F,2 B,2|[V:4]D,2 [B,,F,]2|[V:5]B,,2 A,,2|[V:6]x4|
+[V:1]z4|[V:2](B>GAB|[V:3][B,E]2 [B,F]2|[V:4]E,2 D,2|[V:5]G,,2 F,,2|[V:6]x4|
+[V:1]z2 z!p! B|[V:2]G2) z!p! ([B,B]|[V:3]B,2 x2|[V:4]E,2 z2|[V:5]E,,2 x2|[V:6]x4|
+[V:1]G3/2 E/ C F|[V:2]G>ECF)|[V:3]B,2 B,2|[V:4](E,>D, E,2)|[V:5](G,,2 A,,2)|[V:6]x4|
+[V:1](D/C/) (B,/C/) D F|[V:2](D/C/B,/C/) ([B,D][B,F])|[V:3]F,2 x2|[V:4]D,2 D,2|[V:5]B,,2 A,,2|[V:6]x4|
+[V:1]B3/2 G/ A B|[V:2]B>GAB|[V:3][B,E]2 [B,F]2|[V:4]E,2 D,2|[V:5]G,,2 F,,2|[V:6]x4|
+[V:1]G2 z!p! G|[V:2]G2 z!mp! (G|[V:3]B,2 x G|[V:4]E,2 z G,|[V:5]E,,2 x G,|[V:6]x4|
+[V:1]=B c d3/2 c/|[V:2]=Bcd>c|[V:3]G2 G2|[V:4](DC) (C2|[V:5]G,F,E,>F,|[V:6]x4|
+[V:1]=B3/2 G/ G G|[V:2]=B>GGG|[V:3]G>F =E2|[V:4][G,D]>)[G,D] ([G,C]2|[V:5]x4|[V:6]x4|

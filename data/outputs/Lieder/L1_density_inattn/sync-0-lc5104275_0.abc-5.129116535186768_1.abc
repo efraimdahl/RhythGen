@@ -1,0 +1,18 @@
+%distance 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=45
+M:4/4
+K:D
+V:1 treble nm="Voice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+V:4 bass 
+[V:1]d4 F2 G A|[V:2](3DAd (3DAd (3DAd (3DAd|[V:3][=C,D,A,]8|[V:4]x8|
+[V:1]B3 D E3 E|[V:2](3DBd (3DBd (3CGc (3CGc|[V:3][B,,D,G,]4 [A,,E,G,]4|[V:4]x8|
+[V:1]D6 z2|[V:2](3DFd (3DFd (3DFd (3DFd|[V:3][D,F,]4 (D,2 C,2)|[V:4]x8|
+[V:1]!p! (f8|[V:2](3DFd (3DFd (3DFd (3DFd|[V:3](B,,4 ^A,,2 =A,,2)|[V:4]x8|
+[V:1]e3) G B2 A2|[V:2](3B,EB (3B,EB (3B,EB (3A,EA|[V:3][G,,B,,E,]8|[V:4]x8|
+[V:1](D3 E) F2 E2|[V:2](3A,DA (3A,DA (3A,CG (3A,CG|[V:3][A,,,A,,]8|[V:4]x8|
+[V:1]D4 z4|[V:2](3A,DF (3Adf (3Adf (3Adf|[V:3][D,,D,]8-|[V:4]x8|
+[V:1]z8|][V:2]!arpeggio![dfad']8|][V:3][D,,D,]8|][V:4]x8|]

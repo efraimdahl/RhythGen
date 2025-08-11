@@ -1,0 +1,34 @@
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=92
+M:4/4
+K:D
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+[V:1]"^Andante" z2|[V:2]!mp! (FG|[V:3]z2|[V:4]x2|[V:5]x2|
+[V:1]z8|[V:2]A3 F G3 B|[V:3](D,,A,,F,) z (D,,A,,E,) z|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]A2) (f4 dB|[V:3](D,,A,,F,) z (D,,A,,F,) z|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]A3 A c3 B|[V:3](D,,A,,F,) z (D,,A,,E,) z|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2][FA]6) (Ad|[V:3](D,,A,,F,) z (D,,A,,F,) z|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]f3 d B2 cd|[V:3](F,,D,A,) z (G,,D,B,) z|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]e3 c A2 d2)|[V:3](A,,E,G,) z (F,,D,A,) z|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2](e3 f e3 d|[V:3](E,,C,G,) z (E,,B,,E,) z|[V:4](G3 A ^G3 F|[V:5]x8|
+[V:1]z8|[V:2][Gc]4) z2!mf! (fg)|[V:3](A,,,E,,A,,C, E,G,[K:treble]DC)|[V:4]x8|[V:5]x6[K:treble] x2|
+[V:1]!p! A4 A2 A2|[V:2]a2 f2 g2 b2|[V:3]D4 E4|[V:4]z (FDA,) z (GDA,)|[V:5]x8|
+[V:1]A2 A4 A2|[V:2]a2 (af' d'afd)|[V:3]F6 D2|[V:4]z (ADA,) z4|[V:5]x8|
+[V:1]A2 A2 A2 A2|[V:2](a3 a c'3 b|[V:3](F2 A,2) (E2 A,2)|[V:4]z (dAF) z (eAG)|[V:5]x8|
+[V:1]A4 z2 F F|[V:2]a6) (ad'|[V:3](D2 A,2 D2) z2|[V:4]z (fAF D) z z2|[V:5]x8|
+[V:1]A4 B2 B B|[V:2]f'3 d' b2 c'd')|[V:3][K:bass] z (D,A,D) z (G,,D,B,)|[V:4]x8|[V:5][K:bass] x8|
+[V:1](c3 B) A2 F G|[V:2](e'3 c' a2) (d'e'|[V:3]z (A,,E,G,) z (F,,D,A,)|[V:4]z4 z2 (fg|[V:5]x8|
+[V:1]A2 A2 A2 A2|[V:2]f'3 g' e'3 d'|[V:3]z (D,,A,,D,) z (A,,,A,,C,)|[V:4]a3 b g3 f|[V:5]x8|
+[V:1]A4 z4|[V:2][fd']4) z2!p! (A,A)|[V:3](D,,2 A,,2 D,2) z2|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2](A2 A,2) (B,2 B2)|[V:3][D,,,D,,]2 [D,,,D,,]2 [D,,,D,,]2 [D,,,D,,]2|[V:4](DA,D,A,) (B,D,G,B,)|[V:5]x8|
+[V:1]z8|[V:2](A3 F D2) (A2|[V:3][D,,,D,,]2 [D,,,D,,]2 [D,,,D,,]2 [D,,,D,,]2|[V:4](A,D,F,A, DFDA,)|[V:5]x8|
+[V:1]z8|[V:2]d2 A2) (B2 AG)|[V:3][D,,,D,,]2 [D,,,D,,]2 [G,,,G,,]2 [G,,,G,,]2|[V:4](FADA,) (GDB,G,)|[V:5]x8|
+[V:1]z8|[V:2](G2 F2 E2)!p! (A2|[V:3][A,,,A,,]2 [A,,,A,,]2 [A,,,A,,]2 [A,,,A,,]2|[V:4](EA,F,A, CEAE)|[V:5]x8|
+[V:1]z8|[V:2][Adf]2) (dA) [FB]2 (cd)|[V:3](F,,D,A,D) (G,,D,B,D)|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2]([Ge]2 cA F2) (de)|[V:3](A,,E,A,C) (F,,D,A,D)|[V:4]x8|[V:5]x8|
+[V:1]z8|[V:2](f3 g e3 d)|[V:3](D,,A,,F,A,) (A,,,A,,C,A,)|[V:4](A3 B G3 F)|[V:5]x8|

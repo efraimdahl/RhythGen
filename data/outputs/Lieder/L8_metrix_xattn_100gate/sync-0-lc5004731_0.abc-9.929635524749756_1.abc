@@ -1,0 +1,29 @@
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=87
+M:2/4
+K:Bb
+V:1 treble nm="Singstimme"
+V:2 bass nm="Pianoforte"
+V:3 bass 
+[V:1]"^Allegro" G G|[V:2]G|[V:3]z2|
+[V:1]G2 F G|[V:2][EG]3 G|[V:3]C3 C|
+[V:1]c B A G|[V:2][CEG]2 [CEG]|[V:3]C,2 E,|
+[V:1]E F G E|[V:2][CE]2 z [G,DF]|[V:3]C,2 G,,2|
+[V:1]F E z E|[V:2][CE]2 z [G,CE]|[V:3]C,2 C,,2|
+[V:1]A G F E|[V:2][CFA]3 [CEG]|[V:3]C,2 C,,2|
+[V:1]E2 F F|[V:2][CE]2 [CF][CE]|[V:3]F,2 F,,2|
+[V:1]G F E D|[V:2][CE]2 [G,B,D]2|[V:3]G,2 G,,2|
+[V:1]E3 C|[V:2][G,CE]3 z|[V:3]C,3 z|
+[V:1]C2 z2|[V:2][G,CE]3 z|[V:3]C,3 z|
+[V:1]C3/2 C/ C D|[V:2][G,C]3 z|[V:3]E,3 z|
+[V:1]C3 z|[V:2][G,C]3 z|[V:3]C,3 z|
+[V:1]z E D D|[V:2]z [A,CD] [A,CD][A,CD]|[V:3]^F,4|
+[V:1]D2 z2|[V:2][B,DG]3 z|[V:3]G,3 z|
+[V:1]D D D D|[V:2]z [A,CD] [A,CD][A,CD]|[V:3]D,4|
+[V:1]D D D D|[V:2]z [F,CD] [F,CD][F,CD]|[V:3]D,4|
+[V:1]G G F F|[V:2]z [G,B,D][G,B,D][G,B,D]|[V:3]G,,4|
+[V:1]E2 z G|[V:2]z [G,CE][G,CE][G,CE]|[V:3]C,4|
+[V:1]G F E F|[V:2]z [A,CF][A,CF][A,CF]|[V:3]F,,4|
+[V:1]E2 D C|[V:2][G,CE]2 [G,CE][G,CE]|[V:3]G,2 G,,2|
+[V:1]!fermata!C4|][V:2][G,CE]4|][V:3]C,4|]

@@ -1,0 +1,22 @@
+%%score ( 1 2 ) { ( 3 4 ) | 5 }
+L:1/8
+Q:1/4=120
+M:6/8
+K:Gb
+V:1 treble nm="Gesang\nVoice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:4 treble 
+V:5 bass 
+[V:1]"^Moderato" d|[V:2]x1|[V:3]!p! d|[V:4](B|[V:5]!ped! (D|
+[V:1]d d e d2 B|[V:2]x3 x2 B|[V:3](dde d2) B|[V:4]BBc B2) (G|[V:5]DDE D2) (D!ped-up!|
+[V:1]e2 e d2 B|[V:2]x6|[V:3](e2 e d2) B|[V:4]c2 c B2) (G|[V:5]!ped! E2 E D2) (D!ped-up!|
+[V:1]c c c B2 B|[V:2]x3 x2 B|[V:3](ccc B2 B)|[V:4]AAA G2 G)|[V:5]!ped! EEE D2 D)!ped-up!|
+[V:1]A2 A A2 d|[V:2]x3 x2 d|[V:3](A2 A A2) d|[V:4](F2 F F2) (B|[V:5]!ped! (D2 D D2) (D!ped-up!|
+[V:1]d d e d2 B|[V:2]x3 x2 B|[V:3](dde d2) B|[V:4]BBc B2) (G|[V:5]!ped! DDE D2) (D!ped-up!|
+[V:1]e2 e d2 B|[V:2]x6|[V:3](e2 e d2) B|[V:4]c2 c B2) (G|[V:5]!ped! E2 E D2) (D!ped-up!|
+[V:1]c c c B2 B|[V:2]x3 x2 B|[V:3](ccc B2 B)|[V:4]AAA G2 G)|[V:5]!ped! EEE D2 D)!ped-up!|
+[V:1]A2 A !breath!A2 A|[V:2]x5 A|[V:3](A2 A A2) A|[V:4](F2 F F2) F|[V:5]!ped! (D2 D D2) D!ped-up!|
+[V:1]B B B e e e|[V:2]x6|[V:3]BBB eee|[V:4]GGG ccc|[V:5]!ped! DDD DDD!ped-up!|
+[V:1]d2 d d2 z|[V:2]x6|[V:3](d2 d d2) z|[V:4](B2 B B2) x|[V:5](D2 D D2) z|
+[V:1]z5|][V:2]x5|][V:3]!f! .[dgb]2 z z2|][V:4]x5|][V:5].[G,DG]2 z z2|]

@@ -1,0 +1,35 @@
+%%score ( 1 2 ) { ( 3 4 ) | 5 }
+L:1/8
+Q:1/4=120
+M:6/8
+K:Gb
+V:1 treble nm="Gesang\nVoice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:4 treble 
+V:5 bass 
+[V:1]"^Allegretto" z2|:[V:2]x2|:[V:3]!f! [gb]>[ac']|:[V:4]d2|:[V:5]G2|:
+[V:1]z6|[V:2]x6|[V:3][gbd']2 [gbd'] [gc'e']2 [gbd']|[V:4]x6|[V:5]G2 G G2 G|
+[V:1]z6|[V:2]x6|[V:3][gbd']>[fac'][fac'] [fac']2 [fac']|[V:4]x6|[V:5]D2 D D2 D|
+[V:1]z6|[V:2]x6|[V:3][fc'e']2 [fc'e'] [fc'g']2 [fc'f']|[V:4]x6|[V:5]D2 D D2 D|
+[V:1]z6|[V:2]x6|[V:3][gbg']>[gd'][gb] [gb]2 [gb]|[V:4]x6|[V:5][G,G]2 [G,G] [G,G]2 [G,G]|
+[V:1]z6|[V:2]x6|[V:3][gc'e']2 [gc'e'] [fc'd']2 [fc'd']|[V:4]x6|[V:5]C2 C A,2 A,|
+[V:1]z6|[V:2]x6|[V:3][gbd']2 [gb] [gc']2 [gb]|[V:4]x6|[V:5]B,2 D E2 D|
+[V:1]z6|1,2,3,4[V:2]x6|1,2,3,4[V:3][ga]2 [gae'] [fad']2 [fae']|1,2,3,4,5[V:4]x6|1,2,3,4[V:5][Cc]2 [A,A] [D,D]2 [D,D]|1,2,3,4
+[V:1]z5:|4[V:2]x5:|4[V:3][gbd']2 [db] [Bg]2:|4[V:4]x5:|4[V:5][G,G]2 [G,G] [G,G]2:|4
+[V:1]z5|][V:2]x5|][V:3][gbd']2 [db] [Bg]2|][V:4]x5|][V:5][G,G]2 [G,G] [G,G]2|]
+[V:1][M:4/4] B2 d B B3 A|[V:2][M:4/4] x8|[V:3][M:4/4] (DGBG) (DFAF)|[V:4][M:4/4] x8|[V:5][M:4/4] G,4 G,4|
+[V:1](G2 d) B G2 z2|[V:2]x8|[V:3](DGBG) (DGBG)|[V:4]x8|[V:5]G,4 G,4|
+[V:1]d2 d d d2 c A|[V:2]x8|[V:3](DFcF) (DFcF)|[V:4]x8|[V:5]D,4 D,4|
+[V:1]B3 A G2 z2|[V:2]x8|[V:3](DGBG) (DGBG)|[V:4]x8|[V:5]G,4 G,4|
+[V:1]e3 e e3 d|[V:2]x8|[V:3](EGcG) (E=GdG)|[V:4]x8|[V:5]C4 B,4|
+[V:1](c3 e) d2 z2|[V:2]x8|[V:3](EAcA) (E=GdG)|[V:4]x8|[V:5]A,4 B,4|
+[V:1]d =c d c dc d _c|[V:2]x8|[V:3](DAcA) (DAcA)|[V:4]x8|[V:5]F,4 D,4|
+[V:1](B3 c) d2 z2|[V:2]x8|[V:3](DGBG) (DGBG)|[V:4]x8|[V:5]G,4 G,4|
+[V:1]d2 d d d2 c A|[V:2]x8|[V:3](DFcF) (DFcF)|[V:4]x8|[V:5]D,4 D,4|
+[V:1]B2 z2 z4|]:[V:2]x8|]:[V:3]D2 z2 [DGB]2 z2|]:[V:4]x8|]:[V:5]G,2 z2 G,2 z2|]:
+[V:1][M:6/8] z6|[V:2][M:6/8] x6|[V:3][M:6/8]!f! [gb]>[ac']|[V:4][M:6/8] d2|[V:5][M:6/8] G2|
+[V:1]z6|[V:2]x6|[V:3][gbd']2 [gbd'] [gc'e']2 [gbd']|[V:4]x6|[V:5]G2 G G2 G|
+[V:1]z6|[V:2]x6|[V:3][gbd']>[fac'][fac'] [fac']2 [fac']|[V:4]x6|[V:5]D2 D D2 D|
+[V:1]z6|[V:2]x6|[V:3][fc'e']2 [fc'e'] [fc'g']2 [fc'f']|[V:4]x6|[V:5]D2 D D2 D|
+[V:1]z5:|[V:2]x5:|[V:3][gbg']>[gd'][gb] [gb]2:|[V:4]x5:|[V:5][G,G]2 [G,G] [G,G]2:|

@@ -1,0 +1,35 @@
+%%score 1 { 2 | ( 3 4 5 ) }
+L:1/8
+Q:1/4=60
+M:6/8
+K:B
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+V:4 bass 
+V:5 bass 
+[V:1]"^Lent" B c d c B|[V:2]!pp! (Bcd) (cB)|[V:3]z5|[V:4]x5|[V:5]x5|
+[V:1]e3 d2 d|[V:2]e3 d2 d|[V:3]C3 B,3|[V:4][FA]6|[V:5]x6|
+[V:1]g3 f e d|[V:2][GBg]3 (fed)|[V:3]E3 (DCB,)|[V:4]x6|[V:5]x6|
+[V:1]{d} c3 z2 c|[V:2]{d} [Ac]3 z2 [Ac]|[V:3]F2 C A,2 F,|[V:4]x6|[V:5]x6|
+[V:1]f3- fe d|[V:2][Bf]3- [Bf][Be][Bd]|[V:3]D3- DCB,|[V:4]x6|[V:5]x6|
+[V:1]d3- dc B|[V:2](d3- dc) [FB]|[V:3]B,3- B,E, D,|[V:4]F3- F2 x|[V:5]x6|
+[V:1]B3 A3|[V:2][^EB]3 [=EA]3|[V:3]C,3 C,3|[V:4]x6|[V:5]x6|
+[V:1]z2 z z2 f|[V:2]z2 z z2 [Af]|[V:3]z2 z z2 F,|[V:4]x6|[V:5]x6|
+[V:1]f3 d2 B|[V:2][Bf]3 [Bd]2 [FB]|[V:3]D,3 F,3|[V:4]x6|[V:5]x6|
+[V:1]c2 d c2 f|[V:2]([Ac]2 [Bd] [Ac]2) [cf]|[V:3]F,,3- F,,2 F,|[V:4]x6|[V:5]x6|
+[V:1]f3 d2 B|[V:2][Bf]3 [Bd]2 [FB]|[V:3]D,3 F,3|[V:4]x6|[V:5]x6|
+[V:1]{d} c3 z2 c|[V:2]{d} [Ac]3 z2 [Ac]|[V:3]F,,2 C, F,2 z|[V:4]x6|[V:5]x6|
+[V:1]^^c3- c d ^e|[V:2][G^^c]3- [Gc]d[G^e]|[V:3]A,3- A,^B,^^C|[V:4]x6|[V:5]x6|
+[V:1]f3 ^ed g|[V:2][Af]3 ^edg|[V:3]D3 B,2 ^B,|[V:4]x6|[V:5]x6|
+[V:1](f3 ^e3)|[V:2]([Acf]3 [Bc^e]3)|[V:3]C3 C,3|[V:4]x6|[V:5]x6|
+[V:1]f3 z2 F|[V:2][Acf]3 z2 F|[V:3]F,,3 z2 z|[V:4]x6|[V:5]x6|
+[V:1](G3 c3)|[V:2]([E-G]3 [Ec]3)|[V:3](B,3 A,3)|[V:4]x6|[V:5]x6|
+[V:1](c3 B) z B|[V:2](c3 B) z B|[V:3](A,3 B,2) z|[V:4]F3- F2 x|[V:5]x6|
+[V:1](c3 f3)|[V:2]([E-F-c]3 [EFf]3)|[V:3](A,3 F,3)|[V:4]x6|[V:5]x6|
+[V:1](e3 d2) B|[V:2](e3 d2) [DB]|[V:3](A,3 B,2) B,|[V:4]F6|[V:5](C3 B,2) x|
+[V:1]f3 dc B|[V:2][FBf]3 ([Fd][Ec][DB])|[V:3]D,3 (B,,C,D,)|[V:4]x6|[V:5]x6|
+[V:1](e3 e)c B|[V:2]([GBe]3 [EB])[EGc][EFB]|[V:3]G,3- G,E,^E,|[V:4]x6|[V:5]x6|
+[V:1](B3 A3)|[V:2]([DFB]3 [EFA]3)|[V:3]F,3 F,,3|[V:4]x6|[V:5]x6|
+[V:1]B3 z2 z|[V:2][DFB]3 z2 z|[V:3]B,,2 B,, B,,3-|[V:4]x6|[V:5]x6|
+[V:1]z6|][V:2][I:staff +1] [D,F,B,]3 z2 z|][V:3]B,,3 z2 z|][V:4]x6|][V:5]x6|]

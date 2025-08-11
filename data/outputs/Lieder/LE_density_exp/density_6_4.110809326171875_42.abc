@@ -1,0 +1,16 @@
+%%score ( 1 2 ) { ( 3 6 7 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=116
+M:2/2
+K:Eb
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:6 treble 
+V:7 treble 
+V:4 bass 
+V:5 bass 
+[V:1]!fermata!z4 z2!p! B,2|[V:2]%distance=6[r:0/3]x8|[V:3]!fermata![B,DB]6)!p! (B,2|[V:4][B,,F,]6 (B,,2|[V:5]%distance=6[r:0/3]x8|[V:6]%distance=6[r:0/3]x8|[V:7]%distance=6[r:0/3]x8|
+[V:1]E2 F2 G2 G2|[V:2]x8|[V:3]EB,FB, GB,GB,|[V:4]G,2 F,2 E,2 D,2|[V:5]B,,8-|[V:6]x8|[V:7]x8|
+[V:1]A2 G2 F2 B,2|[V:2]x8|[V:3]AB,GB, FB,DB,|[V:4]C,2 B,,2 A,,2 F,,2|[V:5]B,,4 B,,4|[V:6]x8|[V:7]x8|
+[V:1]E2 F2 G2 E2|[V:2]x8|[V:3]EB,FB, GB,[G,E]B,|[V:4]G,,2 F,,2 E,,2 G,,2|[V:5]B,,6 x2|[V:6]x8|[V:7]x8|

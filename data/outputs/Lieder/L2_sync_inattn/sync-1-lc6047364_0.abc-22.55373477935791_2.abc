@@ -1,0 +1,46 @@
+%syncopation 6 5 5 5 5 4 5 5 5 5 5 5 5 5 5 5 5 5 3 6
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=116
+M:2/4
+K:Eb
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+[V:1]"^Allegretto" z|[V:2]!p! [G,B,]|[V:3]z1|
+[V:1]z4|[V:2]([G,B,][G,B,]).[G,B,].[G,B,]|[V:3]z2 E, z|
+[V:1]z2 z!p! B|[V:2][G,B,]3 [G,B,]|[V:3]E, z E, z|
+[V:1]B B B B|[V:2][G,B,][G,B,][G,B,][G,B,]|[V:3]E, z E, z|
+[V:1]e2 B2|[V:2][G,B,]3 [G,B,]|[V:3]E, z E, z|
+[V:1]B G A F|[V:2][G,B,][G,B,][A,B,D][A,B,D]|[V:3]E, z B,, z|
+[V:1]E2 z E|[V:2][G,B,E][G,B,E][G,B,E][G,B,E]|[V:3]E, z E, z|
+[V:1]E G c e|[V:2][G,CE][G,CE][G,CE][G,CE]|[V:3]C, z C, z|
+[V:1]e2 d2|[V:2][G,=B,D][G,B,D][G,B,D][G,B,D]|[V:3]G,, z G,, z|
+[V:1]z d c =A|[V:2][^F,CD][F,CD][F,CD][F,CD]|[V:3]D,, z D,, z|
+[V:1]G2 z d|[V:2][G,B,D][G,B,D][G,B,D][G,B,D]|[V:3]G,, z G,, z|
+[V:1]e c A F|[V:2][F,A,C][F,A,C][F,A,C][F,A,C]|[V:3]A,, z A,, z|
+[V:1]F2 z B|[V:2][F,A,B,][F,A,B,][F,A,B,][F,A,B,]|[V:3]D,, z D,, z|
+[V:1]e c A F|[V:2][F,A,C][F,A,C][F,A,C][F,A,C]|[V:3]A,, z A,, z|
+[V:1]B2 z B|[V:2][F,A,B,][F,A,B,][F,A,B,][F,A,B,]|[V:3]D,, z D,, z|
+[V:1]!<(! B B B B|[V:2]!<(! [F,A,B,][F,A,B,][F,A,B,][F,A,B,]|[V:3]D, z D, z|
+[V:1]B3 c|[V:2][G,B,][G,B,][G,B,][G,C]|[V:3]E, z E, z|
+[V:1]d e!<)!!>(! f d!>)!|[V:2][A,D][G,E]!<)!!>(![A,F][A,D]!>)!|[V:3]B,, z B,,, z|
+[V:1]e2 z::[V:2][G,E]2 z::[V:3]E,,2 z::
+[V:1]B|[V:2][G,B,]|[V:3]z1|
+[V:1]!f! e3 B|[V:2]!f! [G,B,E][G,B,E][G,B,E][G,B,E]|[V:3]E, z z2|
+[V:1]G3 E|[V:2][G,B,E][G,B,E][G,B,E][G,B,E]|[V:3]E, z z2|
+[V:1]D B c d|[V:2][A,B,D][A,B,D][A,B,D][A,B,D]|[V:3]B,, z z2|
+[V:1]B2 z B|[V:2][A,B,D][A,B,D][A,B,D][A,B,D]|[V:3]B,, z z2|
+[V:1]e3 B|[V:2][G,B,E][G,B,E][G,B,E][G,B,E]|[V:3]E, z z2|
+[V:1]G3 E|[V:2][G,B,E][G,B,E][G,B,E][G,B,E]|[V:3]E, z z2|
+[V:1]!<(! B, G F B!<)!|1[V:2]!<(! [F,B,D][F,B,D][F,B,D][F,B,D]!<)!|1[V:3]F,, z F,, z|1
+[V:1]!f! B,2 z:|2[V:2]!f! [F,B,D][F,B,D][F,B,D]:|2[V:3]B,, z z:|2
+[V:1]B,2 z|:[V:2][F,B,D]2 z|:[V:3]B,,2 z|:
+[V:1]!p! B|[V:2]z1|[V:3]z1|
+[V:1]B3 B|[V:2]!p! z .[FAB].[FAB] z|[V:3]D,3 z|
+[V:1]B3 B|[V:2]z .[GBe].[GBe] z|[V:3]E,3 z|
+[V:1]B3 B|[V:2]z .[FAB].[FAB] z|[V:3]D,3 z|
+[V:1]B3!mf! B|[V:2]z .[GBe].[GBe] z|[V:3]E,3 z|
+[V:1]"^poco rit."[Q:1/4=100]!<(! B3 B|[V:2]"_poco riten."!pp! z .[FAB].[FAB] z|[V:3]D,3 z|
+[V:1]B3 B|[V:2]z .[GBe].[GBe] z|[V:3]E,3 z|
+[V:1][Q:1/4=90] B2 !fermata!A!<)!|][V:2]!fermata![DAB]3|][V:3]!fermata!B,,3|]

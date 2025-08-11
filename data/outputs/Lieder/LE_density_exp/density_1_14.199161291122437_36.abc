@@ -1,0 +1,28 @@
+%%score 1 { ( 2 5 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=80
+M:3/4
+K:Db
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:5 treble 
+V:3 bass 
+V:4 bass 
+[V:1]"^Lentenu langsam" z6|[V:2]!mf! [DF][DF]/[DF]/ [DF][DF][DF][DF]|[V:3]%distance=1[r:0/17]z6|[V:4]%distance=1[r:0/17]x6|[V:5]%distance=1[r:0/17]x6|
+[V:1]!f! F3/2 E/ D E F G|[V:2]!f! [DF][DF]/[CE]/ [DF][DE][FA][GA]|[V:3][D,A,]>[D,A,] [D,A,][D,A,][D,A,][D,A,]|[V:4]x6|[V:5]x6|
+[V:1]A3/2 F/ F z z2|[V:2][FA]>[DF] [DF][FA]/[FA]/ [FA][FA]|[V:3][D,A,]>[D,A,] [D,A,] z z2|[V:4]x6|[V:5]x6|
+[V:1]!p! E G G B B d|[V:2]!p! [CE][CG][CG][CGB][CGB][DGB]|[V:3]A,A,A,A,A,A,|[V:4]x6|[V:5]x6|
+[V:1]d2 A z z2|[V:2][Fd]>[DFA] [DFA]!<(![DFA][DFA][DFA]|[V:3][D,A,]>D, D, z z2|[V:4]x6|[V:5]x6|
+[V:1]!f! A3/2 A/ d c B A|[V:2][DA]>[DA]!<)! [Dd][Dc][DB][DA]|[V:3][F,A,]>[F,A,] [F,A,][F,A,][G,B,][A,=B,]|[V:4]x6|[V:5]x6|
+[V:1]e3/2 A/ A z z2|[V:2][Ee]>[EA] [EA][EA]/[EA]/ [EA][EA]|[V:3][A,C]>[A,C] [A,C] z z2|[V:4]x6|[V:5]x6|
+[V:1]!p! B3/2 B/ B3/2 B/ =A A|[V:2]!p! [FB][FB]/[FB]/ [FB][FB][E=A][EA]|[V:3][D,D][D,D][D,D][D,D][C,C][C,C]|[V:4]x6|[V:5]x6|
+[V:1]!<(! d3/2 d/ d!<)!!>(! B =A B!>)!|[V:2][DFd][DFd]/[DFd]/ [DFd][B,FB][CE=A][DFB]|[V:3][B,,B,]>[B,,B,] [B,,B,]D,C,B,,|[V:4]x6|[V:5]x6|
+[V:1]!>(! e3/2 c/!>)!!p! A2 z2|[V:2][EAe]>[EAc] [CEA][CEA]/[CEA]/ [CEA][CEA]|[V:3][C,A,]>[C,A,] [C,A,] z z2|[V:4]x6|[V:5]x6|
+[V:1]!<(! B3/2 B/ e c!<)!!>(! d B!>)!|[V:2]!<(! [B,DEB]>[B,DEB]!<)![B,DEB]!>(![CEA]!>)![DFA][B,D=G]|[V:3][G,,G,]>[G,,G,][G,,G,]A,,B,,E,,|[V:4]x6|[V:5]x6|
+[V:1]A3/2 A/ A2 z2|[V:2][CA]>[CE] [CE][CE]/[CE]/ [CE][CE]|[V:3][A,,E,]>[A,,E,] [A,,E,] z z2|[V:4]x6|[V:5]x6|
+[V:1]z6|[V:2]!mf! [EGB][EGB]/[EGB]/ [EGB][EGB][EGB][EGB]|[V:3]z6|[V:4]x6|[V:5]x6|
+[V:1]!mf! c3/2 A/ A A B c|[V:2]!mf! [EGc]>[CEGA][CEGA][CEGA][DEGB][CEGc]|[V:3][A,,A,]>[A,,A,][A,,A,][A,,A,][A,,A,][A,,A,]|[V:4]x6|[V:5]x6|
+[V:1]!>(! d3/2 A/ A2!>)! z2|[V:2]!>(! [DFd]>[DFA] [DFA]!>)![DFA]/[DFA]/ [DFA][DFA]|[V:3][D,A,]>[D,A,] [D,A,] z z2|[V:4]x6|[V:5]x6|
+[V:1]!mf! B3/2 B/ B B B B|[V:2]!mf! [DFB]>[DFB][DFB][DFB][DFB][DFB]|[V:3][B,,B,]>[B,,B,][B,,B,][B,,B,][B,,B,][B,,B,]|[V:4]x6|[V:5]x6|
+[V:1]e3/2 B/ B B c B|[V:2][E=GBe]>[EGB][EGB][EGB][EGc][EGB]|[V:3][E,,E,]>[E,,E,][E,,E,][E,,E,][E,,E,][E,,E,]|[V:4]x6|[V:5]x6|
+[V:1]!>(! d3/2 A/ A2!>)! z2|[V:2]!>(! [DFd]>[DFA] [DFA]!>)!!p![DFA]/[DFA]/ [DFA][DFA]|[V:3][D,A,]>[D,A,] [D,A,] z z2|[V:4]x6|[V:5]x6|

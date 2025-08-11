@@ -1,0 +1,26 @@
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=64
+M:4/4
+K:B
+V:1 treble nm="Voice" snm="Vo."
+V:2 treble nm="Piano" snm="Pno."
+V:4 treble 
+V:3 bass 
+V:5 bass 
+[V:1]"^Sehr langsam und la bewegter" F3/2 D/ F3/2 F/ B c !fermata!e3/2 d/|[V:2]!arpeggio![B,DFB]4 !arpeggio![B,FB]4|[V:3]!arpeggio![B,,,F,,B,,]4 !arpeggio![D,,F,,B,,D,]4|[V:4]x8|[V:5]x8|
+[V:1]!<(! d2-!<)!!>(! (3d c B!>)! d4|[V:2]!arpeggio![B,DFB]4 !arpeggio![B,DFB]4|[V:3]!arpeggio![B,,,F,,B,,]4 !arpeggio![B,,,F,,B,,]4|[V:4]x8|[V:5]x8|
+[V:1]"^rall."[Q:1/4=72]!<(! c3/2 B/!<)!!>(! d3/2 c/!>)! B3 F|[V:2]"_rall." [B,EB]4 [B,DF]4|[V:3]"^rall." [G,,,G,,]4 [B,,,B,,]4|[V:4]x8|[V:5]x8|
+[V:1][Q:1/4=70]!<(! G3/2 G/ A3/2 A/!<)!!>(! !breath!!fermata!B3!>)!!mf! F||[V:2]"_rall." [B,^EG]2 [A,=EF]2 !fermata![B,DFB]4||[V:3]"_rit." [C,,C,]2 [F,,,F,,]2 !fermata![B,,,F,,B,,]4||[V:4]x8||[V:5]x8||
+[V:1][M:3/4]"^Variation asses langsam tenuto"!p! F3/2 D/ F3/2 F/ B c|[V:2][M:3/4]"^Variation sans pressione" [B,FB]>[B,FB] [B,FB]2 z2|[V:3][M:3/4] [B,,,F,,B,,]>[B,,,F,,B,,] [B,,,F,,B,,]2 z2|[V:4][M:3/4] x6|[V:5][M:3/4] x6|
+[V:1]d c B2 z2|[V:2][B,DB]>[B,DB] [B,DB]2 z2|[V:3][B,,,F,,B,,]>[B,,,F,,B,,] [B,,,F,,B,,]2 z2|[V:4]x6|[V:5]x6|
+[V:1]c3/2 B/ d3/2 c/ B2|[V:2][B,EB]>[B,EB] [B,DB]2 [B,DB]2|[V:3][G,,,G,,]>[G,,,G,,] [B,,,F,,B,,]2 [B,,,F,,B,,]2|[V:4]x6|[V:5]x6|
+[V:1]G3/2 G/ A A B z|[V:2][B,^EG]>[B,EG] [A,FA][A,FA][B,DFB] z|[V:3][C,,C,]>[C,,C,] [F,,C,][F,,C,][B,,,B,,] z|[V:4]x6|[V:5]x6|
+[V:1][Q:1/4=74] z6|[V:2]"^Tempo" z6|[V:3]!ff! [F,,,F,,]2 [B,,,B,,]2 [D,,D,]2|[V:4]x6|[V:5]x6|
+[V:1]z4!mp![Q:1/4=92] F2|[V:2]!mp! (B,C/D/) E2 F2|[V:3][G,,,G,,]4 [F,,,F,,]2|[V:4]B,4 A,2|[V:5]x6|
+[V:1]!<(! F3/2 F/!<)!!>(! B2!>)! c3/2 d/|[V:2][F,B,DF]4!<(! [F,A,EF]2!<)!|[V:3][B,,,B,,]4 [F,,,F,,]2|[V:4]x6|[V:5]x6|
+[V:1]c2 B2 z2|[V:2]!>(! [B,DF]6!>)!|[V:3][B,,,B,,]6|[V:4](C2 B,2 A,2)|[V:5]x6|
+[V:1]!mf! B3/2 B/ d2 c2|[V:2]!mf! (3(B,/C/D/(3F/D/B,/) (3(A,/C/F/(3A/F/C/) (3(A,/C/F/(3A/F/C/)|[V:3][B,,,B,,]2 [F,,,F,,]2 [A,,,A,,]2|[V:4]x6|[V:5]x6|
+[V:1]"^rit."[Q:1/4=68]!>(! (B2!>)![Q:1/4=64]"^rit."[Q:1/4=62] d4)[Q:1/4=60][Q:1/4=56][Q:1/4=56]|[V:2]"_rit." (3(B,/D/F/(3B/F/D/)"^rit." (3(B,/D/F/(3B/F/D/) (3(B,/D/F/(3B/F/D/)|[V:3][B,,,B,,]6|[V:4]x6|[V:5]x6|
+[V:1][Q:1/4=50] z6|[V:2]"^poco rit."!<(! (3(B,/D/F/(3B/F/D/)!<)!!>(! (3(A,/D/F/(3A/F/D/)!>)!!p! (3(A,/E/F/(3A/F/E/)|[V:3][D,,,D,,]2 [F,,,F,,]2 [F,,,F,,]2|[V:4]x6|[V:5]x6|
+[V:1][Q:1/4=46] z6|][V:2]"^Tempo I" [B,DF]6|][V:3]!pp! [B,,,,B,,,]6|][V:4]x6|][V:5]x6|]

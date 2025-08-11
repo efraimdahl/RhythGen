@@ -1,0 +1,33 @@
+%syncopation 6 5 5 5 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 4 4 4 5 5 5 6 6 6
+%%score ( 1 2 ) { ( 3 5 ) | ( 4 6 ) }
+L:1/8
+Q:1/4=92
+M:4/4
+K:Ab
+V:1 treble nm="Voice"
+V:2 treble 
+V:3 treble nm="Piano"
+V:5 treble 
+V:4 bass 
+V:6 bass 
+[V:1]"^Andante con moto" z8|[V:2]x8|[V:3]z [cea][cea][cea] [cea][cea][cea][cea]|[V:4]!ped! A,ECE CECE!ped-up!|[V:5]x8|[V:6]x8|
+[V:1]z8|:[V:2]x8|:[V:3]!>(! z [cea][cea][cea] [cea][cea][cea][cea]!>)!|:[V:4]!ped! A,ECE CECE!ped-up!|:[V:5]x8|:[V:6]x8|:
+[V:1]!p! e2 c d e2 c A|[V:2]x8|[V:3]!p! z [cea][cea][cea] [cea][cea][cea][cea]|[V:4]!ped! A,ECE CECE!ped-up!|[V:5]x8|[V:6]x8|
+[V:1]B3 d c2 z2|[V:2]x8|[V:3]z [deg][deg][deg] [cea][cea][cea][cea]|[V:4]!ped! E,EGE!ped-up!!ped! A,ECE!ped-up!|[V:5]x8|[V:6]x8|
+[V:1]e2 c d e2 c A|[V:2]x8|[V:3]z [cea][cea][cea] [cea][cea][cea][cea]|[V:4]!ped! A,ECE CECE!ped-up!|[V:5]x8|[V:6]x8|
+[V:1]B3 d c2 z2|[V:2]x8|[V:3]z [deg][deg][deg] [cea][cea][cea][cea]|[V:4]!ped! E,EGE!ped-up!!ped! A,ECE!ped-up!|[V:5]x8|[V:6]x8|
+[V:1]e2 e e a2 g f|[V:2]x8|[V:3]z [cea][cea][cea] [cfa][cfa][cfa][cfa]|[V:4]!ped! A,AEA!ped-up!!ped! =D,=DA,D!ped-up!|[V:5]x8|[V:6]x8|
+[V:1]e2 =d2 _d3 c|[V:2]x8|[V:3]z [ceg][ceg][ceg] [B=da][Bd_a][Bda][Bda]|[V:4]!ped! E,EGE!ped-up!!ped! B,FDF!ped-up!|[V:5]x8|[V:6]x8|
+[V:1]B2 B B c2 c c|[V:2]x8|[V:3]z [Bde][Bde][Bde] z [cea][cea][cea]|[V:4]!ped! G,EB,E!ped-up!!ped! A,ECE!ped-up!|[V:5]x8|[V:6]x8|
+[V:1]d3 d d c z2|[V:2]x8|[V:3]z [deb][deb][deb] [deb][cea][cea][cea]|[V:4]!ped! G,EB,E!ped-up!!ped! A,ECE!ped-up!|[V:5]x8|[V:6]x8|
+[V:1]f2 f f g2 g g|[V:2]x8|[V:3]z [Bfa][Bfa][Bfa] z [B=eg][Beg][Beg]|[V:4]!ped! D,B,DB,!ped-up!!ped! C,CB,C!ped-up!|[V:5]x8|[V:6]x8|
+[V:1]a3 c c2 z2|[V:2]x8|[V:3]z [Afa][Afa][Afa] z [cac'][cac'][cac']|[V:4]!ped! F,CA,C!ped-up!!ped! =E,C=EC!ped-up!|[V:5]x8|[V:6]x8|
+[V:1]a2 e e d2 c c|[V:2]x8|[V:3]z [eac'][eac'][eac'] z [dfb][dfb][cea]|[V:4]!ped! F,CA,C!ped-up!!ped! D,B,E,C!ped-up!|[V:5]x8|[V:6]x8|
+[V:1]B3 c c c z2|[V:2]x8|[V:3]z [Beg][Beg][Beg] z [Aca][Aca][Aca]|[V:4]!ped! DEE,E!ped-up!!ped! A,ECE!ped-up!|[V:5]x8|[V:6]x8|
+[V:1]!mf! a2 e e f2 f f|[V:2]x8|[V:3]!mf! z [cea][cea][cea] z [dfa][dfa][dfa]|[V:4]!ped! _G,ACG!ped-up!!ped! F,ADA!ped-up!|[V:5]x8|[V:6]x8|
+[V:1]a3 d d2 z2|[V:2]x8|[V:3]z [dfa][dfa][dfa] z [d_gb][dgb][dgb]|[V:4]!ped! _G,ADA!ped-up!!ped! _G,BGB!ped-up!|[V:5]x8|[V:6]x8|
+[V:1]b2 f f e2 d d|[V:2]x8|[V:3]z [dfb][dfb][dfb] z [e_gc'][egc'][dfb]|[V:4]!ped! _G,BDG!ped-up!!ped! C=AEB!ped-up!|[V:5]x8|[V:6]x8|
+[V:1]!>(! c3 d d d d z|[V:2]x8|[V:3]!>(! z [ce=a][cea][cea] z [dfb][dfb][dfb]|[V:4]!ped! F,=ACA!ped-up!!ped! B,BDB!ped-up!|[V:5]x8|[V:6]x8|
+[V:1]d2 d d!>)!!p! (fe) d c|1[V:2]x8|1[V:3]z [dfb][dfb][dfb]!>)!!p! z [Bdg][Bdg][Bdg]|1[V:4]!ped! E,GEG!ped-up!!ped! E,GEG!ped-up!|1[V:5]x8|1[V:6]x8|1
+[V:1]!>(! B3 A A2 z2!>)!:|2[V:2]x8:|2[V:3]z [Aca][Aca][Aca] z [Aca][Aca][Aca]:|2[V:4]!ped! A,,ECE!ped-up!!ped! A,ECE!ped-up!:|2[V:5]x8:|2[V:6]x8:|2
+[V:1]B3 A A4|][V:2]x8|][V:3]z [Aca][Aca][Aca] z [Aca][Aca][Aca]|][V:4]!ped! A,,ECE!ped-up!!ped! A,ECE!ped-up!|][V:5]x8|][V:6]x8|]

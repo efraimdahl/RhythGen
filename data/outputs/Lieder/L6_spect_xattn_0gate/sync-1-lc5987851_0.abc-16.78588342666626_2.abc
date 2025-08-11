@@ -1,0 +1,35 @@
+%%score 1 { ( 2 3 ) | ( 4 5 6 ) }
+L:1/8
+Q:1/4=80
+M:2/4
+K:F#
+V:1 treble nm="Gesang\nVoice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:6 bass 
+[V:1]"^Andante con espress."!p!!<(! c2 c c!<)!|[V:2]!p! c2 c c|[V:3]CFGC|[V:4](A,,C,) (G,,E,)|[V:5]x4|[V:6]x4|
+[V:1](cB) A B|[V:2]cB A B|[V:3]DEFD|[V:4](G,,C,) (D,F,)|[V:5]x4|[V:6]x4|
+[V:1](cd)!>(! B G!>)!|[V:2]c d!>(! [CGB] [B,EG]!>)!|[V:3]F2 x2|[V:4](A,,F,,) [C,,C,]2|[V:5]C,2 x2|[V:6]x4|
+[V:1]F3!mf! F|[V:2]F3!mf! F|[V:3](A,C) (A,C)|[V:4][F,,C,]2 [F,,C,]2|[V:5]x4|[V:6]x4|
+[V:1]G2 (AB)|[V:2]G2 (AB)|[V:3](G,C) (G,C)|[V:4][E,,C,]2 [E,,C,]2|[V:5]x4|[V:6]x4|
+[V:1](BA) A G|[V:2](BA) (AG)|[V:3](F,C) (B,C)|[V:4][F,,C,]2 [E,,C,]2|[V:5]x4|[V:6]x4|
+[V:1]F F G A|[V:2][A,F] F G A|[V:3]x F, B,=E|[V:4][F,,C,]2 [C,,C,]2|[V:5]x4|[V:6]x4|
+[V:1]B3!f! B|[V:2][DFB]3!f! B|[V:3]x4|[V:4]([B,,F,]F,, B,,,) z|[V:5]x4|[V:6]x4|
+[V:1]d2 c c|[V:2]d2 c c|[V:3]B,F A,F|[V:4]B,,2 C,2|[V:5]x4|[V:6]x4|
+[V:1]c2 B B|[V:2]c2 B B|[V:3]A,F G,F|[V:4]=E,2 D,2|[V:5]x4|[V:6]x4|
+[V:1]!<(! A2 G G!<)!|[V:2]!<(! A2 G G!<)!|[V:3]F,C G,C|[V:4]C,2 C,,2|[V:5]x4|[V:6]x4|
+[V:1]!>(! G2 F G!>)!|[V:2]!>(! G2 F G!>)!|[V:3]F,D F,=E|[V:4][D,,A,,]4|[V:5]x4|[V:6]x4|
+[V:1]"^dim." B2 B B|[V:2]"^dim." B2 B B|[V:3]G,D G,D|[V:4][G,,,G,,]2 B,,2|[V:5]x4|[V:6]x4|
+[V:1]B2 B B|[V:2]B2 B B|[V:3]B,D B,D|[V:4][D,,B,,]4|[V:5]x4|[V:6]x4|
+[V:1]!p! A2 G F|[V:2]!p! A2 G F|[V:3]A,C ^B,D|[V:4][F,,C,]2 [G,,,G,,]2|[V:5]x4|[V:6]x4|
+[V:1]!<(! (E2!<)! G)!mf! B|[V:2]!<(! (E2 G)!<)!!mf! B|[V:3](B,DB,) E|[V:4][C,,G,,]4|[V:5]x4|[V:6]x4|
+[V:1]A2 G F|[V:2]A2 G F|[V:3]A,C B,D|[V:4][F,,C,]2 [B,,,F,,]2|[V:5]x4|[V:6]x4|
+[V:1]!>(! c4-|[V:2]!>(! c4-|[V:3]CF CF|[V:4]A,,4-|[V:5]C,,4-|[V:6]x4|
+[V:1]c2!>)! z2|[V:2]c2 z2!>)!|[V:3]CF CF|[V:4]A,,4|[V:5]C,,4|[V:6]x4|
+[V:1]z4!p!|[V:2]!p! z4|[V:3]C2 x2|[V:4]!p!!ped! A,C F,A,!ped-up!|[V:5][C,,F,,C,]4-|[V:6]x4|
+[V:1]z4|[V:2]z4|[V:3]x4|[V:4]C,F, A,,C,|[V:5][C,,F,,C,]4|[V:6]x4|
+[V:1]z4|[V:2]z4|[V:3]x4|[V:4]!ped! (A,,C,A,,C,|[V:5]C,,4-|[V:6]F,,4-|
+[V:1]z4[Q:1/4=75][Q:1/4=70]|[V:2]z4|[V:3]x4|[V:4]A,,C,"_Rall."A,,C,!ped-up!|[V:5]C,,4-|[V:6]F,,4-|
+[V:1]z4|][V:2]z4|][V:3]x4|][V:4]!fermata!A,,4)|][V:5]C,,4|][V:6]F,,4|]
