@@ -1,23 +1,69 @@
 ## Data Pre-processing
 
-### Convert from MusicXML
+### Batch Conversion
+For your convenience we have set up a bunch of batch conversion scripts to prepare your data for training and evaluation. 
 
-- Modify the ```ORI_FOLDER``` and ```DES_FOLDER``` in ```1_batch_xml2abc.py```, then run this script from the root of the project directory:
-  ```
-  python 1_batch_xml2abc.py
-  ```
-  This will conver the MusicXML files into standard ABC notation files.
-- Modify the ```ORI_FOLDER```, ```INTERLEAVED_FOLDER```, ```AUGMENTED_FOLDER```, and ```EVAL_SPLIT``` in ```2_data_preprocess.py```:
+For the conversion from midi to xml, mscx2xml and xml2midi you will need to 
+download and install the musescore commandline software. 
+
+To convert in bulk, set the ```ORI_FOLDER``` abd ```DES_FOLDER``` variables in either 
+Then navigate to the `preprocessing/scripts` folder and run.
+
+```
+python batch_midi2xml.py
+```
+
+Use the ```musescore_options.xml``` to set export options (buggy).  
+
+### Extract Onsets
+
+In `data_config.py` you can make some important decisions, i.e decide on the size and range of feature vectors, the maximum resolution of the piece, and whether data augmentation is applied.
+
+For labelling the data the onsets are extracted from the piece. The ABCRhythmTool from the  `abc_rhythm` file is applied on each piece to extracts note density, syncopation scores, as well as inner metric analysis from the onsets parsed from the ABC files. You will need to provide a proto_rhythms file, which contains the beat_strength profile for every meter. This is calculated in `get_beat_str.py` which you can run from the root directory by running.
+
+```
+python -m preprocessing.get_beat_str_profile 
+```
+
+You can test the labelling on a single file by running 
+```
+python -m preprocessing.abc_rhythm
+```
+
+The `1_extract_onsets_abc.py` uses ABCRhythmTool to extract the scores, inner metric/spectral weights and onsets from each piece, additionally it performs quantile based labelling based on the note-density and syncopation scores.
+
+
+
+Modify the ```ORI_FOLDER```, ````ONSET_FILE_LOCATION```, `ONSET_FILE_NAME`. Make sure to correctly indicate whether your ABC files are in interleaved or regular abc notation by setting `INTERLEAVED`. If you want to avoid statistical labeling, you can set manual boundaries using `MANUAL_BOUNDARIES`, just make sure this matches your `N_CLASSES` from `data_config.py`. Set the `TARGET_ONSET_FILE` if you want to use quantile boundaries from another (already processed) dataset. 
+
+Then run
+
+```
+python -m preprocessing.3_extract_onsets_abc
+```
+
+### Prepare the training set
+
+
+Modify the ```ORI_FOLDER```, ```INTERLEAVED_FOLDER```, ```AUGMENTED_FOLDER```, and ```EVAL_SPLIT``` in ```2_prepare_training_set.py```:
   
   ```python
-  ORI_FOLDER = ''  # Folder containing standard ABC notation files
-  INTERLEAVED_FOLDER = ''   # Output interleaved ABC notation files that are compatible with CLaMP 2 to this folder
-  AUGMENTED_FOLDER = ''   # On the basis of interleaved ABC, output key-augmented and rest-omitted files that are compatible with NotaGen to this folder
-  EVAL_SPLIT = 0.1    # Evaluation data ratio
+  ORI_FOLDER = ""  # Replace with the path to your folder containing standard ABC notation files
+INTERLEAVED_FOLDER = ''   # Output interleaved ABC notation files to this folder
+AUGMENTED_FOLDER = ''   # Output key-augmented and rest-omitted ABC notation files to this folder
+
+ONSET_DATA = '' #Point this to your extracted onset file.
+
+FEATURE_TYPE = "arranged" #Set to bar for one feature per bar. Set to onset for one features per onset, Set to arranged for one feature per onset already arranged by
+
+TARGET_FEATURE = "spectral_arranged"
+
+PATH_REPLACEMENT_TERM = "abc_test" #"abc_test" #if onset key differes from file location. (default is abc)
+
   ```
-  then run this script:
+  then run this script from the root directory:
   ```
-  python 2_data_preprocess.py
+  python -m preprocessing.2_data_preprocess
   ```
   - The script will convert the standard ABC to interleaved ABC, which is compatible with CLaMP 2. The files will be under ```INTERLEAVED_FOLDER```.
 
@@ -31,21 +77,16 @@
 
 We recommend [EasyABC](https://sourceforge.net/projects/easyabc/), a nice software for ABC Notation previewing, composing and editing.
 
-It's needed to add a line "X:1" before each piece to present the score image in EasyABC :D
+It may be neccessary to add a line "X:1" before each piece to present the score image in EasyABC.
+
 ### Check and Repair bar alignment. 
-Use the file `6_correct_alignment.py` which checks and fixes bar alignment in `.abc` files from `FILE_PATH`, saves corrected files to `TARGET_PATH`, and prints alignment stats.
+Use the file `5_correct_alignment.py` which checks and fixes bar alignment in `.abc` files from `FILE_PATH`, saves corrected files to `TARGET_PATH`, and prints alignment stats.
 
 1. Set `FILE_PATH` and `TARGET_PATH` in the script.
-2. Run:
-   ```bash
-   python align_checker.py
-
+2. Run from the root directory of the project:
+```bash
+   python preprocessing.5_correct_alignment
+```
 
 ### Convert to MusicXML
-
-- Go to the data folder ```cd data/```
-- Modify the ```ORI_FOLDER``` and ```DES_FOLDER``` in ```3_batch_abc2xml.py```, then run this script:
-  ```
-  python 3_batch_abc2xml.py
-  ```
-  This will conver the standard/interleaved ABC notation files into MusicXML files.
+Use the batch conversion scripts as shown above.

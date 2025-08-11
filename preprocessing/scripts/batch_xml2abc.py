@@ -1,5 +1,5 @@
-ORI_FOLDER = "/home/efraim/Desktop/RagtimeExp/RAG_XML"  # Replace with the path to your folder containing XML (.xml, .mxl, .musicxml) files
-DES_FOLDER = "../../Datasets/Ragtime/abc"   # The script will convert the musicxml files and output standard abc notation files to this folder
+ORI_FOLDER = "../../data/example/LB/xml"  # Replace with the path to your folder containing XML (.xml, .mxl, .musicxml) files
+DES_FOLDER = "../../data/example/LB/abc"   # The script will convert the musicxml files and output standard abc notation files to this folder
 
 NFILES = None
 

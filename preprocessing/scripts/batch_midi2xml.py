@@ -1,7 +1,7 @@
-ORI_FOLDER = "/home/efraim/Desktop/RagtimeExp/Clean_RAG"  # Replace with the path to your folder containing XML (.xml, .mxl, .musicxml) files
-DES_FOLDER = "/home/efraim/Desktop/RagtimeExp/RAG_XML"   # The script will convert the musicxml files and output standard abc notation files to this folder
+ORI_FOLDER = ""  # Replace with the path to your folder containing MIDI or mid files
+DES_FOLDER = ""   # The script will convert the musicxml files and output standard abc notation files to this folder
 
-OPTIONS_FILE = "musescore_options.xml"
+OPTIONS_FILE = "musescore_options.xml" 
 import os
 import math
 import random
@@ -10,7 +10,7 @@ from tqdm import tqdm
 from multiprocessing import Pool
 
 
-def convert_mscx2xml(file_list):
+def convert_midi2xml(file_list):
     cmd = f"musescore3 -M {OPTIONS_FILE}"
     for file in tqdm(file_list):
         filename = os.path.basename(file)
@@ -44,4 +44,4 @@ if __name__ == '__main__':
 
     # Create a pool for processing
     with Pool(processes=num_processes) as pool:
-        pool.map(convert_mscx2xml, file_lists)
+        pool.map(convert_midi2xml, file_lists)

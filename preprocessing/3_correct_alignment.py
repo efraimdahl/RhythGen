@@ -2,16 +2,16 @@ import os
 import re
 from collections import defaultdict
 import tqdm
-from utils import check_alignment_rotated
-from abc_rhythm import ABCRhythmTool
+from .utils import check_alignment_rotated
+from .abc_rhythm import ABCRhythmTool
 
 # -----------------------
 # Configuration
 # -----------------------
 tool = ABCRhythmTool(min_note_val=1/48)
 
-FILE_PATH = "data/outputs/Lieder/L7_metric_xattn"
-TARGET_PATH = "data/outputs/Lieder/L7_metric_xattn"
+FILE_PATH = "data/outputs/Lieder/LB"
+TARGET_PATH = "data/outputs/Lieder/LB_cleaned"
 
 VALID_GROUPS = {"0", "1", "3"}
 FLAGS = ["barline_equal_flag", "bar_no_equal_flag", "bar_dur_equal_flag"]

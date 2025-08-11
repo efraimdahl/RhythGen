@@ -10,19 +10,17 @@ import math
 from functools import partial
 from .data_config import *
 
+ORI_FOLDER = "data/example/LB/abc" # Replace with the path to your folder containing standard ABC notation files
+ONSET_FILE_LOCATION="data/labels/" # Output target information here
+ONSET_FILE_NAME = "LB_onsets.json" # Output onset information here it will be saved at ONSET_FILE_LOCATION/ONSET_FILE_NAME
 
+INTERLEAVED = False # Set this to match the representation of the input, True if the ABC is interleaved, False otherwise.
 
-ORI_FOLDER = "" # Replace with the path to your folder containing standard ABC notation files
-ONSET_FILE_LOCATION="" # Output target information here
-ONSET_FILE_NAME = "" # Output onset information here
+MANUAL_BOUNDARIES = [None,None] #Set to none if you want to use statistical labelling, set to a list of boundaries otherwise i.e [3,6,8,12,18,24,48] Make sure this matches your number of classes.
 
-INTERLEAVED = True
+TARGET_ONSET_FILE = None #This is where quantile boundaries are calculated from. Set to None to calculate boundaries from current dataset. 
 
-FEATURES = ["densities","distances","syncopation"]
-
-DISTANCES_SEP = None #Set to none if you want to use statistical labelling, set to a list of boundaries otherwise i.e [3,6,8,12,18,24,48].
-
-TARGET_ONSET_FILE = None #This is where quantile boundaries are calculated from.
+FEATURES = ["densities","syncopation"]
 
 NUM_QUANTILES = N_CLASSES - 1
 
@@ -41,19 +39,19 @@ def extract_onsets(abc_path, rotated=INTERLEAVED):
     """
     try:
 
-        onset_dic = tools.extract_unique_onsets(abc_path, rotated=rotated,activity_window=1)
+        onset_dic = tools.extract_unique_onsets(abc_path, rotated=rotated)
         
 
         return {
                 "file_path":abc_path,
                 "onsets":onset_dic["onsets"],
                 "densities":onset_dic["densities"],
-                "distances":onset_dic["distances"], 
+                #"distances":onset_dic["distances"], 
                 "meter": onset_dic["meter"],
                 "spectral_arranged":onset_dic["spectral_arranged"],
                 "metric_arranged":onset_dic["metric_arranged"],
-                #"spectral_arranged_treble":onset_dic["spectral_arranged_treble"],
-                #"metric_arranged_treble":onset_dic["metric_arranged_treble"],
+                "spectral_arranged_treble":onset_dic["spectral_arranged_treble"],
+                "metric_arranged_treble":onset_dic["metric_arranged_treble"],
 
                 "syncopation":onset_dic["syncopation"]
                 }
@@ -137,12 +135,12 @@ def process_onset(i, quantile_collection):
     x = onsets[i]
     file_path = x["file_path"]
     package_dict = {"densities": x["densities"], 
-                    "distances": x["distances"], 
+                    #"distances": x["distances"], 
                     "onsets":x["onsets"], 
                     "metric_arranged":x["metric_arranged"],
                     "spectral_arranged":x["spectral_arranged"],
-                    #"metric_arranged_treble":x["metric_arranged_treble"],
-                    #"spectral_arranged_treble":x["spectral_arranged_treble"],
+                    "metric_arranged_treble":x["metric_arranged_treble"],
+                    "spectral_arranged_treble":x["spectral_arranged_treble"],
                     "syncopation":x["syncopation"],
                     "meter":x["meter"]}
 
@@ -182,9 +180,9 @@ if __name__=="__main__":
     onset_data = {}
     quantile_collection = {}
     #print(set(feature_collection["distances"]))
-    for feature in FEATURES:
-        if(feature == "distances" and DISTANCES_SEP!=None):
-            quantile_edges = DISTANCES_SEP
+    for feature_index, feature in enumerate(FEATURES):
+        if(MANUAL_BOUNDARIES[feature_index]!=None):
+            quantile_edges = MANUAL_BOUNDARIES[feature_index]
         else:
             quantile_edges = np.quantile(feature_collection[feature], np.linspace(0, 1, NUM_QUANTILES + 1))
         quantile_collection[feature]=quantile_edges

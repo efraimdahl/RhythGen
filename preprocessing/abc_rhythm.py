@@ -1,10 +1,9 @@
 import re
-
 import sys
 import os
-sys.path.append(os.path.abspath(os.path.dirname(__file__)))
 
-from utils import (
+from .data_config import BEAT_STRENGTH_PATH
+from .utils import (
     remove_information_field, 
     remove_bar_no_annotations, 
     Quote_re, 
@@ -28,9 +27,8 @@ import numpy as np
 from sklearn.preprocessing import normalize
 import fractions
 
-PROTO_RHYTHMS_PATH = "./preprocessing/proto_beat_str_48.json"
 
-with open(PROTO_RHYTHMS_PATH) as file:
+with open(BEAT_STRENGTH_PATH) as file:
     proto_rhythms = json.load(file)
 
 
@@ -653,47 +651,6 @@ class ABCRhythmTool():
             previous_element,_,_,_,_,_ = elements[-1]
             return bar_string, previous_element, True
 
-
-
-
-    
-    def normalize_notes_per_voice(self,npvpb,activity_window=1, normalize=True):
-        """
-        Iterate through the onsets per bar to extract a single list of onsets normalized by the number of currently active voice
-        """
-        mlength = 0
-        for voice, bars in npvpb.items():
-            if(mlength!=0 and mlength!=len(bars)):
-                print(f"Warning: voice {voice} has a different number of registered bars")
-            if(len(bars)>mlength):
-                mlength=len(bars)
-        #Only count a voice if it was/will be active within a certain timeframe
-        def is_active(bars,i,window=activity_window):
-            cur, post, pre = 0,0,0
-            cur = bars[i]
-            for dist in range(0,window):
-                if(i<len(bars)-dist):
-                    post = post or bars[i+dist]
-                if(i>dist):
-                    pre = pre or bars[i-dist]
-            return cur or post or pre
-                    
-        densities = []
-        for i in range(0,mlength):
-            active_bars = []
-            for voice, bars in npvpb.items():
-                if(i<len(bars)):
-                    if(is_active(bars,i)):
-                        active_bars.append(bars[i])
-            if(len(active_bars)>0):
-                if(normalize):
-                    bar_density = sum(active_bars) / float(len(active_bars))
-                else:
-                    bar_density = sum(active_bars)
-                densities.append(bar_density)
-            else:
-                densities.append(0)
-        return densities
     
     def units_in_bar(self) -> int:
         meter = self.meter           # e.g. "6/8"
@@ -766,6 +723,8 @@ class ABCRhythmTool():
 
 
     def get_treble_onsets(self,onsets_per_voice_per_bar,treble_voices):
+        if(len(treble_voices)==0):
+            return []
         treble_onsets = []
         for voice, onsetls in onsets_per_voice_per_bar.items():
             if(voice in treble_voices):
@@ -776,7 +735,7 @@ class ABCRhythmTool():
 
 
     
-    def extract_unique_onsets(self,abc_path, rotated=False, activity_window=1, normalize=True):
+    def extract_unique_onsets(self,abc_path, rotated=False, voice_target=None):
 
         with open(abc_path, 'r', encoding='utf-8') as f:
                 abc_lines = f.readlines()
@@ -792,8 +751,7 @@ class ABCRhythmTool():
         voices = list(prefix_dict.keys())
         
         #print(metadata_lines, prefix_dict, left_barline_dict, bar_text_dict, right_barline_dict)
-        
-        treble_voices = ["V:1"]
+        treble_voices = [voice_target]
         for entry in metadata_lines:
             if(entry.startswith("L:")):
                     rmatch = re.search(r"1/(?:2|4|8|16|32|64)",entry)
@@ -808,7 +766,7 @@ class ABCRhythmTool():
                     self.meter = "4/4"
                 else:
                     self.meter = rmatch.group()
-            """
+            """ alternative for voice targeting (i.e get all treble clef voices)
             if(entry.startswith("V:")):
                 # Define the pattern
                 #entry=entry.strip()
@@ -828,7 +786,8 @@ class ABCRhythmTool():
         onsets_per_bar = {}
         treble_onsets_per_bar = {}
         meter_per_bar = {}
-        #voices=[voices[0]]
+        voices=[voices[0]]
+
         for voice in voices:
             current_position = 0
             current_voice_onset_count= []
@@ -853,10 +812,11 @@ class ABCRhythmTool():
                 baroffsets.append(tmp_offset)
                 current_bar_onsets = current_bar_onsets.union(onsets)
                 onsets_per_bar.update({i:current_bar_onsets})
-                #if(voice in treble_voices):
-                    #treble_current_bar_onsets = treble_onsets_per_bar.get(i,set())
-                    #treble_current_bar_onsets = treble_current_bar_onsets.union(onsets)
-                    #treble_onsets_per_bar.update({i:treble_current_bar_onsets})   
+                
+                if(voice in treble_voices):
+                    treble_current_bar_onsets = treble_onsets_per_bar.get(i,set())
+                    treble_current_bar_onsets = treble_current_bar_onsets.union(onsets)
+                    treble_onsets_per_bar.update({i:treble_current_bar_onsets})   
 
                 meter_per_bar.update(({i:self.meter}))
                 global_onsets = global_onsets.union(onsets)
@@ -865,18 +825,19 @@ class ABCRhythmTool():
 
         ls = list(global_onsets)
         ls.sort()
-        densities = self.normalize_notes_per_voice(onset_count_per_voice_per_bar,activity_window=activity_window)
+
         units_per_bar = self.units_in_bar()
-        distances = self.calculate_avg_onset_distance(onsets_per_voice_per_bar,meter_per_bar)
+        densities = self.calculate_avg_onset_distance(onsets_per_voice_per_bar,meter_per_bar)
         onsets_int = [int(onset) for onset in ls]
 
-        #treble_onsets=self.get_treble_onsets(onsets_per_voice_per_bar,treble_voices)
+        #print(onsets_int)
+        treble_onsets=self.get_treble_onsets(onsets_per_voice_per_bar,treble_voices)
         
         ima_s =  pyinmean.get_normalized_ima(onsets_int,True)
         ima_m =  pyinmean.get_normalized_ima(onsets_int,False)
-        
-        """
+
         if(len(treble_onsets)>3):
+            #print(treble_onsets)
             ima_s_treble = pyinmean.get_normalized_ima(treble_onsets,True)
             ima_m_treble = pyinmean.get_normalized_ima(treble_onsets,False)
             ima_m_treble = self.sc.extend_metric_weight(ima_m_treble,treble_onsets)
@@ -884,7 +845,7 @@ class ABCRhythmTool():
         else:
             ima_s_treble = []
             ima_m_treble = []
-        """
+        
         pr = sum(ima_m)
         ima_m = self.sc.extend_metric_weight(ima_m,onsets_int)
         pos = sum(ima_m)
@@ -894,8 +855,8 @@ class ABCRhythmTool():
         ima_s_arr = self.arrange_ima(ima_s,meter_per_bar)
         ima_m_arr = self.arrange_ima(ima_m,meter_per_bar)
 
-        #ima_s_arr_treble = self.arrange_ima(ima_s_treble,meter_per_bar)
-        #ima_m_arr_treble = self.arrange_ima(ima_m_treble,meter_per_bar)
+        ima_s_arr_treble = self.arrange_ima(ima_s_treble,meter_per_bar)
+        ima_m_arr_treble = self.arrange_ima(ima_m_treble,meter_per_bar)
 
 
         sync = self.calculate_syncopation_score(onsets_per_bar,baroffsets,meter_per_bar)
@@ -903,11 +864,10 @@ class ABCRhythmTool():
         #sync=[]
         return {"onsets":ls,
                 "densities":densities,
-                "distances":distances,
                 "spectral_arranged":ima_s_arr, 
                 "metric_arranged":ima_m_arr, 
-               # "spectral_arranged_treble":ima_s_arr_treble, 
-               # "metric_arranged_treble":ima_m_arr_treble, 
+                "spectral_arranged_treble":ima_s_arr_treble, 
+                "metric_arranged_treble":ima_m_arr_treble, 
                 "meter":self.meter,
                 "syncopation":sync
                 }
@@ -1078,20 +1038,20 @@ def test_bar_corrections(tools):
 
 
 if __name__=="__main__":
-    abc_path = "data/outputs/Lieder/L1_density_inattn/sync-0-lc4945954_0.abc-45.83686566352844_1.abc"
+    abc_path = "data/outputs/Lieder/L3_spect_inattn/sync-0-lc4945954_0.abc-15.242442846298218_2.abc"
     with open(abc_path, 'r', encoding='utf-8') as f:
         abc_lines = f.readlines()
     
     tools = ABCRhythmTool(min_note_val=1/48)
-    onset_dic= tools.extract_unique_onsets(abc_path, rotated=True,activity_window=2)
+    onset_dic= tools.extract_unique_onsets(abc_path, rotated=True,voice_target="V:1")
     
     print("Syncopation", onset_dic["syncopation"])
-    print("Distances", onset_dic["distances"])
+    print("Density", onset_dic["densities"])
 
-    for key,val in onset_dic["spectral_arranged"].items():
+    for key,val in onset_dic["spectral_arranged_treble"].items():
         val = [np.round(v) for v in val]
 
-        met = onset_dic["metric_arranged"][key]
+        met = onset_dic["metric_arranged_treble"][key]
 
         met = [np.round(m,1) for m in met]
 
@@ -1100,12 +1060,6 @@ if __name__=="__main__":
         print("Metri",met)
         print(len(val),len(met))
     
-
-
-    
-
-
-
     test_bar_onset_calculation(tools)
     test_duration_calculation(tools)
     test_parse_tuple_notation(tools)

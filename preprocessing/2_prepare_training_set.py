@@ -1,10 +1,9 @@
 
-ORI_FOLDER = ""  # Replace with the path to your folder containing standard ABC notation files
-INTERLEAVED_FOLDER = ''   # Output interleaved ABC notation files to this folder
-AUGMENTED_FOLDER = ''   # Output key-augmented and rest-omitted ABC notation files to this folder
-ONSET_DATA = '' #Point this to your extracted onset file.
+ORI_FOLDER = "data/example/LB/abc"  # Replace with the path to your folder containing standard ABC notation files
+INTERLEAVED_FOLDER = "data/example/LB_training/interleaved"   # Output interleaved ABC notation files to this folder
+AUGMENTED_FOLDER = 'data/example/LB_training/augmented'   # Output key-augmented and rest-omitted ABC notation files to this folder
 
-
+ONSET_DATA = 'data/labels/LB_onsets.json' #Point this to your extracted onset file.
 
 FEATURE_TYPE = "arranged" #Set to bar for one feature per bar. Set to onset for one features per onset, Set to arranged for one feature per onset already arranged by
 

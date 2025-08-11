@@ -1,5 +1,5 @@
-ORI_FOLDER = "/home/efraim/Desktop/NotagenOutputs/LikingQuestionAuto2/abcLiederBase"  # Replace with the path to your folder containing XML (.xml, .mxl, .musicxml) files
-DES_FOLDER = "/home/efraim/Desktop/NotagenOutputs/LikingQuestionAuto2/mp3"   # The script will convert the musicxml files and output standard abc notation files to this folder
+ORI_FOLDER = ""  # Replace with the path to your folder containing XML (.xml, .mxl, .musicxml) files
+DES_FOLDER = ""   # The script will convert the musicxml files and output standard abc notation files to this folder
 
 OPTIONS_FILE = "musescore_options.xml"
 OUTPUT_FORMAT = ".mp3"
