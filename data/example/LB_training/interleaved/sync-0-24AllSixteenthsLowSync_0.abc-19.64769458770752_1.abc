@@ -1,0 +1,40 @@
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=87
+M:2/4
+K:Bb
+V:1 treble nm="Singstimme"
+V:2 bass nm="Pianoforte"
+V:3 bass 
+[V:1]"^Andante moderato" F|[V:2]z|[V:3]z|
+[V:1]d2 B B|[V:2]!p! z [F,B,D][F,B,D][F,B,D]|[V:3][B,,,B,,]2 z2|
+[V:1]G F z B|[V:2]z [F,B,D][F,B,D][F,B,D]|[V:3][B,,,B,,]2 z2|
+[V:1]c3 d|[V:2]z [F,A,E][F,A,E][F,A,E]|[V:3][F,,,F,,]2 z2|
+[V:1]B2 z B|[V:2]z [F,B,D][F,B,D][F,B,D]|[V:3][B,,,B,,]2 z2|
+[V:1]G2 A B|[V:2]z [G,B,E][G,B,E][G,B,E]|[V:3][E,,,E,,]2 z2|
+[V:1]c F z d|[V:2]z [F,B,D][F,B,D][F,B,D]|[V:3][F,,,F,,]2 z2|
+[V:1]e3 c|[V:2]z [F,A,E][F,A,E][F,A,E]|[V:3][F,,,F,,]2 z2|
+[V:1]d2 z d|[V:2]z [F,B,D][F,B,D][F,B,D]|[V:3][B,,,B,,]2 z2|
+[V:1]d2 G G|[V:2]z [G,=B,F][G,B,F][G,B,F]|[V:3]G,,2 z2|
+[V:1]G2 z c|[V:2]z [G,CE][G,CE][G,CE]|[V:3]C,2 z2|
+[V:1]c2 F F|[V:2]z [F,A,E][F,A,E][F,A,E]|[V:3]F,,2 z2|
+[V:1]F2 z d|[V:2]z [F,B,D][F,B,D][F,B,D]|[V:3]B,,2 z2|
+[V:1]d2 d d|[V:2]z [_A,B,D][A,B,D][A,B,D]|[V:3][B,,,B,,]2 z2|
+[V:1]e2 d c|[V:2]z [G,B,E][G,B,E][G,B,E]|[V:3]E,,2 z2|
+[V:1]B2{cB} A B|[V:2]z [F,B,D][F,B,D][F,B,D]|[V:3]F,,2 z2|
+[V:1]c2 z c|[V:2]z [F,A,E][F,A,E][F,A,E]|[V:3]F,,2 z2|
+[V:1]f2 d d|[V:2]z [F,B,D][F,B,D][F,B,D]|[V:3]B,,2 z2|
+[V:1]B G z d|[V:2]z [F,B,D][F,B,D][F,B,D]|[V:3]B,,2 z2|
+[V:1]f2 d d|[V:2]z [F,B,D][F,B,D][F,B,D]|[V:3]B,,2 z2|
+[V:1]B2 z B|[V:2]z [F,B,D][F,B,D][F,B,D]|[V:3]B,,2 z2|
+[V:1]_A2 F B|[V:2]z [F,_A,B,D][F,A,B,D][F,A,B,D]|[V:3][B,,,B,,]2 z2|
+[V:1]G2 z e|[V:2]z [G,B,E][G,B,E][G,B,E]|[V:3]E,,2 z2|
+[V:1](ed) c B|[V:2]z [F,B,D][F,B,D][F,B,D]|[V:3]F,,2 z2|
+[V:1](d2 c) z|[V:2]z [F,A,E][F,A,E][F,A,E]|[V:3][F,,,F,,]2 z2|
+[V:1]c2 d e|[V:2]z [F,CE][F,CE][F,CE]|[V:3]A,,2 z2|
+[V:1]d B z e|[V:2]z [F,B,D][F,B,D][F,B,D]|[V:3]B,,2 z2|
+[V:1](dc) (BA)|[V:2]z [F,CE][F,CE][F,CE]|[V:3]F,,2 z2|
+[V:1]B2 z2|[V:2]z [F,B,D][F,B,D][F,B,D]|[V:3][B,,,B,,]2 z2|
+[V:1]z4[Q:1/4=86][Q:1/4=85][Q:1/4=84]|[V:2]z"^ritard."!>(! [F,B,D][F,B,D][F,B,D]|[V:3][B,,,B,,]2 z2|
+[V:1]z4[Q:1/4=83][Q:1/4=83][Q:1/4=83]|[V:2]z [F,B,D][F,B,D][F,B,D]|[V:3][B,,,B,,]2 z2|
+[V:1][Q:1/4=83] z2[Q:1/4=82] !fermata!z|][V:2]z!>)!!p! [F,B,D]!fermata![F,B,D]|][V:3][B,,,B,,]2 !fermata!z|]

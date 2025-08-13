@@ -1,0 +1,47 @@
+X:1
+T:Title
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=100
+M:6/8
+K:G
+V:1 treble nm="Voice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+V:1
+"^Allegretto grazioso" z6 | z2 z z2!mf! D | G2 G A B A | G3 D z D | G2 G G A G | D3- D2 D | %6
+ G2 G A B A | G3 D z D | E F G A2 F | !>!d3 !>!B2 A | G2 F G2 A | F3- F z d | ^c2 A F G A | %13
+ B3 A2 A | B2 B ^c d c | d2 A F2 A | B2 B A B ^c | d3- d z z | z2 z z2!mp! D | G2 G A B A | %20
+ G3 D z D | G2 G G A G | D3- D2 D | G2 G A B A | G3 D z D | E F G A2 F | !>!d3 !>!B2 A | %27
+ G2 F G2 A | F3- F z d | ^c2 A F G A | B3 A2 A | B2 B A B ^c | d3- d z z |] %33
+V:2
+!p! [B,G] z [B,G] [B,G] z [B,G] | [B,G] z [B,G] [B,G] z [B,G] | [B,G] z [B,G] [CG] z [CF] | %3
+ [B,G] z [B,G] [B,G] z [B,G] | [B,G] z [B,G] [CG] z [CG] | [B,G] z [B,G] [B,G] z [B,G] | %6
+ [B,G] z [B,G] [CG] z [CF] | [B,G] z [B,G] [B,G] z [B,G] | [A,EG] z [A,EG] [A,DF] z [A,DF] | %9
+ [A,DF] z [A,DF] [B,DG] z [B,DG] | [^CGA] z [CGA] [CGA] z [CGA] | [DFA] z [DFA] [DFA] z [DFA] | %12
+ [EGA] z [EGA] [EGA] z [EGA] | [DGA] z [DGA] [DFA] z [DFA] | [DGB] z [DGB] [EG^c] z [EGc] | %15
+ [FAd] z [FAd] [FAd] z [FAd] | [GBd] z [GBd] [GA^c] z [GAc] | [FAd] z [FAd] [FAd] z [FAd] | %18
+ [FAd] z [FAd] [FAd] z [FAd] |!p! [GB] z [GB] [Fc] z [Fc] | [GB] z [GB] [GB] z [GB] | %21
+ [GB] z [GB] [Gc] z [Gc] | [GB] z [GB] [GB] z [GB] | [GB] z [GB] [Fc] z [Fc] | %24
+ [GB] z [GB] [GB] z [GB] | [EGA] z [EGA] [DFA] z [DFA] | [DFA] z [DFA] [DGB] z [DGB] | %27
+ [^CGA] z [CGA] [CGA] z [CGA] | [DFA] z [DFA] [DFA] z [DFA] | [EGA] z [EGA] [EGA] z [EGA] | %30
+ [DGA] z [DGA] [DFA] z [DFA] | [DGB] z [DGB] [EGA] z [EGA] | [DFA] z [DFA] [DFA] z [DFA] |] %33
+V:3
+ [G,,D,] z [G,,D,] [G,,D,] z [G,,D,] | [G,,D,] z [G,,D,] [G,,D,] z [G,,D,] | %2
+ [G,,D,] z [G,,D,] [G,,D,] z [G,,D,] | [G,,D,] z [G,,D,] [G,,D,] z [G,,D,] | %4
+ [G,,D,] z [G,,D,] [G,,E,] z [G,,E,] | [G,,D,] z [G,,D,] [G,,D,] z [G,,D,] | %6
+ [G,,D,] z [G,,D,] [G,,D,] z [G,,D,] | [G,,D,] z [G,,D,] [G,,D,] z [G,,D,] | %8
+ [A,,^C,] z [A,,C,] [A,,D,] z [A,,D,] | [D,,D,] z [D,,D,] [D,,D,] z [D,,D,] | %10
+ [D,,D,] z [D,,D,] [D,,D,] z [D,,D,] | [D,,D,] z [D,,D,] [D,,D,] z [D,,D,] | %12
+ [D,,D,] z [D,,D,] [D,,D,] z [D,,D,] | [D,,D,] z [D,,D,] [D,,D,] z [D,,D,] | %14
+ [D,,D,] z [D,,D,] [D,,D,] z [D,,D,] | [D,,D,] z [D,,D,] [D,,D,] z [D,,D,] | %16
+ [D,,D,] z [D,,D,] [D,,D,] z [D,,D,] | [D,,D,] z [D,,D,] [D,,D,] z [D,,D,] | %18
+ [D,,D,] z [D,,D,] [D,,D,] z [D,,D,] | [G,,D,] z [G,,D,] [G,,D,] z [G,,D,] | %20
+ [G,,D,] z [G,,D,] [G,,D,] z [G,,D,] | [G,,D,] z [G,,D,] [G,,E,] z [G,,E,] | %22
+ [G,,D,] z [G,,D,] [G,,D,] z [G,,D,] | [G,,D,] z [G,,D,] [G,,D,] z [G,,D,] | %24
+ [G,,D,] z [G,,D,] [G,,D,] z [G,,D,] | [A,,^C,] z [A,,C,] [A,,D,] z [A,,D,] | %26
+ [D,,D,] z [D,,D,] [D,,D,] z [D,,D,] | [D,,D,] z [D,,D,] [D,,D,] z [D,,D,] | %28
+ [D,,D,] z [D,,D,] [D,,D,] z [D,,D,] | [D,,D,] z [D,,D,] [D,,D,] z [D,,D,] | %30
+ [D,,D,] z [D,,D,] [D,,D,] z [D,,D,] | [D,,D,] z [D,,D,] [D,,D,] z [D,,D,] | %32
+ [D,,D,] z [D,,D,] [D,,D,] z [D,,D,] |] %33
+

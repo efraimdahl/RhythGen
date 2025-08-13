@@ -1,0 +1,84 @@
+X:1
+T:Title
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=40
+M:4/8
+K:Ab
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:1
+"^Sans resend" z4 | z!p!!<(! (C D E!<)! |!>(! C4)!>)! | z!<(! (C D E!<)! |!>(! C2!>)! C2) | %5
+ z!<(! (C C C!<)! |!>(! D2 D2)!>)! | z!<(! (D D D!<)! |!>(! =E2!>)! E2) | z!<(! (=E E E!<)! | %10
+!>(! F2 F2)!>)! | z!<(! (F F F!<)! |!>(! G4!>)! | G2) z2 |[Q:1/4=42] z!pp!!<(! C C C!<)! | %15
+!>(! =E2!>)! E2 | z!<(! =E E E!<)! |!>(! ^F2 F2!>)! | z!<(! ^F F F!<)! |!>(! G4-!>)! | G2 z2 | z4 | %22
+ z4 | z!<(! C C C!<)! |!>(! =E2!>)! E2 | z!<(! =E E E!<)! |!>(! ^F2 F2!>)! | z!<(! ^F F F!<)! | %28
+!>(! G4-!>)! | G2 z2 | z4 | z4 | z!pp!!<(! C C C!<)! |!>(! =E2!>)! E2 | z!<(! =E E E!<)! | %35
+!>(! ^F2 F2!>)! | z!<(! ^F F F!<)! |!>(! G4-!>)! | G2 z2 | z4 | z4 |[Q:1/4=37] z4[Q:1/4=35] | z4 | %43
+[Q:1/4=30] !fermata!z4 |] %44
+V:2
+!p! z!<(! ([A,C]!<)!!>(![B,D][A,C]-)!>)! | [A,C] z z2 | z!<(! ([A,C]!<)!!>(![B,D][A,C]-)!>)! | %3
+ [A,C] z z2 | z!<(! ([A,C]!<)!!>(![B,D][A,C]-)!>)! | [A,C] z z2 | %6
+ z!<(! ([B,D]!<)!!>(![CE][B,D]-)!>)! | [B,D] z z2 | z!<(! ([B,=E]!<)!!>(![DF][CE]-)!>)! | %9
+ [CE] z z2 | z!<(! ([C=E]!<)!!>(![=DF][CE]-)!>)! | [CE] z z2 | %12
+!<(! ([=DG][=E=A]!<)!!>(![FB][EA])!>)! |!<(! ([=DG][=E=A]!<)!!>(![FB][EA])!>)! | %14
+!pp! ([=DG][CF][B,=E][=A,D]) | [G,C] z!<(! ([=DG][F=A]!<)! |!>(! [Gc][FB][=E=A][=DG])!>)! | %17
+!<(! ([C=A][=DB]!<)!!>(![=Ec][DB])!>)! |!<(! ([C=A][=DB]!<)!!>(![CA][B,G])!>)! | %19
+!<(! ([=B,G][=D=A]!<)!!>(![=E=B][DA])!>)! |!<(! ([=B,G][=D=A]!<)!!>(![=E=B][DA])!>)! | %21
+!p! ([=DG][=E=A]!<(![FB][EA])!<)! |!<(! ([=DG][=E=A]!<)!!>(![FB][EA])!>)! | %23
+!pp! ([=DG][CF][B,=E][=A,D]) | [G,C] z!<(! ([=DG][F=A]!<)! |!>(! [Gc][FB][=E=A][=DG])!>)! | %26
+!<(! ([C=A][=DB]!<)!!>(![=Ec][DB])!>)! |!<(! ([C=A][=DB]!<)!!>(![CA][B,G])!>)! | %28
+!<(! ([=B,G][=D=A]!<)!!>(![=E=B][DA])!>)! |!<(! ([=B,G][=D=A]!<)!!>(![=E=B][DA])!>)! | %30
+!p! ([=DG][=E=A]!<(![FB][EA])!<)! |!<(! ([=DG][=E=A]!<)!!>(![FB][EA])!>)! | %32
+!pp! ([=DG][CF][B,=E][=A,D]) | [G,C] z!<(! ([=DG][F=A]!<)! |!>(! [Gc][FB][=E=A][=DG])!>)! | %35
+!<(! ([C=A][=DB]!<)!!>(![=Ec][DB])!>)! |!<(! ([C=A][=DB]!<)!!>(![CA][B,G])!>)! | %37
+!<(! ([=B,G][=D=A]!<)!!>(![=E=B][DA])!>)! |!<(! ([=B,G][=D=A]!<)!!>(![=E=B][DA])!>)! | %39
+!pp! ([=DG][=E=A]!<(![FB][EA])!<)! |!<(! ([=DG][=E=A]!<)!!>(![FB][EA])!>)! | %41
+!pp!!<(! ([=DG][=E=A]!<)!!>(![FB][EA])!>)! |!ppp!!>(! ([=DG][=E=A]!>)!!ppp![FB][EA]- | %43
+ [EA]2) !fermata!z2 |] %44
+V:3
+ x2 =E,2 | F, x x2 | x2 =E,2 | F, x x2 | x2 =E,2 | F, x x2 | x2 F,2 | G, x x2 | x2 G,2 | B, x x2 | %10
+ x2 =A,2 | C x x2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %28
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %44
+V:4
+!ped! [F,,,F,,]4- | [F,,,F,,]!ped-up! z z2 |!ped! [F,,,F,,]4- | [F,,,F,,]!ped-up! z z2 | %4
+!ped! [F,,,F,,]4- | [F,,,F,,]!ped-up! z z2 |!ped! [F,,,F,,]4- | [F,,,F,,]!ped-up! z z2 | %8
+!ped! [F,,,F,,]4- | [F,,,F,,]!ped-up! z z2 |!ped! [F,,,F,,]4- | [F,,,F,,]!ped-up! z z2 | %12
+!ped! (G,!ped-up!!ped!=A,!ped-up!!ped!B,!ped-up!!ped!A,)!ped-up! | %13
+!ped! (G,!ped-up!!ped!=A,!ped-up!!ped!B,!ped-up!!ped!A,)!ped-up! | (G,F,=E,=D,) | %15
+!ped! [F,,=E,] z[K:treble]!ped! ([F,=D]!ped-up!!ped![G,E]!ped-up! | %16
+!ped! [=A,F][G,=E][K:bass][F,=D][=E,B,])!ped-up! | %17
+!ped! ([=D,=A,]!ped-up!!ped![=E,B,]!ped-up!!ped![F,C][E,B,])!ped-up! | %18
+!ped! ([=D,=A,]!ped-up!!ped![=E,B,]!ped-up!!ped![F,A,][E,G,])!ped-up! | %19
+!ped! (=D,!ped-up!!ped!=E,!ped-up!!ped!G,!ped-up!!ped!E,)!ped-up! | %20
+!ped! (=D,!ped-up!!ped!=E,!ped-up!!ped!G,!ped-up!!ped!E,)!ped-up! | %21
+!ped! (G,!ped-up!!ped!=A,!ped-up!!ped!B,!ped-up!!ped!A,)!ped-up! | %22
+!ped! (G,!ped-up!!ped!=A,!ped-up!!ped!B,!ped-up!!ped!A,)!ped-up! | (G,F,=E,=D,) | %24
+!ped! [F,,=E,] z[K:treble]!ped! ([F,=D]!ped-up!!ped![G,E]!ped-up! | %25
+!ped! [=A,F][G,=E][K:bass][F,=D][=E,B,])!ped-up! | %26
+!ped! ([=D,=A,]!ped-up!!ped![=E,B,]!ped-up!!ped![F,C][E,B,])!ped-up! | %27
+!ped! ([=D,=A,]!ped-up!!ped![=E,B,]!ped-up!!ped![F,A,][E,G,])!ped-up! | %28
+!ped! (=D,!ped-up!!ped!=E,!ped-up!!ped!G,!ped-up!!ped!E,)!ped-up! | %29
+!ped! (=D,!ped-up!!ped!=E,!ped-up!!ped!G,!ped-up!!ped!E,)!ped-up! | %30
+!ped! (G,!ped-up!!ped!=A,!ped-up!!ped!B,!ped-up!!ped!A,)!ped-up! | %31
+!ped! (G,!ped-up!!ped!=A,!ped-up!!ped!B,!ped-up!!ped!A,)!ped-up! | (G,F,=E,=D,) | %33
+!ped! [F,,=E,] z[K:treble]!ped! ([F,=D]!ped-up!!ped![G,E]!ped-up! | %34
+!ped! [=A,F][G,=E][K:bass][F,=D][=E,B,])!ped-up! | %35
+!ped! ([=D,=A,]!ped-up!!ped![=E,B,]!ped-up!!ped![F,C][E,B,])!ped-up! | %36
+!ped! ([=D,=A,]!ped-up!!ped![=E,B,]!ped-up!!ped![F,A,][E,G,])!ped-up! | %37
+!ped! (=D,!ped-up!!ped!=E,!ped-up!!ped!G,!ped-up!!ped!E,)!ped-up! | %38
+!ped! (=D,!ped-up!!ped!=E,!ped-up!!ped!G,!ped-up!!ped!E,)!ped-up! | %39
+!ped! (G,!ped-up!!ped!=A,!ped-up!!ped!B,!ped-up!!ped!A,)!ped-up! | %40
+!ped! (G,!ped-up!!ped!=A,!ped-up!!ped!B,!ped-up!!ped!A,)!ped-up! | %41
+!ped! (G,!ped-up!!ped!=A,!ped-up!!ped!B,!ped-up!!ped!A,)!ped-up! | %42
+!ped! (G,!ped-up!!ped!=A,!ped-up!!ped!B,!arpeggio!A,-)!ped-up! | !fermata!A,2 !fermata!z2 |] %44
+V:5
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | [F,,C,]4 | [F,,C,]4 | F,,4 | %15
+ x2[K:treble] x2 | x2[K:bass] x2 | x4 | x4 | [F,,C,]4 | [F,,C,]4 | [F,,C,]4 | [F,,C,]4 | F,,4 | %24
+ x2[K:treble] x2 | x2[K:bass] x2 | x4 | x4 | [F,,C,]4 | [F,,C,]4 | [F,,C,]4 | [F,,C,]4 | F,,4 | %33
+ x2[K:treble] x2 | x2[K:bass] x2 | x4 | x4 | [F,,C,]4 | [F,,C,]4 | [F,,C,]4 | [F,,C,]4 | [F,,C,]4 | %42
+ [F,,C,]4- | [F,,C,]2 x2 |] %44
+

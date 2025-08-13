@@ -1,0 +1,50 @@
+X:1
+T:Title
+%%score [ 1 | 2 ] { 3 | 4 }
+L:1/8
+Q:1/4=82
+M:6/8
+K:E
+V:1 treble nm="Soprano"
+V:2 treble nm="Alto"
+V:3 treble nm="Piano"
+V:4 bass 
+V:1
+"^Andantino" z6 |!p! G3 G3 | (G>FE) G3 | F2 C (E>F) G | G3 G2 z | G3 G3 |!<(! B3 B3!<)! | %7
+!mf! B2 G (^A>B) c | ^B3 B2 z | B2 B G2 E |!>(! (G>FE) E3!>)! |!pp! C2 E G3/2 F/ E | F3 F2 z | %13
+!pp! G2 B G2 B | (G>F) E E3 | C2 E G3/2 F/ E | E3 E2 z | z6 | z6 |!pp! G3 G3 | (G>FE) G3 | %21
+ F2 C (E>F) G | G3 G2 z | G3 G3 |!<(! B3 B3!<)! |!mf! B2 G (^A>B) c | ^B3 B2 z | B2 B G2 E | %28
+!>(! (G>FE) E3!>)! |!pp! C2 E G3/2 F/ E | F3 F2 z |!ppp! G2 B G2 B | (G>F) E E3 | %33
+V:2
+ z6 |!p! G3 G3 | (G>FE) G3 | F2 C (E>F) G | G3 G2 z | G3 G3 |!<(! G3 G3!<)! |!mf! G2 G ^^F3 | %8
+ G3 G2 z | B2 B G2 E |!>(! (G>FE) E3!>)! |!pp! C2 E G3/2 F/ E | F3 F2 z |!pp! G2 B G2 B | %14
+ (G>F) E E3 | C2 E G3/2 F/ E | E3 E2 z | z6 | z6 |!pp! G3 G3 | (G>FE) G3 | F2 C (E>F) G | G3 G2 z | %23
+ G3 G3 |!<(! G3 G3!<)! |!mf! G2 G ^^F3 | G3 G2 z | B2 B G2 E |!>(! (G>FE) E3!>)! | %29
+!pp! C2 E G3/2 F/ E | F3 F2 z |!ppp! G2 B G2 B | (G>F) E E3 | %33
+V:3
+ z [B,EG][B,EG] z [CEG][CEG] | z [B,EG][B,EG] z [CEG][CEG] | z [^B,DG][B,DG] z [CEG][CEG] | %3
+ z [A,CF][A,CF] z [CEG][CEG] | z [^B,DG][B,DG] z [B,DG][B,DG] | z [B,EG][B,EG] z [B,EG][B,EG] | %6
+ z!<(! [B,EG][B,EG] z [B,EG][B,EG]!<)! |!mf! z [DGB][DGB] z [C^^F^A][CFA] | %8
+ z [^B,G^B][B,GB] z [B,GB][B,GB] | z [B,GB][B,GB] z [B,GB][B,GB] | %10
+ z!>(! [^B,FG][B,FG] z [CEG][CEG]!>)! |!pp! z [A,CE][A,CE] z [A,CE][A,CE] | %12
+ z [B,DF][B,DF] z [B,DF][B,DF] |!pp! z [B,EG][B,EG] z [B,EG][B,EG] | z [^B,FG][B,FG] z [CEG][CEG] | %15
+ z [A,CE][A,CE] z [A,CE][A,CE] | z [G,B,E][G,B,E] z [G,B,E][G,B,E] | %17
+!pp! [GB][GB][GB] [GB][GB][GB] | [GB][GB][GB] [GB][GB][GB] |!pp! [GB][GB][GB] [GB][GB][GB] | %20
+ [G^B][GB][GB] [Gc][Gc][Gc] | [Ac][Ac][Ac] [Gc][Gc][Gc] | [G^B][GB][GB] [GB][GB][GB] | %23
+ [GB][GB][GB] [GB][GB][GB] |!<(! [GB][GB][GB] [GB][GB][GB]!<)! |!mf! [GB][GB][GB] [^^Fc][Fc][Fc] | %26
+ [G^B][GB][GB] [GB][GB][GB] | [GB][GB][GB] [GB][GB][GB] | %28
+!>(! [FG^B][FGB][FGB] [EGc][EGc][EGc]!>)! |!pp! [EAc][EAc][EAc] [EAc][EAc][EAc] | %30
+ [DFB][DFB][DFB] [DFB][DFB][DFB] |!ppp! [B,EG][B,EG][B,EG] [B,EG][B,EG][B,EG] | %32
+ [^B,FG][B,FG][B,FG] [CEG][CEG][CEG] | %33
+V:4
+ [E,,E,]2 z [C,,C,]2 z | [E,,E,]2 z [C,,C,]2 z | [G,,,G,,]2 z [C,,C,]2 z | %3
+ [F,,,F,,]2 z [C,,C,]2 z | [G,,G,]2 z [G,,,G,,]2 z | [E,,E,]2 z [E,,E,]2 z | %6
+ [E,,E,]2 z [E,,E,]2 z | [D,,D,]2 z [D,,D,]2 z | [G,,G,]2 z [G,,,G,,]2 z | [E,,E,]2 z [E,,E,]2 z | %10
+ [G,,,G,,]2 z [C,,C,]2 z | [A,,,A,,]2 z [A,,,A,,]2 z | [B,,,B,,]2 z [B,,,B,,]2 z | %13
+ [E,,E,]2 z [E,,E,]2 z | [G,,,G,,]2 z [C,,C,]2 z | [A,,,A,,]2 z [A,,,A,,]2 z | %16
+ [E,,,E,,]2 z [E,,,E,,]2 z | [E,,E,]3 [E,,E,]3 | [E,,E,]3 [E,,E,]3 | [E,,E,]3 [E,,E,]3 | %20
+ [D,,D,]3 [E,,E,]3 | [F,,F,]3 [E,,E,]3 | [G,,G,]3 [G,,,G,,]3 | [E,,E,]3 [E,,E,]3 | %24
+ [E,,E,]3 [E,,E,]3 | [D,,D,]3 [D,,D,]3 | [G,,G,]3 [G,,,G,,]3 | [E,,E,]3 [E,,E,]3 | %28
+ [G,,,G,,]3 [C,,C,]3 | [A,,,A,,]3 [A,,,A,,]3 | [B,,,B,,]3 [B,,,B,,]3 | [E,,E,]3 [E,,E,]3 | %32
+ [G,,,G,,]3 [C,,C,]3 | %33
+

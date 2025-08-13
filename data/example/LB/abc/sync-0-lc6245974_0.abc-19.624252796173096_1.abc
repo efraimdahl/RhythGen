@@ -1,0 +1,45 @@
+X:1
+T:Title
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+Q:1/4=52
+M:3/4
+K:Gb
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:1
+"^Langsam" z6 | z2 z2!f! !fermata!e3/2 A/ |!mf! B2- B z d e | d2- d z z2 | %4
+[Q:1/4=50] z!mp! D E3/2 F/ G3/2 A/ | B4 A2 | z D E F G3/2 A/ | B4 A2 |"^cresc." d2 d d d3/2 e/ | %9
+ d4!>(! B3/2 B/!>)! |!p! (B2 e2)!<(! B B!<)! |!>(! d6!>)! |!mp! B2 B3/2 B/ c A | B2 B2 B3/2 B/ | %14
+ c2!<(! c3/2 c/ d B | c4!<)!!f! c c | c3/2!f! c/!>(! B2 A A | G4!>)!!mf! G G | F2 F2 A3/2 A/ | %19
+[Q:1/4=46] D4- D z | z2!mp![Q:1/4=52]!<(! D D D3/2 D/ |!mp!!>(! D6!>)! |[Q:1/4=48] z6[Q:1/4=44] | %23
+ z6 |] %24
+V:2
+!mf! z!<(! [DF][EG][FA][GB][Ac]!<)! | [Bd][ce][df][eg] !fermata![fa]2 | %2
+!mf! z2!>(! !tenuto![DGBd]2 z2!>)! | z2 !tenuto![DGBd]2 z2 | %4
+!mp! [B,D]>[B,E][B,D]>[B,E] [B,D]>[B,E] | [CF]>[CG][CF]>[CE] [CF]>[CE] | %6
+ [B,D]>[B,E][B,D]>[B,E] [B,D]>[B,E] | [CF]>[CG][CF]>[CE] [CF]>[CE] | %8
+ [B,D]>[CE][B,D]>[CE] [B,D]>[CE] |!<(! [B,D]>[B,E][B,D]>[B,E]!<)! [B,D]>[DG] | %10
+!>(! [EG]2 [E=G]2 [E_G]2!>)! | [CF]>[DG]!>)!!>(![CF]>[DG] [CF]>[DG] | %12
+!p! [B,GB]2 [B,GB]>[B,GB][CGc][A,FA] | [B,GB]2 [B,GB]2 [B,GB]2 | %14
+ [CAc]2!<(! [CAc]>[CAc][DBd][B,GB]!<)! |!mf! [CAc]2!<(! [CAc]2 [CAc]2!<)! | %16
+ [CAc]2!f!!>)!!>(! [B,GB]2 [A,FA]2 | [G,EG]>[A,FA][G,EG]>[A,FA] [G,EG]2 |!p! [A,F]4 z2 | %19
+ [A,DF]>[B,EG][A,DF]>[B,EG] [A,DF]2 |!<(! [A,CD]6!<)! | %21
+!mp!!>(! ([DBd]>[EBe][DBd]>[EBe] [DBd]2)!>)! |!p! [Bd]>[eg] [Bd]2- [Bd]>[eg] | %23
+!p! [Bd]2- !fermata![Bd]2 z2 |] %24
+V:3
+ z [D,A,][E,B,][F,C][G,D][A,E] | [B,F][CG][DA][EB] !fermata![Fc]2 | z2 !tenuto![G,,D,G,]2 z2 | %3
+ z2 !tenuto![G,,D,G,]2 z2 | [G,,G,]>[G,,G,][G,,G,]>[G,,G,] [G,,G,]>[G,,G,] | %5
+ [D,,D,]>[D,,D,][D,,D,]>[D,,D,] [D,,D,]>[D,,D,] | [G,,G,]>[G,,G,][G,,G,]>[G,,G,] [G,,G,]>[G,,G,] | %7
+ [D,,D,]>[D,,D,][D,,D,]>[D,,D,] [D,,D,]>[D,,D,] | [G,,G,]>[G,,G,][G,,G,]>[G,,G,] [G,,G,]>[G,,G,] | %9
+ [F,,F,]>[F,,F,][F,,F,]>[F,,F,] [F,,F,]>[G,,G,] | [E,B,]2 [E,B,]2 [E,B,]2 | %11
+ [D,A,]>[D,B,][D,A,]>[D,B,] [D,A,]>[D,B,] | [E,,E,]2 [E,,E,]>[E,,E,][E,,E,][E,,E,] | %13
+ [E,,E,]2 [E,,E,]2 [E,,E,]2 | [E,,E,]2 [E,,E,]>[E,,E,][E,,E,][E,,E,] | [E,,E,]2 [E,,E,]2 [E,,E,]2 | %16
+ [=D,,=D,]2 [D,,D,]2 [D,,D,]2 | [E,,E,]4 [E,,E,]2 | [D,,D,]4 z2 | %19
+!p! [D,,D,]>[D,,D,][D,,D,]>[D,,D,] [D,,D,]2 | [D,,D,]6 | [G,,G,]6 | [G,,G,]6 | !fermata![G,,G,]6 |] %24
+V:4
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | D4 x2 | %19
+ x6 | x6 | G4- G>A | G2 G>A G2 | G2- G>A !fermata!G2 |] %24
+

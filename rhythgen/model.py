@@ -4,7 +4,7 @@ import bisect
 import json
 import re
 from .model_config import *
-from data.data_config import *
+from preprocessing.data_config import *
 from transformers import GPT2Model,PreTrainedModel,GenerationMixin, GPT2PreTrainedModel, PretrainedConfig, GPT2LMHeadModel
 from samplings import top_p_sampling, top_k_sampling, temperature_sampling
 from tokenizers import Tokenizer
@@ -21,6 +21,8 @@ from transformers.modeling_attn_mask_utils import (
 from transformers.pytorch_utils import Conv1D
 from transformers.utils import logging
 from safetensors.torch import load_file
+
+from finetune.ft_config import ANNEALING_EPOCHS, PATCH_SAMPLING_BATCH_SIZE
 
 logger = logging.get_logger(__name__)
 

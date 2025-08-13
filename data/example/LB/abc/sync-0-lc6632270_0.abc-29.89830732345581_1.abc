@@ -1,0 +1,43 @@
+X:1
+T:Title
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=94
+M:3/4
+K:E
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 bass 
+V:1
+"^Andantino" z6 | z6 |"^Tutti"!p! G G A2 B2 | c4 B2 | e d c2 B2 | A4 A2 | G G A2 B2 | (c2 e2) d2 | %8
+ e4 z2 | z6 | e d c2 B2 | A4 G2 | G B A2 F2 | E4 z2 | z6 |!mf! e e d2 c2 | B4 E2 | A c B2 A2 | %18
+ G4 E2 | e e d2 c2 | B4 E2 | A c B2 A2 | !fermata!G4 !fermata!z2 ||[K:B] z6 | z6 | z6 | z6 | %27
+!p! F2 G2 A2 | B4 c2 | d c B2 A2 | G4 G2 | F2 G2 A2 | (B2 d2) c2 | d4 z2 | z6 | d c B2 A2 | G4 F2 | %37
+ F A G2 E2 | D4 z2 | z6 | z6 | z6 | z6 ||[K:E]!p!"^T" G G A2 B2 | c4 B2 | e d c2 B2 | A4 A2 | %47
+ G G A2 B2 | (c2 e2) d2 | e4 z2 | z6 | e d c2 B2 | A4 G2 | G B A2 F2 | E4 z2 | z6 |!mf! e e d2 c2 | %57
+ B4 E2 | A c B2 A2 | G4 E2 | e e d2 c2 | B4 E2 | A c B2 A2 | !fermata!G4 !fermata!z2 |] %64
+V:2
+!mp!!>(! z B eB eB | z A dA dA!>)! |!pp! z B eB eB | z A dA dA | z B eB eB | z A dA dA | %6
+ z B eB eB | z B [Ad]B dB | z B eB eB | z B dB dB | z B eB eB | z B [Ad]B dB | z A dA dA | %13
+ z B eB eB | z B eB eB |!mp! z A [ce]A [ce]A | z G [Be]G [Be]G | z F [Bd]F [Bd]F | %18
+ z G [Be]G [Be]G | z A [ce]A [ce]A | z G [Be]G [Be]G | z F [Bd]F [Bd]F | %22
+ !fermata![GBe]4 !fermata!z2 ||[K:B]!pp! z [Bd] f[Bd] f[Bd] | z [ce] a[ce] a[ce] | %25
+ z [Bd] f[Bd] f[Bd] | z [ce] a[ce] a[ce] | z [Bd] f[Bd] f[Bd] | z [ce] a[ce] a[ce] | %29
+ z [Bd] f[Bd] f[Bd] | z [ce] a[ce] a[ce] | z [Bd] f[Bd] f[Bd] | z [ce] a[ce] a[ce] | %33
+ z [Bd] f[Bd] f[Bd] | z [ce] a[ce] a[ce] | z [Bd] f[Bd] f[Bd] | z [ce] a[ce] a[ce] | %37
+ z [Bd] f[Bd] f[Bd] | z [Bd] f[Bd] f[Bd] | z [Bd] f[Bd] f[Bd] | z [ce] a[ce] a[ce] | %41
+ z [Bd] f[Bd] f[Bd] | z [ce] a[ce] a[ce] ||[K:E] z B eB eB | z A dA dA | z B eB eB | z A dA dA | %47
+ z B eB eB | z B [Ad]B dB | z B eB eB | z B dB dB | z B eB eB | z B [Ad]B dB | z A dA dA | %54
+ z B eB eB | z B eB eB |!mp! z A [ce]A [ce]A | z G [Be]G [Be]G | z F [Bd]F [Bd]F | %59
+ z G [Be]G [Be]G | z A [ce]A [ce]A | z G [Be]G [Be]G | z F [Bd]F [Bd]F | %63
+ !fermata![GBe]4 !fermata!z2 |] %64
+V:3
+ E,4 G,2 | B,4 B,,2 | E,4 G,2 | B,4 B,,2 | G,4 E,2 | B,,4 B,,2 | E,4 G,2 | B,4 B,,2 | E,4 G,2 | %9
+ B,4 B,,2 | G,4 E,2 | B,4 B,,2 | B,,4 B,2 | E,4 G,2 | B,4 E,2 | A,4 A,2 | E,4 E,2 | B,,4 B,,2 | %18
+ E,4 E,2 | A,4 A,2 | E,4 E,2 | B,,4 B,,2 | !fermata!E,4 !fermata!z2 ||[K:B] B,4 D2 | F4 F,2 | %25
+ B,4 D,2 | F,4 F,2 | B,4 D,2 | F,4 F,2 | B,4 D,2 | F,4 F,2 | B,4 D,2 | F,4 F,2 | B,4 D,2 | %34
+ F,4 F,2 | B,4 D,2 | F,4 F,2 | B,4 B,,2 | F,4 D,2 | B,,4 D,2 | F,4 F,2 | B,4 B,,2 | F,4 F,2 || %43
+[K:E] E,4 G,2 | B,4 B,,2 | G,4 E,2 | B,,4 B,,2 | E,4 G,2 | B,4 B,,2 | E,4 G,2 | B,4 B,,2 | %51
+ G,4 E,2 | B,4 B,,2 | B,,4 B,2 | E,4 G,2 | B,4 E,2 | A,4 A,2 | E,4 E,2 | B,,4 B,,2 | E,4 E,2 | %60
+ A,4 A,2 | E,4 E,2 | B,,4 B,,2 | !fermata!E,4 !fermata!z2 |] %64
+

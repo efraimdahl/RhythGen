@@ -1,0 +1,46 @@
+X:1
+T:Title
+%%score 1 { ( 2 3 ) | 4 }
+L:1/8
+Q:1/4=120
+M:6/8
+K:Gb
+V:1 treble nm="Gesang\nVoice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:1
+"^Allegretto" z6 | z2 z z2!mp! D | G2 D B,2 G | (G2 D) B,2 D | G2 A B2 d | B3 z2 B | d2 d (dc) B | %7
+ c2 c (cB) A | G2 F E2 B | A3 z2 D | G2 D B,2 G | (G2 D) B,2 D | G2 A B2 d | B3 z2 B | %14
+ d2 d (dc) B | c2 c (cB) A | G2 F E2 A | G2 z z2 z | z2 z z2!f! B | d3 (cB) c | B3 G2 A | %21
+ B2 G (dc) B | A3 z2 B | c3 (BA) B | A3 F2 A | d2 A (AG) A | G3 z2!mf! G | c2 c (cB) A | %28
+ G2 D B,2 z | A2 A (AB) c | B2 z z2 B | d2 d (dc) B | c2 A D2 F | A2 G (GA) B | G3 z2 z | z6 | %36
+ z2 z z2!mf! D | G2 D B,2 G | (G2 D) B,2 D | G2 A B2 d | B3 z2 B | d2 d (dc) B | c2 c (cB) A | %43
+ G2 F E2 B | A3 z2 D |[Q:1/4=115]"^ritardando" G2 D B,2 G | G2 D B,2 D | !fermata!G6 |] %48
+V:2
+!mp! d'dd' d'dd' |!<(! d'dd'!<)!!mp!!>(! d'dd' |!>(! d'dd' d'dd' | d'dd' d'dd' | d'dd' d'dd' | %5
+ d'dd' d'dd' | d'dd' d'dd' | d'dd' d'dd' | d'dd' d'dd' | d'dd' d'dd' | d'dd' d'dd' | d'dd' d'dd' | %12
+ d'dd' d'dd' | d'dd' d'dd' | d'dd' d'dd' | d'dd' d'dd' | d'dd' d'dd' | d'dd' d'dd' | %18
+ d'dd' d'd!p!d'!>)! |!mf! d'dd' d'dd' | d'dd' d'dd' | d'dd' d'dd' | d'dd' d'dd' | d'dd' d'dd' | %24
+ d'dd' d'dd' | d'dd' d'dd' | d'dd' d'd!pp!d' | d'dd' d'dd' | d'dd' d'dd' | d'dd' d'dd' | %30
+ d'dd' d'dd' | d'dd' d'dd' | d'dd' d'dd' | d'dd' d'dd' | d'dd' d'dd' | d'dd' d'dd' | d'dd' d'dd' | %37
+ d'dd' d'dd' | d'dd' d'dd' | d'dd' d'dd' | d'dd' d'dd' | d'dd' d'dd' | d'dd' d'dd' | d'dd' d'dd' | %44
+ d'dd' d'dd' | d'dd' d'dd' | d'dd' d'dd' | !fermata![dgd']6 |] %48
+V:3
+ d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | %8
+ d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | %16
+ d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | %24
+ d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | %32
+ d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | %40
+ d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | d2 d d2 d | x6 |] %48
+V:4
+!ped! [G,,D,]G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | %5
+ D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | %11
+ D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | %17
+ D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | %23
+ D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | %29
+ D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | %35
+ D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | %41
+ D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | D,G,B, D,A,C | %47
+ !fermata![G,,D,G,]6!ped-up! |] %48
+

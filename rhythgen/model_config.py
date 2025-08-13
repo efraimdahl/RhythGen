@@ -12,7 +12,6 @@ GATE_INIT = 10.0 #How strong are controls initialized for x-attn
 ENCODE_CONTROLS = False #Plug in a small transformer before
 ENCODER_LAYERS = 1
 ENCODER_HEADS = 4
-CONTROL_ENCODER_PATH = "../../Pretrained/syncopation_encoder_metric.safetensors"
 
 COND_CHAR = False #Add conditioning to character level - decoder, not reccomended
 

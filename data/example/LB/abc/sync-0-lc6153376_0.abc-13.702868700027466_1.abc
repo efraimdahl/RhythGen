@@ -1,0 +1,30 @@
+X:1
+T:Title
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=94
+M:4/4
+K:G
+V:1 treble nm="Gesang\nVoice"
+V:2 treble nm="Pianoforte"
+V:3 bass 
+V:1
+"^Andante con moto" z2 z!p! D B2 B2 | c3 B (Ac) (ec) | B4 z B B B | c2 B2 A2 c2 | B2 z B A3 G | %5
+ (GF) A F A3 G | G2 z2 z4 | z8 | z8 | z2 z D B2 B2 | c3 B (Ac) (ec) | B4 z B B B | c3 B A2 c2 | %13
+ B2 z B A2 z G | G2 (FA) G3 F | E2 z2 z4 | z8 | z4 z2 z F | G2 z2 z4 | !fermata!z8 |] %20
+V:2
+!p! z (.D.[GB].D) z (.D.[GB].D) | z (.C.[Fc].C) z (.C.[Fc].C) | z (.D.[GB].D) z (.D.[GB].D) | %3
+ z (.C.[Gc].C) z (.C.[Fc].C) | z (.D.[GB].D) z (.D.[EA].D) | z (.D.[FA].D) z (.C.[DG].C) | %6
+ [B,G]2 z (D!<(! [B,D][GB][Ac][Bd])!<)! |!>(! ([c=f][Be][Ad][Gc])!>)! z2!p! z [DG] | %8
+ ([=FB][EA][DG][C^F]) z2 z [CD^F] |!p! (.[B,D].[B,G].[B,D].[B,D]) z (.[B,D].[B,G].[B,D]) | %10
+ z (.[A,C].[CF].[A,C]) z (.[A,C].[CF].[A,C]) | z (.[B,D].[B,G].[B,D]) z (.[B,D].[B,G].[B,D]) | %12
+ z (.[A,C].[CF].[A,C]) z (.[A,C].[CF].[A,C]) | z (.[B,D].[DG].[B,D]) z (.[A,D].[EA].[A,D]) | %14
+ z (.[CD].[DA].[CD]) z (.[B,D].[DG].[B,D]) | z [CE]2 [B,D]2 [A,C]2 [G,B,] | %16
+ z ([G,B,][F,A,][E,G,]) z ([G,C][F,A,][E,G,]) | z ([D,G,][G,B,][B,D]) ([DG][B,D]) z [CF] | %18
+ ([B,G]2 z [DG] [B,G]2) z ([DG] | [B,G]2) !fermata!z2 z4 |] %20
+V:3
+ G,4 G,4 | D,4 D,4 | G,4 G,4 | E,4 D,4 | G,4 C,4 | D,4 D,4 | G,,2 z2 z2 z (=F, | %7
+ E,D,C,B,,) z2 z B,, | (C,D,E,D,) z2 z D,, | G,,2 z2 G,2 z2 | D,2 z2 D,2 z2 | G,2 z2 G,2 z2 | %12
+ D,2 z2 D,2 z2 | G,2 z2 C,2 z2 | D,2 z2 D,2 z2 | C,2 G,,2 A,,2 B,,2 | C,2 z2 ^C,2 z2 | D,6 D,,2 | %18
+ (G,,B,,D,)(D,, G,,B,,D,)(D,, | G,,2) !fermata!z2 z4 |] %20
+

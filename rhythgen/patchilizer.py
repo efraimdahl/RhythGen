@@ -3,7 +3,7 @@ import random
 import bisect
 import json
 import re
-from data.data_config import *
+from preprocessing.data_config import *
 from .model_config import *
 
 class Patchilizer:
@@ -184,14 +184,13 @@ class Patchilizer:
         if self.stream:
             tunebody_lines = ['[r:' + str(line_index) + '/' + str(len(tunebody_lines) - line_index - 1) + ']' + line for line_index, line in
                                 enumerate(tunebody_lines)]    
-        add_control = random.random()>P_CONTROL_DROPOUT
+        
         
         metadata_patches, metadata_controls  = self.patchilize_metadata(metadata_lines)
         tunebody_patches, tunebody_controls = self.patchilize_tunebody(tunebody_lines, controls, encode_mode='train')
 
         #Replace controls with padding during control dropout. 
-        if(not add_control):
-            tunebody_controls = [self.null_control for control in tunebody_controls]
+        
         #print("Tunebody", tunebody_patches,tunebody_controls)
         #print("Metadata", metadata_patches,metadata_controls)
 

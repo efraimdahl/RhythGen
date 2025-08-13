@@ -1,0 +1,65 @@
+X:1
+T:Title
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+Q:1/4=138
+M:4/4
+K:Bb
+V:1 treble nm="Chant\nVoice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 treble 
+V:1
+"^Allegro moderato" z8 | z8 | z8 | z8 |!f! (d4 f2 d2 | B4 G2) z2 | (d4 f2 d2 | B4 G2) z2 | %8
+ (d4 e2 =e2 | f2 d2 e2 c2) | (B4 d2 c2 | B6) z2 | (d4 f2 d2 | B4 G2) z2 | (d4 f2 d2 | B4 G2) z2 | %16
+ (d4 e2 =e2 | f2 d2 e2 c2 | B4 d2 c2 | B6) z2 |!f! (A4 c2 e2 | g2 ^f2 e2 c2) | (c4 e2 g2 | b4) z4 | %24
+ (f4 e2 c2 | A4 G4) | (c4 e2 g2 | b4) z4 |!mf! (F4 A2 c2 | e2 d2 c2 A2) | (c4 e2 g2 | b4) z4 | %32
+!f! (f4 e2 c2 | A2 B2 c2 e2 | g2 f2 e2 c2 | e6) z2 |!f! (d4 f2 d2 | B4 G2) z2 | (d4 f2 d2 | %39
+ B4 G2) z2 | (d4 e2 =e2 | f2 d2 e2 c2 | B4 d2 c2 | B6) z2 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %52
+ z4 z2!f! f2 | (g4 d2 f2 | b8- | b4) z4 | z4 z2!p! F2 | (d6 f2 | B8- | B4) z4 |!f! (d4 f2 d2 | %61
+ B4 G2) z2 | (d4 f2 d2 | B4 G2) z2 | %64
+V:2
+!mf!"^Allegro moderato"!>(! [Bd]4 z2 z d!>)! |!mf!!>(! [Bd]4 z2 z d!>)! | %2
+!mp!!>(! [Bd]4 z2 z d!>)! |!mp! [Bd]4 z2 z d | [Bd]4 z2 z d | [Bd]4 z2 z d | [Bd]4 z2 z d | %7
+ [Bd]4 z2 z d | [Bd]4 z2 z d | [Bd]4 z2 z d | [Bd]4 z2 z d | [Bd]4 z2 z d |!p! [Bd]4 z2 z d | %13
+ [Bd]4 z2 z d | [Bd]4 z2 z d | [Bd]4 z2 z d | [Bd]4 z2 z d | [Bd]4 z2 z d | [Bd]4 z2 z d | %19
+ [Bd]4 z2 z d |!f! z2 [ce]4 z2 | z2 [Ac]4 z2 | z2 [eg]4 z2 | z2 [Be]4 z2 | z2 [Ae]4 z2 | %25
+ z2 [Ae]4 z2 | z2 [ce]4 z2 | z2 [Be]4 z2 |!mf! z2 [Ae]4 z2 | z2 [ce]4 z2 | z2 [ce]4 z2 | %31
+ z2 [Be]4 z2 |!f! z2 [Ae]4 z2 | z2 [ce]4 z2 | z2 [Ae]4 z2 | z2 [ce]4 z2 |!f! z2 [Bd]4 z2 | %37
+ z2 [Bd]4 z2 | z2 [Bd]4 z2 | z2 [Bd]4 z2 | z2 [Bd]4 z2 | z2 [Bd]4 z2 | z2 [Bd]4 z2 | z2 [Bd]4 z2 | %44
+ z2!>(! [cd]4 z2 | z2 [cd]4!>)! z2 |!p! z2 [Bd]4 z2 | z2 [Bd]4 z2 |!f! z Bdf bfdB | z Bdf bfdB | %50
+!mf! z Bdf bfdB | z Bdf bfdB | z Bdf bfdB |!f! z Bdf bfdB | z Bdf bfdB | z Bdf bfdB | z Bdf bfdB | %57
+ z Bdf bfdB | z Bdf bfdB | z Bdf bfdB |!f! z Bdf bfdB | z Bdf bfdB | z Bdf bfdB | z Bdf bfdB | %64
+V:3
+ z DFA cBFD | z DFA cBFD | z DFA cBFD | z DFA cBFD | z DFA cBFD | z DFA cBFD | z DFA cBFD | %7
+ z DFA cBFD | z DFA cBFD | z DFA cBFD | z DFA cBFD | z DFA cBFD | z DFA cBFD | z DFA cBFD | %14
+ z DFA cBFD | z DFA cBFD | z DFA cBFD | z DFA cBFD | z DFA cBFD | z DFA cBFD | z DFA cAFD | %21
+ z DFA cAFD | z CEG BGEC | z CEG BGEC | z A,CE GECA, | z A,CE GECA, | z CEG BGEC | z CEG BGEC | %28
+ z A,CE GECA, | z A,CE GECA, | z CEG BGEC | z CEG BGEC | z A,CE GECA, | z A,CE GECA, | %34
+ z A,CE GECA, | z A,CE GECA, | z DFA cAFD | z DFA cBFD | z DFA cBFD | z DFA cBFD | z DFA cBFD | %41
+ z DFA cBFD | z DFA cBFD | z DFA cBFD | z DFA cAFD | z DFA cAFD | z DFA cAFD | z DFA cBFD | %48
+[K:bass] B,,2 z2 [B,D]2 z2 | [DF]2 z2 [FB]2 z2 | [B,,,B,,]2 z2 [B,D]2 z2 | [DF]2 z2 [FB]2 z2 | %52
+ [B,,,B,,]2 z2 [B,D]2 z2 | [DF]2 z2 [FB]2 z2 | [B,,,B,,]2 z2 [B,D]2 z2 | [DF]2 z2 [FB]2 z2 | %56
+ [B,,,B,,]2 z2 [B,D]2 z2 | [DF]2 z2 [FB]2 z2 | [B,,,B,,]2 z2 [B,D]2 z2 | [DF]2 z2 [FB]2 z2 | %60
+ B,,2 z2 [B,D]2 z2 | [DF]2 z2 [FB]2 z2 | B,,,2 z2 [B,D]2 z2 | [DF]2 z2 [FB]2 z2 | %64
+V:4
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %38
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %48
+ z2 !arpeggio![df]2 !arpeggio![fb]2 !arpeggio![df]2 | %49
+ !arpeggio![Bd]2 !arpeggio![df]2 !arpeggio![fb]2 !arpeggio![df]2 | %50
+ z2 !arpeggio![df]2 !arpeggio![fb]2 !arpeggio![df]2 | %51
+ !arpeggio![Bd]2 !arpeggio![df]2 !arpeggio![fb]2 !arpeggio![df]2 | %52
+ z2 !arpeggio![df]2 !arpeggio![fb]2 !arpeggio![df]2 | %53
+ !arpeggio![Bd]2 !arpeggio![df]2 !arpeggio![fb]2 !arpeggio![df]2 | %54
+ z2 !arpeggio![df]2 !arpeggio![fb]2 !arpeggio![df]2 | %55
+ !arpeggio![Bd]2 !arpeggio![df]2 !arpeggio![fb]2 !arpeggio![df]2 | %56
+ z2 !arpeggio![df]2 !arpeggio![fb]2 !arpeggio![df]2 | %57
+ !arpeggio![Bd]2 !arpeggio![df]2 !arpeggio![fb]2 !arpeggio![df]2 | %58
+ z2 !arpeggio![df]2 !arpeggio![fb]2 !arpeggio![df]2 | %59
+ !arpeggio![Bd]2 !arpeggio![df]2 !arpeggio![fb]2 !arpeggio![df]2 | %60
+ z2 !arpeggio![df]2 !arpeggio![fb]2 !arpeggio![df]2 | %61
+ !arpeggio![Bd]2 !arpeggio![df]2 !arpeggio![fb]2 !arpeggio![df]2 | %62
+ z2 !arpeggio![df]2 !arpeggio![fb]2 !arpeggio![df]2 | %63
+ !arpeggio![Bd]2 !arpeggio![df]2 !arpeggio![fb]2 !arpeggio![df]2 | %64
+

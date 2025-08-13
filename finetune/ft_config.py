@@ -1,8 +1,10 @@
+
 #DATA CONFIGURATION
-DATA_TRAIN_INDEX_PATH = "" 
-DATA_EVAL_INDEX_PATH  = ""
+DATA_TRAIN_INDEX_PATH = "data/example/LB_training/augmented_train.jsonl" 
+DATA_EVAL_INDEX_PATH  = "data/example/LB_training/augmented_eval.jsonl"
 
 #EXPERIMENT NAME
+PUSH_TO_HF=False                                              #Save to huggingface. 
 HUGGINGFACE_PATH= ""
 EXP_TAG = ""                                            # Experiment tag for name differentiation
 
@@ -22,7 +24,12 @@ LOAD_FROM_CHECKPOINT = False                                    # Whether to loa
 WANDB_LOGGING = False                                           # Whether to log to wandb
 WANDB_KEY = ''
 
-PRETRAINED_PATH = "../../Pretrained/weights_notagen_pretrain_p_size_16_p_length_2048_p_layers_12_c_layers_3_h_size_768_lr_0.0002_batch_8.pth"                # Path of pretrained weights
+PRETRAINED_PATH = "../Pretrained/weights_notagen_pretrain_p_size_16_p_length_2048_p_layers_12_c_layers_3_h_size_768_lr_0.0002_batch_8.pth"                # Path of pretrained weights
+CONTROL_ENCODER_PATH = None
+
+
+from rhythgen.model_config import *
+
 NAME =  EXP_TAG + \
         "_p_size_" + str(PATCH_SIZE) + \
         "_p_length_" + str(PATCH_LENGTH) + \

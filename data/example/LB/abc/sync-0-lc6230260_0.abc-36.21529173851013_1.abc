@@ -1,0 +1,60 @@
+X:1
+T:Title
+%%score 1 { ( 2 3 ) | ( 4 5 ) }
+L:1/8
+Q:1/4=88
+M:4/4
+K:C
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:3 treble 
+V:4 bass 
+V:5 bass 
+V:1
+"^Langsam" z8 | z8 |!p! E4 F2 G2 | (G3 F) E4 | (D2 E2) (D2 E2) | D4 G4 | E4 F2 G2 | (G3 F) E4 | %8
+ (D2 E2) (D2 E2) | C4 C4 |!mf! G4 A2 E2 | (F2 G2) E4 | F2 E2 (D2 E2) | (D3 E) C4 | G2 G2 A2 E2 | %15
+ (F2 G2) E4 | (F2 E2) (D2 E2) | C4 C4 | z8 | z8 | z8 | z8 | A4 A2 B2 | (c2 B2) (A2 G2) | %24
+ (G2 F2) (E2 F2) | G4 G4 | A4 A2 B2 | (c2 B2) (A2 G2) | (G2 F2) (E2 F2) | G4 G4 | (A2 B2) c4- | %31
+ c2 c2 (B2 A2) | (G2 F2) E4- | E2 F2 (E2 D2) | C4 C4 | (A2 B2) c4- | c2 c2 (B2 A2) | (G2 F2) E4- | %38
+ E2 F2 (E2 D2) | C4 C4 | A4 B2 c2 | d4 A4 | (F2 G2) (A2 B2) | (A4 G4) | A4 B2 c2 | d4 A4 | %46
+ (F2 G2) (A2 B2) | c8 |!p!!>(! (B4 A2 G2) |[Q:1/4=86]"^rit." (G4[Q:1/4=84] F4)!>)! | %50
+[Q:1/4=82] (E4 D2 E2) |[Q:1/4=80]!pp! C8- | C2 z2 z4 |] %53
+V:2
+"^Andante marcato"!mp! z (C[Gc]C) z (C[Ac]C) | z (C[Ac]C) z (C[FB]C) | z (C[Gc]C) z (C[Gc]C) | %3
+ z (C[Fc]C) z (C[Gc]C) | z (B,[FG]B,) z (B,[FG]B,) | z (B,[FG]B,) z (B,[FG]B,) | %6
+ z (C[Gc]C) z (C[Gc]C) | z (C[Fc]C) z (C[Gc]C) | z (B,[FG]B,) z (B,[FG]B,) | %9
+ z (C[EG]C) z (C[EG]C) |!mf! (EGcG) (^CGAG) | (DFAF) (^CEAE) | (B,DFD) (G,DFD) | (G,DFD) (CEGE) | %14
+ (EGcG) (^CGAG) | (DFAF) (^CEAE) | (B,DFD) (G,DFD) | (G,CEC) (G,CEC) |!mp! z (D[^GB]D) z (D[GB]D) | %19
+ z (E[Ac]E) z (E[Ac]E) | z (^D[^FAc]D) z (D[FAc]D) |!<(! z (E[^GBd]E)!<)!!f! z (G[Bde]G) | %22
+ (AEAc) (AEAB) | (cEBE) (AEGE) | (GA,FA,) (EA,FA,) | (FG,B,F) (FG,B,F) | (AFAc) (AEAB) | %27
+ (cEBE) (AEGE) | (GA,FA,) (EA,FA,) | (FG,B,F) (FG,B,F) | (AEBE) (cEGc) | (fFAc) (BFAB) | %32
+ (GCFD) (EG,CE) | (FA,DF) (EG,DG,) | C(G,CE) (G,CEG) | (AFBF) (cEGc) | (fFAc) (BFAB) | %37
+ (GCFD) (EG,CE) | (FA,DF) (EG,DG,) | C(G,CE) (G,CEG) | z (CFA) z (CFA) | z (CFA) z (CFA) | %42
+ z (CDA) z (CDA) | z (B,FG) z (B,FG) | z (CFA) z (CFA) | z (CFA) z (CFA) | z (CDA) z (CDA) | %47
+ z (CEG) z (CEG) |!p!!>(! z (C[EG]c) z (C[EG]c) |"^rit." z (D[FA]d) z (D[FA]d)!>)! | %50
+!pp! z (D[FB]D) z (D[FB]D) |!pp! z (E[Gc]E) z (E[Gc]E) | C2 z2 z4 |] %53
+V:3
+ x G3 x G3 | x F3 x F3 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %17
+ x8 | ^G,2 B,2 G,2 B,2 | A,2 C2 A,2 C2 | A,2 C2 A,2 C2 | B,2 D2 B,2 D2 | C4 C2 D2 | E2 D2 C2 B,2 | %24
+ B,2 A,2 G,2 A,2 | x8 | C4 C2 D2 | E2 D2 C2 B,2 | B,2 A,2 G,2 A,2 | x8 | x8 | x8 | x8 | x8 | x8 | %35
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %53
+V:4
+ z [E,G,] [E,G,][E,G,] x [E,G,] [E,G,][E,G,] | z [F,A,] [F,A,][F,A,] x [F,A,] [F,A,][F,A,] | %2
+ x [E,G,]3 x [E,G,]3 | x [F,A,]3 x [E,G,]3 | x [D,F,]3 x [D,F,]3 | x [D,F,]3 x [D,F,]3 | %6
+ x [E,G,]3 x [E,G,]3 | x [F,A,]3 x [E,G,]3 | x [D,F,]3 x [D,F,]3 | x [E,G,]3 x [E,G,]3 | %10
+ [C,,C,]4 [A,,,A,,]4 | [D,,D,]4 [A,,,A,,]4 | [D,,D,]4 [G,,,G,,]4 | [G,,,G,,]4 [C,,C,]4 | %14
+ [C,,C,]4 [A,,,A,,]4 | [D,,D,]4 [A,,,A,,]4 | [D,,D,]4 [G,,,G,,]4 | [C,,C,]4 [C,,C,]4 | %18
+ [B,,,B,,]4 [E,,E,]4 | [A,,,A,,]4 [E,,E,]4 | [^D,,^D,]4 [B,,,B,,]4 | [E,,E,]4 [^G,,,^G,,]4 | %22
+!ped! [A,,,A,,]8!ped-up! |!ped! [A,,,A,,]8!ped-up! |!ped! [D,,D,]8!ped-up! | [D,,D,]4 [G,,,G,,]4 | %26
+!ped! [F,,,F,,]8!ped-up! |!ped! [E,,,E,,]8!ped-up! |!ped! [D,,D,]8!ped-up! | [G,,,G,,]8 | %30
+ [F,,,F,,]8- | [F,,,F,,]4 [D,,,D,,]4 | [E,,,E,,]4 [A,,,A,,]4 | [D,,,D,,]4 [G,,,G,,]4 | [C,,C,]8 | %35
+ [F,,,F,,]8- | [F,,,F,,]4 [D,,,D,,]4 | [E,,,E,,]4 [A,,,A,,]4 | [D,,,D,,]4 [G,,,G,,]4 | [C,,C,]8 | %40
+ [F,,F,]8- | [F,,F,]4 [E,,E,]4 | [D,,D,]8 | [G,,,G,,]8 | [F,,,F,,]8- | [F,,,F,,]4 [E,,,E,,]4 | %46
+ [D,,,D,,]8 | [C,,,C,,]8 | [C,,C,]8 | [F,,,F,,]8 | [G,,,G,,]8 | (C,,2 C,2 G,,2 E,,2) | %52
+ C,,2 z2 z4 |] %53
+V:5
+ (C,4 A,,4 | F,,4 G,,4) | (C,4 A,,4) | (F,,4 G,,4) | (A,,4 G,,4) | (F,,4 G,,4) | (C,4 A,,4) | %7
+ (F,,4 G,,4) | (A,,4 G,,4) | C,2 C,,2 C,2 G,,2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %20
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x4 C,4- | C,4 x4 | x8 | x8 | x8 | x4 C,4- | %36
+ C,4 x4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %53
+
