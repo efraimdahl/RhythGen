@@ -13,6 +13,7 @@ Additionally this repository contains a small dataset of generated music from di
   <!-- Collab -->
   <a href="https://colab.research.google.com/drive/16TRtFGECxh6nsh7WvUktDS3hvGoPhtva?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 </p>
+
 ## ⚙️ Environment Setup
 
 ```bash
