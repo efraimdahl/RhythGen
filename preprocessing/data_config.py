@@ -1,4 +1,8 @@
-CONTROL_TERM = "ima" #Term to denote the feature, set as wanted, but match the training data or inference prompt.
+CONTROL_TERM = "syncopation" #Term to denote the feature, set as wanted, but match the training data or inference prompt.
+
+FEATURE_TYPE = "bar" #Set to "bar" for one feature per bar. Set to "arranged" for one feature per onset already arranged by bar, set to "onset" if you hae a feature by grid position not already aligned.
+
+TARGET_FEATURE = "syncopation_labels" #must match a key in the dictionary returned by ABCRhythmTool class in abc_rhythm.py
 
 
 #For Categorical Conditioning

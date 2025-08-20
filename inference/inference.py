@@ -6,7 +6,7 @@ from rhythgen.model_config import *
 from rhythgen.patchilizer import Patchilizer
 
 from .if_config import *
-from config import *
+from rhythgen.model_config import *
 from transformers import GPT2Config, LlamaConfig
 from abctoolkit.utils import Exclaim_re, Quote_re, SquareBracket_re, Barline_regexPattern
 from abctoolkit.transpose import Note_list, Pitch_sign_list
@@ -440,12 +440,14 @@ if __name__ == '__main__':
                         print("Failed to Generate",e)
                         
     elif(PROMPT_PATH):
+        abs_path = os.path.abspath(PROMPT_PATH)
         file_list = []
-        for path, dirs, files in os.walk(PROMPT_PATH):
+        for path, dirs, files in os.walk(abs_path):
             for file in files:
                 if file.lower().endswith(".abc"):
                     file_list.append(file)
-        print(len(file_list),print(NUM_SAMPLES))
+        print(abs_path)
+        print(len(file_list),NUM_SAMPLES)
         split = int(NUM_SAMPLES/len(file_list))
         
         file_list.sort()

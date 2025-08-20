@@ -1,10 +1,11 @@
 V_CONTROL = None #Set to "V:1" (or any wanted voice) to mask out other voices during training.  
 
-COND_MODE = "x-attn"  #in-attn; in-attention, good for categorical labels
+COND_MODE = "in-attn"  #in-attn; in-attention, good for categorical labels
                       #x-attn: attention-modulation, good for continuous feature vectors.
                       #None: No control vectors are incorperated
 
-COND_FORMAT = "con" #"con" #cat = categorical, con = continuous. 
+COND_FORMAT = "cat" #"con" #cat = categorical, con = continuous. The continuous representation uses a projection layer of GRID_SIZE set in the preprocessing/data_config.py file.
+#The embedding layer uses an embedding layer with N_CLASSES different classes set in the preprocessing/data_config.py.
 
 GATE_INIT = 10.0 #How strong are controls initialized for x-attn
 

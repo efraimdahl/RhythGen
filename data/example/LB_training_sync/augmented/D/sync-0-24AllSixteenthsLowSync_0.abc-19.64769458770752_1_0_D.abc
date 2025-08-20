@@ -1,0 +1,41 @@
+%syncopation 5 2 5 4 4 2 5 4 4 2 4 2 4 2 2 2 4 2 5 2 4 2 4 2 2 2 5 2 5 0 0 0
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=87
+M:2/4
+K:D
+V:1 treble nm="Singstimme"
+V:2 bass nm="Pianoforte"
+V:3 bass 
+[V:1]"^Andante moderato" A|
+[V:1]f2 d d|[V:2]!p! z [A,DF][A,DF][A,DF]|[V:3][D,,D,]2 z2|
+[V:1]B A z d|[V:2]z [A,DF][A,DF][A,DF]|[V:3][D,,D,]2 z2|
+[V:1]e3 f|[V:2]z [A,CG][A,CG][A,CG]|[V:3][A,,,A,,]2 z2|
+[V:1]d2 z d|[V:2]z [A,DF][A,DF][A,DF]|[V:3][D,,D,]2 z2|
+[V:1]B2 c d|[V:2]z [B,DG][B,DG][B,DG]|[V:3][G,,,G,,]2 z2|
+[V:1]e A z f|[V:2]z [A,DF][A,DF][A,DF]|[V:3][A,,,A,,]2 z2|
+[V:1]g3 e|[V:2]z [A,CG][A,CG][A,CG]|[V:3][A,,,A,,]2 z2|
+[V:1]f2 z f|[V:2]z [A,DF][A,DF][A,DF]|[V:3][D,,D,]2 z2|
+[V:1]f2 B B|[V:2]z [B,^DA][B,DA][B,DA]|[V:3]B,,2 z2|
+[V:1]B2 z e|[V:2]z [B,EG][B,EG][B,EG]|[V:3]E,2 z2|
+[V:1]e2 A A|[V:2]z [A,CG][A,CG][A,CG]|[V:3]A,,2 z2|
+[V:1]A2 z f|[V:2]z [A,DF][A,DF][A,DF]|[V:3]D,2 z2|
+[V:1]f2 f f|[V:2]z [=CDF][CDF][CDF]|[V:3][D,,D,]2 z2|
+[V:1]g2 f e|[V:2]z [B,DG][B,DG][B,DG]|[V:3]G,,2 z2|
+[V:1]d2{ed} c d|[V:2]z [A,DF][A,DF][A,DF]|[V:3]A,,2 z2|
+[V:1]e2 z e|[V:2]z [A,CG][A,CG][A,CG]|[V:3]A,,2 z2|
+[V:1]a2 f f|[V:2]z [A,DF][A,DF][A,DF]|[V:3]D,2 z2|
+[V:1]d B z f|[V:2]z [A,DF][A,DF][A,DF]|[V:3]D,2 z2|
+[V:1]a2 f f|[V:2]z [A,DF][A,DF][A,DF]|[V:3]D,2 z2|
+[V:1]d2 z d|[V:2]z [A,DF][A,DF][A,DF]|[V:3]D,2 z2|
+[V:1]=c2 A d|[V:2]z [A,=CDF][A,CDF][A,CDF]|[V:3][D,,D,]2 z2|
+[V:1]B2 z g|[V:2]z [B,DG][B,DG][B,DG]|[V:3]G,,2 z2|
+[V:1](gf) e d|[V:2]z [A,DF][A,DF][A,DF]|[V:3]A,,2 z2|
+[V:1](f2 e) z|[V:2]z [A,CG][A,CG][A,CG]|[V:3][A,,,A,,]2 z2|
+[V:1]e2 f g|[V:2]z [A,EG][A,EG][A,EG]|[V:3]C,2 z2|
+[V:1]f d z g|[V:2]z [A,DF][A,DF][A,DF]|[V:3]D,2 z2|
+[V:1](fe) (dc)|[V:2]z [A,EG][A,EG][A,EG]|[V:3]A,,2 z2|
+[V:1]d2 z2|[V:2]z [A,DF][A,DF][A,DF]|[V:3][D,,D,]2 z2|
+[V:1]z4[Q:1/4=86][Q:1/4=85][Q:1/4=84]|[V:2]z"^ritard."!>(! [A,DF][A,DF][A,DF]|[V:3][D,,D,]2 z2|
+[V:1]z4[Q:1/4=83][Q:1/4=83][Q:1/4=83]|[V:2]z [A,DF][A,DF][A,DF]|[V:3][D,,D,]2 z2|
+[V:1][Q:1/4=83] z2[Q:1/4=82] !fermata!z|][V:2]z!>)!!p! [A,DF]!fermata![A,DF]|][V:3][D,,D,]2 !fermata!z|]

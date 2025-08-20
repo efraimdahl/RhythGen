@@ -1,0 +1,36 @@
+%syncopation 0 5 2 2 2 5 2 3 2 4 3 3 3 3 3 3 3 3 3 3 2 5 3 2 6
+%%score ( 1 2 ) { 3 | ( 4 5 ) }
+L:1/8
+Q:1/4=135
+M:6/8
+K:D
+V:1 treble nm="Singstimme\nVoice"
+V:2 treble 
+V:3 treble nm="Pianoforte"
+V:4 bass 
+V:5 bass 
+[V:1]"^Allegretto con moto" z2 z|[V:3][DFAd] z z|[V:4][D,,A,,D,] z z|
+[V:1]F G A|:[V:3](FGA)|:[V:4]D,3|:
+[V:1]B2 B (Bc) d|[V:3]!>!B2 z (Bcd)|[V:4]G,,D,G, G,,D,G,|[V:5]G,,6|
+[V:1]A2 A (FG) A|[V:3]A2 z (FGA)|[V:4]F,,D,F, F,,D,F,|[V:5]F,,6|
+[V:1]B2 B (Bc) d|[V:3]!>!B2 z (Bcd)|[V:4]G,,D,G, G,,D,G,|[V:5]G,,6|
+[V:1]A3- A z A|[V:3]A3- A z A|[V:4]F,,D,F, F,,D,F,|[V:5]F,,6|
+[V:1]B2 B (BA) B|[V:3]B2 z (BAB)|[V:4]G,,D,G, G,,D,G,|[V:5]G,,6|
+[V:1]A2 F D2 A|[V:3]A2 z (DFA)|[V:4]F,,D,F, F,,D,F,|[V:5]F,,6|
+[V:1]A2 A (AG) F|[V:3]A2 z (AGF)|[V:4]A,,E,A, A,,E,A,|[V:5]A,,6|
+[V:1](F3 E) z A|[V:3](F3 E) z A|[V:4]A,,E,A, A,,E,A,|[V:5]A,,6|
+[V:1]A2 A A2 A|[V:3]([CEGA]2 A [CEGA]2 A)|[V:4][A,,A,]3 [A,,A,]3|
+[V:1]A2 d d2 d|[V:3]([DFA]2 d) [FAd]2 z|[V:4][D,A,]3 [D,A,]2 z|
+[V:1]c2 B c2 B|[V:3]([EAc]2 [E^GB] [EAc]2 [EGB])|[V:4][E,A,]3 [E,B,]3|
+[V:1](A2 E) E z E|[V:3]([CEA]2 E) E z E|[V:4][A,,E,A,]3 z2 z|
+[V:1]F2 F G2 G|[V:3]([DF]2 [DF] [EG]2 [EG])|[V:4][D,A,]3 [D,A,]3|
+[V:1]A2 A B2 B|[V:3]([FA]2 [FA] [GB]2 [GB])|[V:4][D,A,]3 [D,A,]3|
+[V:1]d2 d d2 d|[V:3][FAd]2 [FAd] [FAd]2 [FAd]|[V:4][D,A,]3 [D,A,]3|
+[V:1](c2 B) A z A|[V:2]c2 B A2 A|[V:3]([EGc]2 [DGB] [CEA]2) z|[V:4][A,,A,]3 [A,,A,]2 z|
+[V:1]c2 c c2 c|[V:3][F^Ac]2 [FAc] [FAc]2 [FAc]|[V:4]F,,^A,,C, F,,A,,C,|
+[V:1]c2 d c2 B|[V:3]([F^Ac]2 [FBd] [FAc]2 [DFB])|[V:4]F,,B,,D, F,,B,,D,|
+[V:1]B2 B (^AB) c|[V:3][CGB]2 [CGB] [CG^A]2 [CGA]|[V:4]G,,B,,E, G,,^A,,E,|
+[V:1]d3 z2 B|[V:3][DFAd]2 z [DFB]3|[V:4][F,,A,,D,F,]2 z [B,,,B,,]3|
+[V:1]B2 B B2 c|[V:3][DGB]2 [DGB] [DGB]2 [EAc]|[V:4][G,,,G,,]3 [G,,G,]2 [G,,,G,,]|
+[V:1]d2 F (ED) E|[V:3][FAd]2 z [A,CE]2 z|[V:4][A,,,A,,]2 z [A,,,A,,]2 z|
+[V:1]D3 z2 z|][V:3][A,D]3 (def)|][V:4][D,,D,]3[K:treble] FGA|][V:5]x3[K:treble] D3|]

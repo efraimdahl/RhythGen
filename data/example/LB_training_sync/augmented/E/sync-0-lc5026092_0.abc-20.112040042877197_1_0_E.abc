@@ -1,0 +1,41 @@
+%syncopation 0 0 0 0 6 5 3 3 4 3 3 4 6 4 4 4 6 0 0 0 0 2 6 0 6 4 6 0 0 0
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=60
+M:3/4
+K:E
+V:1 treble nm="Voice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+[V:1]"^Langsam" z6|[V:2]!p! [E,G,C] z [G,CE] z [G,^B,F] z|[V:3][C,,G,,] z [C,,G,,] z [D,,G,,] z|
+[V:2][G,CG] z (3[G,CG][G,CG][G,CG] [G,CG]2|[V:3][E,,G,,] z (3[E,,G,,][E,,G,,][E,,G,,] [E,,G,,]2|
+[V:2]!>![G,CE]4 !>![G,^B,F]2|[V:3][C,,G,,]4 [D,,G,,]2|
+[V:2]!>![G,CG] z (3[G,CG][G,CG][G,CG] [G,CG]2|[V:3][E,,G,,] z (3[E,,G,,][E,,G,,][E,,G,,] [E,,G,,]2|
+[V:1]z2 z2!p! G2|[V:2]!>![G,CE]4 !>![G,^B,F]2|[V:3][C,,G,,]4 [D,,G,,]2|
+[V:1]G2 E3 D|[V:2][G,CG] z (3[G,CG][G,CG][G,CG] [G,CG]2|[V:3][E,,G,,] z (3[E,,G,,][E,,G,,][E,,G,,] [E,,G,,]2|
+[V:1]C2 E2 A2|[V:2]!>![G,CG]4 !>![A,CA]2|[V:3][E,,G,,]4 [F,,A,,]2|
+[V:1]F2 G2 A2|[V:2]!>![A,CF]2 !>![A,CG]2 !>![A,CA]2|[V:3][A,,,A,,]2 [G,,,G,,]2 [F,,,F,,]2|
+[V:1]D4 D2|[V:2]!>![F,^B,D]4 !>![F,B,D]2|[V:3][G,,,G,,]4 [G,,,G,,]2|
+[V:1]E2 G2 c2|[V:2][E,CE]2 [G,CG]2 [G,CG]2|[V:3][C,,G,,]2 [E,,G,,]2 [E,,G,,]2|
+[V:1]^B2 ^A2 G2|[V:2][G,^B,G]2 [^A,G^A]2 [B,GB]2|[V:3][D,,G,,]2 [D,,G,,]2 [D,,G,,]2|
+[V:1]^^F3 G ^A2|[V:2][^A,^^F^A]3 [^B,G^B] [CAc]2|[V:3][D,,D,]4 [D,,D,]2|
+[V:1]G4 z2|[V:2][^B,G^B]4!<(! [G,B,G]2!<)!|[V:3][G,,D,]4 [G,,,G,,]2|
+[V:1]!p! A4 F2|[V:2]!p! ([A,CA]4 [F,A,F]2)|[V:3]!ped! (A,,,C,, F,,A,, C,2)!ped-up!|
+[V:1]G3 F E2|[V:2]([G,CG]3 [F,CF] [E,CE]2)|[V:3]!ped! (E,,G,, C,D, E,2)!ped-up!|
+[V:1]F4 D2|[V:2]([F,DF]4 [D,^B,D]2)|[V:3]!ped! (G,,,D,, F,,A,, G,,2)!ped-up!|
+[V:1]E4 z2|[V:2][E,CE]4!<(! [G,EG]2!<)!|[V:3]!ped! (C,,,G,,, C,,D,, E,,2)!ped-up!|
+[V:2]([CAc]4 [A,FA]2)|[V:3]!ped! (A,,,C,, F,,A,, C,2)!ped-up!|
+[V:2]!>(! ([G,G]3 [F,F] [E,E]2)!>)!|[V:3]!ped! (E,,,G,,, C,,D,, E,,2)!ped-up!|[V:4]C6|
+[V:2]([A,FA]4 [F,DF]2)|[V:3]!ped! (F,,,C,, F,,A,, C,2)!ped-up!|
+[V:2]!p! (G2 GG GG|[V:3]!ped! G,,,2 z2 G,,,2!ped-up!|[V:4][G,D]6-|
+[V:1]!p! G2 G G G G|[V:2]G6-|[V:3][G,,^B,,F,]2 z2 [G,,B,,F,]2|[V:4][G,D]2 [G,D][G,D] [G,D][G,D]|
+[V:1]!>(! G6-!>)!|[V:2]G2 GG GG|[V:3][G,,C,E,]2 z2 [G,,C,E,]2|[V:4][G,E]6-|
+[V:1]G z z2 z2|[V:2]!pp! G2 GG GG|[V:3][G,,^B,,F,]2 z2 [G,,B,,F,]2|[V:4][G,E]2 [G,D][G,D] [G,D][G,D]|
+[V:1]z2 G2 G G|[V:2]G2 GG GG|[V:3][G,,C,E,]2 z2 [G,,C,E,]2|[V:4][G,E]2 [G,E][G,E] [G,E][G,E]|
+[V:1]G4!>(! F D|[V:2]!>(! G4 FD)|[V:3]!ped! !arpeggio![G,,D,F,]6!ped-up!|[V:4][G,^B,]6|
+[V:1]C4!>)! z2|[V:2][E,C]2 z2 [E,C]2|[V:3]!ped! z2 G,,2 G,,G,,!ped-up!|[V:5]C,,6-|
+[V:2][E,C]2 z2 [E,C]2|[V:3]!ped! (G,,2 G,,G,, G,,G,,!ped-up!|[V:5]C,,6|
+[V:2][E,C]2 z2 z2|[V:3]G,,2) z2 z2|[V:5]C,,2 z2 z2|
+[V:1]!fermata!z6|][V:2]!fermata![E,C]6|][V:3]!fermata!G,,6|][V:5]C,,6|]

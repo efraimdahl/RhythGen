@@ -1,0 +1,73 @@
+%syncopation 0 0 2 2 2 2 2 2 2 5 2 2 2 5 2 2 2 5 0 0 0 2 2 2 2 2 2 2 5 2 2 2 5 2 2 2 5 0 0 0 2 2 2 2 2 2 2 5 2 2 2 5 2 2 2 5 0 0 0 0 0 2 2 0
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=87
+M:2/4
+K:C#
+V:1 treble nm="Singstimme"
+V:2 bass nm="Pianoforte"
+V:3 bass 
+[V:1]"^Ziemlich langsam" z4|[V:2]!mf! .[C,G,C] z[K:treble] ([E,G,C]/[EGc]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:2][K:bass] .[C,G,C] z[K:treble] ([E,G,C]/[EGc]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:1]!p! c c d e|[V:2][K:bass]!p! .[C,G,C] z[K:treble] ([E,G,C]/[EGc]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:1]g2 e z/ e/|[V:2][K:bass] .[C,G,C] z[K:treble] ([E,G,C]/[EGc]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:1]d2 G G|[V:2][K:bass] .[D,G,B,] z[K:treble] ([D,G,B,]/[DGB]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:1](e2 c) z|[V:2][K:bass] .[C,G,C] z[K:treble] ([E,G,C]/[EGc]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:1]!<(! c c d e!<)!|[V:2][K:bass] .[C,G,C] z[K:treble] ([E,G,C]/[EGc]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:1]!>(! g2 e3/2!>)! e/|[V:2][K:bass] .[C,G,C] z[K:treble] ([E,G,C]/[EGc]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:1]!>(! (d A)!>)! B3/2 A/|[V:2][K:bass]!ped! .[D,A,C] z[K:treble] ([D,A,C]/[D^^Fc]/) z!ped-up!|[V:3].[C,,G,,] z ([C,,G,,]/[C,A,]/) z|
+[V:1]!>(! G2- G!>)! z|[V:2][K:bass] .[D,G,B,] z!<(! ([D,G,B,]/[I:staff +1][B,DG]/) z!<)!|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:1]"^cresc." d c B G|[V:2]!p![I:staff -1] ([G,B,F]/"_legato"[Bfg]/) z[I:staff +1] ([G,B,F]/[I:staff -1][Bfg]/) z|[V:3][C,D,G,] z [C,D,G,]/[CDG]/ z|
+[V:1]!>(! g2 e3/2 c/!>)!|[V:2]!<(![I:staff +1] ([G,CE]/[I:staff -1][ceg]/)!<)! z[I:staff +1] ([G,CE]/[I:staff -1][ceg]/) z|[V:3][C,E,G,] z [C,E,G,]/[CEG]/ z|
+[V:1](A d) f3/2 e/|[V:2]!<(! ([A,CF]/[Acf]/)!<)! z[I:staff +1] ([A,CF]/[I:staff -1][Acf]/) z|[V:3][C,F,A,] z [C,F,A,]/[CFA]/ z|
+[V:1]d2- d z|[V:2]!<(![I:staff +1] ([A,CD^^F]/[I:staff -1][cd^^f]/)!<)![I:staff +1] z!<(! ([A,CDF]/[I:staff -1][cdf]/)!<)![I:staff +1] z|[V:3][C,D,^^F,A,] z [C,D,F,A,]/[CD^^FA]/ z|
+[V:1]!<(! d e f ^^f!<)!|[V:2]!p! ([B,DF]/[I:staff -1][Bdf]/)[I:staff +1] z!<(![I:staff -1] ([B,DF]/[Bdf]/)[I:staff +1] z!<)!|[V:3][B,,D,G,]/[B,DF]/ z [B,,D,G,]/[B,DF]/ z|
+[V:1]g2 c z/!f! c/|[V:2]!<(! ([G,CE]/[I:staff -1][ceg]/)!<)![I:staff +1] z!<(! ([G,CE]/[I:staff -1][ceg]/)[I:staff +1] z!<)!|[V:3][C,E,G,]/[CEG]/ z [C,E,G,]/[CEG]/ z|
+[V:1]a3/2 c/ (3(de) f|[V:2]!mf! ([A,CF]/[I:staff -1][Acf]/)[I:staff +1] z!<(! ([A,CF]/[I:staff -1][Acf]/)[I:staff +1] z!<)!|[V:3][C,F,A,]/[CFA]/ z [C,F,A,]/[CFA]/ z|
+[V:1]!>(! g4-!>)!|[V:2][I:staff -1] [B,DG]/!>(![Bdg]/ z[I:staff +1] [G,B,D]/[I:staff -1][Bdg]/!>)! z|[V:3][C,G,B,]/[B,CG]/ z [C,D,G,]/[B,DG]/ z|
+[V:1]!p! g2- g z|[V:2]!p! [B,FG]/!<(![Bdg]/ z[I:staff +1] [G,B,D]/[I:staff -1][Bdg]/!<)! z|[V:3][C,F,G,]/[CFG]/ z [C,F,G,]/[B,DG]/ z|
+[V:2]!mf![I:staff +1] .[G,C] z!mf![I:staff -1] ([E,G,C]/[EGc]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:2][I:staff +1] .[C,G,C] z[I:staff -1] ([E,G,C]/[EGc]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:1]!p! c c d e|[V:2]!p![I:staff +1] .[C,G,C] z[I:staff -1] ([E,G,C]/[EGc]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:1]g2 e z/ e/|[V:2][I:staff +1] .[C,G,C] z[I:staff -1] ([E,G,C]/[EGc]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:1]d2 G G|[V:2][I:staff +1] .[D,G,B,] z[I:staff -1] ([D,G,B,]/[DGB]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:1](e2 c) z|[V:2][I:staff +1] .[C,G,C] z[I:staff -1] ([E,G,C]/[EGc]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:1]!<(! c c d e!<)!|[V:2][I:staff +1] .[C,G,C] z[I:staff -1] ([E,G,C]/[EGc]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:1]!>(! g2 e3/2 e/!>)!|[V:2][I:staff +1] .[C,G,C] z[I:staff -1] ([E,G,C]/[EGc]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:1](dA) B3/2 A/|[V:2][I:staff +1] .[D,A,C] z[I:staff -1] ([D,A,C]/[D^^Fc]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,A,]/) z|
+[V:1]G2- G z|[V:2][I:staff +1] .[D,G,B,] z!<(! ([D,G,B,]/[I:staff -1][B,DG]/)[I:staff +1] z!<)!|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:1]d c B G|[V:2]!p![I:staff -1] ([G,B,F]/[Bfg]/) z [G,B,F]/[Bfg]/ z|[V:3][C,D,G,] z [C,D,G,]/[CDG]/ z|
+[V:1]g2 e3/2 c/|[V:2]!<(![I:staff +1] ([G,CE]/[I:staff -1][ceg]/)!<)! z[I:staff +1] ([G,CE]/[I:staff -1][ceg]/) z|[V:3][C,E,G,] z [C,E,G,]/[CEG]/ z|
+[V:1](Ad) f3/2 e/|[V:2]!<(! ([A,CF]/[Acf]/)!<)! z[I:staff +1] ([A,CF]/[I:staff -1][Acf]/) z|[V:3][C,F,A,] z [C,F,A,]/[CFA]/ z|
+[V:1]d2- d z|[V:2]!<(![I:staff +1] ([A,CD^^F]/[I:staff -1][cd^^f]/)!<)![I:staff +1] z!<(! ([A,CDF]/[I:staff -1][cdf]/)!<)![I:staff +1] z|[V:3][C,D,^^F,A,] z [C,D,F,A,]/[CD^^FA]/ z|
+[V:1]!<(! d e f ^^f!<)!|[V:2]!p! ([B,DF]/[I:staff -1][Bdf]/)[I:staff +1] z[I:staff -1] ([B,DF]/[Bdf]/)[I:staff +1] z|[V:3][B,,D,G,]/[B,DF]/ z [B,,D,G,]/[B,DF]/ z|
+[V:1]g2 c z/!f! c/|[V:2]!<(! ([G,CE]/[I:staff -1][ceg]/)!<)![I:staff +1] z!<(! ([G,CE]/[I:staff -1][ceg]/)[I:staff +1] z!<)!|[V:3][C,E,G,]/[CEG]/ z [C,E,G,]/[CEG]/ z|
+[V:1]a3/2 c/ (3(de) f|[V:2]!mf! ([A,CF]/[I:staff -1][Acf]/)[I:staff +1] z!<(! ([A,CF]/[I:staff -1][Acf]/)[I:staff +1] z!<)!|[V:3][C,F,A,]/[CFA]/ z [C,F,A,]/[CFA]/ z|
+[V:1]!>(! g4-!>)!|[V:2][I:staff -1] [B,DG]/!>(![Bdg]/ z[I:staff +1] [G,B,D]/[I:staff -1][Bdg]/!>)! z|[V:3][C,G,B,]/[B,CG]/ z [C,D,G,]/[B,DG]/ z|
+[V:1]!p! g2- g z|[V:2]!p! [B,FG]/!<(![Bdg]/ z[I:staff +1] [G,B,D]/[I:staff -1][Bdg]/!<)! z|[V:3][C,F,G,]/[CFG]/ z [C,F,G,]/[B,DG]/ z|
+[V:2]!mf![I:staff +1] .[G,C] z[I:staff -1] ([E,G,C]/[EGc]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:2][I:staff +1] .[C,G,C] z[I:staff -1] ([E,G,C]/[EGc]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:1]!p! c c d e|[V:2][I:staff +1] .[C,G,C] z[I:staff -1] ([E,G,C]/[EGc]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:1]g2 e z/ e/|[V:2][I:staff +1] .[C,G,C] z[I:staff -1] ([E,G,C]/[EGc]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:1]d2 G G|[V:2][I:staff +1] .[D,G,B,] z[I:staff -1] ([D,G,B,]/[DGB]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:1](e2 c) z|[V:2][I:staff +1] .[C,G,C] z[I:staff -1] ([E,G,C]/[EGc]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:1]!<(! c c d e!<)!|[V:2][I:staff +1] .[C,G,C] z[I:staff -1] ([E,G,C]/[EGc]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:1]!>(! g2 e3/2 e/!>)!|[V:2][I:staff +1] .[C,G,C] z[I:staff -1] ([E,G,C]/[EGc]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:1](dA) B3/2 A/|[V:2][I:staff +1] .[D,A,C] z[I:staff -1] ([D,A,C]/[D^^Fc]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,A,]/) z|
+[V:1]G2- G z|[V:2][I:staff +1] .[D,G,B,] z!<(! ([D,G,B,]/[I:staff -1][B,DG]/)[I:staff +1] z!<)!|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:1]d c B G|[V:2]!p![I:staff -1] ([G,B,F]/[Bfg]/) z [G,B,F]/[Bfg]/ z|[V:3][C,D,G,] z [C,D,G,]/[CDG]/ z|
+[V:1]g2 e3/2 c/|[V:2]!<(![I:staff +1] ([G,CE]/[I:staff -1][ceg]/)!<)! z[I:staff +1] ([G,CE]/[I:staff -1][ceg]/) z|[V:3][C,E,G,] z [C,E,G,]/[CEG]/ z|
+[V:1](Ad) f3/2 e/|[V:2]!<(! ([A,CF]/[Acf]/)!<)! z[I:staff +1] ([A,CF]/[I:staff -1][Acf]/) z|[V:3][C,F,A,] z [C,F,A,]/[CFA]/ z|
+[V:1]d2- d z|[V:2]!<(![I:staff +1] ([A,CD^^F]/[I:staff -1][cd^^f]/)!<)![I:staff +1] z!<(! ([A,CDF]/[I:staff -1][cdf]/)!<)![I:staff +1] z|[V:3][C,D,^^F,A,] z [C,D,F,A,]/[CD^^FA]/ z|
+[V:1]!<(! d e f ^^f!<)!|[V:2]!p! ([B,DF]/[I:staff -1][Bdf]/)[I:staff +1] z[I:staff -1] ([B,DF]/[Bdf]/)[I:staff +1] z|[V:3][B,,D,G,]/[B,DF]/ z [B,,D,G,]/[B,DF]/ z|
+[V:1]g2 c z/!f! c/|[V:2]!<(! ([G,CE]/[I:staff -1][ceg]/)!<)![I:staff +1] z!<(! ([G,CE]/[I:staff -1][ceg]/)!<)![I:staff +1] z|[V:3][C,E,G,]/[CEG]/ z [C,E,G,]/[CEG]/ z|
+[V:1]a3/2 c/ (3(de) f|[V:2]!mf! ([A,CF]/[I:staff -1][Acf]/)[I:staff +1] z!<(! ([A,CF]/[I:staff -1][Acf]/)[I:staff +1] z!<)!|[V:3][C,F,A,]/[CFA]/ z [C,F,A,]/[CFA]/ z|
+[V:1]!>(! g4-!>)!|[V:2][I:staff -1] [B,DG]/!>(![Bdg]/ z[I:staff +1] [G,B,D]/[I:staff -1][Bdg]/!>)! z|[V:3][C,G,B,]/[B,CG]/ z [C,D,G,]/[B,DG]/ z|
+[V:1]!p! g2- g z|[V:2]!p! [B,FG]/!<(![Bdg]/ z[I:staff +1] [G,B,D]/[I:staff -1][Bdg]/!<)! z|[V:3][C,F,G,]/[CFG]/ z [C,F,G,]/[B,DG]/ z|
+[V:2]!mf![I:staff +1] .[G,C] z[I:staff -1] ([E,G,C]/[EGc]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:2][I:staff +1] .[C,G,C] z[I:staff -1] ([E,G,C]/[EGc]/) z|[V:3].[C,,G,,] z ([C,,G,,]/[C,G,]/) z|
+[V:2]!p![I:staff +1] [E,C]2!<(![I:staff -1] ([CEc]/[Ece]/)!<)! z|[V:3][C,,G,,]2 ([G,,C,G,]/[G,CG]/) z|
+[V:2][I:staff +1] [E,C]2!<(![I:staff -1] ([CEc]/[Ece]/)!<)! z|[V:3][C,,G,,]2 ([G,,C,G,]/[G,CG]/) z|
+[V:1]!pp! g2 c c|[V:2][I:staff +1] [E,C]2[I:staff -1] ([CEc]/[Ece]/) z|[V:3][C,,G,,]2 ([G,,C,G,]/[G,CG]/) z|
+[V:1]g2 c c|[V:2][I:staff +1] [E,C]2!<(![I:staff -1] ([CEc]/[Ece]/)!<)! z|[V:3][C,,G,,]2 ([G,,C,G,]/[G,CG]/) z|
+[V:2]!fermata!z4|]

@@ -1,0 +1,31 @@
+%syncopation 0 4 3 4 6 3 3 2 6 6 0 0 6 4 4 6 4 4 6 5 6
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+Q:1/4=80
+M:4/4
+K:A
+V:1 treble nm="Chant\nVoice"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+[V:1]"^Andante" z8|[V:2]z!pp!!<(! ([EFc]2 [Fce]2!<)! [Fce]2 [Fce]-)|[V:3]!ped! ([A,,E,]2 [E,C]2 [A,E]2 [E,C]2-)|
+[V:1]!pp! (A2 B c e3 A)|[V:2]!<(! ([Fce] [Ecf]2!<)!!>(! [Ecf]2 [Ecf]2 [Ecf]-)!>)!|[V:3][E,C] ([E,C]2 [A,E]2 [E,C]2 [E,C]-)|
+[V:1]!<(! (B2 c d f2!<)! c2)|[V:2]!<(! ([Ecf] [Ecf]2!<)!!>(! [Ecf]2 [Ecf]2 [Ecf])!>)!|[V:3][E,C] ([E,C]2 [A,E]2 [E,C]2 [E,C])!ped-up!|
+[V:1]!>(! (e2 A B c3 A!>)!|[V:2]!pp! z!<(! ([Ecf]2 [cfc']2!<)!!>(! [Fcf]2 [Fcf]-)!>)!|[V:3]!ped! ([A,,E,]2 [E,C]2 [A,E]2 [E,C]2-)|
+[V:1]B8)|[V:2]!<(! ([Fcf] [Fdf]2!<)! [Gdg]2!>(! [Gdg]2 [Gdf]-)!>)!|[V:3]([E,C]!ped-up! [E,D]2!ped! [E,D]2 [E,D]2 [E,D]-)!ped-up!|
+[V:1](B2 c d!<(! e2 g2!<)!|[V:2]!<(! ([Gdf] [Edf]2 [Gdg]2!<)!!>(! [Edf]2 [Gdf]-)!>)!|[V:3]!ped! ([E,D] [E,D]2 [G,E]2 [E,D]2 [E,D]-)|
+[V:1]!>(! b2 a f e4)!>)!|[V:2]!<(! ([Gdf] [Edf]2!<)! [Aea]2!>(! [Eca]2 [Eca])!>)!|[V:3]([E,D] [E,D]2!ped-up!!ped! [E,D]2 [E,C]2 [E,C])!ped-up!|
+[V:1]!<(! (f2 e f!<)! =g a b =c'|[V:2]!<(! z ([=CAf]2 [cf=c']2 [Acf]2!<)!!>(! [CAf]-)|[V:3]!ped! z ([E,A,]2 [EA]2 [A,E]2 [A,E]-)|
+[V:1]b4- b3) a|[V:2]([CAf] [=CAe]2!>)! [F=ca]2 [Aec']2 [cfa])|[V:3]([A,E] [=G,,=G,]2 [F,=C]2 [A,E]2 [CF])!ped-up!|
+[V:1]!>(! a8-!>)!|[V:2]!pp! z!<(! ([EAc]2 [Acf]2!<)! [cfa]2 [fac'])|[V:3]!ped! z ([C,A,]2 [F,C]2 [A,F]2 [CA])!ped-up!|
+[V:1]a2 z2 z4|[V:2]!>(! z ([FAd]2 [Adf]2!>)! [dfa]2 [fad'])|[V:3]!ped! z ([D,A,]2 [F,D]2 [A,F]2 [DA])!ped-up!|
+[V:2]z!pp!!>(! ([Adf]2 [dfa]2 [fad']2 [ad'f']-)!>)!|[V:3]!ped! z ([F,D]2 [A,F]2 [DA]2[K:treble] [Fd]-)|
+[V:1]z4 z2 z!pp! B||[V:2]!ppp! [ad'f']8||[V:3][Fd]8!ped-up!||
+[V:1][K:E] B B2 c (d3 B)|[V:2][K:E]!pp! (!arpeggio![eb]2 !arpeggio![fbd']2 !arpeggio![ac'e']2 !arpeggio![bd'f']2)|[V:3][K:E][K:bass]!ped! ([EG]4 [DF]4)!ped-up!|[V:4][K:E] B8-|
+[V:1](B B c e (f3 g)|[V:2](!arpeggio![eb]2 !arpeggio![fbd']2 !arpeggio![ac'e']2 !arpeggio![bd'f']2)|[V:3]!ped! ([EG]4 [DF]4)!ped-up!|[V:4]B8-|
+[V:1]f6) z B|[V:2](!arpeggio![be'g']2 !arpeggio![ad'f']2 !arpeggio![gbe']2 !arpeggio![fbd']2)|[V:3][K:treble]!ped! !arpeggio![B,Ge]2!ped-up!!ped! !arpeggio![B,Fd]2 !arpeggio![B,Ge]2!ped-up!!ped! !arpeggio![B,Fd]2!ped-up!|[V:4]B8|
+[V:1]B B2 c d3 B|[V:2](!arpeggio![eb]2 !arpeggio![fbd']2 !arpeggio![ac'e']2 !arpeggio![bd'f']2)|[V:3]!ped! ([EG]4 [DF]4)!ped-up!|[V:4]B8-|
+[V:1]B B c e (f3 g)|[V:2](!arpeggio![eb]2 !arpeggio![fbd']2 !arpeggio![ac'e']2 !arpeggio![bd'f']2)|[V:3]!ped! ([EG]4 [DF]4)!ped-up!|[V:4]B8-|
+[V:1]f4 z2 z f|[V:2](!arpeggio![be'g']2 !arpeggio![ad'f']2 !arpeggio![gbe']2 !arpeggio![fbd']2)|[V:3]!ped! !arpeggio![B,Ge]2!ped-up!!ped! !arpeggio![B,Fd]2 !arpeggio![B,Ge]2!ped-up!!ped! !arpeggio![B,Fd]2!ped-up!|[V:4]B8|
+[V:1][Q:1/4=75]"^rall." (f g[Q:1/4=70] f4-[Q:1/4=65][Q:1/4=60] f) e|[V:2]!>(! (!arpeggio![fbd']2 !arpeggio![fac']2 !arpeggio![dab]2 !arpeggio![cfa]2)|[V:3][K:bass] (!arpeggio![B,DA]2 !arpeggio![CEA]2 !arpeggio![DFA]2 !arpeggio![EFA]2)|
+[V:1][Q:1/4=80]"^a tempo" e8|[V:2]"^a tempo"!pp! (!arpeggio![eb]2 !arpeggio![fbd']2 !arpeggio![ac'e']2 !arpeggio![bd'f']2)|[V:3]!ped! ([EG]4 [DF]4)!ped-up!|[V:4]B8|

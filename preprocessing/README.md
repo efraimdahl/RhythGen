@@ -45,31 +45,28 @@ python -m preprocessing.3_extract_onsets_abc
 ### Prepare the training set
 
 
-Modify the ```ORI_FOLDER```, ```INTERLEAVED_FOLDER```, ```AUGMENTED_FOLDER```, and ```EVAL_SPLIT``` in ```2_prepare_training_set.py```:
+Modify the ```ORI_FOLDER```, ```INTERLEAVED_FOLDER```, ```AUGMENTED_FOLDER```, and ```FEATURE_TYPE``` in ```2_prepare_training_set.py```:
   
-  ```python
-  ORI_FOLDER = ""  # Replace with the path to your folder containing standard ABC notation files
-INTERLEAVED_FOLDER = ''   # Output interleaved ABC notation files to this folder
-AUGMENTED_FOLDER = ''   # Output key-augmented and rest-omitted ABC notation files to this folder
+```python
 
-ONSET_DATA = '' #Point this to your extracted onset file.
+ORI_FOLDER = "data/example/LB/abc"  # Replace with the path to your folder containing standard ABC notation files
+INTERLEAVED_FOLDER = "data/example/LB_training_sync/interleaved"   # Output interleaved ABC notation files to this folder
+AUGMENTED_FOLDER = 'data/example/LB_training_sync/augmented'   # Output key-augmented and rest-omitted ABC notation files to this folder
 
-FEATURE_TYPE = "arranged" #Set to bar for one feature per bar. Set to onset for one features per onset, Set to arranged for one feature per onset already arranged by
-
-TARGET_FEATURE = "spectral_arranged"
+ONSET_DATA = 'data/labels/LB_onsets.json' #Point this to your extracted onset file.
 
 PATH_REPLACEMENT_TERM = "abc_test" #"abc_test" #if onset key differes from file location. (default is abc)
 
-  ```
-  then run this script from the root directory:
-  ```
-  python -m preprocessing.2_data_preprocess
-  ```
-  - The script will convert the standard ABC to interleaved ABC, which is compatible with CLaMP 2. The files will be under ```INTERLEAVED_FOLDER```.
+```
+then run this script from the root directory:
+```
+python -m preprocessing.2_data_preprocess
+```
+- The script will convert the standard ABC to interleaved ABC, which is compatible with CLaMP 2. The files will be under ```INTERLEAVED_FOLDER```.
 
-  - This script will make 15 key signature folders under the ```AUGMENTED_FOLDER```, and output interleaved ABC notation files with rest bars omitted. This is the data representation that NotaGen adopts.
-  
-  - This script will also generate data index files for training NotaGen. It will randomly split train and eval sets according to the proportion ```EVAL_SPLIT``` defines. The index files will be named as ```{AUGMENTED_FOLDER}_train.jsonl``` and ```{AUGMENTED_FOLDER}_eval.jsonl```.
+- This script will make 15 key signature folders under the ```AUGMENTED_FOLDER```, and output interleaved ABC notation files with rest bars omitted. This is the data representation that NotaGen adopts.
+
+- This script will also generate data index files for training NotaGen. It will randomly split train and eval sets according to the proportion ```EVAL_SPLIT``` defines. The index files will be named as ```{AUGMENTED_FOLDER}_train.jsonl``` and ```{AUGMENTED_FOLDER}_eval.jsonl```.
 
 ## Data Post-processing
 
