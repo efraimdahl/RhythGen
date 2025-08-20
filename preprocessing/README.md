@@ -77,12 +77,12 @@ We recommend [EasyABC](https://sourceforge.net/projects/easyabc/), a nice softwa
 It may be neccessary to add a line "X:1" before each piece to present the score image in EasyABC.
 
 ### Check and Repair bar alignment. 
-Use the file `5_correct_alignment.py` which checks and fixes bar alignment in `.abc` files from `FILE_PATH`, saves corrected files to `TARGET_PATH`, and prints alignment stats.
+Use the file `3_correct_alignment.py` which checks and fixes bar alignment in `.abc` files from `FILE_PATH`, saves corrected files to `TARGET_PATH`, and prints alignment stats.
 
 1. Set `FILE_PATH` and `TARGET_PATH` in the script.
 2. Run from the root directory of the project:
 ```bash
-   python preprocessing.5_correct_alignment
+   python preprocessing.3_correct_alignment
 ```
 
 ### Convert to MusicXML

@@ -4,7 +4,15 @@
 **RhythGen** is a fine-tuned symbolic music generation model based on [NotaGen](https://github.com/ElectricAlexis/NotaGen) small, with rhythmic conditioning on syncopation levels and note density. We explore the effect of different conditioning mechanisms, conditioning attributes and data preparation models on quality and control adherence. 
 Additionally this repository contains a small dataset of generated music from different model configurations, and a set of human ratings of generated/human composed pieces on enjoyment, rhythmic complexity and boundary timings. 
 
-
+<p align="center">
+  <!-- HuggingFace -->
+  <a href="https://huggingface.co/efraimdahl/RhythGen">
+    <img src="https://img.shields.io/badge/NotaGen_Weights-HuggingFace-%23FFD21F?logo=huggingface&logoColor=white" alt="Weights">
+  </a>
+  &nbsp;&nbsp;
+  <!-- Collab -->
+  <a href="https://colab.research.google.com/drive/16TRtFGECxh6nsh7WvUktDS3hvGoPhtva?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+</p>
 ## ⚙️ Environment Setup
 
 ```bash
@@ -73,8 +81,8 @@ V_CONTROL = None #Set to "V:1" (or any wanted voice) to mask out other voices du
 COND_MODE = "in-attn" #in-attn; in-attention, good for categorical labels
                       #x-attn: attention-modulation, good for continuous feature vectors.
                       #None: unconditioned
-                      
-COND_FORMAT = "cat" #"con" #cat = categorical, con = continuous. 
+
+COND_FORMAT = "cat" #"con" #cat = categorical, con = continuous.  The continuous representation uses a projection layer of GRID_SIZE set in the preprocessing/data_config.py file. The embedding layer uses an embedding layer with N_CLASSES different classes set in the preprocessing/data_config.py.
 
 GATE_INIT = 10.0 #How strong are controls initialized for x-attn
 
@@ -94,7 +102,7 @@ If you are performing research, and are interested in the results from my listen
 
 ### Online Colab Demo
 
-Coming Soon!
+[Online Colab Demo](https://colab.research.google.com/drive/16TRtFGECxh6nsh7WvUktDS3hvGoPhtva?usp=sharing)
 
 
 ## 🛠️ Data Pre-processing & Post-processing
@@ -113,11 +121,36 @@ Here we give an example on fine-tuning **RhythGen** with the labled example data
   - You can also modify other parameters like the learning rate.
 
 ### Execution
-Use this command for fine-tuning:
+Use this command for fine-tuning from the directory of the repository:
 ```bash
-python fine 
+python -m finetune.finetune
 ```
 
+## Inference 
+For inference adjust the settings in `inference/if_config.py`
+```python
+import os
+# Configurations for inference LiederLabled_TVDISTPretrained/L.safetensors =
+INFERENCE_WEIGHTS_PATH = '../Pretrained/RAS2.safetensors'               # Path to weights for inference# Folder to save output files
+NUM_SAMPLES = 150                                              # Number of samples to generate (only for generate mode)
+
+#SAMPLING SETTINGS
+TOP_K = 9                                              # Top k for sampling
+TOP_P = 0.9                                            # Top p for sampling
+TEMPERATURE = 1.2                                      # Temperature for sampling
+
+ORIGINAL_OUTPUT_FOLDER = os.path.join('../output/original', os.path.splitext(os.path.split(INFERENCE_WEIGHTS_PATH)[-1])[0] + '_k_' + str(TOP_K) + '_p_' + str(TOP_P) + '_temp_' + str(TEMPERATURE))
+INTERLEAVED_OUTPUT_FOLDER = os.path.join('../output/interleaved', os.path.splitext(os.path.split(INFERENCE_WEIGHTS_PATH)[-1])[0] + '_k_' + str(TOP_K) + '_p_' + str(TOP_P) + '_temp_' + str(TEMPERATURE))
+
+PROMPT_PATH = "../RhythGen/data/example/LB_training_sync/augmented/C" #set to either a directory of abc files, their labels and metadata will be used as prompt, or set to file where each line contains a set of conditioning labels.
+
+CFG_GUIDANCE=[1,3] #generates NUM_SAMPLES for each item in list, 0 = Unconditioned, 1 = Regular Conditioned >1 = Boosted Conditioned
+STARTING_CONDITION = (0,0) #First index number, second index guidance scale. 
+```
+Then from the root directory of the repository run
+```bash
+python -m inference.inference
+```
 ### ⚙️ Evaluation Setup
 
 Download model weights and put them under the ```clamp2/```folder:

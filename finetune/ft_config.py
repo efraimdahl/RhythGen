@@ -1,7 +1,7 @@
 
 #DATA CONFIGURATION
-DATA_TRAIN_INDEX_PATH = "data/example/LB_training/augmented_train.jsonl" 
-DATA_EVAL_INDEX_PATH  = "data/example/LB_training/augmented_eval.jsonl"
+DATA_TRAIN_INDEX_PATH = "data/example/LB_training_sync/augmented_train.jsonl" 
+DATA_EVAL_INDEX_PATH  = "data/example/LB_training_sync/augmented_eval.jsonl"
 
 #EXPERIMENT NAME
 PUSH_TO_HF=False                                              #Save to huggingface. 

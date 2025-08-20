@@ -404,7 +404,8 @@ if __name__ == "__main__":
         print('-' * 21 + "Epoch " + str(epoch) + '-' * 21)
         train_loss = train_epoch(epoch)
         eval_loss = eval_epoch()
-        wandb.log({"eval_loss": eval_loss})
+        if(WANDB_LOGGING):
+            wandb.log({"eval_loss": eval_loss})
         if global_rank==0:
             with open(LOGS_PATH,'a') as f:
                 f.write("Epoch " + str(epoch) + "\ntrain_loss: " + str(train_loss) + "\neval_loss: " +str(eval_loss) + "\ntime: " + time.asctime(time.localtime(time.time())) + "\n\n")
