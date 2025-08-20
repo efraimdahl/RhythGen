@@ -7,7 +7,7 @@ Additionally this repository contains a small dataset of generated music from di
 <p align="center">
   <!-- HuggingFace -->
   <a href="https://huggingface.co/efraimdahl/RhythGen">
-    <img src="https://img.shields.io/badge/NotaGen_Weights-HuggingFace-%23FFD21F?logo=huggingface&logoColor=white" alt="Weights">
+    <img src="https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=" alt="Weights">
   </a>
   &nbsp;&nbsp;
   <!-- Collab -->
@@ -32,6 +32,8 @@ We use [NotaGen-small](https://huggingface.co/ElectricAlexis/NotaGen/blob/main/w
 ### Fine-tuning
 
 We fine-tuned NotaGen-small on a corpus of approximately 1000 pieces from either the [Lieder Dataset](https://github.com/OpenScore/Lieder) which is public or the [RAG Collection](https://dspace.library.uu.nl/bitstream/handle/1874/354841/OdekerkenVolkKoops2017.pdf?sequence=1) which is available on request. 
+
+The finetuned weights are available here: https://huggingface.co/efraimdahl/RhythGen
 
 #### Descriptors
 We use one of four descriptors to condition the generator. All descriptors are calculated from the onsets of the music extracted with the `ABCRhythmTool` in the `abc_rhythm.py` file, which also quantifies the onsets to a metric grid, of a size depending on the parameter `min_note_val` which determines the smallest possible rhythmic unit. Syncopation labels, spectral and metric weights are extracted from the onsets using [pyinmean](https://github.com/efraimdahl/pyinmean)
