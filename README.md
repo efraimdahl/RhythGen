@@ -17,8 +17,8 @@ Additionally this repository contains a small dataset of generated music from di
 ## ⚙️ Environment Setup
 
 ```bash
-conda create --name notagen python=3.10
-conda activate notagen
+conda create --name rhythgen python=3.10
+conda activate rhythgen
 conda install pytorch==2.3.0 pytorch-cuda=11.8 -c pytorch -c nvidia
 pip install accelerate
 pip install optimum
@@ -59,7 +59,7 @@ We use one of four descriptors to condition the generator. All descriptors are c
 
 
 #### Conditioning Mechanisms
-We use one of three conditioning mechanisms to condition the model. The mechanisms are implemented alongside the original notagen model in `model.py`. Use `config.py` to adjust the mechanism used. In addition to the conditioning mechanisms we also use classifier free guidance for all models with a dropout rate of 30% and varying guidance scale. Some experiments include a condition encoder that extract features from the metric or spectral weight profiles. We pretrain this condition encoder on a regression task of calculating a syncopation score and/or note-density of a bar given metric/spectral weight profiles of a bar. The control-encoder seems to improve results somewhat but not dramatically. The successfull configurations isolate syncopated voices, either by training on selected voices or through masked conditioning during training, this is set by the `VCOND` variable. So far the inference script does not adhere to the voice targeting, which results in higher error rates.
+We use one of three conditioning mechanisms to condition the model. The mechanisms are implemented alongside the original NotaGen model in `model.py`. Use `config.py` to adjust the mechanism used. In addition to the conditioning mechanisms we also use classifier free guidance for all models with a dropout rate of 30% and varying guidance scale. Some experiments include a condition encoder that extract features from the metric or spectral weight profiles. We pretrain this condition encoder on a regression task of calculating a syncopation score and/or note-density of a bar given metric/spectral weight profiles of a bar. The control-encoder seems to improve results somewhat but not dramatically. The successfull configurations isolate syncopated voices, either by training on selected voices or through masked conditioning during training, this is set by the `VCOND` variable. So far the inference script does not adhere to the voice targeting, which results in higher error rates.
 
 - **Text Based Conditioning**
   - Default conditioning patchway, add syncopation labels into the ABC files for training, force them into the sequence while generating. Similar to the conditioning mechanism described for fine-tuning in the original [NotaGen](https://arxiv.org/abs/2502.18008) and [Tunesformer](https://arxiv.org/abs/2301.02884) papers. Don't change anything about the model architecture.
