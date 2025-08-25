@@ -13,5 +13,5 @@ INTERLEAVED_OUTPUT_FOLDER = os.path.join('../output/interleaved', os.path.splite
 
 PROMPT_PATH = "../RhythGen/data/example/LB_training_sync/augmented/C" #set to either a directory of abc files, their labels and metadata will be used as prompt, or set to file where each line contains a set of conditioning labels.
 
-CFG_GUIDANCE=[1,3] #generates for each item in list, 0 = Unconditioned, 1 = Regular Conditioned >1 = Boosted Conditioned
+CFG_GUIDANCE=[1,3] #generates NUM_SAMPLES for each item in list, 0 = Unconditioned, 1 = Regular Conditioned >1 = Boosted Conditioned
 STARTING_CONDITION = (0,0) #First index number, second index guidance scale. 

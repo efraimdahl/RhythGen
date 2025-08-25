@@ -1038,7 +1038,7 @@ def test_bar_corrections(tools):
 
 
 if __name__=="__main__":
-    abc_path = "data/outputs/Lieder/L3_spect_inattn/sync-0-lc4945954_0.abc-15.242442846298218_2.abc"
+    abc_path = "data/outputs/Lieder/LAR/sync-0-lc4945954_0.abc-15.242442846298218_2.abc"
     with open(abc_path, 'r', encoding='utf-8') as f:
         abc_lines = f.readlines()
     

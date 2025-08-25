@@ -110,7 +110,7 @@ If you are performing research, and are interested in the results from my listen
 
 ## 🛠️ Data Pre-processing & Post-processing
 
-For converting **ABC notation** files from / to **MusicXML** files, and to label the data with extracted rhythmic features for training please view [data/README.md](https://github.com/efraimdahl/RhythGen/blob/main/data/README.md) for instructions.
+For converting **ABC notation** files from / to **MusicXML** files, and to label the data with extracted rhythmic features for training please view [preprocessing/README.md](https://github.com/efraimdahl/RhythGen/blob/main/preprocessing/README.md) for instructions.
 
 ## 🎯 Fine-tune
 

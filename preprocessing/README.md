@@ -39,7 +39,7 @@ Modify the ```ORI_FOLDER```, ````ONSET_FILE_LOCATION```, `ONSET_FILE_NAME`. Make
 Then run
 
 ```
-python -m preprocessing.3_extract_onsets_abc
+python -m preprocessing.1_extract_onsets_abc
 ```
 
 ### Prepare the training set
@@ -60,7 +60,7 @@ PATH_REPLACEMENT_TERM = "abc_test" #"abc_test" #if onset key differes from file 
 ```
 then run this script from the root directory:
 ```
-python -m preprocessing.2_data_preprocess
+python -m preprocessing.2_prepare_training_set
 ```
 - The script will convert the standard ABC to interleaved ABC, which is compatible with CLaMP 2. The files will be under ```INTERLEAVED_FOLDER```.
 
