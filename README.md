@@ -3,7 +3,13 @@
 ## 📖 Overview
 **RhythGen** is a fine-tuned symbolic music generation model based on [NotaGen](https://github.com/ElectricAlexis/NotaGen), small, with rhythmic conditioning on syncopation levels and note density. We explore the effect of different conditioning mechanisms, conditioning attributes, and data preparation models on quality and control adherence. 
 
+
+
 <p align="center">
+  <!-- Web Demo -->
+  <a href="https://efraimdahl.github.io/rhythgendemosite">
+    <img src="https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=" alt="Weights">
+  </a>
   <!-- HuggingFace -->
   <a href="https://huggingface.co/efraimdahl/RhythGen">
     <img src="https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=" alt="Weights">
