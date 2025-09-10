@@ -8,8 +8,9 @@
 <p align="center">
   <!-- Web Demo -->
   <a href="https://efraimdahl.github.io/rhythgendemosite">
-    <img src="https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=" alt="Weights">
+    <img src="https://img.shields.io/badge/web-demo-8A2BE2" alt="Web Demo">
   </a>
+  &nbsp;&nbsp;
   <!-- HuggingFace -->
   <a href="https://huggingface.co/efraimdahl/RhythGen">
     <img src="https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=" alt="Weights">
